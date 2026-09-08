@@ -6,6 +6,15 @@ This is a reproducible observational research project on podcast transcripts.
 The researcher, not an agent, is responsible for the research question, claims,
 citations, coding decisions, and reported results.
 
+## Scope boundary
+
+All project work must stay inside this `podcast_observational` repository. Do
+not inspect, create, edit, move, delete, or run project commands against its
+parent directory or any sibling project unless the researcher explicitly asks.
+When a requested input is outside this repository, ask before copying or linking
+it here. Temporary files created for this project must also remain inside this
+repository or the system temporary directory.
+
 ## Project structure
 
 - `data/raw/`: original inputs. Read only; untracked by Git.
