@@ -1,5 +1,13 @@
-data/raw/
+# Source data and credentials must never be committed.  The two README files are
+# intentionally retained so the expected data layout remains documented.
+data/raw/*
+!data/raw/README.md
+data/derived/*
+!data/derived/.gitkeep
+output/*
+!output/.gitkeep
 *.env
+*.env.*
 credentials/
 __pycache__/
 *.pyc
@@ -7,3 +15,6 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 .vscode/
+.pytest_cache/
+.coverage
+htmlcov/
