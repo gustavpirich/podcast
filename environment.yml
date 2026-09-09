@@ -1,0 +1,9 @@
+name: podcast_observational
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ffmpeg=7
+  - pip
+  - pip:
+      - yt-dlp==2026.8.19

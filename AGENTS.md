@@ -17,7 +17,8 @@ repository or the system temporary directory.
 
 ## Project structure
 
-- `data/raw/`: original inputs. Read only; untracked by Git.
+- `data/raw/`: original inputs. Acquisition scripts may create new, uniquely
+  identified files here; after creation they are read only and untracked by Git.
 - `data/derived/`: reproducibly generated analytic datasets. Untracked by Git.
 - `code/`: the authoritative scripts and notebooks. Number scripts when an
   execution order is needed, for example `01_build_dataset.py`.
@@ -31,7 +32,10 @@ root.
 ## Working rules
 
 1. Inspect `README.md`, `notes/PLAN.md`, and `git status` before making changes.
-2. Treat `data/raw/` as immutable. Scripts may read it but must never write there.
+2. Treat accepted files in `data/raw/` as immutable. A numbered acquisition
+   script may create a new episode directory and new raw files, but it must
+   refuse to overwrite existing raw files. All transformation and analysis
+   scripts may only read from `data/raw/`.
 3. Make every derived file traceable to a script, its inputs, and relevant choices.
 4. Do not silently make substantive choices: sampling, inclusion rules, units,
    measurement definitions, model specifications, and interpretation require a

@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "podcasts": {
+    "jre": {
+      "name": "The Joe Rogan Experience",
+      "raw_directory": "the_joe_rogan_experience",
+      "rss_url": "https://feeds.megaphone.fm/GLT1412515089",
+      "youtube_channels": [
+        "PowerfulJRE"
+      ],
+      "hosts": [
+        "Joe Rogan"
+      ]
+    }
+  }
+}

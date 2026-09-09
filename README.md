@@ -23,10 +23,13 @@ podcast_observational/
 ├── AGENTS.md       # standing conventions for people and coding agents
 ├── README.md       # project entry point
 ├── .gitignore      # keeps raw data, secrets, and generated artifacts out of Git
+├── environment.yml # reproducible Conda environment specification
+├── config/         # show-level RSS, channel, host, and folder configuration
 ├── data/
-│   ├── raw/        # immutable source transcripts and source metadata (not tracked)
+│   ├── raw/        # immutable source audio/transcripts/metadata (not tracked)
 │   └── derived/    # reproducibly generated analytic data (not tracked)
 ├── code/           # scripts/notebooks that turn inputs into outputs
+├── tests/          # fast checks for deterministic pipeline logic
 ├── output/         # generated tables, figures, and reports (not tracked)
 ├── paper/          # manuscript, bibliography, and submission materials
 └── notes/          # protocol, decisions, plans, and research log
@@ -44,8 +47,10 @@ repository root.
 git status
 git diff
 
-# When a script exists, run it from the project root.
-python code/01_build_dataset.py
+# Download the selected pilot after activating the Conda environment.
+python code/01_download.py \
+  "https://www.youtube.com/watch?v=BAhcDwMGKYU" \
+  --show jre
 ```
 
 Before the first real analysis, define in the plan: the sampling frame, unit of
@@ -56,7 +61,8 @@ label is not a substitute for validating claims against evidence.
 ## Reproducibility and security
 
 - Never commit raw transcripts, credentials, API keys, or restricted data.
-- Do not edit files in `data/raw/`; produce a new file in `data/derived/` instead.
+- Acquisition code may create a new episode in `data/raw/`, but must never
+  overwrite it. Other code reads raw files and writes to `data/derived/`.
 - Record data sources, access dates, and any manual coding decisions in `notes/`.
 - Use small, inspectable changes and commit only after reviewing the diff.
 - Keep a short record of material AI use when analysis or writing begins.

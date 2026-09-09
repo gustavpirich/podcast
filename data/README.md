@@ -17,8 +17,16 @@ data/raw/
 ├── source_log.csv
 ├── episodes.csv
 └── transcripts/
-    └── <episode_id>.jsonl
+    └── <show_name>/
+        └── <youtube_video_id>/
+            ├── <youtube_video_id>.m4a
+            └── rss_metadata.json
 ```
+
+Despite the directory name `transcripts`, each episode directory initially
+contains its source audio and RSS metadata. Transcript files will be added there
+only when they are source artifacts; cleaned or diarized transcripts belong in
+`data/derived/` because they can be reproduced from the audio.
 
 Suggested minimum fields:
 
