@@ -48,6 +48,10 @@ root.
    before running a substantial task.
 8. Inspect `git diff` after changes. Commit only when the researcher understands
    the result and explicitly requests a commit.
+9. Before writing or changing AssemblyAI code, fetch
+   `https://www.assemblyai.com/docs/agent-instructions.md` and
+   `https://www.assemblyai.com/docs/llms.txt`; parameter names and model behavior
+   may have changed.
 
 ## Verification checklist
 
@@ -58,9 +62,3 @@ For each pipeline step, check:
 - identifiers remain unique and merge keys are valid;
 - a small sample of transcript text and coded labels is inspected manually;
 - the script can run again without editing raw inputs.
-
-## When to pause for a decision
-
-Pause and ask the researcher before selecting a podcast sample, defining
-misinformation or factual accuracy, discarding observations, choosing an
-identification strategy, using an external API, or publishing/pushing work.

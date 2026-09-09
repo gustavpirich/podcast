@@ -6,4 +6,5 @@ dependencies:
   - ffmpeg=7
   - pip
   - pip:
+      - assemblyai==1.3.0
       - yt-dlp==2026.8.19
