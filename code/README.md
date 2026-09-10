@@ -69,3 +69,41 @@ YouTube's temporary media URLs can be bound to the requesting computer's IP and
 therefore inaccessible from AssemblyAI. After a failed provider job,
 `--retry-failed` preserves its provenance inside `assemblyai_job.json` before
 submitting a new job.
+
+## Provisional content classification
+
+`03_classify_content.py` gives every diarized speaker turn two independent binary
+labels: `health_related` and `science_related`. The transparent screening rules
+live in `config/content_classification.json`, while the substantive definitions
+and limitations are documented in `notes/CONTENT_CLASSIFICATION_CODEBOOK.md`.
+
+Run the current pilot from the repository root:
+
+```bash
+python code/03_classify_content.py
+```
+
+The script writes a reviewable turn-level CSV and a JSON summary under
+`data/derived/classifications/<show>/<episode>/`. All positive rows and a stable
+10% sample of negatives are marked for manual review. Results are provisional
+until that validation is completed.
+
+## OpenAI Batch classifier
+
+`04_classify_content_openai_batch.py` applies the same two-label research task
+with OpenAI's asynchronous Batch API and strict structured JSON outputs. The
+model unit is one complete 256-word window, with a 128-word stride; episodes
+shorter than 768 words are excluded. The prompt, model, and windowing choices
+live in `config/openai_content_classification.json`. The complete explanation
+is in `notes/OPENAI_BATCH_CLASSIFICATION.md`.
+
+The four commands are deliberately separate so upload and cost are explicit:
+
+```bash
+python code/04_classify_content_openai_batch.py prepare
+python code/04_classify_content_openai_batch.py submit --yes
+python code/04_classify_content_openai_batch.py status
+python code/04_classify_content_openai_batch.py collect
+```
+
+Only `submit --yes` sends transcript text to OpenAI or incurs API charges.

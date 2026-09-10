@@ -13,6 +13,8 @@ protocol.
   documentation that recreate them are version-controlled.
 - The initial project is intentionally simple and inspectable.
 - No automated system is treated as a misinformation classifier by default.
+- For the model-assisted screen, the researcher selected complete 256-word
+  windows with a 128-word stride and a 768-word episode minimum on 2026-09-10.
 
 ## Decisions still required from the researcher
 
@@ -20,8 +22,8 @@ protocol.
    comparison across shows, speakers, or time?
 2. What is the sampling frame, period, language scope, and inclusion/exclusion
    rule for podcasts and episodes?
-3. What is the unit of analysis: episode, segment, claim, speaker-turn, or
-   speaker-episode?
+3. Should later claim-level or speaker-level analyses use a different unit from
+   the selected overlapping-window screen?
 4. How will a health claim, accuracy, uncertainty, and misinformation be
    operationalized? Which evidence sources and adjudication rule apply?
 5. Is the aim descriptive or causal? A causal claim needs an explicit

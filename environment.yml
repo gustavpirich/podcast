@@ -7,4 +7,5 @@ dependencies:
   - pip
   - pip:
       - assemblyai==1.3.0
+      - openai==3.11.0
       - yt-dlp==2026.8.19
