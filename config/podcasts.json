@@ -11,6 +11,17 @@
       "hosts": [
         "Joe Rogan"
       ]
+    },
+    "doac": {
+      "name": "The Diary Of A CEO with Steven Bartlett",
+      "raw_directory": "the_diary_of_a_ceo",
+      "rss_url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+      "youtube_channels": [
+        "The Diary Of A CEO"
+      ],
+      "hosts": [
+        "Steven Bartlett"
+      ]
     }
   }
 }

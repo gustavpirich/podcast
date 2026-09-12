@@ -117,10 +117,14 @@ def load_inputs(show_directory: str, video_id: str) -> tuple[Path, Path, dict[st
     return audio_path, metadata_path, metadata
 
 
-def known_speakers(metadata: dict[str, Any]) -> list[dict[str, str]]:
+def known_speakers(
+    metadata: dict[str, Any], guest_name: str | None = None
+) -> list[dict[str, str]]:
+    """Build the requested name roster without modifying immutable raw metadata."""
+
     podcast = metadata.get("podcast", {})
     hosts = podcast.get("hosts") or []
-    guest = podcast.get("guest_label_candidate")
+    guest = guest_name or podcast.get("guest_label_candidate")
     speakers: list[dict[str, str]] = []
 
     for host in hosts:
@@ -536,6 +540,15 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Submit a new job after preserving an existing failed job record",
     )
+    parser.add_argument(
+        "--guest-name",
+        help="Curated guest name when immutable raw metadata has no guest label",
+    )
+    parser.add_argument(
+        "--submit-only",
+        action="store_true",
+        help="Upload/submit or resume the job, record its ID, and do not wait",
+    )
     return parser.parse_args()
 
 
@@ -546,7 +559,7 @@ def main() -> int:
         audio_path, metadata_path, metadata = load_inputs(
             args.show_directory, args.video_id
         )
-        speakers = known_speakers(metadata)
+        speakers = known_speakers(metadata, args.guest_name)
         print(
             request_summary(
                 audio_path,
@@ -688,6 +701,13 @@ def main() -> int:
                 job["previous_failed_jobs"] = previous_failed_jobs
             atomic_write_json(job_path, job)
             print(f"Transcript ID: {transcript.id}")
+
+        if args.submit_only:
+            print(
+                "Submission recorded. Run again without --submit-only to wait "
+                "and write the transcript outputs."
+            )
+            return 0
 
         print("Waiting for transcription and diarization to complete...")
         try:

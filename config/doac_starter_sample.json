@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1",
+  "sample_id": "doac_latest_10_full_2026-09-10",
+  "show_id": "doac",
+  "selected_at": "2026-09-10",
+  "selection_rule": "Ten most recent full-length RSS episodes with a matching video on the official YouTube channel; exclude titles beginning 'Most Replayed Moment:'.",
+  "episodes": [
+    {"published_date": "2026-09-10", "rss_guid": "flightcast:01M23VE3XS205C0HMNRE4ENR58", "youtube_id": "q2cg1gEYWJQ", "guest_name": "Vanessa Van Edwards"},
+    {"published_date": "2026-09-07", "rss_guid": "flightcast:01M1M9A59AFBGJG3WGBMW30A0F", "youtube_id": "AcK_zgJjnoo", "guest_name": "Dr Leanne ten Brinke"},
+    {"published_date": "2026-09-03", "rss_guid": "flightcast:01M0ZPY4TQPFTDMTWWP68V36C9", "youtube_id": "MGxcosNuC8k", "guest_name": "Andrew Huberman"},
+    {"published_date": "2026-08-31", "rss_guid": "flightcast:01M0ECWWKZKQ93WCFTA6JV03WZ", "youtube_id": "OYg6BTjb90E", "guest_name": "David Friedberg"},
+    {"published_date": "2026-08-27", "rss_guid": "flightcast:01M0ZJXTQSPBEVY6X1T0EZ7M9C", "youtube_id": "Lf5oqGOCRCM", "guest_name": "Ed Zitron"},
+    {"published_date": "2026-08-24", "rss_guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G", "youtube_id": "Ppyt3MptX5k", "guest_name": "Dr Darby Saxbe"},
+    {"published_date": "2026-08-20", "rss_guid": "flightcast:01M011YXPMA7EXR82JB7CMWHJN", "youtube_id": "Bu0xNDLNORU", "guest_name": "Ray Dalio"},
+    {"published_date": "2026-08-17", "rss_guid": "flightcast:01M011QCMPHN8FAV0XN9GXFS1N", "youtube_id": "Qifsxitq_q4", "guest_name": "Professor Brian Greene"},
+    {"published_date": "2026-08-13", "rss_guid": "flightcast:01KZERQ8T6WKSG6169FR2YC3SZ", "youtube_id": "dmz--DQty8o", "guest_name": "Dr Andy Galpin"},
+    {"published_date": "2026-08-10", "rss_guid": "flightcast:01KZEMW7JE1GT1EJ9WC74DKA3M", "youtube_id": "g7AxxkywiFI", "guest_name": "Seth Godin"}
+  ]
+}

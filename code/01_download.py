@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Download one YouTube podcast episode and document it from official RSS.
+"""Download selected YouTube podcast episodes and document them from RSS.
 
 The YouTube URL selects the media file. The podcast's official RSS feed is the
 authoritative source for episode title, publication date, description, GUID,
-and the regular host. Raw files are created once and never overwritten.
+and the regular host. The input can be one video or a frozen JSON sample. Raw
+files are created once and never overwritten.
 """
 
 from __future__ import annotations
@@ -199,6 +200,17 @@ def match_rss_episode(youtube_title: str, items: list[dict[str, Any]]) -> tuple[
     raise DownloadError("No unique RSS match; inspect this episode manually")
 
 
+def match_rss_guid(rss_guid: str, items: list[dict[str, Any]]) -> tuple[dict[str, Any], str]:
+    """Match a pre-registered RSS GUID and require it to be unique."""
+
+    candidates = [item for item in items if item["guid"] == rss_guid]
+    if len(candidates) == 1:
+        return candidates[0], "pre-registered unique RSS GUID"
+    if not candidates:
+        raise DownloadError(f"RSS GUID is not present in the current feed: {rss_guid}")
+    raise DownloadError(f"RSS GUID occurs more than once in the feed: {rss_guid}")
+
+
 def guest_label(title: str) -> str | None:
     """Extract a metadata candidate, not a verified voice identity."""
 
@@ -298,65 +310,176 @@ def write_metadata_once(path: Path, document: dict[str, Any]) -> None:
         print(f"Raw metadata already exists; not overwritten: {path.relative_to(PROJECT_ROOT)}")
 
 
+def project_config_path(value: str) -> Path:
+    """Resolve a configuration path without allowing reads outside this project."""
+
+    path = (PROJECT_ROOT / value).resolve()
+    if not path.is_relative_to(PROJECT_ROOT):
+        raise DownloadError("The sample configuration must be inside this project")
+    return path
+
+
+def load_sample(path: Path) -> tuple[str, list[dict[str, str]]]:
+    """Load and validate a frozen list of YouTube IDs and RSS GUIDs."""
+
+    try:
+        document = json.loads(path.read_text(encoding="utf-8"))
+        show_id = document["show_id"]
+        episodes = document["episodes"]
+    except (FileNotFoundError, KeyError, json.JSONDecodeError, TypeError) as exc:
+        raise DownloadError(f"Invalid sample configuration: {path}") from exc
+
+    if not isinstance(episodes, list) or not episodes:
+        raise DownloadError("The sample must contain at least one episode")
+
+    requests: list[dict[str, str]] = []
+    video_ids: set[str] = set()
+    rss_guids: set[str] = set()
+    for number, episode in enumerate(episodes, start=1):
+        try:
+            video_id = extract_youtube_id(episode["youtube_id"])
+            rss_guid = episode["rss_guid"].strip()
+        except (KeyError, AttributeError) as exc:
+            raise DownloadError(f"Invalid episode {number} in sample configuration") from exc
+        if not rss_guid:
+            raise DownloadError(f"Episode {number} has an empty RSS GUID")
+        if video_id in video_ids or rss_guid in rss_guids:
+            raise DownloadError(f"Episode {number} duplicates a video ID or RSS GUID")
+        video_ids.add(video_id)
+        rss_guids.add(rss_guid)
+        requests.append(
+            {
+                "youtube_url": f"https://www.youtube.com/watch?v={video_id}",
+                "rss_guid": rss_guid,
+            }
+        )
+    return show_id, requests
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("youtube_url", help="One YouTube video URL")
-    parser.add_argument("--show", required=True, help="Show ID in config/podcasts.json")
+    inputs = parser.add_mutually_exclusive_group(required=True)
+    inputs.add_argument("youtube_url", nargs="?", help="One YouTube video URL")
+    inputs.add_argument("--sample", help="Frozen sample JSON inside this project")
+    parser.add_argument("--show", help="Show ID in config/podcasts.json")
+    parser.add_argument(
+        "--rss-guid",
+        help="Pre-registered RSS GUID for a single video whose title is not an exact match",
+    )
+    parser.add_argument(
+        "--yes",
+        action="store_true",
+        help="Confirm downloading every episode in a sample",
+    )
     return parser.parse_args()
+
+
+def acquire_episode(
+    podcast: PodcastConfig,
+    rss_items: list[dict[str, Any]],
+    youtube_url: str,
+    rss_guid: str | None = None,
+) -> None:
+    """Validate and acquire one episode without overwriting accepted raw files."""
+
+    video_id = extract_youtube_id(youtube_url)
+    youtube = youtube_metadata(youtube_url)
+    if youtube["video_id"] != video_id:
+        raise DownloadError("The returned YouTube ID differs from the requested ID")
+    if youtube["channel"] not in podcast.youtube_channels:
+        raise DownloadError(
+            f"YouTube channel '{youtube['channel']}' is not configured for {podcast.name}"
+        )
+
+    if rss_guid:
+        rss, match_method = match_rss_guid(rss_guid, rss_items)
+    else:
+        rss, match_method = match_rss_episode(youtube["title"], rss_items)
+    episode_dir = RAW_TRANSCRIPTS / podcast.raw_directory / video_id
+    audio_path = download_youtube_audio(youtube_url, episode_dir, video_id)
+    measured = probe_audio(audio_path)
+
+    metadata = {
+        "schema_version": "0.1",
+        "accessed_at": utc_now(),
+        "podcast": {
+            "show_id": podcast.show_id,
+            "name": podcast.name,
+            "hosts": list(podcast.hosts),
+            "guest_label_candidate": guest_label(rss["title"]),
+            "speaker_identities_verified": False,
+        },
+        "episode": rss,
+        "episode_metadata_source": "official podcast RSS feed",
+        "rss_feed_url": podcast.rss_url,
+        "youtube": youtube,
+        "match": {"method": match_method, "human_verified": False},
+        "media": {
+            "source": "YouTube",
+            "relative_path": str(audio_path.relative_to(PROJECT_ROOT)),
+            "sha256": sha256_file(audio_path),
+            "yt_dlp_version": yt_dlp.version.__version__,
+            "measured": measured,
+        },
+    }
+    metadata_path = episode_dir / "rss_metadata.json"
+    write_metadata_once(metadata_path, metadata)
+
+    print(f"Episode: {rss['title']}")
+    print(f"Published: {rss['published_at']}")
+    print(f"RSS match: {match_method}")
+    print(f"Audio: {audio_path.relative_to(PROJECT_ROOT)}")
+    print(f"Metadata: {metadata_path.relative_to(PROJECT_ROOT)}")
+    print(f"SHA-256: {metadata['media']['sha256']}")
+    print(f"Measured duration: {measured.get('duration_seconds')} seconds")
 
 
 def main() -> int:
     args = parse_args()
     try:
-        video_id = extract_youtube_id(args.youtube_url)
-        podcast = load_config(args.show)
-        youtube = youtube_metadata(args.youtube_url)
-        if youtube["video_id"] != video_id:
-            raise DownloadError("The returned YouTube ID differs from the requested ID")
-        if youtube["channel"] not in podcast.youtube_channels:
-            raise DownloadError(
-                f"YouTube channel '{youtube['channel']}' is not configured for {podcast.name}"
-            )
+        if args.sample:
+            if args.rss_guid:
+                raise DownloadError("--rss-guid applies only to a single YouTube URL")
+            sample_path = project_config_path(args.sample)
+            sample_show, requests = load_sample(sample_path)
+            if args.show and args.show != sample_show:
+                raise DownloadError("--show does not match the sample configuration")
+            show_id = sample_show
+            print("Podcast acquisition plan")
+            print(f"  Sample:      {sample_path.relative_to(PROJECT_ROOT)}")
+            print(f"  Episodes:    {len(requests)}")
+            print("  Destination: data/raw/transcripts/ (local; ignored by Git)")
+            if not args.yes:
+                print("No files downloaded. Add --yes after reviewing this plan.")
+                return 0
+        else:
+            if not args.show:
+                raise DownloadError("--show is required with a single YouTube URL")
+            show_id = args.show
+            requests = [{"youtube_url": args.youtube_url, "rss_guid": args.rss_guid}]
 
+        podcast = load_config(show_id)
         rss_items = fetch_rss_items(podcast.rss_url)
-        rss, match_method = match_rss_episode(youtube["title"], rss_items)
-        episode_dir = RAW_TRANSCRIPTS / podcast.raw_directory / video_id
-        audio_path = download_youtube_audio(args.youtube_url, episode_dir, video_id)
-        measured = probe_audio(audio_path)
+        failures: list[str] = []
+        for number, request in enumerate(requests, start=1):
+            print(f"\n[{number}/{len(requests)}] {request['youtube_url']}")
+            try:
+                acquire_episode(
+                    podcast,
+                    rss_items,
+                    request["youtube_url"],
+                    request.get("rss_guid"),
+                )
+            except DownloadError as exc:
+                failures.append(f"{request['youtube_url']}: {exc}")
+                print(f"ERROR: {exc}", file=sys.stderr)
 
-        metadata = {
-            "schema_version": "0.1",
-            "accessed_at": utc_now(),
-            "podcast": {
-                "show_id": podcast.show_id,
-                "name": podcast.name,
-                "hosts": list(podcast.hosts),
-                "guest_label_candidate": guest_label(rss["title"]),
-                "speaker_identities_verified": False,
-            },
-            "episode": rss,
-            "episode_metadata_source": "official podcast RSS feed",
-            "rss_feed_url": podcast.rss_url,
-            "youtube": youtube,
-            "match": {"method": match_method, "human_verified": False},
-            "media": {
-                "source": "YouTube",
-                "relative_path": str(audio_path.relative_to(PROJECT_ROOT)),
-                "sha256": sha256_file(audio_path),
-                "yt_dlp_version": yt_dlp.version.__version__,
-                "measured": measured,
-            },
-        }
-        metadata_path = episode_dir / "rss_metadata.json"
-        write_metadata_once(metadata_path, metadata)
-
-        print(f"Episode: {rss['title']}")
-        print(f"Published: {rss['published_at']}")
-        print(f"RSS match: {match_method}")
-        print(f"Audio: {audio_path.relative_to(PROJECT_ROOT)}")
-        print(f"Metadata: {metadata_path.relative_to(PROJECT_ROOT)}")
-        print(f"SHA-256: {metadata['media']['sha256']}")
-        print(f"Measured duration: {measured.get('duration_seconds')} seconds")
+        print(f"\nCompleted: {len(requests) - len(failures)}/{len(requests)} episodes")
+        if failures:
+            print("Failed episodes:", file=sys.stderr)
+            for failure in failures:
+                print(f"  {failure}", file=sys.stderr)
+            return 2
         return 0
     except DownloadError as exc:
         print(f"ERROR: {exc}", file=sys.stderr)

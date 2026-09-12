@@ -10,11 +10,21 @@ from pathlib import Path
 MODULE = runpy.run_path(
     str(Path(__file__).resolve().parents[1] / "code" / "02_transcribe_assemblyai.py")
 )
+BATCH_MODULE = runpy.run_path(
+    str(
+        Path(__file__).resolve().parents[1]
+        / "code"
+        / "02_transcribe_assemblyai_batch.py"
+    )
+)
 format_timestamp = MODULE["format_timestamp"]
 known_speakers = MODULE["known_speakers"]
 markdown_transcript = MODULE["markdown_transcript"]
 parse_upload_response = MODULE["parse_upload_response"]
 sanitized_provider_error = MODULE["sanitized_provider_error"]
+BatchEpisode = BATCH_MODULE["BatchEpisode"]
+episode_command = BATCH_MODULE["episode_command"]
+load_batch = BATCH_MODULE["load_batch"]
 
 
 class TimestampTests(unittest.TestCase):
@@ -34,6 +44,45 @@ class SpeakerMetadataTests(unittest.TestCase):
             [(item["name"], item["role"]) for item in known_speakers(metadata)],
             [("Joe Rogan", "Host"), ("Rick Springfield", "Guest")],
         )
+
+    def test_curated_guest_can_supplement_immutable_metadata(self) -> None:
+        metadata = {"podcast": {"hosts": ["Steven Bartlett"]}}
+        self.assertEqual(
+            [(item["name"], item["role"]) for item in known_speakers(metadata, "Guest")],
+            [("Steven Bartlett", "Host"), ("Guest", "Guest")],
+        )
+
+
+class BatchCommandTests(unittest.TestCase):
+    def test_batch_child_command_contains_no_api_key(self) -> None:
+        episode = BatchEpisode(
+            video_id="MGxcosNuC8k",
+            rss_guid="example-guid",
+            guest_name="Andrew Huberman",
+            title="Example",
+            duration_seconds=60.0,
+            state="ready",
+        )
+        command = episode_command(
+            "the_diary_of_a_ceo",
+            episode,
+            submit_only=True,
+            retry_failed=False,
+        )
+        self.assertIn("--guest-name", command)
+        self.assertIn("Andrew Huberman", command)
+        self.assertIn("--submit-only", command)
+        self.assertNotIn("ASSEMBLYAI_API_KEY", " ".join(command))
+
+    def test_jre_batch_uses_the_configured_host(self) -> None:
+        show_id, _, hosts, episodes = load_batch(
+            Path(__file__).resolve().parents[1]
+            / "config"
+            / "jre_starter_sample.json"
+        )
+        self.assertEqual(show_id, "jre")
+        self.assertEqual(hosts, ("Joe Rogan",))
+        self.assertEqual(len(episodes), 10)
 
 
 class MarkdownTests(unittest.TestCase):

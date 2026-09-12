@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1",
+  "sample_id": "jre_2550_and_previous_9_2026-09-10",
+  "show_id": "jre",
+  "selected_at": "2026-09-10",
+  "selection_rule": "The existing pilot episode #2550 plus the nine immediately preceding full-length releases in the official JRE RSS chronology. Include numbered JRE and JRE MMA Show episodes; exclude clips and excerpts.",
+  "episodes": [
+    {"published_date": "2026-09-08", "rss_guid": "3b71cc92-ab23-11f1-bc29-3ba1f2c16d91", "youtube_id": "BAhcDwMGKYU", "guest_name": "Rick Springfield"},
+    {"published_date": "2026-09-03", "rss_guid": "97b946a8-a725-11f1-b1c6-fb57637e3c16", "youtube_id": "t6Jrww8kG24", "guest_name": "Jared Diamond"},
+    {"published_date": "2026-09-02", "rss_guid": "2f848f20-a658-11f1-ae00-9f0126f17601", "youtube_id": "efwqfxt717Q", "guest_name": "Ethyn Ewing"},
+    {"published_date": "2026-09-01", "rss_guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78", "youtube_id": "x04pr4QLl7o", "guest_name": "Brian Simpson"},
+    {"published_date": "2026-08-27", "rss_guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3", "youtube_id": "EmgKSK-YMOU", "guest_name": "Daniel Everett"},
+    {"published_date": "2026-08-26", "rss_guid": "7c0a5244-a0db-11f1-bbe3-13e22537d5bb", "youtube_id": "rnt0wEc9YmI", "guest_name": "Michael Button"},
+    {"published_date": "2026-08-25", "rss_guid": "fc78372e-a00f-11f1-b4a6-67ef23d80453", "youtube_id": "33Fc_mLqY90", "guest_name": "Jesse Michels"},
+    {"published_date": "2026-08-21", "rss_guid": "53c84ccc-9d0d-11f1-8f63-4b10cab2daaa", "youtube_id": "vh8FkZaQ06I", "guest_name": "Chris Williamson"},
+    {"published_date": "2026-08-20", "rss_guid": "bd78a8a0-9c28-11f1-b11e-ef9789715e8e", "youtube_id": "fddF7pRu9Fs", "guest_name": "MrBallen"},
+    {"published_date": "2026-08-19", "rss_guid": "d0eed536-9b6e-11f1-91e1-87ba07d621a5", "youtube_id": "BYVQfLi6wMA", "guest_name": "Steve Hilton"}
+  ]
+}

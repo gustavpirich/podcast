@@ -68,6 +68,21 @@ python code/04_classify_content_openai_batch.py collect
 The API key must be available as `OPENAI_API_KEY` in the terminal. It is never
 placed in the JSONL, manifest, output, or repository.
 
+For the frozen ten-episode *Diary of a CEO* starter sample, the same four stages
+are orchestrated without changing the single-episode measurement code:
+
+```bash
+python code/04_classify_content_openai_batch_sample.py prepare
+python code/04_classify_content_openai_batch_sample.py submit --yes
+python code/04_classify_content_openai_batch_sample.py status
+python code/04_classify_content_openai_batch_sample.py collect
+```
+
+There is one separately resumable Batch job per episode. After all ten results
+are collected and validated, the runner combines them under
+`data/derived/classifications/openai_batch_samples/<sample-id>/<run-id>/` while
+retaining `episode_id` and `window_id` as merge keys.
+
 For a key that should exist only in the current terminal session:
 
 ```bash
