@@ -1,85 +1,131 @@
-# Stage 05: health/science passage content classification
+# Stage 05: claim extraction and provisional fringe classification
 
 ## Purpose
 
-Stage 04 is intentionally broad: it asks whether each overlapping 256-word
-window contains health-related or science-related discussion. Stage 05 asks what
-kind of content appears inside those candidates. It still does **not** decide
-whether a statement is true, fringe, misleading, harmful, or misinformation.
+Stage 04 is a broad, recall-oriented screen: it asks whether overlapping
+256-word windows contain health-related or science-related discussion. Stage 05
+turns the positive windows into inspectable transcript snippets, rechecks their
+health/science relevance, extracts exact checkable claims, and provisionally
+classifies each claim's relationship to scientific consensus.
 
-This separation matters methodologically. Finding candidate material is a
-recall-oriented screening task; characterizing the material is a separate
-measurement task. Accuracy and fringe-status coding require a later claim-level
-protocol with external scientific evidence and human adjudication.
+The final analytic file has one row per extracted claim and repeats the source
+snippet, episode, speaker, word range, and timestamps. If a snippet contains no
+sufficiently precise checkable claim, it receives one row with
+`fringe_status=not_assessable`. This keeps every screened snippet visible.
 
-## Unit construction
+Stage 05 is a model-assisted screen based on the model's general scientific
+knowledge. It does not search literature or supply evidence citations. Every row
+is marked for human review, and the evidence and human-decision columns remain
+empty until that review occurs.
 
-1. Read the collected stage-04 window classifications for every episode in a
-   frozen sample.
+## Snippet construction
+
+1. Read the collected Stage 04 classifications for every episode in a frozen
+   sample.
 2. Keep a window when `health_related = 1` or `science_related = 1`.
 3. Merge consecutive positive windows when they overlap. Do not merge across a
    negative window.
-4. Reconstruct the merged passage exactly from the word-level transcript.
-5. Send one request per merged passage to OpenAI Batch.
+4. Split a merged region longer than the proposed 512-word maximum at an
+   utterance boundary when possible. The researcher must confirm this proposed
+   maximum before submission.
+5. Reconstruct each snippet exactly from the word-level transcript.
+6. Send one request per snippet to OpenAI Batch.
 
-The merge removes duplicated words created by the 256-word/128-word screen. A
-run of one positive window contains 256 unique words; two consecutive positive
-windows contain 384 unique words; three contain 512. Separate passages never
-share a word. This makes unique-word and passage-time totals interpretable,
-although the screen's window boundaries still include some surrounding speech.
+The merge removes duplicated words created by the 256-word/128-word screen.
+Separate snippets never share a word. Snippet boundaries can still contain
+surrounding speech because Stage 04 classifies complete windows.
 
-## Health-topic codebook
+## Passage-level fields
 
-Health topics are multi-label because one passage can discuss, for example, a
-condition and its treatment. One topic is also selected as the primary topic so
-that mutually exclusive descriptive totals can be produced.
+- `confirmed_health_related`: substantive content about physical or mental
+  health, illness, diagnosis, prevention, treatment, healthcare, or health
+  behavior.
+- `confirmed_science_related`: substantive content about scientific research,
+  evidence, methods, mechanisms, experts, institutions, or another scientific
+  subject.
+- `passage_rationale`: a short explanation of the reassessment.
 
-| Code | Meaning |
+Stage 04 labels remain in the CSV beside the confirmed Stage 05 labels so that
+screening false positives can be inspected.
+
+## Claim extraction
+
+A claim must be a checkable health- or science-related assertion. The model must
+copy it as an exact contiguous quotation from the snippet. It must not turn a
+question, joke, vague opinion, or personal experience into a claim unless the
+speaker also asserts a generalizable fact, cause, effect, risk, or recommendation
+premise. One snippet may contain zero, one, or multiple claims.
+
+Each claim receives:
+
+- `claim_domain`: `health`, `science`, or `both`;
+- `claim_type`: descriptive/empirical, causal/mechanistic, intervention effect,
+  safety/risk, recommendation, prediction, or other checkable claim;
+- `consensus_relation`: its provisional relationship to established scientific
+  understanding;
+- `fringe_status`: `fringe`, `not_fringe`, or `uncertain`;
+- `fringe_reason`: a short explanation without invented sources.
+
+## Fringe classification
+
+The researcher approved the following rule on 2026-09-12:
+
+- `fringe`: the claim clearly conflicts with established scientific consensus,
+  or it presents an extraordinary unsupported position as established
+  knowledge.
+- `not_fringe`: the claim is consistent with established scientific
+  understanding or falls within legitimate scientific debate.
+- `uncertain`: evidence is mixed, evolving, missing, specialized, or
+  insufficient for a reliable determination.
+- `not_assessable`: no sufficiently precise, checkable health/science claim was
+  extracted from the snippet. This value is added locally rather than returned
+  by the model.
+
+The model must use `uncertain` conservatively instead of forcing a binary answer.
+The code also checks that consensus and fringe labels agree:
+
+| Consensus relation | Required fringe status |
 | --- | --- |
-| `conditions_symptoms_diagnosis` | Physical diseases, injuries, symptoms, risks, diagnosis, prognosis, or testing. |
-| `mental_health_cognition` | Mental health, psychiatric conditions, cognition, memory, neurodevelopment, or psychological treatment. |
-| `lifestyle_fitness_prevention` | Exercise, fitness, sleep, nutrition, weight, recovery, prevention, or health behavior. |
-| `treatments_health_products` | Medicines, procedures, therapies, supplements, devices, products, or purported remedies. |
-| `substance_use_addiction` | Alcohol, nicotine, drugs, dependence, addiction, withdrawal, or harm reduction. |
-| `healthcare_public_health` | Healthcare systems, clinicians, access, population health, outbreaks, vaccination programs, or policy. |
-| `other_unclear_health` | Substantive health content not fitting the other categories. |
+| `consistent_with_consensus` | `not_fringe` |
+| `within_legitimate_debate` | `not_fringe` |
+| `conflicts_with_consensus` | `fringe` |
+| `extraordinary_unsupported` | `fringe` |
+| `insufficient_information` | `uncertain` |
 
-## Other coded dimensions
+Fringe is not synonymous with factual inaccuracy. A minor factual error is not
+automatically fringe, and Stage 05 does not classify misinformation, intent, or
+harm.
 
-- `content_type`: the dominant function—personal experience, factual/causal
-  claim, advice/recommendation, research/expert/institution discussion, or
-  general conversation.
-- `support_type`: no explicit support, personal anecdote, expert authority,
-  study/data, or mixed support.
-- `health_action_recommended`: whether a health action, treatment, product, or
-  behavior is advised, endorsed, prescribed, or discouraged.
-- `claim_present`: whether at least one checkable health/science assertion is
-  present. This is not an accuracy judgment.
-- `science_content_type`: research/data, causal or biological mechanism,
-  scientific expert/institution, general science, or other science.
+## Illustrative example
 
-Stage 05 rechecks the two broad labels as `confirmed_health_related` and
-`confirmed_science_related`. This allows false-positive screen passages to be
-recorded rather than forced into a topic.
+For this invented snippet:
 
-## Quantities produced
+> Cold showers triple testosterone for the entire day. They also make some
+> people feel more alert.
 
-The summary reports passage counts, unique word counts, and elapsed passage
-time. Health and science totals may overlap because the labels are independent.
-Primary health-topic totals are mutually exclusive among confirmed health
-passages; multi-label topic lists are retained in the CSV for other analyses.
+Stage 05 should produce two claim rows. The first might be `fringe` if the model
+judges the specific extraordinary effect to conflict with established evidence.
+The second should be `uncertain` if the subjective and context-dependent wording
+does not support a reliable consensus classification. Both rows repeat the same
+snippet and timestamps while preserving different exact claim text.
 
-The amount of health content for an episode is provisionally:
+## Output
 
-`confirmed health passage words / all transcript words`
+Successful collection creates:
 
-The analogous measure is produced for science content. These are model-assisted
-passage-level estimates, not exact claim spans. Validate a stratified sample
-against independent human coding before treating them as research results.
+- `batch_output.jsonl`: raw provider responses;
+- `claim_classification.csv`: one row per extracted claim, plus one
+  `not_assessable` row for every snippet without a claim;
+- `classification_summary.json`: episode and sample totals for confirmed
+  health/science snippets, extracted claims, consensus relations, and fringe
+  statuses.
+
+The CSV reserves `evidence_sources` and `human_decision` columns for review and
+sets `needs_human_review=1` on every row.
 
 ## Reproducible workflow
 
-Run stage 04 through `collect` for every episode in a frozen sample. Then:
+Run Stage 04 through `collect` for every episode in a frozen sample. Then:
 
 ```bash
 python code/05_classify_passage_content_openai_batch.py prepare \
@@ -94,7 +140,6 @@ python code/05_classify_passage_content_openai_batch.py collect \
   --sample config/doac_starter_sample.json
 ```
 
-`prepare` is local and free. Only `submit --yes` sends selected transcript text
-to OpenAI and creates a billable Batch job. Configuration, prompt definitions,
-source hashes, exact passages, requests, provider response IDs, and token usage
-are retained under `data/derived/classifications/openai_passage_content/`.
+Use `--sample config/jre_starter_sample.json` for the JRE sample. `prepare` is
+local and free. Only `submit --yes` sends transcript snippets to OpenAI and
+creates a billable Batch job.

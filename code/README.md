@@ -192,14 +192,16 @@ python code/04_classify_content_openai_batch_sample.py collect \
   --sample config/jre_starter_sample.json
 ```
 
-## Conditional passage-content classifier
+## Conditional claim and fringe classifier
 
 `05_classify_passage_content_openai_batch.py` is the next, distinct measurement
 stage. It reads collected stage-04 results for a frozen sample, keeps windows
 screened as health-related or science-related, and merges consecutive overlaps
-into non-overlapping passages. It then codes the small health-topic taxonomy,
-the passage's content and support type, whether a claim or health recommendation
-is present, and the type of science content. The codebook is in
+into non-overlapping snippets. It rechecks health/science relevance, extracts
+each exact checkable claim, and provisionally classifies the claim as `fringe`,
+`not_fringe`, or `uncertain`. Snippets without an assessable claim are retained
+as `not_assessable`. The current local draft proposes a 512-word maximum per
+snippet and requires researcher confirmation before submission. The codebook is in
 `notes/PASSAGE_CONTENT_CLASSIFICATION.md`; the machine-readable choices are in
 `config/openai_passage_content_classification.json`.
 
@@ -219,3 +221,5 @@ python code/05_classify_passage_content_openai_batch.py collect \
 Use `--sample config/jre_starter_sample.json` for the JRE sample. This stage uses
 one resumable Batch job per frozen sample. `prepare` is local and free; only
 `submit --yes` uploads selected transcript passages and incurs API charges.
+Successful collection writes `claim_classification.csv`; every row is marked for
+human evidence review because the model does not search or cite literature.

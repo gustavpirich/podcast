@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Classify merged health/science passages with OpenAI's Batch API.
+"""Extract and provisionally classify claims in health/science passages.
 
 Stage 04 is a broad screen of overlapping 256-word windows. This stage reads
 only collected stage-04 outputs, keeps windows where health_related OR
 science_related is true, and merges consecutive overlapping positive windows
-into non-overlapping passages before classification. One Batch job covers one
-frozen sample.
+into non-overlapping passages. It then extracts exact claim text and provisionally
+classifies each claim's relationship to scientific consensus and fringe status.
+One Batch job covers one frozen sample.
 
 Run from the repository root:
 
@@ -113,13 +114,16 @@ def load_json(path: Path, label: str) -> dict[str, Any]:
 def validate_config(config: dict[str, Any]) -> None:
     required = {
         "schema_version", "prompt_version", "model", "reasoning_effort",
-        "max_output_tokens", "health_topics", "content_types", "support_types",
-        "science_content_types", "coding_rules", "rationale_rule",
+        "max_output_tokens", "max_snippet_words", "claim_domains", "claim_types",
+        "consensus_relations", "fringe_statuses", "coding_rules",
+        "passage_rationale_rule", "fringe_reason_rule",
     }
     missing = sorted(required - config.keys())
     if missing:
         raise PassageClassificationError("Stage-05 config is missing: " + ", ".join(missing))
-    for name in ("health_topics", "content_types", "support_types", "science_content_types"):
+    for name in (
+        "claim_domains", "claim_types", "consensus_relations", "fringe_statuses"
+    ):
         values = config[name]
         if not isinstance(values, dict) or not values:
             raise PassageClassificationError(f"{name} must be a non-empty mapping")
@@ -127,6 +131,8 @@ def validate_config(config: dict[str, Any]) -> None:
             raise PassageClassificationError(f"{name} contains an invalid code")
     if int(config["max_output_tokens"]) < 1:
         raise PassageClassificationError("max_output_tokens must be positive")
+    if int(config["max_snippet_words"]) < 256:
+        raise PassageClassificationError("max_snippet_words must be at least 256")
 
 
 def flatten_transcript_words(utterances: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -203,9 +209,10 @@ def read_screen_rows(path: Path, episode_id: str) -> list[dict[str, Any]]:
 
 
 def merge_positive_windows(
-    rows: list[dict[str, Any]], words: list[dict[str, Any]], episode_id: str
+    rows: list[dict[str, Any]], words: list[dict[str, Any]], episode_id: str,
+    max_passage_words: int | None = None,
 ) -> list[dict[str, Any]]:
-    """Merge only consecutive positive screen windows into unique passages."""
+    """Merge positive windows, then split long regions into bounded snippets."""
 
     positive = [row for row in rows if row["health_related"] or row["science_related"]]
     groups: list[list[dict[str, Any]]] = []
@@ -221,77 +228,112 @@ def merge_positive_windows(
 
     passages: list[dict[str, Any]] = []
     previous_end = -1
-    for passage_number, group in enumerate(groups):
-        word_start = group[0]["word_start_index"]
-        word_end = max(row["word_end_index_exclusive"] for row in group)
-        if word_start < previous_end:
+    for merged_region_number, group in enumerate(groups):
+        region_start = group[0]["word_start_index"]
+        region_end = max(row["word_end_index_exclusive"] for row in group)
+        if region_start < previous_end:
             raise PassageClassificationError(
                 f"Merged passages unexpectedly overlap for {episode_id}"
             )
-        if word_end > len(words):
+        if region_end > len(words):
             raise PassageClassificationError(
                 f"Stage-04 word interval exceeds transcript length for {episode_id}"
             )
-        selected = words[word_start:word_end]
-        segments = speaker_segments(selected)
-        confidences = [
-            float(word["confidence"])
-            for word in selected
-            if word.get("confidence") is not None
-        ]
-        passages.append({
-            "passage_id": f"{episode_id}-passage-{passage_number:04d}",
-            "episode_id": episode_id,
-            "passage_number": passage_number,
-            "source_window_ids": [row["window_id"] for row in group],
-            "screen_health_related": any(row["health_related"] for row in group),
-            "screen_science_related": any(row["science_related"] for row in group),
-            "word_start_index": word_start,
-            "word_end_index_exclusive": word_end,
-            "word_count": word_end - word_start,
-            "utterance_start_id": selected[0]["utterance_id"],
-            "utterance_end_id": selected[-1]["utterance_id"],
-            "start_ms": selected[0]["start_ms"],
-            "end_ms": selected[-1]["end_ms"],
-            "duration_seconds": (selected[-1]["end_ms"] - selected[0]["start_ms"]) / 1000,
-            "speakers": list(dict.fromkeys(segment["speaker"] for segment in segments)),
-            "speaker_segments": segments,
-            "text": " ".join(segment["text"] for segment in segments),
-            "mean_word_confidence": (
-                sum(confidences) / len(confidences) if confidences else None
-            ),
-        })
-        previous_end = word_end
+        boundaries = [region_start]
+        while boundaries[-1] < region_end:
+            word_start = boundaries[-1]
+            remaining = region_end - word_start
+            if max_passage_words is None or remaining <= max_passage_words:
+                boundaries.append(region_end)
+                continue
+            chunks_left = (remaining + max_passage_words - 1) // max_passage_words
+            target = word_start + (remaining + chunks_left - 1) // chunks_left
+            upper = min(word_start + max_passage_words, region_end - 1)
+            lower = word_start + max_passage_words // 2
+            candidates = [
+                boundary for boundary in range(lower, upper + 1)
+                if words[boundary - 1]["utterance_id"] != words[boundary]["utterance_id"]
+            ]
+            boundaries.append(
+                min(candidates, key=lambda boundary: (abs(boundary - target), boundary))
+                if candidates else min(target, upper)
+            )
+        for word_start, word_end in zip(boundaries, boundaries[1:]):
+            passage_number = len(passages)
+            selected = words[word_start:word_end]
+            selected_windows = [
+                row for row in group
+                if row["word_start_index"] < word_end
+                and row["word_end_index_exclusive"] > word_start
+            ]
+            segments = speaker_segments(selected)
+            confidences = [
+                float(word["confidence"])
+                for word in selected
+                if word.get("confidence") is not None
+            ]
+            passages.append({
+                "passage_id": f"{episode_id}-passage-{passage_number:04d}",
+                "episode_id": episode_id,
+                "passage_number": passage_number,
+                "source_merged_region_number": merged_region_number,
+                "source_window_ids": [row["window_id"] for row in selected_windows],
+                "screen_health_related": any(row["health_related"] for row in selected_windows),
+                "screen_science_related": any(row["science_related"] for row in selected_windows),
+                "word_start_index": word_start,
+                "word_end_index_exclusive": word_end,
+                "word_count": word_end - word_start,
+                "utterance_start_id": selected[0]["utterance_id"],
+                "utterance_end_id": selected[-1]["utterance_id"],
+                "start_ms": selected[0]["start_ms"],
+                "end_ms": selected[-1]["end_ms"],
+                "duration_seconds": (selected[-1]["end_ms"] - selected[0]["start_ms"]) / 1000,
+                "speakers": list(dict.fromkeys(segment["speaker"] for segment in segments)),
+                "speaker_segments": segments,
+                "text": " ".join(segment["text"] for segment in segments),
+                "mean_word_confidence": (
+                    sum(confidences) / len(confidences) if confidences else None
+                ),
+            })
+        previous_end = region_end
     return passages
 
 
 def response_schema(config: dict[str, Any]) -> dict[str, Any]:
-    health_topics = list(config["health_topics"])
-    content_types = list(config["content_types"])
-    support_types = list(config["support_types"])
-    science_types = list(config["science_content_types"])
+    claim_domains = list(config["claim_domains"])
+    claim_types = list(config["claim_types"])
+    consensus_relations = list(config["consensus_relations"])
+    fringe_statuses = list(config["fringe_statuses"])
+    claim_schema = {
+        "type": "object",
+        "properties": {
+            "exact_claim_text": {"type": "string"},
+            "claim_domain": {"type": "string", "enum": claim_domains},
+            "claim_type": {"type": "string", "enum": claim_types},
+            "consensus_relation": {
+                "type": "string", "enum": consensus_relations,
+            },
+            "fringe_status": {"type": "string", "enum": fringe_statuses},
+            "fringe_reason": {"type": "string"},
+        },
+        "required": [
+            "exact_claim_text", "claim_domain", "claim_type",
+            "consensus_relation", "fringe_status", "fringe_reason",
+        ],
+        "additionalProperties": False,
+    }
     return {
         "type": "object",
         "properties": {
             "passage_id": {"type": "string"},
             "confirmed_health_related": {"type": "boolean"},
             "confirmed_science_related": {"type": "boolean"},
-            "primary_health_topic": {"type": "string", "enum": health_topics + ["not_applicable"]},
-            "health_topics": {
-                "type": "array", "items": {"type": "string", "enum": health_topics},
-                "uniqueItems": True,
-            },
-            "content_type": {"type": "string", "enum": content_types},
-            "support_type": {"type": "string", "enum": support_types},
-            "health_action_recommended": {"type": "boolean"},
-            "claim_present": {"type": "boolean"},
-            "science_content_type": {"type": "string", "enum": science_types + ["not_applicable"]},
-            "rationale": {"type": "string"},
+            "passage_rationale": {"type": "string"},
+            "claims": {"type": "array", "items": claim_schema},
         },
         "required": [
             "passage_id", "confirmed_health_related", "confirmed_science_related",
-            "primary_health_topic", "health_topics", "content_type", "support_type",
-            "health_action_recommended", "claim_present", "science_content_type", "rationale",
+            "passage_rationale", "claims",
         ],
         "additionalProperties": False,
     }
@@ -303,15 +345,17 @@ def system_instructions(config: dict[str, Any]) -> str:
 
     rules = "\n".join(f"- {rule}" for rule in config["coding_rules"])
     return (
-        "You are coding passages selected by a broad health/science screen for an "
-        "observational podcast research project. Code only what the supplied passage says.\n\n"
-        "Health topics:\n" + definitions("health_topics") + "\n\n"
-        "Content types:\n" + definitions("content_types") + "\n\n"
-        "Support types:\n" + definitions("support_types") + "\n\n"
-        "Science content types:\n" + definitions("science_content_types") + "\n\n"
+        "You are extracting and provisionally classifying claims from passages "
+        "selected by a broad health/science screen for an observational podcast "
+        "research project. Code only claims stated in the supplied passage.\n\n"
+        "Claim domains:\n" + definitions("claim_domains") + "\n\n"
+        "Claim types:\n" + definitions("claim_types") + "\n\n"
+        "Consensus relationships:\n" + definitions("consensus_relations") + "\n\n"
+        "Fringe statuses:\n" + definitions("fringe_statuses") + "\n\n"
         "Rules:\n" + rules + "\n\n"
-        "Rationale: " + str(config["rationale_rule"]) + "\n"
-        "Return exactly one classification and preserve passage_id exactly."
+        "Passage rationale: " + str(config["passage_rationale_rule"]) + "\n"
+        "Fringe reason: " + str(config["fringe_reason_rule"]) + "\n"
+        "Return exactly one passage result and preserve passage_id exactly."
     )
 
 
@@ -449,7 +493,12 @@ def load_sample_inputs(sample_path: Path) -> dict[str, Any]:
                 raise PassageClassificationError(
                     f"Stage-04 CSV interval differs from its manifest for {episode_id}"
                 )
-        passages = merge_positive_windows(screen_rows, words, episode_id)
+        passages = merge_positive_windows(
+            screen_rows, words, episode_id,
+            max_passage_words=int(config["max_snippet_words"]),
+        )
+        for passage in passages:
+            passage["episode_title"] = transcript.get("episode", {}).get("title")
         all_passages.extend(passages)
         episodes.append({
             "episode_id": episode_id,
@@ -507,8 +556,18 @@ def prepare(args: argparse.Namespace) -> int:
         "prompt_version": inputs["config"]["prompt_version"],
         "selection": {
             "source": "stage-04 windows where health_related OR science_related",
-            "merge_rule": "consecutive overlapping positive windows are merged; no negative window is bridged",
+            "merge_rule": "consecutive overlapping positive windows are merged; no negative window is bridged; long merged regions are split at an utterance boundary when possible",
+            "max_snippet_words": int(inputs["config"]["max_snippet_words"]),
             "amount_unit": "unique transcript words and passage time intervals",
+            "classification_unit": "exact checkable health/science claim within a merged passage",
+            "fringe_definition": (
+                "fringe means the claim clearly conflicts with established scientific "
+                "consensus or presents an extraordinary unsupported position as established knowledge"
+            ),
+            "uncertain_rule": (
+                "retain uncertain when evidence is mixed, evolving, missing, specialized, "
+                "or insufficient for a reliable determination"
+            ),
         },
         "input": {
             "sample_relative_path": str(sample_path.relative_to(PROJECT_ROOT)),
@@ -536,7 +595,7 @@ def prepare(args: argparse.Namespace) -> int:
             f"{episode['candidate_unique_words']} unique words"
         )
     print(f"  Episodes:       {len(inputs['episodes'])}")
-    print(f"  Passages/jobs:  {len(inputs['passages'])}")
+    print(f"  Batch requests: {len(inputs['passages'])}")
     print(f"  Model:          {inputs['config']['model']}")
     print(f"  Run ID:         {run_id}")
     print(f"  Batch input:    {(run_dir / 'batch_input.jsonl').relative_to(PROJECT_ROOT)}")
@@ -732,37 +791,66 @@ def validate_classification(
 ) -> None:
     if result.get("passage_id") != expected_id:
         raise PassageClassificationError(f"Passage ID mismatch for {expected_id}")
-    for name in (
-        "confirmed_health_related", "confirmed_science_related",
-        "health_action_recommended", "claim_present",
-    ):
+    for name in ("confirmed_health_related", "confirmed_science_related"):
         if type(result.get(name)) is not bool:
             raise PassageClassificationError(f"{name} is not boolean for {expected_id}")
-    health_topics = result.get("health_topics")
-    valid_health = set(config["health_topics"])
-    if not isinstance(health_topics, list) or len(health_topics) != len(set(health_topics)):
-        raise PassageClassificationError(f"Invalid health_topics for {expected_id}")
-    if any(topic not in valid_health for topic in health_topics):
-        raise PassageClassificationError(f"Unknown health topic for {expected_id}")
-    primary = result.get("primary_health_topic")
-    if result["confirmed_health_related"]:
-        if not health_topics or primary not in health_topics:
-            raise PassageClassificationError(f"Health topic consistency failure for {expected_id}")
-    elif primary != "not_applicable" or health_topics or result["health_action_recommended"]:
-        raise PassageClassificationError(f"Non-health consistency failure for {expected_id}")
-    if result.get("content_type") not in config["content_types"]:
-        raise PassageClassificationError(f"Invalid content_type for {expected_id}")
-    if result.get("support_type") not in config["support_types"]:
-        raise PassageClassificationError(f"Invalid support_type for {expected_id}")
-    science_type = result.get("science_content_type")
-    if result["confirmed_science_related"]:
-        if science_type not in config["science_content_types"]:
-            raise PassageClassificationError(f"Science type consistency failure for {expected_id}")
-    elif science_type != "not_applicable":
-        raise PassageClassificationError(f"Non-science consistency failure for {expected_id}")
-    rationale = result.get("rationale")
+    rationale = result.get("passage_rationale")
     if not isinstance(rationale, str) or not rationale.strip() or len(rationale.split()) > 60:
-        raise PassageClassificationError(f"Invalid rationale for {expected_id}")
+        raise PassageClassificationError(f"Invalid passage_rationale for {expected_id}")
+    claims = result.get("claims")
+    if not isinstance(claims, list):
+        raise PassageClassificationError(f"Claims are not a list for {expected_id}")
+    if claims and not (
+        result["confirmed_health_related"] or result["confirmed_science_related"]
+    ):
+        raise PassageClassificationError(
+            f"Claims cannot be present in a non-health/non-science passage: {expected_id}"
+        )
+    seen_claims: set[str] = set()
+    valid_domains = set(config["claim_domains"])
+    valid_types = set(config["claim_types"])
+    valid_relations = set(config["consensus_relations"])
+    valid_statuses = set(config["fringe_statuses"])
+    relation_statuses = {
+        "consistent_with_consensus": "not_fringe",
+        "within_legitimate_debate": "not_fringe",
+        "conflicts_with_consensus": "fringe",
+        "extraordinary_unsupported": "fringe",
+        "insufficient_information": "uncertain",
+    }
+    for claim_number, claim in enumerate(claims, 1):
+        if not isinstance(claim, dict):
+            raise PassageClassificationError(
+                f"Claim {claim_number} is not an object for {expected_id}"
+            )
+        exact_text = claim.get("exact_claim_text")
+        if not isinstance(exact_text, str) or not exact_text.strip():
+            raise PassageClassificationError(
+                f"Claim {claim_number} has no exact text for {expected_id}"
+            )
+        if exact_text in seen_claims:
+            raise PassageClassificationError(f"Duplicate claim text for {expected_id}")
+        seen_claims.add(exact_text)
+        domain = claim.get("claim_domain")
+        if domain not in valid_domains:
+            raise PassageClassificationError(f"Invalid claim domain for {expected_id}")
+        if domain in {"health", "both"} and not result["confirmed_health_related"]:
+            raise PassageClassificationError(f"Health claim inconsistency for {expected_id}")
+        if domain in {"science", "both"} and not result["confirmed_science_related"]:
+            raise PassageClassificationError(f"Science claim inconsistency for {expected_id}")
+        if claim.get("claim_type") not in valid_types:
+            raise PassageClassificationError(f"Invalid claim type for {expected_id}")
+        relation = claim.get("consensus_relation")
+        status = claim.get("fringe_status")
+        if relation not in valid_relations or status not in valid_statuses:
+            raise PassageClassificationError(f"Invalid fringe coding for {expected_id}")
+        if relation_statuses.get(str(relation)) != status:
+            raise PassageClassificationError(
+                f"Consensus/fringe inconsistency for {expected_id}"
+            )
+        reason = claim.get("fringe_reason")
+        if not isinstance(reason, str) or not reason.strip() or len(reason.split()) > 80:
+            raise PassageClassificationError(f"Invalid fringe reason for {expected_id}")
 
 
 def parse_batch_results(
@@ -802,15 +890,19 @@ def parse_batch_results(
 
 
 def analytic_rows(
-    passages: list[dict[str, Any]], results: dict[str, dict[str, Any]]
+    passages: list[dict[str, Any]], results: dict[str, dict[str, Any]],
+    sample_id: str, show_id: str,
 ) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
     for passage in passages:
         result = results[passage["passage_id"]]
-        rows.append({
-            "sample_id": None,
-            "episode_id": passage["episode_id"], "passage_id": passage["passage_id"],
+        common = {
+            "sample_id": sample_id, "show": show_id,
+            "episode_id": passage["episode_id"],
+            "episode_title": passage.get("episode_title"),
+            "snippet_id": passage["passage_id"],
             "passage_number": passage["passage_number"],
+            "source_merged_region_number": passage["source_merged_region_number"],
             "source_window_ids": " | ".join(map(str, passage["source_window_ids"])),
             "source_window_count": len(passage["source_window_ids"]),
             "screen_health_related": int(passage["screen_health_related"]),
@@ -822,39 +914,54 @@ def analytic_rows(
             "utterance_end_id": passage["utterance_end_id"],
             "start_ms": passage["start_ms"], "end_ms": passage["end_ms"],
             "duration_seconds": passage["duration_seconds"],
-            "speakers": " | ".join(passage["speakers"]), "text": passage["text"],
+            "speakers": " | ".join(passage["speakers"]),
+            "snippet_text": passage["text"],
             "speaker_segments_json": json.dumps(passage["speaker_segments"], ensure_ascii=False, separators=(",", ":")),
             "mean_word_confidence": passage["mean_word_confidence"],
             "confirmed_health_related": int(result["confirmed_health_related"]),
             "confirmed_science_related": int(result["confirmed_science_related"]),
-            "primary_health_topic": result["primary_health_topic"],
-            "health_topics": " | ".join(result["health_topics"]),
-            "health_topics_json": json.dumps(result["health_topics"], separators=(",", ":")),
-            "content_type": result["content_type"], "support_type": result["support_type"],
-            "health_action_recommended": int(result["health_action_recommended"]),
-            "claim_present": int(result["claim_present"]),
-            "science_content_type": result["science_content_type"],
-            "rationale": result["rationale"], "needs_review": 1,
+            "passage_rationale": result["passage_rationale"],
             "batch_custom_id": result["batch_custom_id"],
             "response_id": result["response_id"], "response_model": result["response_model"],
-        })
+        }
+        claims = result["claims"]
+        if not claims:
+            rows.append({
+                **common, "claim_present": 0, "claim_count_in_snippet": 0,
+                "claim_id": "", "claim_number": "", "exact_claim_text": "",
+                "claim_domain": "", "claim_type": "",
+                "consensus_relation": "", "fringe_status": "not_assessable",
+                "fringe_reason": "No sufficiently precise, checkable health/science claim was extracted.",
+                "evidence_sources": "", "needs_human_review": 1,
+                "human_decision": "",
+            })
+            continue
+        for claim_number, claim in enumerate(claims, 1):
+            exact_text = claim["exact_claim_text"]
+            if exact_text not in passage["text"]:
+                raise PassageClassificationError(
+                    f"Claim text is not an exact snippet quotation for {passage['passage_id']}"
+                )
+            rows.append({
+                **common, "claim_present": 1,
+                "claim_count_in_snippet": len(claims),
+                "claim_id": f"{passage['passage_id']}-claim-{claim_number:04d}",
+                "claim_number": claim_number, "exact_claim_text": exact_text,
+                "claim_domain": claim["claim_domain"],
+                "claim_type": claim["claim_type"],
+                "consensus_relation": claim["consensus_relation"],
+                "fringe_status": claim["fringe_status"],
+                "fringe_reason": claim["fringe_reason"],
+                "evidence_sources": "", "needs_human_review": 1,
+                "human_decision": "",
+            })
     return rows
 
 
-def grouped_metrics(rows: list[dict[str, Any]], field: str) -> dict[str, Any]:
-    values = Counter(str(row[field]) for row in rows)
-    return {
-        value: {
-            "passages": count,
-            "unique_words": sum(row["word_count"] for row in rows if str(row[field]) == value),
-            "duration_seconds": round(sum(row["duration_seconds"] for row in rows if str(row[field]) == value), 3),
-        }
-        for value, count in sorted(values.items())
-    }
-
-
-def subset_metrics(rows: list[dict[str, Any]], field: str) -> dict[str, Any]:
-    selected = [row for row in rows if row[field]]
+def passage_subset_metrics(
+    passages: list[dict[str, Any]], results: dict[str, dict[str, Any]], field: str,
+) -> dict[str, Any]:
+    selected = [passage for passage in passages if results[passage["passage_id"]][field]]
     return {
         "passages": len(selected), "unique_words": sum(row["word_count"] for row in selected),
         "duration_seconds": round(sum(row["duration_seconds"] for row in selected), 3),
@@ -862,32 +969,47 @@ def subset_metrics(rows: list[dict[str, Any]], field: str) -> dict[str, Any]:
 
 
 def build_summary(
-    rows: list[dict[str, Any]], manifest: dict[str, Any], job: dict[str, Any], usage: dict[str, int]
+    rows: list[dict[str, Any]], passages: list[dict[str, Any]],
+    results: dict[str, dict[str, Any]], manifest: dict[str, Any],
+    job: dict[str, Any], usage: dict[str, int],
 ) -> dict[str, Any]:
     episode_inputs = {row["episode_id"]: row for row in manifest["episodes"]}
     by_episode: list[dict[str, Any]] = []
     for episode_id, episode in episode_inputs.items():
-        selected = [row for row in rows if row["episode_id"] == episode_id]
-        health = subset_metrics(selected, "confirmed_health_related")
-        science = subset_metrics(selected, "confirmed_science_related")
+        episode_passages = [
+            passage for passage in passages if passage["episode_id"] == episode_id
+        ]
+        episode_rows = [row for row in rows if row["episode_id"] == episode_id]
+        episode_claims = [row for row in episode_rows if row["claim_present"]]
+        health = passage_subset_metrics(
+            episode_passages, results, "confirmed_health_related"
+        )
+        science = passage_subset_metrics(
+            episode_passages, results, "confirmed_science_related"
+        )
         total_words = int(episode["transcript_words"])
         health["share_of_transcript_words"] = round(health["unique_words"] / total_words, 6)
         science["share_of_transcript_words"] = round(science["unique_words"] / total_words, 6)
         by_episode.append({
             **episode, "confirmed_health": health, "confirmed_science": science,
-            "primary_health_topics": grouped_metrics(
-                [row for row in selected if row["confirmed_health_related"]], "primary_health_topic"
+            "claims_extracted": len(episode_claims),
+            "snippets_without_assessable_claims": sum(
+                row["fringe_status"] == "not_assessable" for row in episode_rows
             ),
+            "fringe_statuses": dict(sorted(Counter(
+                row["fringe_status"] for row in episode_rows
+            ).items())),
         })
     total_transcript_words = sum(int(row["transcript_words"]) for row in manifest["episodes"])
-    health = subset_metrics(rows, "confirmed_health_related")
-    science = subset_metrics(rows, "confirmed_science_related")
+    health = passage_subset_metrics(passages, results, "confirmed_health_related")
+    science = passage_subset_metrics(passages, results, "confirmed_science_related")
     health["share_of_transcript_words"] = round(health["unique_words"] / total_transcript_words, 6)
     science["share_of_transcript_words"] = round(science["unique_words"] / total_transcript_words, 6)
+    claim_rows = [row for row in rows if row["claim_present"]]
     return {
-        "schema_version": "0.1", "generated_at": utc_now(),
+        "schema_version": "0.2", "generated_at": utc_now(),
         "status": "provisional_model_assisted_not_human_validated",
-        "unit": "merged_non_overlapping_positive_screen_passage",
+        "unit": "one_row_per_extracted_claim_plus_one_not_assessable_row_for_snippets_without_claims",
         "sample_id": manifest["sample_id"], "show_id": manifest["show_id"],
         "method": {
             "provider": "OpenAI", "api": "Batch API with Responses API and Structured Outputs",
@@ -900,68 +1022,128 @@ def build_summary(
         "selection": manifest["selection"],
         "totals": {
             "episodes": len(manifest["episodes"]), "transcript_words": total_transcript_words,
-            "candidate_passages": len(rows),
-            "candidate_unique_words": sum(row["word_count"] for row in rows),
+            "candidate_passages": len(passages),
+            "candidate_unique_words": sum(row["word_count"] for row in passages),
             "confirmed_health": health, "confirmed_science": science,
-            "primary_health_topics": grouped_metrics(
-                [row for row in rows if row["confirmed_health_related"]], "primary_health_topic"
+            "claims_extracted": len(claim_rows),
+            "snippets_without_assessable_claims": sum(
+                row["fringe_status"] == "not_assessable" for row in rows
             ),
-            "content_types": grouped_metrics(rows, "content_type"),
-            "support_types": grouped_metrics(rows, "support_type"),
-            "science_content_types": grouped_metrics(
-                [row for row in rows if row["confirmed_science_related"]], "science_content_type"
-            ),
-            "claim_present": subset_metrics(rows, "claim_present"),
-            "health_action_recommended": subset_metrics(rows, "health_action_recommended"),
+            "claim_domains": dict(sorted(Counter(
+                row["claim_domain"] for row in claim_rows
+            ).items())),
+            "claim_types": dict(sorted(Counter(
+                row["claim_type"] for row in claim_rows
+            ).items())),
+            "consensus_relations": dict(sorted(Counter(
+                row["consensus_relation"] for row in claim_rows
+            ).items())),
+            "fringe_statuses": dict(sorted(Counter(
+                row["fringe_status"] for row in rows
+            ).items())),
         },
         "episodes": by_episode,
         "interpretation_note": (
-            "Passages are non-overlapping, so unique-word totals do not double-count the "
-            "stage-04 overlap. Passage boundaries still include surrounding words from the "
-            "positive screen windows; amounts are provisional passage-level estimates, not "
-            "exact claim spans or misinformation judgments."
+            "Passages are non-overlapping, so passage-level word totals do not double-count "
+            "the stage-04 overlap. Fringe status is a provisional model assessment based on "
+            "general scientific knowledge, not a literature search or final accuracy judgment. "
+            "Evidence sources and human decisions must be added during review."
         ),
-        "review": {"rows_marked_for_review": len(rows), "human_validated": False},
+        "review": {
+            "rows_marked_for_review": len(rows), "human_validated": False,
+            "evidence_sources_populated": False,
+        },
     }
+
+
+def download_batch_results(client: Any, batch: Any, run_dir: Path) -> bytes:
+    """Retain provider diagnostics even when every request failed.
+
+    A completed Batch can have zero successful requests and only an error file.
+    Partial successes are preserved too, but never published as a complete CSV.
+    """
+    errors: list[dict[str, Any]] = []
+    error_file_id = getattr(batch, "error_file_id", None)
+    if error_file_id:
+        error_bytes = api_file_bytes(client, error_file_id)
+        atomic_write(run_dir / "batch_errors.jsonl", error_bytes)
+        errors = parse_jsonl(error_bytes, "batch error file")
+
+    output_bytes: bytes | None = None
+    if getattr(batch, "output_file_id", None):
+        output_bytes = api_file_bytes(client, batch.output_file_id)
+        atomic_write(run_dir / "batch_output.jsonl", output_bytes)
+
+    if errors:
+        reasons: Counter[str] = Counter()
+        for row in errors:
+            response = row.get("response") or {}
+            body = response.get("body") or {}
+            detail = row.get("error") or body.get("error") or {}
+            if isinstance(detail, dict):
+                code = detail.get("code") or detail.get("type") or "request_error"
+                message = detail.get("message") or "No error message supplied"
+                reason = f"{code}: {message}"
+            else:
+                reason = str(detail)
+            reasons[reason] += 1
+        summary = "; ".join(
+            f"{count} request(s): {' '.join(reason.split())[:1000]}"
+            for reason, count in reasons.most_common(3)
+        )
+        raise PassageClassificationError(
+            f"Batch {batch.status}: {len(errors)} failed request(s). "
+            f"Provider errors: {summary}. "
+            f"Full diagnostics saved to {run_dir / 'batch_errors.jsonl'}. "
+            "No final classification CSV was generated. Resolve the errors before resubmitting."
+        )
+
+    if batch.status != "completed":
+        raise PassageClassificationError(f"Batch ended with status: {batch.status}")
+    counts = getattr(batch, "request_counts", None)
+    failed = getattr(counts, "failed", 0) or 0
+    if failed:
+        raise PassageClassificationError(
+            f"Batch completed with {failed} failed request(s), but no error details "
+            "were returned. Refusing to publish incomplete classifications."
+        )
+    if output_bytes is None:
+        raise PassageClassificationError(
+            "Batch completed without an output file or usable error details; "
+            "inspect batch_job.json. No classifications were generated."
+        )
+    return output_bytes
 
 
 def collect(args: argparse.Namespace) -> int:
     run_dir = resolve_run_dir(args)
-    manifest = validate_prepared_files(run_dir)
-    config = load_json(CONFIG_PATH, "stage-05 configuration")
     client, job, retrieved_dir, batch = retrieve_job(args)
     if retrieved_dir != run_dir:
         raise PassageClassificationError("Resolved run changed unexpectedly")
-    if batch.status != "completed":
-        if batch.status in TERMINAL_BATCH_STATUSES:
-            raise PassageClassificationError(f"Batch ended with status: {batch.status}")
+    if batch.status not in TERMINAL_BATCH_STATUSES:
         raise PassageClassificationError(f"Batch is still {batch.status}; collect after completion")
-    if not batch.output_file_id:
-        raise PassageClassificationError("Completed batch has no output_file_id")
-    output_bytes = api_file_bytes(client, batch.output_file_id)
-    atomic_write(run_dir / "batch_output.jsonl", output_bytes)
-    if batch.error_file_id:
-        error_bytes = api_file_bytes(client, batch.error_file_id)
-        atomic_write(run_dir / "batch_errors.jsonl", error_bytes)
-        errors = parse_jsonl(error_bytes, "batch error file")
-        if errors:
-            raise PassageClassificationError(f"Batch has {len(errors)} failed request(s)")
-    results, usage = parse_batch_results(parse_jsonl(output_bytes, "batch output file"), manifest, config)
+    output_bytes = download_batch_results(client, batch, run_dir)
+    manifest = validate_prepared_files(run_dir)
+    config = load_json(CONFIG_PATH, "stage-05 configuration")
     passages = json.loads((run_dir / "passages.json").read_text(encoding="utf-8"))
     if not isinstance(passages, list) or len(passages) != manifest["input"]["passages"]:
         raise PassageClassificationError("Prepared passage count does not match the manifest")
-    rows = analytic_rows(passages, results)
-    for row in rows:
-        row["sample_id"] = manifest["sample_id"]
-    summary = build_summary(rows, manifest, job, usage)
+    results, usage = parse_batch_results(
+        parse_jsonl(output_bytes, "batch output file"), manifest, config
+    )
+    rows = analytic_rows(
+        passages, results, manifest["sample_id"], manifest["show_id"]
+    )
+    summary = build_summary(rows, passages, results, manifest, job, usage)
     buffer = io.StringIO()
     writer = csv.DictWriter(buffer, fieldnames=list(rows[0]))
     writer.writeheader()
     writer.writerows(rows)
-    atomic_write(run_dir / "passage_classification.csv", buffer.getvalue())
+    atomic_write(run_dir / "claim_classification.csv", buffer.getvalue())
     write_json(run_dir / "classification_summary.json", summary)
-    print("Collected and validated every stage-05 passage")
-    print(f"  Candidate passages: {len(rows)}")
+    print("Collected and validated every stage-05 passage and claim")
+    print(f"  Candidate passages: {len(passages)}")
+    print(f"  Claims extracted:   {summary['totals']['claims_extracted']}")
     print(f"  Confirmed health:   {summary['totals']['confirmed_health']['passages']}")
     print(f"  Confirmed science:  {summary['totals']['confirmed_science']['passages']}")
     print(f"  Output:             {run_dir.relative_to(PROJECT_ROOT)}")

@@ -45,6 +45,22 @@ protocol.
   descriptive amount is measured with unique passage words and passage time,
   not counts of overlapping windows. These remain provisional model-assisted
   labels and do not measure fringe status, truth, or misinformation.
+- On 2026-09-12, after both original stage-05 jobs failed before model execution
+  because of an unsupported response-schema keyword, the researcher clarified
+  the second-round outcome. Stage 05 now rechecks passage-level health/science
+  relevance, extracts each exact checkable claim, and assigns a provisional
+  claim-level relationship to scientific consensus. `fringe` means clearly
+  conflicting with established scientific consensus or presenting an
+  extraordinary unsupported position as established knowledge; `not_fringe`
+  includes established understanding and legitimate scientific debate;
+  `uncertain` is retained when the evidence or model knowledge is insufficient.
+  A passage with no assessable claim receives a derived `not_assessable` row.
+  All labels require human evidence review and do not by themselves measure
+  truth, misinformation, intent, or harm.
+- The local Stage-05 implementation draft caps claim-extraction snippets at 512
+  words, splitting long positive regions at an utterance boundary when possible.
+  This proposed unit prevents episode-length requests but requires researcher
+  confirmation before submission.
 
 ## Decisions still required from the researcher
 
@@ -52,14 +68,15 @@ protocol.
    comparison across shows, speakers, or time?
 2. What is the sampling frame, period, language scope, and inclusion/exclusion
    rule for podcasts and episodes?
-3. Should the later accuracy/fringe assessment extract exact claim spans, and
-   should it use claim-level or speaker-level units rather than stage-05
-   passages?
-4. How will a health claim, accuracy, uncertainty, and misinformation be
-   operationalized? Which evidence sources and adjudication rule apply?
-5. Is the aim descriptive or causal? A causal claim needs an explicit
+3. Should the proposed 512-word maximum for non-overlapping Stage-05 snippets be
+   accepted before submitting the replacement batches?
+4. Which evidence sources, search procedure, and human adjudication rule will
+   convert the provisional claim-level fringe screen into a validated measure?
+5. How will factual accuracy, misinformation, intent, and harm be
+   operationalized if they are later added as separate outcomes?
+6. Is the aim descriptive or causal? A causal claim needs an explicit
    identification strategy and assumptions beyond this repository structure.
-6. What transcript rights, privacy/IRB, platform terms, and data-security rules
+7. What transcript rights, privacy/IRB, platform terms, and data-security rules
    apply?
 
 ## Phased workflow and checkpoints
