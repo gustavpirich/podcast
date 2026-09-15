@@ -44,39 +44,89 @@ protocol.
   type, claim presence, health recommendations, and science-content type. The
   descriptive amount is measured with unique passage words and passage time,
   not counts of overlapping windows. These remain provisional model-assisted
-  labels and do not measure fringe status, truth, or misinformation.
+  labels and do not measure fringe status, truth, or misinformation. The merged
+  passage unit was superseded by the researcher's 2026-09-12 decision below.
 - On 2026-09-12, after both original stage-05 jobs failed before model execution
   because of an unsupported response-schema keyword, the researcher clarified
-  the second-round outcome. Stage 05 now rechecks passage-level health/science
-  relevance, extracts each exact checkable claim, and assigns a provisional
-  claim-level relationship to scientific consensus. `fringe` means clearly
-  conflicting with established scientific consensus or presenting an
-  extraordinary unsupported position as established knowledge; `not_fringe`
-  includes established understanding and legitimate scientific debate;
-  `uncertain` is retained when the evidence or model knowledge is insufficient.
-  A passage with no assessable claim receives a derived `not_assessable` row.
-  All labels require human evidence review and do not by themselves measure
-  truth, misinformation, intent, or harm.
-- The local Stage-05 implementation draft caps claim-extraction snippets at 512
-  words, splitting long positive regions at an utterance boundary when possible.
-  This proposed unit prevents episode-length requests but requires researcher
-  confirmation before submission.
+  that the existing overlapping 256-word Stage-04 windows remain the units of
+  analysis in Stage 05. Positive health/science windows are sent for exact claim
+  extraction and provisional consensus/fringe coding; all Stage-04 windows are
+  retained as one row each in the final CSV. A window is `fringe` when it
+  contains at least one fringe claim; otherwise `uncertain` takes precedence
+  over `not_fringe`, and a window with no assessable claim is `not_assessable`.
+  A disagreement between a claim's model-returned consensus relationship and
+  fringe status is retained, flagged, and conservatively coded `uncertain`.
+  `fringe` means clearly conflicting with established scientific consensus or
+  presenting an extraordinary unsupported position as established knowledge;
+  `not_fringe` includes established understanding and legitimate scientific
+  debate; `uncertain` is retained when the evidence or model knowledge is
+  insufficient. All labels require human evidence review.
+- On 2026-09-14, the researcher removed the redundant Stage-05 health/science
+  recheck and passage rationale for future runs. Stage 04 remains the sole
+  health/science classification step; Stage 05 extracts claims and provisionally
+  assigns their consensus relationship and fringe status.
+- On 2026-09-14, the researcher specified a three-sentence, plain-language
+  explanation for each Stage-05 claim: what it means, whether established
+  scientific evidence supports, disputes, or does not clearly resolve it, and
+  why that assessment produces the consensus/fringe classification. The prompt
+  distinguishes absence of evidence from evidence against a claim and excludes
+  speaker-belief, ideological, and societal interpretations.
+- The researcher reports that the intended final JRE corpus contains 466,328
+  windows. That full corpus is not currently present in this repository; the
+  current ten-episode JRE pilot contains 2,320 windows.
+- On 2026-09-14, the researcher requested an interactive review of uncertain,
+  fringe, and not-fringe classifications to improve the classifier. The local
+  dashboard records a human claim decision as `fringe`, `uncertain`,
+  `not_fringe`, or `not_claim`, with an optional note, and exports those
+  decisions for error analysis. This review interface does not itself decide
+  the evidence-search or adjudication standard.
+- On 2026-09-14, the researcher requested a webpage to investigate the completed
+  broad results. The local dashboard now defaults to frozen broad run
+  `5a165612d6459da0`, with all-window and health/science-positive denominators,
+  presence versus advancement, nonexclusive category rates, and claim review.
+  Filters do not redefine model labels; human reviews are stored separately by
+  source hash and do not change model prevalence. Older narrow reviews are kept.
+- On 2026-09-14, the researcher specified that the additional statement
+  classification should concern the product, intervention, or behavior being
+  discussed rather than the proposition's logical form. The approved taxonomy
+  distinguishes vaccines, pharmaceuticals, peptides/hormones, supplements,
+  psychoactive substances, medical technologies, diet, exercise, sleep,
+  mental/behavioral interventions, environmental exposures, healthcare,
+  conditions, and non-health science. Claim focus and therapeutic-product
+  maturity are separate fields. Existing broad-fringe labels are immutable.
+- On 2026-09-15, health-object run `e5112711aca03600` was collected: all 8,504
+  claim instances map to 7,182 unique statement units, and every existing claim
+  and broad-fringe field is unchanged. The model outputs and category summaries
+  remain provisional until the stratified human review is completed.
 
 ## Decisions still required from the researcher
+
+The 2026-09-14 request broadens fringe to non-mainstream claims and exaggeration,
+without equating either with misinformation. The operational codebook is
+`notes/BROAD_FRINGE_CLASSIFICATION.md`: scientific position and exaggeration are
+independent, uncertainty is retained, and claim presence is separated from
+asserted/tentative advancement. Extent is reported per episode using all windows
+and Stage-04-positive windows as separate denominators. This requires a fresh
+classification of all 2,166 positive windows; the earlier narrow labels are a
+historical baseline, not estimates of the broader construct.
+
+The new batch was explicitly authorized and completed on 2026-09-14: all 2,166
+requests succeeded. Frozen run `5a165612d6459da0` retains 4,124 windows and 8,504
+overlapping claim instances. The model flagged 1,679 windows for broad claim
+presence and 1,578 for assertion/tentative advancement. These remain provisional
+model judgments, with exaggeration a particularly important calibration target.
 
 1. What is the precise research question: prevalence, framing, diffusion, or a
    comparison across shows, speakers, or time?
 2. What is the sampling frame, period, language scope, and inclusion/exclusion
    rule for podcasts and episodes?
-3. Should the proposed 512-word maximum for non-overlapping Stage-05 snippets be
-   accepted before submitting the replacement batches?
-4. Which evidence sources, search procedure, and human adjudication rule will
+3. Which evidence sources, search procedure, and human adjudication rule will
    convert the provisional claim-level fringe screen into a validated measure?
-5. How will factual accuracy, misinformation, intent, and harm be
+4. How will factual accuracy, misinformation, intent, and harm be
    operationalized if they are later added as separate outcomes?
-6. Is the aim descriptive or causal? A causal claim needs an explicit
-   identification strategy and assumptions beyond this repository structure.
-7. What transcript rights, privacy/IRB, platform terms, and data-security rules
+5. Is the aim descriptive or causal? A causal claim needs an explicit
+    identification strategy and assumptions beyond this repository structure.
+6. What transcript rights, privacy/IRB, platform terms, and data-security rules
    apply?
 
 ## Phased workflow and checkpoints

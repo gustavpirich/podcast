@@ -1,5 +1,41 @@
 # Analysis code
 
+## Health product and behavior classification
+
+`10_classify_health_objects.py` classifies the existing broad-run statements by
+their substantive object: vaccines, pharmaceuticals, peptides/hormones,
+supplements, psychoactive substances, medical technologies, diet, exercise,
+sleep, mental/behavioral interventions, environmental exposures, healthcare,
+disease, or non-health science. It also records claim focus, product maturity,
+and extraction quality. Exact repetitions created by overlapping windows are
+linked before classification; all 8,504 original instances remain traceable.
+The complete codebook and workflow are in
+`notes/HEALTH_OBJECT_CLASSIFICATION.md`.
+
+## Broad fringe and episode graphs
+
+`08_classify_broad_fringe.py` implements the broader 2026-09-14 definition in a
+separate run: scientific position, exaggeration, and conversational stance.
+It uses the existing `podcast_observational` Conda environment with the OpenAI
+SDK. `prepare` freezes all inputs locally; `submit --yes`, `status`, and `collect`
+use the environment's `OPENAI_API_KEY`. The full codebook and commands are in
+`notes/BROAD_FRINGE_CLASSIFICATION.md`.
+
+`09_plot_fringe_extent.py` makes episode/show summaries and PNG/SVG graphs from
+either the legacy CSV (default) or a new `--input` broad classification CSV.
+It labels the definition explicitly and does not convert uncertain labels into
+fringe. Install the plotting dependency in the project-local environment:
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r config/fringe_plot_requirements.txt
+.venv/bin/python code/09_plot_fringe_extent.py
+```
+
+Outputs are under `output/fringe_science/`, keyed by the input hash. Pooled show
+rates and unweighted episode means are distinct. All windows, including
+screen-negatives, remain in the full-episode denominator.
+
 Put reproducible scripts and notebooks here. A numbered workflow is easy to
 inspect, for example:
 
@@ -192,16 +228,14 @@ python code/04_classify_content_openai_batch_sample.py collect \
   --sample config/jre_starter_sample.json
 ```
 
-## Conditional claim and fringe classifier
+## Conditional window-level claim and fringe classifier
 
 `05_classify_passage_content_openai_batch.py` is the next, distinct measurement
-stage. It reads collected stage-04 results for a frozen sample, keeps windows
-screened as health-related or science-related, and merges consecutive overlaps
-into non-overlapping snippets. It rechecks health/science relevance, extracts
-each exact checkable claim, and provisionally classifies the claim as `fringe`,
-`not_fringe`, or `uncertain`. Snippets without an assessable claim are retained
-as `not_assessable`. The current local draft proposes a 512-word maximum per
-snippet and requires researcher confirmation before submission. The codebook is in
+stage. It reads collected stage-04 results for a frozen sample and preserves the
+same 256-word windows with a 128-word stride. Positive health/science windows are
+sent for exact claim extraction and provisional `fringe`, `not_fringe`, or
+`uncertain` coding. The final CSV retains every Stage-04 window as one row;
+windows without an assessable claim are `not_assessable`. The codebook is in
 `notes/PASSAGE_CONTENT_CLASSIFICATION.md`; the machine-readable choices are in
 `config/openai_passage_content_classification.json`.
 
@@ -220,6 +254,19 @@ python code/05_classify_passage_content_openai_batch.py collect \
 
 Use `--sample config/jre_starter_sample.json` for the JRE sample. This stage uses
 one resumable Batch job per frozen sample. `prepare` is local and free; only
-`submit --yes` uploads selected transcript passages and incurs API charges.
-Successful collection writes `claim_classification.csv`; every row is marked for
+`submit --yes` uploads selected transcript windows and incurs API charges.
+Successful collection writes `window_claim_classification.csv`; every row is marked for
 human evidence review because the model does not search or cite literature.
+
+After collecting multiple compatible samples, combine them into one inspected
+CSV with `06_combine_window_claim_classifications.py`. The combiner records the
+source hashes and Batch IDs and verifies unique window keys, 256-word windows,
+and the 128-word within-episode stride.
+
+`07_prepare_classification_dashboard_data.py` now defaults to the completed
+broad-fringe CSV from run `5a165612d6459da0` and prepares the JSON consumed by
+the local `dashboard/` app. The inspector shows all 4,124 windows, the separate
+scientific-position/exaggeration/stance dimensions, chart denominators,
+and human review exports. The generator also accepts historical inputs via
+`--input`; the current webpage requires the broad schema to avoid confusing
+measurement definitions. Generated transcript JSON is excluded from Git.

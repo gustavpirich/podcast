@@ -1,127 +1,117 @@
-# Stage 05: claim extraction and provisional fringe classification
+# Stage 05: window-level claim and fringe classification
 
-## Purpose
+## Intended output
 
-Stage 04 is a broad, recall-oriented screen: it asks whether overlapping
-256-word windows contain health-related or science-related discussion. Stage 05
-turns the positive windows into inspectable transcript snippets, rechecks their
-health/science relevance, extracts exact checkable claims, and provisionally
-classifies each claim's relationship to scientific consensus.
+The final file has one row for every standardized transcript window. Each row
+contains the episode, timestamps, speakers, complete snippet text, Stage-04
+health/science labels, extracted claims, and a provisional window-level fringe
+status.
 
-The final analytic file has one row per extracted claim and repeats the source
-snippet, episode, speaker, word range, and timestamps. If a snippet contains no
-sufficiently precise checkable claim, it receives one row with
-`fringe_status=not_assessable`. This keeps every screened snippet visible.
+The units are unchanged from Stage 04:
 
-Stage 05 is a model-assisted screen based on the model's general scientific
-knowledge. It does not search literature or supply evidence citations. Every row
-is marked for human review, and the evidence and human-decision columns remain
-empty until that review occurs.
+- exactly 256 complete transcript words per window;
+- a stride of 128 words, so adjacent windows overlap by 128 words;
+- no partial final window;
+- only episodes with at least 768 transcript words.
 
-## Snippet construction
+The researcher reports an intended final JRE corpus of 466,328 windows. That
+full corpus is not currently in this repository. The local ten-episode JRE pilot
+contains 2,320 windows, and the ten-episode Diary of a CEO pilot contains 1,804.
 
-1. Read the collected Stage 04 classifications for every episode in a frozen
-   sample.
-2. Keep a window when `health_related = 1` or `science_related = 1`.
-3. Merge consecutive positive windows when they overlap. Do not merge across a
-   negative window.
-4. Split a merged region longer than the proposed 512-word maximum at an
-   utterance boundary when possible. The researcher must confirm this proposed
-   maximum before submission.
-5. Reconstruct each snippet exactly from the word-level transcript.
-6. Send one request per snippet to OpenAI Batch.
+## Stage-05 selection
 
-The merge removes duplicated words created by the 256-word/128-word screen.
-Separate snippets never share a word. Snippet boundaries can still contain
-surrounding speech because Stage 04 classifies complete windows.
+Stage 05 reads the collected Stage-04 CSVs and reconstructs the same windows
+from the word-level transcripts. It sends a window to the model only when its
+Stage-04 `health_related` or `science_related` label is positive. Stage-04
+negative windows are not sent again, but they remain in the final CSV with
+`stage05_requested=0` and `fringe_status=not_assessable`.
 
-## Passage-level fields
-
-- `confirmed_health_related`: substantive content about physical or mental
-  health, illness, diagnosis, prevention, treatment, healthcare, or health
-  behavior.
-- `confirmed_science_related`: substantive content about scientific research,
-  evidence, methods, mechanisms, experts, institutions, or another scientific
-  subject.
-- `passage_rationale`: a short explanation of the reassessment.
-
-Stage 04 labels remain in the CSV beside the confirmed Stage 05 labels so that
-screening false positives can be inspected.
-
-## Claim extraction
-
-A claim must be a checkable health- or science-related assertion. The model must
-copy it as an exact contiguous quotation from the snippet. It must not turn a
-question, joke, vague opinion, or personal experience into a claim unless the
-speaker also asserts a generalizable fact, cause, effect, risk, or recommendation
-premise. One snippet may contain zero, one, or multiple claims.
-
-Each claim receives:
-
-- `claim_domain`: `health`, `science`, or `both`;
-- `claim_type`: descriptive/empirical, causal/mechanistic, intervention effect,
-  safety/risk, recommendation, prediction, or other checkable claim;
-- `consensus_relation`: its provisional relationship to established scientific
-  understanding;
-- `fringe_status`: `fringe`, `not_fringe`, or `uncertain`;
-- `fringe_reason`: a short explanation without invented sources.
+Stage 04's positive health/science label is retained as the window's topical
+classification. Stage 05 does not recheck it. The model extracts every distinct,
+checkable health- or science-related claim as an exact contiguous quotation from
+that 256-word snippet. Questions, jokes, vague opinions, and personal experiences
+are not claims unless they also assert a generalizable fact, cause, effect, risk,
+or recommendation premise.
 
 ## Fringe classification
 
 The researcher approved the following rule on 2026-09-12:
 
-- `fringe`: the claim clearly conflicts with established scientific consensus,
-  or it presents an extraordinary unsupported position as established
-  knowledge.
-- `not_fringe`: the claim is consistent with established scientific
-  understanding or falls within legitimate scientific debate.
+- `fringe`: a claim clearly conflicts with established scientific consensus or
+  presents an extraordinary unsupported position as established knowledge.
+- `not_fringe`: a claim is consistent with established scientific understanding
+  or falls within legitimate scientific debate.
 - `uncertain`: evidence is mixed, evolving, missing, specialized, or
   insufficient for a reliable determination.
-- `not_assessable`: no sufficiently precise, checkable health/science claim was
-  extracted from the snippet. This value is added locally rather than returned
-  by the model.
+- `not_assessable`: the window contains no sufficiently precise checkable
+  health/science claim. This is derived locally rather than returned for a claim.
 
-The model must use `uncertain` conservatively instead of forcing a binary answer.
-The code also checks that consensus and fringe labels agree:
+Each extracted claim also receives a domain, claim type, consensus relationship,
+and a three-sentence plain-language reason. The reason explains what the claim
+means, whether established scientific evidence supports, disputes, or does not
+clearly resolve it, and why that assessment leads to the assigned fringe status.
+It distinguishes absence of evidence from evidence against a claim and does not
+infer the speaker's beliefs, intentions, or ideology. If the model's consensus
+relationship and fringe status disagree, both raw values are retained, the final
+status is conservatively set to `uncertain`, and the inconsistency is counted for
+human review.
 
-| Consensus relation | Required fringe status |
-| --- | --- |
-| `consistent_with_consensus` | `not_fringe` |
-| `within_legitimate_debate` | `not_fringe` |
-| `conflicts_with_consensus` | `fringe` |
-| `extraordinary_unsupported` | `fringe` |
-| `insufficient_information` | `uncertain` |
+The collector also checks every claimed quotation against the source window. It
+accepts an exact substring or deterministically recovers the original source
+span when only capitalization or punctuation differs and the token sequence is
+unique. `claims_json` records the model text, recovered exact text, and match
+method. An ambiguous or missing quotation remains visible as model text, is
+flagged as unmatched, and receives a conservative final status of `uncertain`.
 
-Fringe is not synonymous with factual inaccuracy. A minor factual error is not
-automatically fringe, and Stage 05 does not classify misinformation, intent, or
-harm.
+## Window-level rule
 
-## Illustrative example
+The CSV retains the full claim list in `claims_json`, but its main
+`fringe_status` column is one value per 256-word window:
 
-For this invented snippet:
+1. `fringe` if the window contains at least one fringe claim;
+2. otherwise `uncertain` if it contains at least one uncertain claim;
+3. otherwise `not_fringe` if it contains at least one not-fringe claim;
+4. otherwise `not_assessable`.
+
+Separate count and text columns show which claims produced that value. Because
+adjacent windows overlap, the same spoken claim may appear in two windows. Window
+counts are valid for the stated window-level analysis, but summed claim counts
+must not be described as counts of unique claims.
+
+## Example
+
+For this invented 256-word snippet excerpt:
 
 > Cold showers triple testosterone for the entire day. They also make some
 > people feel more alert.
 
-Stage 05 should produce two claim rows. The first might be `fringe` if the model
-judges the specific extraordinary effect to conflict with established evidence.
-The second should be `uncertain` if the subjective and context-dependent wording
-does not support a reliable consensus classification. Both rows repeat the same
-snippet and timestamps while preserving different exact claim text.
+the model might extract two claims. If the first is `fringe` and the second is
+`uncertain`, the window-level `fringe_status` is `fringe` because the window
+contains at least one fringe claim. Both exact claims and both individual labels
+remain visible in `claims_json`; the fringe claim also appears in
+`fringe_claim_texts`.
 
-## Output
+## Output columns
 
-Successful collection creates:
+Important columns in `window_claim_classification.csv` include:
 
-- `batch_output.jsonl`: raw provider responses;
-- `claim_classification.csv`: one row per extracted claim, plus one
-  `not_assessable` row for every snippet without a claim;
-- `classification_summary.json`: episode and sample totals for confirmed
-  health/science snippets, extracted claims, consensus relations, and fringe
-  statuses.
+- identifiers: `show`, `episode_id`, `episode_title`, `snippet_id`, `window_id`;
+- location: word indices, utterance IDs, timestamps, duration, and speakers;
+- text: `snippet_text` and `speaker_segments_json`;
+- Stage 04: screen labels, rationales, audit flag, response ID, and model;
+- Stage 05: request flag and claim-level coding;
+- claims: total and status-specific counts, claim text, quotation-match counts,
+  domains, types, consensus relationships, and `claims_json`;
+- outcome: `fringe_status` with values `fringe`, `not_fringe`, `uncertain`, or
+  `not_assessable`;
+- review: blank `evidence_sources` and `human_decision` fields plus
+  `needs_human_review=1`.
 
-The CSV reserves `evidence_sources` and `human_decision` columns for review and
-sets `needs_human_review=1` on every row.
+Stage 05 is a provisional model-assisted screen based on the model's general
+scientific knowledge. It does not search literature or create evidence
+citations. Human evidence review is required before treating the fringe labels
+as validated research measurements. Fringe is also distinct from factual
+accuracy, misinformation, intent, and harm.
 
 ## Reproducible workflow
 
@@ -141,5 +131,5 @@ python code/05_classify_passage_content_openai_batch.py collect \
 ```
 
 Use `--sample config/jre_starter_sample.json` for the JRE sample. `prepare` is
-local and free. Only `submit --yes` sends transcript snippets to OpenAI and
-creates a billable Batch job.
+local and free. Only `submit --yes` sends selected windows to OpenAI and creates
+a billable Batch job.

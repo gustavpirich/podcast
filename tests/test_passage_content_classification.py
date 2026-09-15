@@ -17,11 +17,13 @@ MODULE = runpy.run_path(
 )
 PassageClassificationError = MODULE["PassageClassificationError"]
 build_batch_requests = MODULE["build_batch_requests"]
-merge_positive_windows = MODULE["merge_positive_windows"]
+build_screen_snippets = MODULE["build_screen_snippets"]
 parse_batch_results = MODULE["parse_batch_results"]
 response_schema = MODULE["response_schema"]
+system_instructions = MODULE["system_instructions"]
 analytic_rows = MODULE["analytic_rows"]
 build_summary = MODULE["build_summary"]
+align_claim_text = MODULE["align_claim_text"]
 
 
 CONFIG = {
@@ -47,8 +49,10 @@ CONFIG = {
         "uncertain": "Uncertain.",
     },
     "coding_rules": ["Test rule."],
-    "passage_rationale_rule": "At most 60 words.",
-    "fringe_reason_rule": "At most 80 words.",
+    "fringe_reason_rule": (
+        "Begin This claim means that. Then Scientific evidence. "
+        "Then Therefore, this claim is classified as."
+    ),
 }
 
 
@@ -72,15 +76,19 @@ def screen(window_id: int, start: int, end: int, positive: bool) -> dict[str, ob
         "word_end_index_exclusive": end,
         "health_related": positive,
         "science_related": False,
+        "health_rationale": "Health." if positive else "Not health.",
+        "science_rationale": "Not science.",
+        "negative_audit_sample": int(not positive),
+        "stage04_needs_review": 1,
+        "stage04_batch_custom_id": f"stage04-{window_id}",
+        "stage04_response_id": f"response-{window_id}",
+        "stage04_response_model": "gpt-5.6-luna",
     }
 
 
 def result(passage_id: str) -> dict[str, object]:
     return {
         "passage_id": passage_id,
-        "confirmed_health_related": True,
-        "confirmed_science_related": False,
-        "passage_rationale": "The speaker makes a health claim.",
         "claims": [{
             "exact_claim_text": "Exercise reduces cardiovascular risk.",
             "claim_domain": "health",
@@ -112,69 +120,64 @@ def output_row(custom_id: str, value: dict[str, object]) -> dict[str, object]:
 
 
 class PassageConstructionTests(unittest.TestCase):
-    def test_consecutive_positive_overlaps_are_merged(self) -> None:
+    def test_stage04_windows_remain_separate_and_overlapping(self) -> None:
         rows = [
             screen(0, 0, 8, True),
             screen(1, 4, 12, True),
-            screen(2, 8, 16, False),
-            screen(3, 12, 20, True),
         ]
-        passages = merge_positive_windows(rows, [word(index) for index in range(20)], "episode1234")
+        passages = build_screen_snippets(
+            rows, [word(index) for index in range(12)], "episode1234"
+        )
         self.assertEqual(len(passages), 2)
-        self.assertEqual(passages[0]["source_window_ids"], [0, 1])
-        self.assertEqual((passages[0]["word_start_index"], passages[0]["word_end_index_exclusive"]), (0, 12))
-        self.assertEqual(passages[0]["word_count"], 12)
+        self.assertEqual(passages[0]["passage_id"], "episode1234-window-000000")
+        self.assertEqual(passages[1]["passage_id"], "episode1234-window-000001")
+        self.assertEqual(passages[0]["word_count"], 8)
+        self.assertEqual(passages[1]["word_count"], 8)
+        self.assertEqual(passages[0]["word_end_index_exclusive"], 8)
+        self.assertEqual(passages[1]["word_start_index"], 4)
 
-    def test_negative_window_is_not_bridged(self) -> None:
+    def test_negative_window_is_retained_for_final_csv(self) -> None:
         rows = [
             screen(0, 0, 8, True),
             screen(1, 4, 12, False),
-            screen(2, 8, 16, True),
         ]
-        passages = merge_positive_windows(rows, [word(index) for index in range(16)], "episode1234")
-        self.assertEqual(len(passages), 2)
-        self.assertEqual(passages[0]["word_end_index_exclusive"], 8)
-        self.assertEqual(passages[1]["word_start_index"], 8)
-        self.assertEqual(sum(item["word_count"] for item in passages), 16)
-
-    def test_long_positive_region_is_split_without_overlap(self) -> None:
-        rows = [
-            screen(0, 0, 8, True),
-            screen(1, 4, 12, True),
-            screen(2, 8, 16, True),
-            screen(3, 12, 20, True),
-        ]
-        passages = merge_positive_windows(
-            rows, [word(index) for index in range(20)], "episode1234",
-            max_passage_words=8,
+        passages = build_screen_snippets(
+            rows, [word(index) for index in range(12)], "episode1234"
         )
-        self.assertGreater(len(passages), 1)
-        self.assertTrue(all(passage["word_count"] <= 8 for passage in passages))
-        self.assertEqual(sum(passage["word_count"] for passage in passages), 20)
-        for left, right in zip(passages, passages[1:]):
-            self.assertEqual(
-                left["word_end_index_exclusive"], right["word_start_index"]
-            )
+        self.assertEqual(len(passages), 2)
+        self.assertFalse(passages[1]["screen_health_related"])
 
     def test_one_request_is_created_per_passage(self) -> None:
-        passages = merge_positive_windows(
+        passages = build_screen_snippets(
             [screen(0, 0, 8, True), screen(1, 4, 12, True)],
             [word(index) for index in range(12)],
             "episode1234",
         )
         requests, manifest = build_batch_requests(passages, CONFIG)
-        self.assertEqual(len(requests), 1)
-        self.assertEqual(len(manifest), 1)
+        self.assertEqual(len(requests), 2)
+        self.assertEqual(len(manifest), 2)
         payload = json.loads(requests[0]["body"]["input"])
-        self.assertEqual(payload["passage"]["passage_id"], "episode1234-passage-0000")
+        self.assertEqual(payload["passage"]["passage_id"], "episode1234-window-000000")
         self.assertNotIn("text", payload["passage"])
         self.assertIn("speaker_segments", payload["passage"])
 
     def test_structured_output_schema_uses_supported_array_keywords(self) -> None:
-        claims = response_schema(CONFIG)["properties"]["claims"]
+        schema = response_schema(CONFIG)
+        claims = schema["properties"]["claims"]
         self.assertNotIn("uniqueItems", claims)
         self.assertEqual(claims["items"]["type"], "object")
         self.assertFalse(claims["items"]["additionalProperties"])
+        self.assertEqual(schema["required"], ["passage_id", "claims"])
+        self.assertNotIn("passage_rationale", schema["properties"])
+        self.assertNotIn("confirmed_health_related", schema["properties"])
+
+    def test_prompt_focuses_reason_on_scientific_support_and_validity(self) -> None:
+        prompt = system_instructions(CONFIG)
+        self.assertIn("You are a helpful research assistant", prompt)
+        self.assertIn("This claim means that", prompt)
+        self.assertIn("Scientific evidence", prompt)
+        self.assertIn("Therefore, this claim is classified as", prompt)
+        self.assertNotIn("prevalent in a society", prompt)
 
 
 class ResultValidationTests(unittest.TestCase):
@@ -196,16 +199,6 @@ class ResultValidationTests(unittest.TestCase):
     def test_missing_result_fails_closed(self) -> None:
         with self.assertRaises(PassageClassificationError):
             parse_batch_results([output_row(self.ids[0], result(self.ids[0]))], self.manifest, CONFIG)
-
-    def test_cross_field_inconsistency_fails_closed(self) -> None:
-        invalid = result(self.ids[0])
-        invalid["confirmed_health_related"] = False
-        with self.assertRaises(PassageClassificationError):
-            parse_batch_results(
-                [output_row(self.ids[0], invalid), output_row(self.ids[1], result(self.ids[1]))],
-                self.manifest,
-                CONFIG,
-            )
 
     def test_duplicate_claim_text_fails_local_validation(self) -> None:
         invalid = result(self.ids[0])
@@ -234,23 +227,23 @@ class ResultValidationTests(unittest.TestCase):
         )
         self.assertEqual(parsed[self.ids[0]]["claims"][0]["fringe_status"], "uncertain")
 
-    def test_consensus_and_fringe_status_must_agree(self) -> None:
+    def test_consensus_and_fringe_disagreement_is_retained_for_review(self) -> None:
         invalid = result(self.ids[0])
         invalid["claims"][0]["fringe_status"] = "fringe"
-        with self.assertRaisesRegex(PassageClassificationError, "Consensus/fringe inconsistency"):
-            parse_batch_results(
-                [
-                    output_row(self.ids[0], invalid),
-                    output_row(self.ids[1], result(self.ids[1])),
-                ],
-                self.manifest,
-                CONFIG,
-            )
+        parsed, _ = parse_batch_results(
+            [
+                output_row(self.ids[0], invalid),
+                output_row(self.ids[1], result(self.ids[1])),
+            ],
+            self.manifest,
+            CONFIG,
+        )
+        self.assertEqual(parsed[self.ids[0]]["claims"][0]["fringe_status"], "fringe")
 
 
 class AnalyticRowTests(unittest.TestCase):
     def passage(self) -> dict[str, object]:
-        value = merge_positive_windows(
+        value = build_screen_snippets(
             [screen(0, 0, 8, True)],
             [word(index) for index in range(8)],
             "episode1234",
@@ -264,7 +257,7 @@ class AnalyticRowTests(unittest.TestCase):
             "response_id": "response-1", "response_model": "gpt-5.6-luna",
         }
 
-    def test_one_csv_row_is_created_per_claim(self) -> None:
+    def test_one_csv_row_contains_all_window_claims(self) -> None:
         passage = self.passage()
         provider_result = self.provider_result(passage["passage_id"])
         provider_result["claims"] = [
@@ -283,27 +276,27 @@ class AnalyticRowTests(unittest.TestCase):
         rows = analytic_rows(
             [passage], {passage["passage_id"]: provider_result}, "sample-1", "jre"
         )
-        self.assertEqual(len(rows), 2)
-        self.assertEqual(rows[0]["snippet_id"], rows[1]["snippet_id"])
-        self.assertEqual(rows[1]["fringe_status"], "uncertain")
-        self.assertEqual(rows[0]["claim_count_in_snippet"], 2)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["fringe_status"], "uncertain")
+        self.assertEqual(rows[0]["claim_count"], 2)
+        self.assertEqual(len(json.loads(rows[0]["claims_json"])), 2)
 
         summary = build_summary(
-            rows, [passage], {passage["passage_id"]: provider_result},
+            rows,
             {
                 "sample_id": "sample-1", "show_id": "jre", "model": "gpt-5.6-luna",
                 "prompt_version": "test-v1", "run_id": "run-1", "selection": {},
                 "episodes": [{
                     "episode_id": "episode1234", "transcript_words": 20,
-                    "candidate_passages": 1,
+                    "screen_windows": 1, "stage05_requested_windows": 1,
                 }],
             },
             {"batch_id": "batch-1", "openai_python_version": "3.11.0"},
             {"input_tokens": 20, "output_tokens": 10, "total_tokens": 30},
         )
-        self.assertEqual(summary["totals"]["candidate_unique_words"], 8)
-        self.assertEqual(summary["totals"]["claims_extracted"], 2)
-        self.assertEqual(summary["totals"]["fringe_statuses"]["uncertain"], 1)
+        self.assertEqual(summary["totals"]["windows"], 1)
+        self.assertEqual(summary["totals"]["claims_extracted_in_windows"], 2)
+        self.assertEqual(summary["totals"]["window_fringe_statuses"]["uncertain"], 1)
 
     def test_snippet_without_claim_gets_not_assessable_row(self) -> None:
         passage = self.passage()
@@ -316,13 +309,73 @@ class AnalyticRowTests(unittest.TestCase):
         self.assertEqual(rows[0]["claim_present"], 0)
         self.assertEqual(rows[0]["fringe_status"], "not_assessable")
 
-    def test_claim_text_must_be_an_exact_snippet_substring(self) -> None:
+    def test_stage04_negative_window_is_retained_without_stage05_result(self) -> None:
+        passage = build_screen_snippets(
+            [screen(0, 0, 8, False)],
+            [word(index) for index in range(8)],
+            "episode1234",
+        )[0]
+        passage["episode_title"] = "Example episode"
+        rows = analytic_rows([passage], {}, "sample-1", "jre")
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["stage05_requested"], 0)
+        self.assertEqual(rows[0]["fringe_status"], "not_assessable")
+
+    def test_unmatched_claim_is_retained_as_uncertain_and_flagged(self) -> None:
         passage = self.passage()
         provider_result = self.provider_result(passage["passage_id"])
-        with self.assertRaisesRegex(PassageClassificationError, "exact snippet quotation"):
-            analytic_rows(
-                [passage], {passage["passage_id"]: provider_result}, "sample-1", "jre"
-            )
+        rows = analytic_rows(
+            [passage], {passage["passage_id"]: provider_result}, "sample-1", "jre"
+        )
+        self.assertEqual(rows[0]["fringe_status"], "uncertain")
+        self.assertEqual(rows[0]["unmatched_claim_text_count"], 1)
+        claim = json.loads(rows[0]["claims_json"])[0]
+        self.assertEqual(claim["exact_claim_text"], "")
+        self.assertEqual(claim["model_claim_text"], "Exercise reduces cardiovascular risk.")
+        self.assertEqual(claim["claim_text_match_method"], "unmatched")
+
+    def test_token_alignment_recovers_exact_source_punctuation(self) -> None:
+        exact, method = align_claim_text(
+            "THE facts are dead ends", "Before. The facts are dead ends, right?"
+        )
+        self.assertEqual(exact, "The facts are dead ends")
+        self.assertEqual(method, "case_insensitive")
+
+        exact, method = align_claim_text(
+            "the facts are dead ends right", "Before. The facts are dead ends, right?"
+        )
+        self.assertEqual(exact, "The facts are dead ends, right")
+        self.assertEqual(method, "token_sequence")
+
+    def test_ambiguous_token_alignment_fails_closed(self) -> None:
+        exact, method = align_claim_text("SAME claim!", "same claim and same claim")
+        self.assertEqual(exact, "")
+        self.assertEqual(method, "unmatched")
+
+    def test_inconsistent_claim_becomes_uncertain_and_is_flagged(self) -> None:
+        passage = self.passage()
+        provider_result = self.provider_result(passage["passage_id"])
+        provider_result["claims"][0]["exact_claim_text"] = "word1 word2"
+        provider_result["claims"][0]["fringe_status"] = "fringe"
+        rows = analytic_rows(
+            [passage], {passage["passage_id"]: provider_result}, "sample-1", "jre"
+        )
+        self.assertEqual(rows[0]["fringe_status"], "uncertain")
+        self.assertEqual(rows[0]["inconsistent_claim_coding_count"], 1)
+        claim = json.loads(rows[0]["claims_json"])[0]
+        self.assertEqual(claim["model_fringe_status"], "fringe")
+        self.assertEqual(claim["fringe_status"], "uncertain")
+
+    def test_stage04_health_label_is_retained_without_model_recheck(self) -> None:
+        passage = self.passage()
+        provider_result = self.provider_result(passage["passage_id"])
+        provider_result["claims"][0]["exact_claim_text"] = "word1 word2"
+        rows = analytic_rows(
+            [passage], {passage["passage_id"]: provider_result}, "sample-1", "jre"
+        )
+        self.assertEqual(rows[0]["health_related"], 1)
+        self.assertEqual(rows[0]["science_related"], 0)
+        self.assertNotIn("passage_rationale", rows[0])
 
 
 class BatchFileCollectionTests(unittest.TestCase):
@@ -349,7 +402,7 @@ class BatchFileCollectionTests(unittest.TestCase):
             MODULE["download_batch_results"](self.client, self.batch, self.run_dir)
         self.assertEqual((self.run_dir / "batch_errors.jsonl").read_bytes(), self.error_bytes)
         self.client.files.content.assert_called_once_with("file-errors")
-        self.assertFalse((self.run_dir / "claim_classification.csv").exists())
+        self.assertFalse((self.run_dir / "window_claim_classification.csv").exists())
 
     def test_partial_success_preserves_both_provider_files(self) -> None:
         self.batch.output_file_id = "file-output"

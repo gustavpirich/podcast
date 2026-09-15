@@ -29,6 +29,7 @@ podcast_observational/
 │   ├── raw/        # immutable source audio/transcripts/metadata (not tracked)
 │   └── derived/    # reproducibly generated analytic data (not tracked)
 ├── code/           # scripts/notebooks that turn inputs into outputs
+├── dashboard/      # local interactive classification inspector
 ├── tests/          # fast checks for deterministic pipeline logic
 ├── output/         # generated tables, figures, and reports (not tracked)
 ├── paper/          # manuscript, bibliography, and submission materials
