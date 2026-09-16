@@ -18,6 +18,7 @@ Credentials are read only from OPENAI_API_KEY and are never written to disk.
 from __future__ import annotations
 
 import argparse
+import gzip
 import csv
 import hashlib
 import importlib.metadata
@@ -307,9 +308,19 @@ def jsonl_bytes(rows: Iterable[dict[str, Any]]) -> bytes:
 
 
 def episode_paths(show_directory: str, video_id: str) -> tuple[Path, Path]:
-    transcript_path = TRANSCRIPTS / show_directory / video_id / "transcript.json"
+    episode_dir = TRANSCRIPTS / show_directory / video_id
+    transcript_path = episode_dir / "transcript.json"
+    if not transcript_path.is_file() and (episode_dir / "transcript.json.gz").is_file():
+        transcript_path = episode_dir / "transcript.json.gz"
     episode_output = OUTPUT_ROOT / show_directory / video_id
     return transcript_path, episode_output
+
+
+def load_transcript(path: Path) -> dict[str, Any]:
+    if path.suffix == ".gz":
+        with gzip.open(path, "rt", encoding="utf-8") as handle:
+            return json.load(handle)
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def load_inputs(
@@ -322,13 +333,17 @@ def load_inputs(
         raise BatchClassificationError(f"Transcript does not exist: {transcript_path}")
     if not CONFIG_PATH.is_file():
         raise BatchClassificationError(f"Configuration does not exist: {CONFIG_PATH}")
-    transcript = json.loads(transcript_path.read_text(encoding="utf-8"))
+    transcript = load_transcript(transcript_path)
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
     validate_config(config)
     utterances = transcript.get("utterances") or []
     if not utterances:
         raise BatchClassificationError("Transcript contains no utterances")
-    actual_id = transcript.get("episode", {}).get("youtube_video_id") or video_id
+    actual_id = (
+        transcript.get("episode", {}).get("episode_id")
+        or transcript.get("episode", {}).get("youtube_video_id")
+        or video_id
+    )
     if actual_id != video_id:
         raise BatchClassificationError("Transcript episode ID differs from --video-id")
     return transcript, config, transcript_path, episode_output

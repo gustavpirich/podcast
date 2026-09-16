@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import gzip
 import hashlib
 import io
 import json
@@ -36,7 +37,7 @@ SAMPLE_OUTPUT_ROOT = (
     PROJECT_ROOT / "data" / "derived" / "classifications" / "openai_batch_samples"
 )
 DEFAULT_SAMPLE = "config/doac_starter_sample.json"
-VIDEO_ID_PATTERN = re.compile(r"^[A-Za-z0-9_-]{11}$")
+EPISODE_ID_PATTERN = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]{0,63}$")
 
 
 class SampleClassificationError(RuntimeError):
@@ -72,6 +73,20 @@ def sha256_file(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def transcript_path(show_directory: str, episode_id: str) -> Path:
+    episode_dir = TRANSCRIPTS / show_directory / episode_id
+    plain = episode_dir / "transcript.json"
+    compressed = episode_dir / "transcript.json.gz"
+    return plain if plain.is_file() or not compressed.is_file() else compressed
+
+
+def load_transcript(path: Path) -> dict[str, Any]:
+    if path.suffix == ".gz":
+        with gzip.open(path, "rt", encoding="utf-8") as handle:
+            return json.load(handle)
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def project_path(value: str) -> Path:
     path = (PROJECT_ROOT / value).resolve()
     if not path.is_relative_to(PROJECT_ROOT):
@@ -98,9 +113,9 @@ def episode_state(show_directory: str, video_id: str) -> tuple[str | None, str]:
         recorded_transcript_hash = manifest["input"]["transcript_sha256"]
     except (KeyError, TypeError, json.JSONDecodeError) as exc:
         raise SampleClassificationError(f"Invalid request manifest for {video_id}") from exc
-    transcript_path = TRANSCRIPTS / show_directory / video_id / "transcript.json"
+    source_transcript = transcript_path(show_directory, video_id)
     if recorded_config_hash != sha256_file(CLASSIFIER_CONFIG) or (
-        recorded_transcript_hash != sha256_file(transcript_path)
+        recorded_transcript_hash != sha256_file(source_transcript)
     ):
         return run_id, "stale"
     if (run_dir / "window_classification.csv").is_file() and (
@@ -144,19 +159,21 @@ def load_sample(sample_path: Path) -> tuple[str, str, list[Episode], dict[str, A
     seen: set[str] = set()
     for number, row in enumerate(rows, start=1):
         try:
-            video_id = str(row["youtube_id"])
+            video_id = str(row.get("episode_id") or row["youtube_id"])
         except (KeyError, TypeError) as exc:
-            raise SampleClassificationError(f"Sample episode {number} has no YouTube ID") from exc
-        if not VIDEO_ID_PATTERN.fullmatch(video_id) or video_id in seen:
-            raise SampleClassificationError(f"Invalid or duplicate YouTube ID: {video_id}")
+            raise SampleClassificationError(f"Sample episode {number} has no episode ID") from exc
+        if not EPISODE_ID_PATTERN.fullmatch(video_id) or video_id in seen:
+            raise SampleClassificationError(f"Invalid or duplicate episode ID: {video_id}")
         seen.add(video_id)
-        transcript_path = TRANSCRIPTS / show_directory / video_id / "transcript.json"
-        if not transcript_path.is_file():
-            raise SampleClassificationError(f"Missing transcript: {transcript_path}")
+        source_transcript = transcript_path(show_directory, video_id)
+        if not source_transcript.is_file():
+            raise SampleClassificationError(f"Missing transcript: {source_transcript}")
         try:
-            transcript = json.loads(transcript_path.read_text(encoding="utf-8"))
+            transcript = load_transcript(source_transcript)
             episode_record = transcript["episode"]
-            recorded_id = episode_record["youtube_video_id"]
+            recorded_id = episode_record.get("episode_id") or episode_record.get(
+                "youtube_video_id"
+            )
             title = str(episode_record["title"])
             utterances = transcript["utterances"]
             words = sum(len(utterance["words"]) for utterance in utterances)

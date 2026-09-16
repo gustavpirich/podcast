@@ -2,7 +2,7 @@
 """Create provisional health/science labels for diarized transcript turns.
 
 INPUTS
-    data/derived/transcripts/<show-directory>/<video-id>/transcript.json
+    data/derived/transcripts/<show-directory>/<episode-id>/transcript.json[.gz]
     data/raw/transcripts/<show-directory>/<video-id>/rss_metadata.json
     config/content_classification.json
 
@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import gzip
 import hashlib
 import io
 import json
@@ -38,6 +39,21 @@ CLASSIFICATIONS = PROJECT_ROOT / "data" / "derived" / "classifications"
 
 class ClassificationError(RuntimeError):
     """An expected input or validation failure with a readable message."""
+
+
+def resolve_transcript_path(episode_dir: Path) -> Path:
+    for name in ("transcript.json", "transcript.json.gz"):
+        path = episode_dir / name
+        if path.is_file():
+            return path
+    return episode_dir / "transcript.json"
+
+
+def load_json_path(path: Path) -> dict[str, Any]:
+    if path.suffix == ".gz":
+        with gzip.open(path, "rt", encoding="utf-8") as handle:
+            return json.load(handle)
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def validate_path_component(value: str, option: str) -> str:
@@ -206,6 +222,7 @@ def build_summary(
 ) -> dict[str, Any]:
     media_duration = (
         raw_metadata.get("media", {}).get("measured", {}).get("duration_seconds")
+        or raw_metadata.get("media", {}).get("duration_seconds")
     )
     total_speaking_seconds = sum(row["duration_seconds"] for row in rows)
     totals = {
@@ -342,14 +359,14 @@ def main() -> int:
     try:
         show_directory = validate_path_component(args.show_directory, "--show-directory")
         video_id = validate_path_component(args.video_id, "--video-id")
-        input_path = TRANSCRIPTS / show_directory / video_id / "transcript.json"
+        input_path = resolve_transcript_path(TRANSCRIPTS / show_directory / video_id)
         metadata_path = RAW_TRANSCRIPTS / show_directory / video_id / "rss_metadata.json"
         output_dir = CLASSIFICATIONS / show_directory / video_id
         if not input_path.is_file():
             raise ClassificationError(f"Transcript input does not exist: {input_path}")
         if not metadata_path.is_file():
             raise ClassificationError(f"Raw metadata input does not exist: {metadata_path}")
-        transcript = json.loads(input_path.read_text(encoding="utf-8"))
+        transcript = load_json_path(input_path)
         raw_metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
         config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
         utterances = transcript.get("utterances") or []
@@ -358,7 +375,11 @@ def main() -> int:
 
         rows = classify_direct(utterances, config)
         apply_context(rows, config)
-        episode_id = transcript.get("episode", {}).get("youtube_video_id") or video_id
+        episode_id = (
+            transcript.get("episode", {}).get("episode_id")
+            or transcript.get("episode", {}).get("youtube_video_id")
+            or video_id
+        )
         if episode_id != video_id:
             raise ClassificationError("Transcript episode ID differs from --video-id")
         audit_fraction = float(config["negative_audit_fraction"])

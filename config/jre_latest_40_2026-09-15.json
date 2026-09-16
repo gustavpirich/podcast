@@ -1,0 +1,375 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "jre_latest_40_rss_archive_2026-09-15",
+  "show_id": "jre",
+  "selected_at": "2026-09-15",
+  "selection_rule": "Include numbered JRE and JRE MMA Show releases in the official RSS snapshot; exclude Fight Companion and unnumbered specials. Freeze the 40 most recent eligible releases in that snapshot.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/GLT1412515089",
+    "snapshot_relative_path": "data/raw/rss/the_joe_rogan_experience/jre_rss_2026-09-15.xml",
+    "snapshot_sha256": "b008521074ff00a4b2fe9e561b011dc863b2cc491124d7b3d59c23c45a11deb4"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "KIY0np5KDfE",
+      "rss_guid": "019e9130-afb5-11f1-ba2a-77da5f707852",
+      "published_date": "2026-09-14",
+      "guest_name": "Andrew Huberman",
+      "duration_seconds": 9958.0,
+      "episode_kind": "numbered",
+      "episode_number": 2553
+    },
+    {
+      "episode_id": "Jw2lg96Wl1o",
+      "rss_guid": "41147402-acd5-11f1-ae8e-bb792e6b1e3d",
+      "published_date": "2026-09-10",
+      "guest_name": "Ehsan Ahmad & Deric Poston",
+      "duration_seconds": 11204.0,
+      "episode_kind": "numbered",
+      "episode_number": 2552
+    },
+    {
+      "episode_id": "hSQ1iVqEZO4",
+      "rss_guid": "4a7504f8-abd6-11f1-922a-8727e0ad3325",
+      "published_date": "2026-09-09",
+      "guest_name": "Daniel Kokotajlo",
+      "duration_seconds": 8645.0,
+      "episode_kind": "numbered",
+      "episode_number": 2551
+    },
+    {
+      "episode_id": "BAhcDwMGKYU",
+      "rss_guid": "3b71cc92-ab23-11f1-bc29-3ba1f2c16d91",
+      "published_date": "2026-09-08",
+      "guest_name": "Rick Springfield",
+      "duration_seconds": 8733.0,
+      "episode_kind": "numbered",
+      "episode_number": 2550
+    },
+    {
+      "episode_id": "t6Jrww8kG24",
+      "rss_guid": "97b946a8-a725-11f1-b1c6-fb57637e3c16",
+      "published_date": "2026-09-03",
+      "guest_name": "Jared Diamond",
+      "duration_seconds": 9254.0,
+      "episode_kind": "numbered",
+      "episode_number": 2549
+    },
+    {
+      "episode_id": "efwqfxt717Q",
+      "rss_guid": "2f848f20-a658-11f1-ae00-9f0126f17601",
+      "published_date": "2026-09-02",
+      "guest_name": "Ethyn Ewing",
+      "duration_seconds": 9756.0,
+      "episode_kind": "mma",
+      "episode_number": 185
+    },
+    {
+      "episode_id": "x04pr4QLl7o",
+      "rss_guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78",
+      "published_date": "2026-09-01",
+      "guest_name": "Brian Simpson",
+      "duration_seconds": 10196.0,
+      "episode_kind": "numbered",
+      "episode_number": 2548
+    },
+    {
+      "episode_id": "EmgKSK-YMOU",
+      "rss_guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
+      "published_date": "2026-08-27",
+      "guest_name": "Daniel Everett",
+      "duration_seconds": 9828.0,
+      "episode_kind": "numbered",
+      "episode_number": 2547
+    },
+    {
+      "episode_id": "rnt0wEc9YmI",
+      "rss_guid": "7c0a5244-a0db-11f1-bbe3-13e22537d5bb",
+      "published_date": "2026-08-26",
+      "guest_name": "Michael Button",
+      "duration_seconds": 9468.0,
+      "episode_kind": "numbered",
+      "episode_number": 2546
+    },
+    {
+      "episode_id": "33Fc_mLqY90",
+      "rss_guid": "fc78372e-a00f-11f1-b4a6-67ef23d80453",
+      "published_date": "2026-08-25",
+      "guest_name": "Jesse Michels",
+      "duration_seconds": 11349.0,
+      "episode_kind": "numbered",
+      "episode_number": 2545
+    },
+    {
+      "episode_id": "vh8FkZaQ06I",
+      "rss_guid": "53c84ccc-9d0d-11f1-8f63-4b10cab2daaa",
+      "published_date": "2026-08-21",
+      "guest_name": "Chris Williamson",
+      "duration_seconds": 10835.0,
+      "episode_kind": "numbered",
+      "episode_number": 2544
+    },
+    {
+      "episode_id": "fddF7pRu9Fs",
+      "rss_guid": "bd78a8a0-9c28-11f1-b11e-ef9789715e8e",
+      "published_date": "2026-08-20",
+      "guest_name": "MrBallen",
+      "duration_seconds": 10937.0,
+      "episode_kind": "numbered",
+      "episode_number": 2543
+    },
+    {
+      "episode_id": "BYVQfLi6wMA",
+      "rss_guid": "d0eed536-9b6e-11f1-91e1-87ba07d621a5",
+      "published_date": "2026-08-19",
+      "guest_name": "Steve Hilton",
+      "duration_seconds": 11132.0,
+      "episode_kind": "numbered",
+      "episode_number": 2542
+    },
+    {
+      "episode_id": "v2oBLSDCZaY",
+      "rss_guid": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
+      "published_date": "2026-08-18",
+      "guest_name": "Thomas Campbell",
+      "duration_seconds": 10382.0,
+      "episode_kind": "numbered",
+      "episode_number": 2541
+    },
+    {
+      "episode_id": "9iENvZ2siTo",
+      "rss_guid": "b5568610-9764-11f1-8761-4370c8a2da8b",
+      "published_date": "2026-08-14",
+      "guest_name": "Travis Barker",
+      "duration_seconds": 9381.0,
+      "episode_kind": "numbered",
+      "episode_number": 2540
+    },
+    {
+      "episode_id": "OBH4F5a6zAA",
+      "rss_guid": "a3aee712-96bb-11f1-807f-c72272cb9884",
+      "published_date": "2026-08-13",
+      "guest_name": "Protect Our Parks 17",
+      "duration_seconds": 16470.0,
+      "episode_kind": "numbered",
+      "episode_number": 2539
+    },
+    {
+      "episode_id": "pCH-R3L6QTc",
+      "rss_guid": "22233586-966b-11f1-8f2f-03112136bec0",
+      "published_date": "2026-08-12",
+      "guest_name": "Joe DeRosa",
+      "duration_seconds": 10047.0,
+      "episode_kind": "numbered",
+      "episode_number": 2538
+    },
+    {
+      "episode_id": "xEBeQH39CZI",
+      "rss_guid": "99c85bdc-9523-11f1-8cce-6b6deb9f7357",
+      "published_date": "2026-08-11",
+      "guest_name": "Aljamain Sterling",
+      "duration_seconds": 10507.0,
+      "episode_kind": "mma",
+      "episode_number": 184
+    },
+    {
+      "episode_id": "hxid7FofhMw",
+      "rss_guid": "16d5d7dc-91ee-11f1-bdcf-df9a64476d59",
+      "published_date": "2026-08-07",
+      "guest_name": "David Sinclair",
+      "duration_seconds": 9037.0,
+      "episode_kind": "numbered",
+      "episode_number": 2537
+    },
+    {
+      "episode_id": "O52aLL8ycGU",
+      "rss_guid": "0d4cb1e8-9123-11f1-be7f-477c38b7e87e",
+      "published_date": "2026-08-06",
+      "guest_name": "Eric Goode & Jeremy McBride",
+      "duration_seconds": 8503.0,
+      "episode_kind": "numbered",
+      "episode_number": 2536
+    },
+    {
+      "episode_id": "6SxEj1cujQE",
+      "rss_guid": "9bd82c7c-905f-11f1-9581-0712930da240",
+      "published_date": "2026-08-05",
+      "guest_name": "Andrew Wilson",
+      "duration_seconds": 10432.0,
+      "episode_kind": "numbered",
+      "episode_number": 2535
+    },
+    {
+      "episode_id": "y9KNLlRE2HQ",
+      "rss_guid": "a7d26330-8f8d-11f1-b08c-239fa033ae8f",
+      "published_date": "2026-08-04",
+      "guest_name": "Rico Verhoeven",
+      "duration_seconds": 8592.0,
+      "episode_kind": "mma",
+      "episode_number": 183
+    },
+    {
+      "episode_id": "ZACmIrFbfPU",
+      "rss_guid": "0eb8a8e6-8c70-11f1-9c27-1f2ea3655d79",
+      "published_date": "2026-07-31",
+      "guest_name": "Annie Jacobsen",
+      "duration_seconds": 8464.0,
+      "episode_kind": "numbered",
+      "episode_number": 2534
+    },
+    {
+      "episode_id": "jre-2533-529266008f6c",
+      "rss_guid": "3e41b214-8ba4-11f1-9b3e-6700767b4af0",
+      "published_date": "2026-07-30",
+      "guest_name": "Diana Pasulka",
+      "duration_seconds": 9866.0,
+      "episode_kind": "numbered",
+      "episode_number": 2533
+    },
+    {
+      "episode_id": "jre-2532-1c8e049cd7a3",
+      "rss_guid": "c63dd774-8afa-11f1-813f-4bb63349f062",
+      "published_date": "2026-07-29",
+      "guest_name": "Tim Robbins",
+      "duration_seconds": 9405.0,
+      "episode_kind": "numbered",
+      "episode_number": 2532
+    },
+    {
+      "episode_id": "jre-2531-4c98eb433246",
+      "rss_guid": "bfe7ec64-8a20-11f1-b3c0-37f3fff0fd04",
+      "published_date": "2026-07-28",
+      "guest_name": "Forrest Galante",
+      "duration_seconds": 10901.0,
+      "episode_kind": "numbered",
+      "episode_number": 2531
+    },
+    {
+      "episode_id": "jre-2530-66037a56aa99",
+      "rss_guid": "b569ee94-856c-11f1-bb2f-cf7ff131c798",
+      "published_date": "2026-07-23",
+      "guest_name": "Timothy Alberino",
+      "duration_seconds": 9969.0,
+      "episode_kind": "numbered",
+      "episode_number": 2530
+    },
+    {
+      "episode_id": "jre-2529-9e72d2e8f11d",
+      "rss_guid": "266c6a86-8559-11f1-a679-ebb68a31490a",
+      "published_date": "2026-07-22",
+      "guest_name": "Zach Bush",
+      "duration_seconds": 10651.0,
+      "episode_kind": "numbered",
+      "episode_number": 2529
+    },
+    {
+      "episode_id": "jre-2528-cc461a008216",
+      "rss_guid": "8aaa3e0c-8495-11f1-8af9-63001aaad13a",
+      "published_date": "2026-07-21",
+      "guest_name": "Cassie Coppersmith",
+      "duration_seconds": 9603.0,
+      "episode_kind": "numbered",
+      "episode_number": 2528
+    },
+    {
+      "episode_id": "jre-2527-4ae9aab2ca06",
+      "rss_guid": "72615f9a-80aa-11f1-adca-2f13d8da1330",
+      "published_date": "2026-07-16",
+      "guest_name": "MrBeast",
+      "duration_seconds": 10483.0,
+      "episode_kind": "numbered",
+      "episode_number": 2527
+    },
+    {
+      "episode_id": "jre-2526-7eed63cbc9fe",
+      "rss_guid": "03cad5ca-7ffb-11f1-a84e-db74b0b2b17c",
+      "published_date": "2026-07-15",
+      "guest_name": "JD Vance",
+      "duration_seconds": 10774.0,
+      "episode_kind": "numbered",
+      "episode_number": 2526
+    },
+    {
+      "episode_id": "jre-2525-4bebe274d11a",
+      "rss_guid": "709f4dec-7f16-11f1-ae05-dbca289f806f",
+      "published_date": "2026-07-14",
+      "guest_name": "Nick Bostrom",
+      "duration_seconds": 8441.0,
+      "episode_kind": "numbered",
+      "episode_number": 2525
+    },
+    {
+      "episode_id": "jre-mma-182-c1b92c581f65",
+      "rss_guid": "34453dce-7b20-11f1-92f8-4f32c8ca28d7",
+      "published_date": "2026-07-09",
+      "guest_name": "Protect Ya Neck",
+      "duration_seconds": 9903.0,
+      "episode_kind": "mma",
+      "episode_number": 182
+    },
+    {
+      "episode_id": "jre-2524-a83dbee3ca39",
+      "rss_guid": "91f58b9e-7a68-11f1-b64d-b7a9d3eaf022",
+      "published_date": "2026-07-08",
+      "guest_name": "Rupert Lowe",
+      "duration_seconds": 7745.0,
+      "episode_kind": "numbered",
+      "episode_number": 2524
+    },
+    {
+      "episode_id": "jre-2523-bd4fe6197386",
+      "rss_guid": "20c24484-7992-11f1-a40e-3f6b34f7c121",
+      "published_date": "2026-07-07",
+      "guest_name": "Ali Siddiq",
+      "duration_seconds": 10030.0,
+      "episode_kind": "numbered",
+      "episode_number": 2523
+    },
+    {
+      "episode_id": "jre-2522-0afb1a251d9c",
+      "rss_guid": "254816ac-75d0-11f1-bc38-8bc518292219",
+      "published_date": "2026-07-02",
+      "guest_name": "Tony Hinchcliffe",
+      "duration_seconds": 10478.0,
+      "episode_kind": "numbered",
+      "episode_number": 2522
+    },
+    {
+      "episode_id": "jre-2521-51d2c17d5326",
+      "rss_guid": "cff13406-751e-11f1-8cb0-d7b1301ef48c",
+      "published_date": "2026-07-01",
+      "guest_name": "Aravind Srinivas",
+      "duration_seconds": 9429.0,
+      "episode_kind": "numbered",
+      "episode_number": 2521
+    },
+    {
+      "episode_id": "jre-2520-16b0c9ec7c39",
+      "rss_guid": "21b93c20-7420-11f1-83c5-df47138ce738",
+      "published_date": "2026-06-30",
+      "guest_name": "Tommy Lee",
+      "duration_seconds": 8952.0,
+      "episode_kind": "numbered",
+      "episode_number": 2520
+    },
+    {
+      "episode_id": "jre-2519-9bed36f76944",
+      "rss_guid": "f613449c-70e8-11f1-8b42-c7b7016e25ae",
+      "published_date": "2026-06-26",
+      "guest_name": "Scott Eastwood",
+      "duration_seconds": 9255.0,
+      "episode_kind": "numbered",
+      "episode_number": 2519
+    },
+    {
+      "episode_id": "jre-2518-fad1af822f0e",
+      "rss_guid": "231bd648-6f6d-11f1-a048-3b077aa29ad3",
+      "published_date": "2026-06-24",
+      "guest_name": "Tim Dillon",
+      "duration_seconds": 9902.0,
+      "episode_kind": "numbered",
+      "episode_number": 2518
+    }
+  ]
+}

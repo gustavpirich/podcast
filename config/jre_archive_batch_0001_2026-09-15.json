@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1",
+  "sample_id": "jre_archive_batch_0001_older_than_2542_2026-09-15",
+  "show_id": "jre",
+  "selected_at": "2026-09-15",
+  "selection_rule": "The next ten full-length releases immediately preceding the existing #2542 through #2550 pilot in official JRE RSS chronology. Include numbered JRE and JRE MMA Show episodes; exclude clips, excerpts, Fight Companion, and unnumbered specials.",
+  "episodes": [
+    {"published_date": "2026-08-18", "rss_guid": "792ba37c-9a99-11f1-802d-6faff96a5ef8", "youtube_id": "v2oBLSDCZaY", "guest_name": "Thomas Campbell"},
+    {"published_date": "2026-08-14", "rss_guid": "b5568610-9764-11f1-8761-4370c8a2da8b", "youtube_id": "9iENvZ2siTo", "guest_name": "Travis Barker"},
+    {"published_date": "2026-08-13", "rss_guid": "a3aee712-96bb-11f1-807f-c72272cb9884", "youtube_id": "OBH4F5a6zAA", "guest_name": "Protect Our Parks 17"},
+    {"published_date": "2026-08-12", "rss_guid": "22233586-966b-11f1-8f2f-03112136bec0", "youtube_id": "pCH-R3L6QTc", "guest_name": "Joe DeRosa"},
+    {"published_date": "2026-08-11", "rss_guid": "99c85bdc-9523-11f1-8cce-6b6deb9f7357", "youtube_id": "xEBeQH39CZI", "guest_name": "Aljamain Sterling"},
+    {"published_date": "2026-08-07", "rss_guid": "16d5d7dc-91ee-11f1-bdcf-df9a64476d59", "youtube_id": "hxid7FofhMw", "guest_name": "David Sinclair"},
+    {"published_date": "2026-08-06", "rss_guid": "0d4cb1e8-9123-11f1-be7f-477c38b7e87e", "youtube_id": "O52aLL8ycGU", "guest_name": "Eric Goode & Jeremy McBride"},
+    {"published_date": "2026-08-05", "rss_guid": "9bd82c7c-905f-11f1-9581-0712930da240", "youtube_id": "6SxEj1cujQE", "guest_name": "Andrew Wilson"},
+    {"published_date": "2026-08-04", "rss_guid": "a7d26330-8f8d-11f1-b08c-239fa033ae8f", "youtube_id": "y9KNLlRE2HQ", "guest_name": "Rico Verhoeven"},
+    {"published_date": "2026-07-31", "rss_guid": "0eb8a8e6-8c70-11f1-9c27-1f2ea3655d79", "youtube_id": "ZACmIrFbfPU", "guest_name": "Annie Jacobsen"}
+  ]
+}

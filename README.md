@@ -52,7 +52,29 @@ git diff
 python code/01_download.py \
   "https://www.youtube.com/watch?v=BAhcDwMGKYU" \
   --show jre
+
+# Download or safely resume a frozen episode batch.
+python code/01_download.py \
+  --sample config/jre_archive_batch_0001_2026-09-15.json \
+  --yes
+
+# Freeze the complete eligible JRE RSS archive without downloading audio.
+python code/01_build_jre_rss_archive.py \
+  --snapshot-date 2026-09-15 \
+  --yes
+
+# Inspect the next ten remote transcription jobs without submitting them.
+python code/02_transcribe_assemblyai_batch.py \
+  --sample config/jre_full_archive_2026-09-15.json \
+  --delivery rss-direct \
+  --max-episodes 10
 ```
+
+The sparse JRE workflow sends the official public RSS enclosure directly to
+AssemblyAI and retains no additional local audio. It writes readable Markdown
+plus gzip-compressed provider and normalized JSON. Each invocation processes at
+most ten unfinished episodes by default, so the archive can be resumed in
+bounded batches. Add `--yes` only after reviewing the displayed price estimate.
 
 Before the first real analysis, define in the plan: the sampling frame, unit of
 analysis, inclusion/exclusion rules, transcript provenance, coding protocol,

@@ -2,7 +2,10 @@
 
 from __future__ import annotations
 
+import gzip
+import json
 import runpy
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -17,11 +20,21 @@ BATCH_MODULE = runpy.run_path(
         / "02_transcribe_assemblyai_batch.py"
     )
 )
+WINDOW_MODULE = runpy.run_path(
+    str(
+        Path(__file__).resolve().parents[1]
+        / "code"
+        / "04_classify_content_openai_batch.py"
+    )
+)
 format_timestamp = MODULE["format_timestamp"]
 known_speakers = MODULE["known_speakers"]
 markdown_transcript = MODULE["markdown_transcript"]
 parse_upload_response = MODULE["parse_upload_response"]
 sanitized_provider_error = MODULE["sanitized_provider_error"]
+atomic_write_json_gzip = MODULE["atomic_write_json_gzip"]
+resolve_rss_audio_url = MODULE["resolve_rss_audio_url"]
+load_window_transcript = WINDOW_MODULE["load_transcript"]
 BatchEpisode = BATCH_MODULE["BatchEpisode"]
 episode_command = BATCH_MODULE["episode_command"]
 load_batch = BATCH_MODULE["load_batch"]
@@ -73,6 +86,26 @@ class BatchCommandTests(unittest.TestCase):
         self.assertIn("Andrew Huberman", command)
         self.assertIn("--submit-only", command)
         self.assertNotIn("ASSEMBLYAI_API_KEY", " ".join(command))
+
+    def test_rss_direct_batch_command_uses_episode_id(self) -> None:
+        episode = BatchEpisode(
+            video_id="jre-2553",
+            rss_guid="example-guid",
+            guest_name="Guest",
+            title="#2553 - Guest",
+            duration_seconds=60.0,
+            state="ready",
+        )
+        command = episode_command(
+            "the_joe_rogan_experience",
+            episode,
+            submit_only=True,
+            retry_failed=False,
+            delivery="rss-direct",
+        )
+        self.assertIn("--episode-id", command)
+        self.assertIn("jre-2553", command)
+        self.assertIn("rss-direct", command)
 
     def test_jre_batch_uses_the_configured_host(self) -> None:
         show_id, _, hosts, episodes = load_batch(
@@ -129,6 +162,30 @@ class SafeErrorTests(unittest.TestCase):
         self.assertEqual(result, "failed [temporary media URL omitted]: invalid")
         self.assertNotIn("private", result)
         self.assertNotIn("secret", result)
+
+
+class SparseStorageTests(unittest.TestCase):
+    def test_compressed_json_round_trip(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "transcript.json.gz"
+            expected = {"utterances": [{"text": "hello"}]}
+            atomic_write_json_gzip(path, expected)
+            with gzip.open(path, "rt", encoding="utf-8") as handle:
+                self.assertEqual(json.load(handle), expected)
+            self.assertEqual(load_window_transcript(path), expected)
+
+    def test_rss_delivery_uses_recorded_enclosure(self) -> None:
+        metadata = {
+            "episode": {
+                "guid": "episode-guid",
+                "enclosure_url": "https://example.org/episode.mp3",
+                "enclosure_type": "audio/mpeg",
+            }
+        }
+        url, details = resolve_rss_audio_url(metadata)
+        self.assertEqual(url, "https://example.org/episode.mp3")
+        self.assertEqual(details["method"], "rss_enclosure_url")
+        self.assertNotIn("enclosure_url", details)
 
 
 if __name__ == "__main__":

@@ -98,6 +98,29 @@ protocol.
   claim instances map to 7,182 unique statement units, and every existing claim
   and broad-fringe field is unchanged. The model outputs and category summaries
   remain provisional until the stratified human review is completed.
+- On 2026-09-15, the researcher requested expansion toward the complete JRE
+  archive using the existing inclusion rule: numbered JRE and JRE MMA Show
+  releases are included; clips, excerpts, Fight Companion, and unnumbered
+  specials remain excluded. Acquisition proceeds in frozen, resumable batches.
+  The first older batch contains the ten eligible releases immediately before
+  #2542; a companion current batch contains #2551 through #2553, the eligible
+  releases published after the original pilot as of the access date.
+  The current 129 kbps M4A format cannot fit the full archive on the available
+  disk, motivating the storage decision recorded below.
+- On 2026-09-15, the researcher chose metadata and transcripts rather than
+  archive-wide local audio retention. The frozen official RSS snapshot contains
+  2,660 eligible episodes after applying the documented Fight Companion
+  exclusion, totaling 7,110.43 declared audio hours. Twenty-three existing raw
+  episode records are reused and 2,637 metadata-only records were created.
+  AssemblyAI will receive public RSS enclosures server-to-server in resumable
+  batches of at most ten episodes by default. New transcript Markdown is stored
+  with gzip-compressed provider and normalized JSON; no billable archive jobs
+  were submitted while implementing this choice.
+- On 2026-09-15, after reviewing the archive-wide cost estimate, the researcher
+  restricted transcription to the 40 most recent eligible RSS releases. The
+  frozen subset totals 110.80 hours; ten episodes already have transcripts, so
+  30 episodes and 82.61 hours remain. The configured estimate for the remaining
+  transcription is $27.26, processed in resumable batches of at most ten.
 
 ## Decisions still required from the researcher
 
@@ -124,9 +147,11 @@ model judgments, with exaggeration a particularly important calibration target.
    convert the provisional claim-level fringe screen into a validated measure?
 4. How will factual accuracy, misinformation, intent, and harm be
    operationalized if they are later added as separate outcomes?
-5. Is the aim descriptive or causal? A causal claim needs an explicit
+5. Does the $27.26 estimated cost for the remaining 30 episodes fit the
+   transcription budget? The first ten-episode batch is estimated at $9.55.
+6. Is the aim descriptive or causal? A causal claim needs an explicit
     identification strategy and assumptions beyond this repository structure.
-6. What transcript rights, privacy/IRB, platform terms, and data-security rules
+7. What transcript rights, privacy/IRB, platform terms, and data-security rules
    apply?
 
 ## Phased workflow and checkpoints

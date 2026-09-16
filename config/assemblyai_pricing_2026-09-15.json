@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1",
+  "accessed_at": "2026-09-15",
+  "source_url": "https://www.assemblyai.com/pricing",
+  "currency": "USD",
+  "rates_per_audio_hour": {
+    "universal_3_5_pro": 0.21,
+    "speaker_diarization": 0.02,
+    "speaker_identification_medium": 0.10,
+    "configured_total": 0.33
+  },
+  "note": "Planning estimate only. Confirm the current provider price and account terms before submission."
+}

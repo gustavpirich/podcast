@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import gzip
 import hashlib
 import importlib.metadata
 import io
@@ -52,7 +53,7 @@ ENDPOINT = "/v1/responses"
 TERMINAL_BATCH_STATUSES = {"completed", "failed", "expired", "cancelled"}
 DEFAULT_SAMPLE = "config/doac_starter_sample.json"
 SAFE_COMPONENT = re.compile(r"^[A-Za-z0-9._-]+$")
-VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
+VIDEO_ID = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]{0,63}$")
 RELATION_TO_FRINGE_STATUS = {
     "consistent_with_consensus": "not_fringe",
     "within_legitimate_debate": "not_fringe",
@@ -110,7 +111,11 @@ def load_json(path: Path, label: str) -> dict[str, Any]:
     if not path.is_file():
         raise PassageClassificationError(f"Missing {label}: {path}")
     try:
-        value = json.loads(path.read_text(encoding="utf-8"))
+        if path.suffix == ".gz":
+            with gzip.open(path, "rt", encoding="utf-8") as handle:
+                value = json.load(handle)
+        else:
+            value = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError) as exc:
         raise PassageClassificationError(f"Invalid {label}: {path}") from exc
     if not isinstance(value, dict):
@@ -423,13 +428,20 @@ def load_sample_inputs(sample_path: Path) -> dict[str, Any]:
     source_files: list[dict[str, Any]] = []
     seen: set[str] = set()
     for row in episode_rows:
-        episode_id = str(row.get("youtube_id") or "")
+        episode_id = str(row.get("episode_id") or row.get("youtube_id") or "")
         if not VIDEO_ID.fullmatch(episode_id) or episode_id in seen:
-            raise PassageClassificationError(f"Invalid or duplicate YouTube ID: {episode_id}")
+            raise PassageClassificationError(f"Invalid or duplicate episode ID: {episode_id}")
         seen.add(episode_id)
-        transcript_path = TRANSCRIPTS / show_directory / episode_id / "transcript.json"
+        transcript_dir = TRANSCRIPTS / show_directory / episode_id
+        transcript_path = transcript_dir / "transcript.json"
+        if not transcript_path.is_file() and (transcript_dir / "transcript.json.gz").is_file():
+            transcript_path = transcript_dir / "transcript.json.gz"
         transcript = load_json(transcript_path, "transcript")
-        if transcript.get("episode", {}).get("youtube_video_id") != episode_id:
+        recorded_episode_id = (
+            transcript.get("episode", {}).get("episode_id")
+            or transcript.get("episode", {}).get("youtube_video_id")
+        )
+        if recorded_episode_id != episode_id:
             raise PassageClassificationError(f"Transcript episode ID mismatch for {episode_id}")
         utterances = transcript.get("utterances")
         if not isinstance(utterances, list) or not utterances:

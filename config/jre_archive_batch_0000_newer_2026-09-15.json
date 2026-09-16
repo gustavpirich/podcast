@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1",
+  "sample_id": "jre_archive_batch_0000_newer_than_2550_2026-09-15",
+  "show_id": "jre",
+  "selected_at": "2026-09-15",
+  "selection_rule": "Eligible full-length releases published after the frozen #2550 pilot and present in the official JRE RSS feed on 2026-09-15. Include numbered JRE and JRE MMA Show episodes; exclude clips, excerpts, Fight Companion, and unnumbered specials.",
+  "episodes": [
+    {"published_date": "2026-09-14", "rss_guid": "019e9130-afb5-11f1-ba2a-77da5f707852", "youtube_id": "KIY0np5KDfE", "guest_name": "Andrew Huberman"},
+    {"published_date": "2026-09-10", "rss_guid": "41147402-acd5-11f1-ae8e-bb792e6b1e3d", "youtube_id": "Jw2lg96Wl1o", "guest_name": "Ehsan Ahmad & Deric Poston"},
+    {"published_date": "2026-09-09", "rss_guid": "4a7504f8-abd6-11f1-922a-8727e0ad3325", "youtube_id": "hSQ1iVqEZO4", "guest_name": "Daniel Kokotajlo"}
+  ]
+}

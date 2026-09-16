@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Transcribe one raw podcast episode with AssemblyAI.
+"""Transcribe one podcast episode with AssemblyAI.
 
 INPUTS (read only)
-    data/raw/transcripts/<show-directory>/<video-id>/<video-id>.m4a
-    data/raw/transcripts/<show-directory>/<video-id>/rss_metadata.json
+    data/raw/transcripts/<show-directory>/<episode-id>/rss_metadata.json
+    Optional: <episode-id>.m4a for local-upload delivery
 
 OUTPUTS (reproducible derived data)
-    data/derived/transcripts/<show-directory>/<video-id>/transcript.md
-    data/derived/transcripts/<show-directory>/<video-id>/transcript.json
-    data/derived/transcripts/<show-directory>/<video-id>/assemblyai_response.json
+    data/derived/transcripts/<show-directory>/<episode-id>/transcript.md
+    data/derived/transcripts/<show-directory>/<episode-id>/transcript.json.gz
+    data/derived/transcripts/<show-directory>/<episode-id>/assemblyai_response.json.gz
 
 The script first uses the official AssemblyAI SDK for transcription and speaker
 diarization. It then calls AssemblyAI's Speech Understanding endpoint to map
@@ -19,6 +19,7 @@ lets us request medium effort, which version 1.3.0 of the SDK does not expose.
 from __future__ import annotations
 
 import argparse
+import gzip
 import hashlib
 import importlib.metadata
 import json
@@ -60,6 +61,19 @@ def atomic_write_json(path: Path, document: dict[str, Any]) -> None:
     temporary.replace(path)
 
 
+def atomic_write_json_gzip(path: Path, document: dict[str, Any]) -> None:
+    """Write deterministic compressed JSON without leaving a partial file."""
+
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    payload = (json.dumps(document, ensure_ascii=False, separators=(",", ":")) + "\n").encode(
+        "utf-8"
+    )
+    with temporary.open("wb") as raw:
+        with gzip.GzipFile(fileobj=raw, mode="wb", compresslevel=6, mtime=0) as handle:
+            handle.write(payload)
+    temporary.replace(path)
+
+
 def atomic_write_text(path: Path, text: str) -> None:
     temporary = path.with_suffix(path.suffix + ".tmp")
     temporary.write_text(text, encoding="utf-8")
@@ -89,13 +103,13 @@ def yaml_string(value: Any) -> str:
     return json.dumps("" if value is None else str(value), ensure_ascii=False)
 
 
-def load_inputs(show_directory: str, video_id: str) -> tuple[Path, Path, dict[str, Any]]:
-    episode_dir = RAW_TRANSCRIPTS / show_directory / video_id
-    audio_path = episode_dir / f"{video_id}.m4a"
+def load_inputs(
+    show_directory: str, episode_id: str, delivery: str = "local-upload"
+) -> tuple[Path | None, Path, dict[str, Any]]:
+    episode_dir = RAW_TRANSCRIPTS / show_directory / episode_id
+    audio_path = episode_dir / f"{episode_id}.m4a"
     metadata_path = episode_dir / "rss_metadata.json"
 
-    if not audio_path.is_file():
-        raise TranscriptionError(f"Input audio does not exist: {audio_path}")
     if not metadata_path.is_file():
         raise TranscriptionError(f"Input metadata does not exist: {metadata_path}")
 
@@ -104,17 +118,26 @@ def load_inputs(show_directory: str, video_id: str) -> tuple[Path, Path, dict[st
     except json.JSONDecodeError as exc:
         raise TranscriptionError(f"Input metadata is not valid JSON: {metadata_path}") from exc
 
-    recorded_path = metadata.get("media", {}).get("relative_path")
-    if recorded_path and (PROJECT_ROOT / recorded_path).resolve() != audio_path.resolve():
-        raise TranscriptionError("Metadata points to a different audio file")
-
-    expected_hash = metadata.get("media", {}).get("sha256")
-    if expected_hash and sha256_file(audio_path) != expected_hash:
-        raise TranscriptionError(
-            "The raw audio SHA-256 no longer matches rss_metadata.json; "
-            "the immutable input may have changed"
-        )
-    return audio_path, metadata_path, metadata
+    if delivery == "local-upload" and not audio_path.is_file():
+        raise TranscriptionError(f"Input audio does not exist: {audio_path}")
+    if audio_path.is_file():
+        recorded_path = metadata.get("media", {}).get("relative_path")
+        if recorded_path and (PROJECT_ROOT / recorded_path).resolve() != audio_path.resolve():
+            raise TranscriptionError("Metadata points to a different audio file")
+        expected_hash = metadata.get("media", {}).get("sha256")
+        if expected_hash and sha256_file(audio_path) != expected_hash:
+            raise TranscriptionError(
+                "The raw audio SHA-256 no longer matches rss_metadata.json; "
+                "the immutable input may have changed"
+            )
+        selected_audio: Path | None = audio_path
+    else:
+        selected_audio = None
+    if delivery == "youtube-direct" and not metadata.get("youtube", {}).get("webpage_url"):
+        raise TranscriptionError("Metadata contains no YouTube URL for youtube-direct delivery")
+    if delivery == "rss-direct" and not metadata.get("episode", {}).get("enclosure_url"):
+        raise TranscriptionError("Metadata contains no RSS enclosure URL for rss-direct delivery")
+    return selected_audio, metadata_path, metadata
 
 
 def known_speakers(
@@ -151,7 +174,7 @@ def known_speakers(
 
 
 def request_summary(
-    audio_path: Path,
+    audio_path: Path | None,
     metadata_path: Path,
     output_dir: Path,
     speakers: list[dict[str, str]],
@@ -161,7 +184,12 @@ def request_summary(
     return "\n".join(
         [
             "AssemblyAI transcription plan",
-            f"  Audio input:    {audio_path.relative_to(PROJECT_ROOT)}",
+            "  Audio input:    "
+            + (
+                str(audio_path.relative_to(PROJECT_ROOT))
+                if audio_path is not None
+                else "remote source URL; no local audio retained"
+            ),
             f"  Metadata input: {metadata_path.relative_to(PROJECT_ROOT)}",
             f"  Output folder:  {output_dir.relative_to(PROJECT_ROOT)}",
             f"  Known speakers: {names}",
@@ -224,6 +252,23 @@ def resolve_youtube_audio_url(metadata: dict[str, Any]) -> tuple[str, dict[str, 
         "temporary_url_recorded": False,
     }
     return str(direct_url), details
+
+
+def resolve_rss_audio_url(metadata: dict[str, Any]) -> tuple[str, dict[str, Any]]:
+    """Return the public enclosure URL recorded in immutable RSS metadata."""
+
+    episode = metadata.get("episode", {})
+    url = episode.get("enclosure_url")
+    if not isinstance(url, str) or not url.startswith(("https://", "http://")):
+        raise TranscriptionError("RSS metadata contains no usable enclosure URL")
+    details = {
+        "method": "rss_enclosure_url",
+        "rss_guid": episode.get("guid"),
+        "enclosure_type": episode.get("enclosure_type"),
+        "source_url_recorded_in_raw_metadata": True,
+        "resolved_at": utc_now(),
+    }
+    return url, details
 
 
 def identify_speakers(
@@ -423,11 +468,19 @@ def normalized_document(
     response: dict[str, Any],
     metadata: dict[str, Any],
     speakers: list[dict[str, str]],
-    audio_path: Path,
+    audio_path: Path | None,
 ) -> dict[str, Any]:
     role_by_name = {item["name"]: item["role"] for item in speakers}
     mapping = speaker_mapping(response)
     utterances = response.get("utterances") or []
+    episode_id = (
+        metadata.get("episode_id")
+        or metadata.get("youtube", {}).get("video_id")
+    )
+    source_url = (
+        metadata.get("youtube", {}).get("webpage_url")
+        or metadata.get("episode", {}).get("enclosure_url")
+    )
     return {
         "schema_version": "0.1",
         "generated_at": utc_now(),
@@ -435,9 +488,13 @@ def normalized_document(
             "title": metadata.get("episode", {}).get("title"),
             "podcast": metadata.get("podcast", {}).get("name"),
             "published_at": metadata.get("episode", {}).get("published_at"),
+            "episode_id": episode_id,
             "youtube_video_id": metadata.get("youtube", {}).get("video_id"),
-            "source_url": metadata.get("youtube", {}).get("webpage_url"),
-            "audio_relative_path": str(audio_path.relative_to(PROJECT_ROOT)),
+            "rss_guid": metadata.get("episode", {}).get("guid"),
+            "source_url": source_url,
+            "audio_relative_path": (
+                str(audio_path.relative_to(PROJECT_ROOT)) if audio_path is not None else None
+            ),
             "audio_sha256": metadata.get("media", {}).get("sha256"),
         },
         "transcription": {
@@ -517,9 +574,11 @@ def parse_args() -> argparse.Namespace:
         help="Folder name below data/raw/transcripts",
     )
     parser.add_argument(
+        "--episode-id",
         "--video-id",
+        dest="episode_id",
         default="BAhcDwMGKYU",
-        help="YouTube video ID used as the episode identifier",
+        help="Stable episode directory identifier; --video-id remains an alias",
     )
     parser.add_argument(
         "--yes",
@@ -528,11 +587,11 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--delivery",
-        choices=("youtube-direct", "local-upload"),
+        choices=("rss-direct", "youtube-direct", "local-upload"),
         default="local-upload",
         help=(
-            "How AssemblyAI receives the media. youtube-direct avoids uploading "
-            "the large file from this Mac; local-upload uses /v2/upload."
+            "How AssemblyAI receives the media. Remote delivery avoids storing or "
+            "uploading a large local file; local-upload uses /v2/upload."
         ),
     )
     parser.add_argument(
@@ -554,10 +613,10 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
-    output_dir = DERIVED_TRANSCRIPTS / args.show_directory / args.video_id
+    output_dir = DERIVED_TRANSCRIPTS / args.show_directory / args.episode_id
     try:
         audio_path, metadata_path, metadata = load_inputs(
-            args.show_directory, args.video_id
+            args.show_directory, args.episode_id, args.delivery
         )
         speakers = known_speakers(metadata, args.guest_name)
         print(
@@ -582,10 +641,14 @@ def main() -> int:
 
         final_paths = [
             output_dir / "transcript.md",
+            output_dir / "transcript.json.gz",
+            output_dir / "assemblyai_response.json.gz",
+        ]
+        legacy_paths = [
             output_dir / "transcript.json",
             output_dir / "assemblyai_response.json",
         ]
-        existing = [path for path in final_paths if path.exists()]
+        existing = [path for path in final_paths + legacy_paths if path.exists()]
         if existing:
             names = ", ".join(str(path.relative_to(PROJECT_ROOT)) for path in existing)
             raise TranscriptionError(f"Refusing to overwrite existing output: {names}")
@@ -662,8 +725,14 @@ def main() -> int:
                     print("Resolving the temporary direct YouTube M4A URL...")
                     media_url, delivery_record = resolve_youtube_audio_url(metadata)
                     print("Submitting the server-to-server transcription job...")
+                elif args.delivery == "rss-direct":
+                    print("Using the official RSS enclosure URL...")
+                    media_url, delivery_record = resolve_rss_audio_url(metadata)
+                    print("Submitting the server-to-server transcription job...")
                 else:
                     print("Uploading the local audio with curl...")
+                    if audio_path is None:
+                        raise TranscriptionError("local-upload requires a local audio file")
                     media_url = upload_file_with_curl(audio_path, api_key)
                     print("Upload completed; submitting the transcription job...")
                     delivery_record = {
@@ -683,7 +752,12 @@ def main() -> int:
                 "provider": "AssemblyAI",
                 "region": "US",
                 "transcript_id": transcript.id,
-                "input_audio": str(audio_path.relative_to(PROJECT_ROOT)),
+                "episode_id": args.episode_id,
+                "input_audio": (
+                    str(audio_path.relative_to(PROJECT_ROOT))
+                    if audio_path is not None
+                    else None
+                ),
                 "input_audio_sha256": metadata.get("media", {}).get("sha256"),
                 "media_delivery": delivery_record,
                 "request": {
@@ -734,8 +808,10 @@ def main() -> int:
         document = normalized_document(
             identified_response, metadata, speakers, audio_path
         )
-        atomic_write_json(output_dir / "assemblyai_response.json", identified_response)
-        atomic_write_json(output_dir / "transcript.json", document)
+        atomic_write_json_gzip(
+            output_dir / "assemblyai_response.json.gz", identified_response
+        )
+        atomic_write_json_gzip(output_dir / "transcript.json.gz", document)
         atomic_write_text(output_dir / "transcript.md", markdown_transcript(document))
 
         print(f"Completed transcript {transcript.id}")

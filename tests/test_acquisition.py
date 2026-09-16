@@ -11,12 +11,22 @@ from pathlib import Path
 MODULE = runpy.run_path(
     str(Path(__file__).resolve().parents[1] / "code" / "01_download.py")
 )
+ARCHIVE_MODULE = runpy.run_path(
+    str(
+        Path(__file__).resolve().parents[1]
+        / "code"
+        / "01_build_jre_rss_archive.py"
+    )
+)
 DownloadError = MODULE["DownloadError"]
 extract_youtube_id = MODULE["extract_youtube_id"]
 match_rss_episode = MODULE["match_rss_episode"]
 match_rss_guid = MODULE["match_rss_guid"]
 normalize_title = MODULE["normalize_title"]
 load_sample = MODULE["load_sample"]
+episode_kind_and_number = ARCHIVE_MODULE["episode_kind_and_number"]
+archive_episode_id = ARCHIVE_MODULE["episode_id"]
+parse_duration = ARCHIVE_MODULE["parse_duration"]
 
 
 class YouTubeIdTests(unittest.TestCase):
@@ -102,6 +112,26 @@ class FrozenSampleTests(unittest.TestCase):
         self.assertEqual(document["episodes"][0]["youtube_id"], "BAhcDwMGKYU")
         self.assertTrue(all(row.get("guest_name") for row in document["episodes"]))
 
+
+class JreArchiveRuleTests(unittest.TestCase):
+    def test_numbered_and_mma_releases_are_included(self) -> None:
+        self.assertEqual(episode_kind_and_number("#2553 - Guest"), ("numbered", 2553))
+        self.assertEqual(
+            episode_kind_and_number("JRE MMA Show #184 with Guest"),
+            ("mma", 184),
+        )
+        self.assertEqual(archive_episode_id("#2553 - Guest"), "jre-2553")
+        self.assertEqual(
+            archive_episode_id("JRE MMA Show #184 with Guest"), "jre-mma-184"
+        )
+
+    def test_fight_companion_and_unnumbered_specials_are_excluded(self) -> None:
+        self.assertIsNone(episode_kind_and_number("#706 - Fight Companion (Part 1)"))
+        self.assertIsNone(episode_kind_and_number("Joe Rogan: End of the World"))
+
+    def test_rss_durations_are_normalized_to_seconds(self) -> None:
+        self.assertEqual(parse_duration("3601"), 3601.0)
+        self.assertEqual(parse_duration("1:02:03"), 3723.0)
 
 if __name__ == "__main__":
     unittest.main()
