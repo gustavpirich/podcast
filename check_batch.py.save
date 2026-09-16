@@ -1,0 +1,11 @@
+from dotenv import load_dotenv
+load_dotenv()
+from openai import OpenAI
+
+client = OpenAI()
+
+for b in client.batches.list(limit=10).data:
+    print(b.id, b.status, b.request_counts)
+
+
+
