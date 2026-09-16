@@ -1,0 +1,43 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "jre_latest_40_new_30_2026-09-16",
+  "show_id": "jre",
+  "selected_at": "2026-09-16",
+  "selection_rule": "The 30 episodes in jre_latest_40_2026-09-15.json that are not present in jre_starter_sample.json; the newly transcribed complement of the original ten-episode JRE classification sample.",
+  "parent_samples": [
+    "config/jre_latest_40_2026-09-15.json",
+    "config/jre_starter_sample.json"
+  ],
+  "episodes": [
+    {"episode_id":"KIY0np5KDfE","published_date":"2026-09-14","guest_name":"Andrew Huberman"},
+    {"episode_id":"Jw2lg96Wl1o","published_date":"2026-09-10","guest_name":"Ehsan Ahmad & Deric Poston"},
+    {"episode_id":"hSQ1iVqEZO4","published_date":"2026-09-09","guest_name":"Daniel Kokotajlo"},
+    {"episode_id":"v2oBLSDCZaY","published_date":"2026-08-18","guest_name":"Thomas Campbell"},
+    {"episode_id":"9iENvZ2siTo","published_date":"2026-08-14","guest_name":"Travis Barker"},
+    {"episode_id":"OBH4F5a6zAA","published_date":"2026-08-13","guest_name":"Protect Our Parks 17"},
+    {"episode_id":"pCH-R3L6QTc","published_date":"2026-08-12","guest_name":"Joe DeRosa"},
+    {"episode_id":"xEBeQH39CZI","published_date":"2026-08-11","guest_name":"Aljamain Sterling"},
+    {"episode_id":"hxid7FofhMw","published_date":"2026-08-07","guest_name":"David Sinclair"},
+    {"episode_id":"O52aLL8ycGU","published_date":"2026-08-06","guest_name":"Eric Goode & Jeremy McBride"},
+    {"episode_id":"6SxEj1cujQE","published_date":"2026-08-05","guest_name":"Andrew Wilson"},
+    {"episode_id":"y9KNLlRE2HQ","published_date":"2026-08-04","guest_name":"Rico Verhoeven"},
+    {"episode_id":"ZACmIrFbfPU","published_date":"2026-07-31","guest_name":"Annie Jacobsen"},
+    {"episode_id":"jre-2533-529266008f6c","published_date":"2026-07-30","guest_name":"Diana Pasulka"},
+    {"episode_id":"jre-2532-1c8e049cd7a3","published_date":"2026-07-29","guest_name":"Tim Robbins"},
+    {"episode_id":"jre-2531-4c98eb433246","published_date":"2026-07-28","guest_name":"Forrest Galante"},
+    {"episode_id":"jre-2530-66037a56aa99","published_date":"2026-07-23","guest_name":"Timothy Alberino"},
+    {"episode_id":"jre-2529-9e72d2e8f11d","published_date":"2026-07-22","guest_name":"Zach Bush"},
+    {"episode_id":"jre-2528-cc461a008216","published_date":"2026-07-21","guest_name":"Cassie Coppersmith"},
+    {"episode_id":"jre-2527-4ae9aab2ca06","published_date":"2026-07-16","guest_name":"MrBeast"},
+    {"episode_id":"jre-2526-7eed63cbc9fe","published_date":"2026-07-15","guest_name":"JD Vance"},
+    {"episode_id":"jre-2525-4bebe274d11a","published_date":"2026-07-14","guest_name":"Nick Bostrom"},
+    {"episode_id":"jre-mma-182-c1b92c581f65","published_date":"2026-07-09","guest_name":"Protect Ya Neck"},
+    {"episode_id":"jre-2524-a83dbee3ca39","published_date":"2026-07-08","guest_name":"Rupert Lowe"},
+    {"episode_id":"jre-2523-bd4fe6197386","published_date":"2026-07-07","guest_name":"Ali Siddiq"},
+    {"episode_id":"jre-2522-0afb1a251d9c","published_date":"2026-07-02","guest_name":"Tony Hinchcliffe"},
+    {"episode_id":"jre-2521-51d2c17d5326","published_date":"2026-07-01","guest_name":"Aravind Srinivas"},
+    {"episode_id":"jre-2520-16b0c9ec7c39","published_date":"2026-06-30","guest_name":"Tommy Lee"},
+    {"episode_id":"jre-2519-9bed36f76944","published_date":"2026-06-26","guest_name":"Scott Eastwood"},
+    {"episode_id":"jre-2518-fad1af822f0e","published_date":"2026-06-24","guest_name":"Tim Dillon"}
+  ]
+}

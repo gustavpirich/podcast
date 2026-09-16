@@ -47,6 +47,14 @@ class TranscriptionError(RuntimeError):
     """An expected input, configuration, or provider failure."""
 
 
+class SpeakerIdentificationUnavailable(TranscriptionError):
+    """The transcript succeeded but optional name identification did not."""
+
+    def __init__(self, message: str, provider_status: dict[str, Any]) -> None:
+        super().__init__(message)
+        self.provider_status = provider_status
+
+
 def utc_now() -> str:
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
@@ -321,9 +329,10 @@ def identify_speakers(
         .get("speaker_identification", {})
     )
     if identification.get("status") != "success":
-        raise TranscriptionError(
+        raise SpeakerIdentificationUnavailable(
             "AssemblyAI did not return successful speaker identification: "
-            f"{identification or result.get('error', 'unknown response')}"
+            f"{identification or result.get('error', 'unknown response')}",
+            identification or {"status": "failure"},
         )
     if not result.get("utterances"):
         raise TranscriptionError("AssemblyAI returned no diarized utterances")
@@ -456,12 +465,10 @@ def upload_file_with_curl(audio_path: Path, api_key: str) -> str:
 
 
 def speaker_mapping(response: dict[str, Any]) -> dict[str, str]:
-    return (
-        response.get("speech_understanding", {})
-        .get("response", {})
-        .get("speaker_identification", {})
-        .get("mapping", {})
-    )
+    speech_understanding = response.get("speech_understanding") or {}
+    understanding_response = speech_understanding.get("response") or {}
+    identification = understanding_response.get("speaker_identification") or {}
+    return identification.get("mapping") or {}
 
 
 def normalized_document(
@@ -469,10 +476,38 @@ def normalized_document(
     metadata: dict[str, Any],
     speakers: list[dict[str, str]],
     audio_path: Path | None,
+    speaker_identification_status: str | None = None,
+    speaker_identification_error: str | None = None,
 ) -> dict[str, Any]:
     role_by_name = {item["name"]: item["role"] for item in speakers}
     mapping = speaker_mapping(response)
     utterances = response.get("utterances") or []
+    if speaker_identification_status is None:
+        speech_understanding = response.get("speech_understanding") or {}
+        understanding_response = speech_understanding.get("response") or {}
+        identification = understanding_response.get("speaker_identification") or {}
+        speaker_identification_status = identification.get("status", "not_available")
+    if mapping:
+        normalized_speakers = [
+            {
+                "id": original_label,
+                "name": name,
+                "role": role_by_name.get(name, "Unidentified"),
+            }
+            for original_label, name in mapping.items()
+        ]
+    else:
+        generic_labels = list(
+            dict.fromkeys(
+                str(utterance.get("speaker"))
+                for utterance in utterances
+                if utterance.get("speaker") is not None
+            )
+        )
+        normalized_speakers = [
+            {"id": label, "name": label, "role": "Unidentified"}
+            for label in generic_labels
+        ]
     episode_id = (
         metadata.get("episode_id")
         or metadata.get("youtube", {}).get("video_id")
@@ -509,16 +544,11 @@ def normalized_document(
             "speech_model_used": response.get("speech_model_used")
             or response.get("speech_model"),
             "speaker_identification_effort": "medium",
+            "speaker_identification_status": speaker_identification_status,
+            "speaker_identification_error": speaker_identification_error,
             "speaker_identities_human_verified": False,
         },
-        "speakers": [
-            {
-                "id": original_label,
-                "name": name,
-                "role": role_by_name.get(name, "Unidentified"),
-            }
-            for original_label, name in mapping.items()
-        ],
+        "speakers": normalized_speakers,
         "utterances": utterances,
     }
 
@@ -543,6 +573,8 @@ def markdown_transcript(document: dict[str, Any]) -> str:
         f"  transcript_id: {yaml_string(transcription.get('transcript_id'))}",
         f"  speech_model_used: {yaml_string(transcription.get('speech_model_used'))}",
         '  speaker_identification_effort: "medium"',
+        "  speaker_identification_status: "
+        + yaml_string(transcription.get("speaker_identification_status")),
         "  speaker_identities_human_verified: false",
         "speakers:",
     ]
@@ -607,6 +639,14 @@ def parse_args() -> argparse.Namespace:
         "--submit-only",
         action="store_true",
         help="Upload/submit or resume the job, record its ID, and do not wait",
+    )
+    parser.add_argument(
+        "--skip-speaker-identification",
+        action="store_true",
+        help=(
+            "Preserve diarized generic speaker labels without calling the optional "
+            "name-identification service; intended for recovery after that service fails"
+        ),
     )
     return parser.parse_args()
 
@@ -803,10 +843,59 @@ def main() -> int:
         if not transcript.utterances:
             raise TranscriptionError("Transcription completed without diarized utterances")
 
-        print("Identifying the known speakers with medium effort...")
-        identified_response = identify_speakers(transcript.id, speakers, api_key)
+        identification_status = "success"
+        identification_error = None
+        if args.skip_speaker_identification:
+            print(
+                "Skipping optional speaker-name identification; preserving generic "
+                "diarized speaker labels."
+            )
+            base_response = transcript.json_response
+            if not isinstance(base_response, dict) or not base_response.get("utterances"):
+                raise TranscriptionError(
+                    "The completed transcript contained no diarized utterances to preserve"
+                )
+            identified_response = base_response
+            identification_status = "skipped_after_provider_failure"
+            job["speaker_identification"] = {
+                "status": identification_status,
+                "recorded_at": utc_now(),
+                "fallback": "generic_diarized_speaker_labels",
+            }
+            atomic_write_json(job_path, job)
+        else:
+            print("Identifying the known speakers with medium effort...")
+            try:
+                identified_response = identify_speakers(transcript.id, speakers, api_key)
+            except SpeakerIdentificationUnavailable as exc:
+                identification_status = "failure"
+                identification_error = sanitized_provider_error(exc)
+                base_response = transcript.json_response
+                if not isinstance(base_response, dict) or not base_response.get("utterances"):
+                    raise TranscriptionError(
+                        "Speaker identification failed and the completed transcript "
+                        "contained no diarized utterances to preserve"
+                    ) from exc
+                identified_response = base_response
+                job["speaker_identification"] = {
+                    "status": "failure",
+                    "provider_status": exc.provider_status,
+                    "error": identification_error,
+                    "recorded_at": utc_now(),
+                    "fallback": "generic_diarized_speaker_labels",
+                }
+                atomic_write_json(job_path, job)
+                print(
+                    "WARNING: Speaker-name identification failed; preserving the "
+                    "completed diarized transcript with generic speaker labels."
+                )
         document = normalized_document(
-            identified_response, metadata, speakers, audio_path
+            identified_response,
+            metadata,
+            speakers,
+            audio_path,
+            speaker_identification_status=identification_status,
+            speaker_identification_error=identification_error,
         )
         atomic_write_json_gzip(
             output_dir / "assemblyai_response.json.gz", identified_response
@@ -817,7 +906,10 @@ def main() -> int:
         print(f"Completed transcript {transcript.id}")
         for path in final_paths:
             print(f"  Wrote: {path.relative_to(PROJECT_ROOT)}")
-        print("Speaker identities are machine-inferred and require human verification.")
+        if identification_status == "success":
+            print("Speaker identities are machine-inferred and require human verification.")
+        else:
+            print("Speaker identities remain unidentified and require human review.")
         return 0
     except (TranscriptionError, OSError, json.JSONDecodeError) as exc:
         print(f"ERROR: {exc}", file=sys.stderr)

@@ -121,8 +121,59 @@ protocol.
   frozen subset totals 110.80 hours; ten episodes already have transcripts, so
   30 episodes and 82.61 hours remain. The configured estimate for the remaining
   transcription is $27.26, processed in resumable batches of at most ten.
+- On 2026-09-16, the researcher authorized completion of the latest-40 subset.
+  All 40 episode transcripts are now present and readable, with 40 unique
+  episode IDs and 40 unique AssemblyAI job IDs. The final 20 episodes comprised
+  53.69 declared hours across two ten-episode batches, with a configured cost
+  estimate of $17.72; this is an estimate rather than a measured invoice total.
+  AssemblyAI's optional speaker-name identification failed for JRE MMA Show
+  #182 after transcription and diarization succeeded. That transcript is
+  retained with generic diarized labels and an explicit
+  `skipped_after_provider_failure` status; its speaker identities require human
+  review. The other 39 transcripts retain machine-inferred names that also
+  require human verification.
 
 ## Decisions still required from the researcher
+
+On 2026-09-16 the researcher requested classification of the remaining newly
+transcribed JRE episodes. The exact new-episode complement is frozen as
+`config/jre_latest_40_new_30_2026-09-16.json`: 30 episodes, 952,927 transcript
+words and 7,399 overlapping 256-word Stage-04 windows. Thirty independently
+resumable GPT-5.6 Luna Batch jobs were submitted for health/science screening;
+the ten original JRE episodes were not resubmitted. Later stages use this
+30-episode sample so the original claim, broad-fringe, health-object and veracity
+runs remain immutable. Model outputs remain provisional and require human review.
+
+
+On 2026-09-16, after receiving the pilot and full-run cost estimates, the
+researcher instructed running the full classification. Frozen veracity run
+`03b4d55da8851b87` was submitted as Batch
+`batch_6aaa58a741a88190a222097da306cf70`: 7,182 statement units, 8,504 linked
+instances and 3,114 requests. The smaller pilot was still processing at that
+time; no pilot accuracy or cost result was represented as available. The full
+run applies the disclosed provisional veracity and separate danger codebook.
+Existing classification stages are not rerun. Evidence validation remains pending.
+
+On 2026-09-16, after the full-run upload confirmation question, the researcher
+requested cost information and instructed testing a smaller subset first. Only
+a 20-statement technical pilot was initially submitted. The disclosed implementation selects
+health/both statements by deterministic hash order, round-robin across shows
+(ten per show), retaining all 24 linked instances. This is a technical smoke test,
+not an approved representative validation sample or a change to the analytic
+corpus. The full run was subsequently authorized as recorded above. Only the new veracity
+and danger augmentation runs; existing classification stages are not rerun.
+
+On 2026-09-16 the researcher requested OpenAI-based veracity augmentation of the
+existing statements: supported, exaggerated, unsupported, contradicted and
+dangerous. `notes/VERACITY_CLASSIFICATION.md` and
+`config/veracity_classification.json` contain the proposed operational codebook.
+It preserves the existing statement units, prior classifications and human notes;
+danger is a separate proposed dimension, with uncertainty and non-assessable
+statuses retained. This is a model-knowledge-only provisional pass. Operational
+definitions, the separate danger field, assessment-time rather than historical
+evidence, and an evidence-search/adjudication protocol still require researcher
+adoption before use as reported research measures. The request authorizes adding
+and applying a candidate API classifier; it does not validate its judgments.
 
 The 2026-09-14 request broadens fringe to non-mainstream claims and exaggeration,
 without equating either with misinformation. The operational codebook is

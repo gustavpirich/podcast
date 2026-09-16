@@ -318,8 +318,8 @@ def read_source(path: Path) -> list[dict[str, str]]:
         raise ValueError("Input must be inside this project's data/derived directory")
     with resolved.open(newline="", encoding="utf-8") as handle:
         rows = list(csv.DictReader(handle))
-    if len(rows) != 4124 or len({row["snippet_id"] for row in rows}) != len(rows):
-        raise ValueError("Expected the complete frozen 4,124-window pilot")
+    if not rows or len({row["snippet_id"] for row in rows}) != len(rows):
+        raise ValueError("Expected a nonempty broad-window classification with unique snippet IDs")
     required = {
         "show", "episode_id", "snippet_id", "snippet_text", "claims_json",
         "word_start_index", "word_end_index_exclusive", "claim_count",

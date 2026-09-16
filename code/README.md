@@ -1,5 +1,13 @@
 # Analysis code
 
+## Health-claim veracity and danger
+
+`12_classify_veracity.py` augments existing Stage-10 statements using OpenAI Batch
+with supported, exaggerated, unsupported, contradicted and uncertain veracity,
+plus a separate dangerousness field. Original labels and human notes are retained.
+The proposal, evidence limitations, commands and validation requirements are in
+[`notes/VERACITY_CLASSIFICATION.md`](../notes/VERACITY_CLASSIFICATION.md).
+
 ## Health product and behavior classification
 
 `10_classify_health_objects.py` classifies the existing broad-run statements by

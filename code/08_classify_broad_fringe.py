@@ -78,17 +78,27 @@ def instructions(config):
     return "\n\n".join(paragraphs)
 
 
-def read_windows(input_path):
+def read_windows(input_path, sample_path=None):
     if not input_path.resolve().is_relative_to(ROOT / "data/derived"):
         raise ValueError("Input must be inside this project's data/derived")
     metadata = {}
     sources = []
-    for name in ("jre_starter_sample.json", "doac_starter_sample.json"):
-        path = ROOT / "config" / name
+    paths = ([sample_path] if sample_path else [
+        ROOT / "config/jre_starter_sample.json",
+        ROOT / "config/doac_starter_sample.json",
+    ])
+    for path in paths:
+        path = path.resolve()
+        if not path.is_relative_to(ROOT / "config"):
+            raise ValueError("Sample configuration must be inside this project's config directory")
         sample = load(path)
         sources.append({"path": str(path.relative_to(ROOT)), "sha256": digest(path.read_bytes())})
         for e in sample["episodes"]:
-            metadata[(sample["show_id"], e["youtube_id"])] = e
+            episode_id = e.get("episode_id") or e.get("youtube_id")
+            key = (sample["show_id"], episode_id)
+            if key in metadata:
+                raise ValueError(f"Duplicate episode metadata: {key}")
+            metadata[key] = e
     with input_path.open(newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
     windows = []
@@ -133,7 +143,8 @@ def read_windows(input_path):
 
 def prepare(args):
     config = load(CONFIG)
-    windows, sources = read_windows(args.input.resolve())
+    sample_path = args.sample.resolve() if args.sample else None
+    windows, sources = read_windows(args.input.resolve(), sample_path)
     prompt, output_schema = instructions(config), schema(config)
     requests = []
     for w in windows:
@@ -344,6 +355,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("command", choices=("prepare", "submit", "status", "collect"))
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
+    parser.add_argument("--sample", type=Path, help="Frozen sample metadata for this input")
     parser.add_argument("--run-id")
     parser.add_argument("--yes", action="store_true")
     args = parser.parse_args()

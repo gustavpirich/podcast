@@ -30,6 +30,7 @@ WINDOW_MODULE = runpy.run_path(
 format_timestamp = MODULE["format_timestamp"]
 known_speakers = MODULE["known_speakers"]
 markdown_transcript = MODULE["markdown_transcript"]
+normalized_document = MODULE["normalized_document"]
 parse_upload_response = MODULE["parse_upload_response"]
 sanitized_provider_error = MODULE["sanitized_provider_error"]
 atomic_write_json_gzip = MODULE["atomic_write_json_gzip"]
@@ -143,6 +144,48 @@ class MarkdownTests(unittest.TestCase):
         self.assertIn('duration: "01:02:03"', result)
         self.assertIn("**[01:02:03] Joe Rogan (Host):** Hello.", result)
         self.assertIn("speaker_identities_human_verified: false", result)
+
+    def test_failed_name_identification_keeps_generic_diarized_speakers(self) -> None:
+        response = {
+            "id": "example-id",
+            "status": "completed",
+            "speech_understanding": None,
+            "utterances": [
+                {"start": 0, "speaker": "A", "text": "Hello."},
+                {"start": 1000, "speaker": "B", "text": "Hi."},
+            ],
+        }
+        metadata = {
+            "episode_id": "episode-1",
+            "episode": {"title": "Example"},
+            "podcast": {"name": "Example show"},
+        }
+        speakers = [
+            {"name": "Host", "role": "Host"},
+            {"name": "Guest", "role": "Guest"},
+        ]
+
+        document = normalized_document(
+            response,
+            metadata,
+            speakers,
+            None,
+            speaker_identification_status="failure",
+            speaker_identification_error="provider failure",
+        )
+
+        self.assertEqual(
+            document["speakers"],
+            [
+                {"id": "A", "name": "A", "role": "Unidentified"},
+                {"id": "B", "name": "B", "role": "Unidentified"},
+            ],
+        )
+        self.assertEqual(
+            document["transcription"]["speaker_identification_status"],
+            "failure",
+        )
+        self.assertIn("A (Unidentified)", markdown_transcript(document))
 
 
 class UploadResponseTests(unittest.TestCase):
