@@ -17,6 +17,7 @@ build_batch_requests = MODULE["build_batch_requests"]
 build_word_windows = MODULE["build_word_windows"]
 flatten_transcript_words = MODULE["flatten_transcript_words"]
 parse_batch_results = MODULE["parse_batch_results"]
+canonical_episode_id = MODULE["canonical_episode_id"]
 
 
 def output_row(custom_id: str, result: dict[str, object]) -> dict[str, object]:
@@ -147,6 +148,18 @@ class RequestPreparationTests(unittest.TestCase):
         flattened = flatten_transcript_words(utterances)
         self.assertEqual([value["text"] for value in flattened], ["one", "two", "three"])
         self.assertEqual([value["utterance_id"] for value in flattened], [0, 0, 1])
+
+    def test_canonical_episode_id_supports_rss_only_transcripts(self) -> None:
+        self.assertEqual(
+            canonical_episode_id({"episode": {"episode_id": "jre-2524-rss-id"}}),
+            "jre-2524-rss-id",
+        )
+        self.assertEqual(
+            canonical_episode_id({"episode": {"youtube_video_id": "abcdefghijk"}}),
+            "abcdefghijk",
+        )
+        with self.assertRaises(BatchClassificationError):
+            canonical_episode_id({"episode": {}})
 
 
 class ResultValidationTests(unittest.TestCase):

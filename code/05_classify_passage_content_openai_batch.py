@@ -62,10 +62,27 @@ RELATION_TO_FRINGE_STATUS = {
     "insufficient_information": "uncertain",
 }
 CLAIM_TOKEN = re.compile(r"\w+(?:['’]\w+)*", re.UNICODE)
+WINDOW_ID_SUFFIX = re.compile(r"-window-(\d{6})$")
 
 
 class PassageClassificationError(RuntimeError):
     """An expected input, provenance, API, or result-validation failure."""
+
+
+def edit_distance(left: str, right: str) -> int:
+    """Return the Levenshtein distance for short identifier components."""
+
+    previous = list(range(len(right) + 1))
+    for left_index, left_character in enumerate(left, 1):
+        current = [left_index]
+        for right_index, right_character in enumerate(right, 1):
+            current.append(min(
+                current[-1] + 1,
+                previous[right_index] + 1,
+                previous[right_index - 1] + (left_character != right_character),
+            ))
+        previous = current
+    return previous[-1]
 
 
 def utc_now() -> str:
@@ -830,10 +847,31 @@ def parse_batch_results(
             raise PassageClassificationError(f"Invalid model JSON for {custom_id}") from exc
         if not isinstance(result, dict):
             raise PassageClassificationError(f"Invalid result for {custom_id}")
-        validate_classification(result, expected[custom_id]["passage_id"], config)
+        expected_id = expected[custom_id]["passage_id"]
+        model_passage_id = result.get("passage_id")
+        passage_id_recovered = model_passage_id != expected_id
+        if passage_id_recovered:
+            expected_suffix = WINDOW_ID_SUFFIX.search(expected_id)
+            model_suffix = (
+                WINDOW_ID_SUFFIX.search(model_passage_id)
+                if isinstance(model_passage_id, str) else None
+            )
+            if (
+                not expected_suffix or not model_suffix
+                or model_suffix.group(1) != expected_suffix.group(1)
+                or edit_distance(
+                    expected_id[:expected_suffix.start()],
+                    model_passage_id[:model_suffix.start()],
+                ) > 2
+            ):
+                raise PassageClassificationError(f"Passage ID mismatch for {expected_id}")
+            result = {**result, "passage_id": expected_id}
+        validate_classification(result, expected_id, config)
         results[custom_id] = {
             **result, "batch_custom_id": custom_id,
             "response_id": body.get("id"), "response_model": body.get("model"),
+            "model_passage_id": model_passage_id,
+            "passage_id_recovered": int(passage_id_recovered),
         }
         body_usage = body.get("usage") or {}
         for name in usage:
@@ -1003,6 +1041,13 @@ def analytic_rows(
             "stage05_batch_custom_id": result["batch_custom_id"] if result else "",
             "stage05_response_id": result["response_id"] if result else "",
             "stage05_response_model": result["response_model"] if result else "",
+            "stage05_model_passage_id": (
+                result.get("model_passage_id", passage["passage_id"])
+                if result else ""
+            ),
+            "stage05_passage_id_recovered": (
+                result.get("passage_id_recovered", 0) if result else 0
+            ),
         })
     return rows
 
@@ -1071,6 +1116,9 @@ def build_summary(
             ),
             "unmatched_claim_texts": sum(
                 row["unmatched_claim_text_count"] for row in rows
+            ),
+            "recovered_model_passage_ids": sum(
+                row["stage05_passage_id_recovered"] for row in rows
             ),
             "windows_without_assessable_claims": sum(
                 row["fringe_status"] == "not_assessable" for row in rows

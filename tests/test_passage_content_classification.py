@@ -240,6 +240,33 @@ class ResultValidationTests(unittest.TestCase):
         )
         self.assertEqual(parsed[self.ids[0]]["claims"][0]["fringe_status"], "fringe")
 
+    def test_episode_id_typo_is_recovered_when_window_number_matches(self) -> None:
+        expected = "episode1234-window-000001"
+        typo = result("episode1235-window-000001")
+        manifest = {"requests": [{"custom_id": expected, "passage_id": expected}]}
+        parsed, _ = parse_batch_results([output_row(expected, typo)], manifest, CONFIG)
+        self.assertEqual(parsed[expected]["passage_id"], expected)
+        self.assertEqual(parsed[expected]["model_passage_id"], typo["passage_id"])
+        self.assertEqual(parsed[expected]["passage_id_recovered"], 1)
+
+    def test_passage_id_recovery_rejects_window_number_mismatch(self) -> None:
+        expected = "episode1234-window-000001"
+        wrong_window = result("episode1234-window-000002")
+        manifest = {"requests": [{"custom_id": expected, "passage_id": expected}]}
+        with self.assertRaisesRegex(PassageClassificationError, "Passage ID mismatch"):
+            parse_batch_results(
+                [output_row(expected, wrong_window)], manifest, CONFIG
+            )
+
+    def test_passage_id_recovery_rejects_different_episode(self) -> None:
+        expected = "episode1234-window-000001"
+        wrong_episode = result("unrelated9999-window-000001")
+        manifest = {"requests": [{"custom_id": expected, "passage_id": expected}]}
+        with self.assertRaisesRegex(PassageClassificationError, "Passage ID mismatch"):
+            parse_batch_results(
+                [output_row(expected, wrong_episode)], manifest, CONFIG
+            )
+
 
 class AnalyticRowTests(unittest.TestCase):
     def passage(self) -> dict[str, object]:
@@ -280,6 +307,7 @@ class AnalyticRowTests(unittest.TestCase):
         self.assertEqual(rows[0]["fringe_status"], "uncertain")
         self.assertEqual(rows[0]["claim_count"], 2)
         self.assertEqual(len(json.loads(rows[0]["claims_json"])), 2)
+        self.assertEqual(rows[0]["stage05_passage_id_recovered"], 0)
 
         summary = build_summary(
             rows,

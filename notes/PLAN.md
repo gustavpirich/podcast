@@ -144,6 +144,38 @@ the ten original JRE episodes were not resubmitted. Later stages use this
 30-episode sample so the original claim, broad-fringe, health-object and veracity
 runs remain immutable. Model outputs remain provisional and require human review.
 
+On 2026-09-17 all 30 Stage-04 jobs were collected with 7,399 successful and no
+failed provider requests. A data-level audit found that the local collector used
+only `youtube_video_id` when writing CSV rows, leaving `episode_id` blank for the
+17 RSS-only episodes and making episode/window merge keys non-unique. The
+collector now uses the canonical transcript ID with an RSS-ID regression test;
+all Stage-04 analytic outputs were rebuilt from the unchanged downloaded Batch
+responses. The corrected aggregate has 7,399 unique episode/window keys, 2,462
+health-positive windows, 1,958 science-positive windows, 1,024 positive for both,
+and 3,396 positive for either. Its measured configured Batch cost is $1.199892.
+Audited Stage-05 run `32b86e7a88f5` sends exactly those 3,396 positive windows;
+it was submitted as Batch `batch_6aabb3a0931881908a91161d76192628`.
+The Batch completed with 3,396 successful and no failed provider requests. Six
+responses for JRE #2532 copied a mistyped episode-ID component while retaining
+the authoritative Batch `custom_id` and correct six-digit window number. The
+collector now recovers only that fail-closed pattern, preserves the returned ID
+and an audit flag, and continues to reject any window-number mismatch.
+Collection produced 7,399 unique episode/window rows across all 30 episodes,
+including 3,396 requested Stage-05 windows and 16,136 overlapping claim
+instances. Window outcomes are 1,070 fringe, 1,993 uncertain, 250 not-fringe,
+and 4,086 not-assessable. The collector flags 325 unmatched claim quotations
+and 121 consensus/fringe inconsistencies; all results remain provisional and
+require human evidence review.
+
+On 2026-09-21 the researcher requested combined descriptives for the frozen
+latest-40 JRE subset. The reproducible report keeps all 9,719 Stage-04 windows,
+uses all windows as the primary denominator and 4,583 screen-positive windows
+as a secondary denominator, and keeps uncertain, not-fringe, positive windows
+without an assessable claim, and screen-negative windows separate. The two
+cohorts share the same windowing, selection rule, and narrow fringe definition
+but used different prompt versions, which is disclosed as an instrumentation
+limitation. These descriptives are not validated misinformation prevalence.
+
 
 On 2026-09-16, after receiving the pilot and full-run cost estimates, the
 researcher instructed running the full classification. Frozen veracity run

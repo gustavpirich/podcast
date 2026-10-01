@@ -323,6 +323,16 @@ def load_transcript(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def canonical_episode_id(transcript: dict[str, Any]) -> str:
+    """Return the transcript's stable episode ID across acquisition methods."""
+
+    episode = transcript.get("episode") or {}
+    episode_id = episode.get("episode_id") or episode.get("youtube_video_id")
+    if not episode_id:
+        raise BatchClassificationError("Transcript episode record has no episode ID")
+    return str(episode_id)
+
+
 def load_inputs(
     args: argparse.Namespace,
 ) -> tuple[dict[str, Any], dict[str, Any], Path, Path]:
@@ -339,11 +349,7 @@ def load_inputs(
     utterances = transcript.get("utterances") or []
     if not utterances:
         raise BatchClassificationError("Transcript contains no utterances")
-    actual_id = (
-        transcript.get("episode", {}).get("episode_id")
-        or transcript.get("episode", {}).get("youtube_video_id")
-        or video_id
-    )
+    actual_id = canonical_episode_id(transcript)
     if actual_id != video_id:
         raise BatchClassificationError("Transcript episode ID differs from --video-id")
     return transcript, config, transcript_path, episode_output
@@ -904,7 +910,7 @@ def collect(args: argparse.Namespace) -> int:
         )
     analytic_rows = build_analytic_rows(
         windows,
-        str(transcript.get("episode", {}).get("youtube_video_id") or ""),
+        canonical_episode_id(transcript),
         classifications,
         float(manifest["negative_audit_fraction"]),
     )
