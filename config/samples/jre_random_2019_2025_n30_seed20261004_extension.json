@@ -1,0 +1,225 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "jre_random_2019_2025_n30_seed20261004_extension",
+  "show_id": "jre",
+  "selected_at": "2026-10-03",
+  "selection_rule": "Random sample of 30 episodes published 2019-01-01 to 2025-12-31 with a declared duration of at least 20 minutes, stratified by publication year (proportional allocation, largest remainder), seed 20261004. Episodes in config/samples/jre_random_2019_2025_n10_seed20261003.json were excluded.",
+  "source": {
+    "path": "config/jre_full_archive_2026-09-15.json",
+    "sha256": "f65501ab535d5d2e02e877b30923020e30557c48810adbedd83284ea0c21b2ec",
+    "eligible_episodes": 1321
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "jre-1235-7cc5f324749d",
+      "rss_guid": "dbcf9ce4-efb8-3347-8031-59e05bdf0cbe",
+      "published_date": "2019-01-29",
+      "guest_name": "Ben Greenfield",
+      "duration_seconds": 8815.0
+    },
+    {
+      "episode_id": "jre-1267-3500ab2a8da2",
+      "rss_guid": "55da953c-3230-31e8-8ea4-8ebdf0337aa2",
+      "published_date": "2019-03-18",
+      "guest_name": "Gary Taubes & Stephan Guyenet",
+      "duration_seconds": 9701.0
+    },
+    {
+      "episode_id": "jre-mma-65-8f0dbda6cd52",
+      "rss_guid": "9f12669c-3116-34fc-bec2-6f0893fd801a",
+      "published_date": "2019-04-25",
+      "guest_name": "Corey Anderson",
+      "duration_seconds": 11691.0
+    },
+    {
+      "episode_id": "jre-1300-0df8685fbcf1",
+      "rss_guid": "7901e14c-0e4d-3971-b963-9c820b7290d1",
+      "published_date": "2019-05-19",
+      "guest_name": "Michael Malice",
+      "duration_seconds": 11146.0
+    },
+    {
+      "episode_id": "jre-1323-aa7dac09f5dd",
+      "rss_guid": "4dd7b35e-7131-3fdb-81af-2b5010c8dbdb",
+      "published_date": "2019-07-09",
+      "guest_name": "Andy Ngo",
+      "duration_seconds": 5025.0
+    },
+    {
+      "episode_id": "jre-mma-88-ca349a062101",
+      "rss_guid": "3b66d3e9-b336-373b-84fc-8826cd17a8ec",
+      "published_date": "2020-01-27",
+      "guest_name": "Frankie Edgar",
+      "duration_seconds": 8107.0
+    },
+    {
+      "episode_id": "jre-1455-35e0cccf8f4c",
+      "rss_guid": "b32ed719-d2b6-3626-83e6-24cf05bc41c8",
+      "published_date": "2020-04-07",
+      "guest_name": "Lex Fridman",
+      "duration_seconds": 12069.0
+    },
+    {
+      "episode_id": "jre-1478-dca5b0e23b0a",
+      "rss_guid": "44a3dcb5-4d56-3d2e-8770-01560dc701fd",
+      "published_date": "2020-05-20",
+      "guest_name": "Joel Salatin",
+      "duration_seconds": 7996.0
+    },
+    {
+      "episode_id": "jre-1542-b0ab660f609a",
+      "rss_guid": "a684a2a8-1596-414f-b150-a83f495ea871",
+      "published_date": "2020-09-29",
+      "guest_name": "Cameron Hanes",
+      "duration_seconds": 10442.0
+    },
+    {
+      "episode_id": "jre-mma-98-95b9fbd7dd1d",
+      "rss_guid": "8ebfd630-b2b6-49da-a3bb-bc50772f6c7a",
+      "published_date": "2020-11-03",
+      "guest_name": "Luke Thomas",
+      "duration_seconds": 12896.0
+    },
+    {
+      "episode_id": "jre-mma-100-da8be50e3cfd",
+      "rss_guid": "a941b1b0-f935-40ed-98f9-5b2801c1bc41",
+      "published_date": "2021-02-12",
+      "guest_name": "Cody Garbrandt",
+      "duration_seconds": 7605.0
+    },
+    {
+      "episode_id": "jre-1619-e4c6f75292fe",
+      "rss_guid": "baebd49c-1e5e-4a81-b5e1-a3678e36f57f",
+      "published_date": "2021-03-16",
+      "guest_name": "Claressa Shields",
+      "duration_seconds": 7438.0
+    },
+    {
+      "episode_id": "jre-1625-d5a607c0f161",
+      "rss_guid": "b4ffb483-c83e-4071-b5d0-f9b92acc674c",
+      "published_date": "2021-03-27",
+      "guest_name": "Demi Lovato",
+      "duration_seconds": 9195.0
+    },
+    {
+      "episode_id": "jre-1709-5ef8615bc511",
+      "rss_guid": "6705311d-fdbe-4d4c-abfd-64c78c86b706",
+      "published_date": "2021-09-21",
+      "guest_name": "Amanda Knox",
+      "duration_seconds": 11756.0
+    },
+    {
+      "episode_id": "jre-1811-9cac3e6fb51e",
+      "rss_guid": "ccd4f69e-2feb-490b-8a74-001490230986",
+      "published_date": "2022-04-29",
+      "guest_name": "Brendan Schaub",
+      "duration_seconds": 12154.0
+    },
+    {
+      "episode_id": "jre-1850-1d562ba43d29",
+      "rss_guid": "c09a0ffe-413a-4190-9da7-5e49274bee17",
+      "published_date": "2022-07-29",
+      "guest_name": "Whitney Cummings",
+      "duration_seconds": 12696.0
+    },
+    {
+      "episode_id": "jre-1858-d63da573eb98",
+      "rss_guid": "d16061d1-6435-40b0-b170-d439f00e5de3",
+      "published_date": "2022-08-17",
+      "guest_name": "Josh Dubin & Derrick Hamilton",
+      "duration_seconds": 11092.0
+    },
+    {
+      "episode_id": "jre-1911-aa06345d34f7",
+      "rss_guid": "3a0c1bb2-f024-4b3d-89e0-a3aaa0b3f5b2",
+      "published_date": "2022-12-15",
+      "guest_name": "Mark Boal",
+      "duration_seconds": 10511.0
+    },
+    {
+      "episode_id": "jre-1943-9faef61f3b59",
+      "rss_guid": "504465fc-635d-4529-8fa2-264bf401faba",
+      "published_date": "2023-02-17",
+      "guest_name": "Joel Turner",
+      "duration_seconds": 9129.0
+    },
+    {
+      "episode_id": "jre-1964-1ddefea24d77",
+      "rss_guid": "b05f1835-d20a-4031-b9cf-dfc241450ea4",
+      "published_date": "2023-03-31",
+      "guest_name": "Rick Doblin",
+      "duration_seconds": 10400.0
+    },
+    {
+      "episode_id": "jre-1973-73450d7e71db",
+      "rss_guid": "8f516b37-04f8-4633-8c16-38b3f719c3aa",
+      "published_date": "2023-04-21",
+      "guest_name": "Joey Diaz",
+      "duration_seconds": 9204.0
+    },
+    {
+      "episode_id": "jre-1982-df98850117e9",
+      "rss_guid": "d42df3b6-fdae-49e5-89fb-b91a60676c4a",
+      "published_date": "2023-05-05",
+      "guest_name": "John Hennessey",
+      "duration_seconds": 6734.0
+    },
+    {
+      "episode_id": "jre-2129-aba68dc7f9f9",
+      "rss_guid": "27c10850-f0b0-11ee-89cd-ef69db07b2d1",
+      "published_date": "2024-04-02",
+      "guest_name": "David Holthouse",
+      "duration_seconds": 9300.0
+    },
+    {
+      "episode_id": "jre-2147-e427d1e084e7",
+      "rss_guid": "be12d278-0cf5-11ef-a702-47213c03f067",
+      "published_date": "2024-05-08",
+      "guest_name": "Mike Baker",
+      "duration_seconds": 10792.0
+    },
+    {
+      "episode_id": "jre-2149-bac553fb3469",
+      "rss_guid": "bdec8a12-0e87-11ef-bada-ef21ba0b663e",
+      "published_date": "2024-05-10",
+      "guest_name": "Sebastian Maniscalco",
+      "duration_seconds": 8448.0
+    },
+    {
+      "episode_id": "jre-2182-d6dc184749b7",
+      "rss_guid": "932c2f88-4e03-11ef-98e7-8712858aa62e",
+      "published_date": "2024-07-30",
+      "guest_name": "Michael Malice",
+      "duration_seconds": 11335.0
+    },
+    {
+      "episode_id": "jre-2268-3751c452fb36",
+      "rss_guid": "35cc0e4a-e2c7-11ef-a29d-57393df33888",
+      "published_date": "2025-02-05",
+      "guest_name": "Rick Caruso",
+      "duration_seconds": 6794.0
+    },
+    {
+      "episode_id": "jre-2290-6b44c93656d7",
+      "rss_guid": "a7c2a7f4-008e-11f0-82dd-87f71c69782c",
+      "published_date": "2025-03-14",
+      "guest_name": "Michael Kosta",
+      "duration_seconds": 10055.0
+    },
+    {
+      "episode_id": "jre-2314-f673b60dfb5b",
+      "rss_guid": "83a7346e-2615-11f0-8d24-17deb0cbeaac",
+      "published_date": "2025-05-01",
+      "guest_name": "Hal Puthoff",
+      "duration_seconds": 10446.0
+    },
+    {
+      "episode_id": "jre-2416-1a207f744455",
+      "rss_guid": "3549f58a-c693-11f0-ad16-1f90ac6c46d2",
+      "published_date": "2025-11-21",
+      "guest_name": "Dan Farah",
+      "duration_seconds": 9039.0
+    }
+  ]
+}

@@ -9,3 +9,8 @@ dependencies:
       - assemblyai==1.3.0
       - openai==3.11.0
       - yt-dlp==2026.8.19
+      # Local transcription (02_transcribe_local.py); Apple Silicon only for mlx
+      - mlx-whisper==0.4.3
+      - pyannote.audio==4.0.7
+      - torch==2.14.1
+      - jiwer==4.0.0

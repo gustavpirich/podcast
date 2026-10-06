@@ -1,0 +1,2851 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_huberman_lab_20261002T193807Z",
+  "show_id": "huberman_lab",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/hubermanlab",
+    "snapshot_relative_path": "data/raw/rss/huberman_lab/huberman_lab_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "914a41fce50d897d72d0cf503e5e8b127f1ccd8c4465652e4ea38f9a3c377a9c",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "huberman_lab-84b7a13ac66e",
+      "rss_guid": "982695aa-badf-11f1-9093-e3267f060ab3",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7353.0
+    },
+    {
+      "episode_id": "huberman_lab-d91c984c6fbf",
+      "rss_guid": "3214407a-b7e5-11f1-a48a-3f6aff694931",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2286.0
+    },
+    {
+      "episode_id": "huberman_lab-48a61f73e366",
+      "rss_guid": "e3e1190e-b57e-11f1-9a2b-0fd85f8c12f8",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8888.0
+    },
+    {
+      "episode_id": "huberman_lab-1daae6fc747c",
+      "rss_guid": "07e9f8b8-b244-11f1-b80b-9fee5bb32f26",
+      "published_date": "2026-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2141.0
+    },
+    {
+      "episode_id": "huberman_lab-18866386ae65",
+      "rss_guid": "4b8cad26-afe8-11f1-825c-877fbad20543",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 10213.0
+    },
+    {
+      "episode_id": "huberman_lab-80c941e49ffb",
+      "rss_guid": "a8e086bc-acd4-11f1-9687-3bc4959b6315",
+      "published_date": "2026-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2153.0
+    },
+    {
+      "episode_id": "huberman_lab-419de9491195",
+      "rss_guid": "ee502b96-aa66-11f1-ad04-5ff2fd270a25",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7441.0
+    },
+    {
+      "episode_id": "huberman_lab-c2e4dac0071f",
+      "rss_guid": "5e716144-a74a-11f1-9b49-9bef3cb4a30a",
+      "published_date": "2026-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2051.0
+    },
+    {
+      "episode_id": "huberman_lab-9582d0d3bf3f",
+      "rss_guid": "516d6f0a-a4da-11f1-9d93-cfbd04053b07",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 9237.0
+    },
+    {
+      "episode_id": "huberman_lab-e3b4edc026b4",
+      "rss_guid": "fc952864-a1b5-11f1-b8de-73cba0073142",
+      "published_date": "2026-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2313.0
+    },
+    {
+      "episode_id": "huberman_lab-b85110b926ac",
+      "rss_guid": "00d955ca-9f69-11f1-b5db-4f7c8998f802",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8436.0
+    },
+    {
+      "episode_id": "huberman_lab-26ad71f459e9",
+      "rss_guid": "5565a244-9c51-11f1-b8ea-e308145cac46",
+      "published_date": "2026-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2171.0
+    },
+    {
+      "episode_id": "huberman_lab-bc2aaf28a02f",
+      "rss_guid": "5f099660-99f0-11f1-91cd-cfc180734888",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7785.0
+    },
+    {
+      "episode_id": "huberman_lab-5376b3857daa",
+      "rss_guid": "d5bc4646-96ca-11f1-aaf8-2bcc5308b57c",
+      "published_date": "2026-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2299.0
+    },
+    {
+      "episode_id": "huberman_lab-314c857f727f",
+      "rss_guid": "08c064d2-9478-11f1-8fb1-5fc70077aa23",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7707.0
+    },
+    {
+      "episode_id": "huberman_lab-e6a734801022",
+      "rss_guid": "bc8da5d2-9145-11f1-aca1-2777bebad8e7",
+      "published_date": "2026-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2092.0
+    },
+    {
+      "episode_id": "huberman_lab-874ab9b0abbe",
+      "rss_guid": "8bfb1114-8ecc-11f1-a8b0-579a9bc50726",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8875.0
+    },
+    {
+      "episode_id": "huberman_lab-5d1e20d8bf33",
+      "rss_guid": "20b30760-8bd2-11f1-a696-b36351beadba",
+      "published_date": "2026-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2247.0
+    },
+    {
+      "episode_id": "huberman_lab-10edca980fa6",
+      "rss_guid": "5f3ad51e-8987-11f1-bd4e-f7d6420b7597",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6269.0
+    },
+    {
+      "episode_id": "huberman_lab-a86954a96394",
+      "rss_guid": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
+      "published_date": "2026-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2464.0
+    },
+    {
+      "episode_id": "huberman_lab-e687cbf4a118",
+      "rss_guid": "8e4c082a-83e0-11f1-afd8-cbd1b539c5b4",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 9700.0
+    },
+    {
+      "episode_id": "huberman_lab-72eefedd06f1",
+      "rss_guid": "e614eff6-80d7-11f1-a215-df69293e9c50",
+      "published_date": "2026-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2115.0
+    },
+    {
+      "episode_id": "huberman_lab-760da07fda4c",
+      "rss_guid": "0a5ad55a-7e72-11f1-a40f-6b63a7775e54",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8934.0
+    },
+    {
+      "episode_id": "huberman_lab-d7e5eaa8fd15",
+      "rss_guid": "4770a1ce-7b55-11f1-b552-7395758b62d8",
+      "published_date": "2026-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2148.0
+    },
+    {
+      "episode_id": "huberman_lab-fe90286aea61",
+      "rss_guid": "83991e1e-78f9-11f1-bfc9-d73c9dfa501c",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 9518.0
+    },
+    {
+      "episode_id": "huberman_lab-e793e7fa2c60",
+      "rss_guid": "3447d81e-75d4-11f1-bdd9-fff21f539a49",
+      "published_date": "2026-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2442.0
+    },
+    {
+      "episode_id": "huberman_lab-65ae6ffb8ec2",
+      "rss_guid": "fa3d1314-7362-11f1-a179-677e57742768",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 10803.0
+    },
+    {
+      "episode_id": "huberman_lab-0bc05d85646d",
+      "rss_guid": "c53f0060-7041-11f1-8287-d3035b745a86",
+      "published_date": "2026-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2238.0
+    },
+    {
+      "episode_id": "huberman_lab-4723c40c6dc3",
+      "rss_guid": "de50ed7a-6dfd-11f1-8316-4bc06a8aa415",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 10230.0
+    },
+    {
+      "episode_id": "huberman_lab-23f00819a29b",
+      "rss_guid": "3b42bd84-6a51-11f1-b442-0f78f81b3455",
+      "published_date": "2026-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2199.0
+    },
+    {
+      "episode_id": "huberman_lab-b6231722e8d2",
+      "rss_guid": "84659344-6563-11f1-a849-0b2be3348f8d",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10525.0
+    },
+    {
+      "episode_id": "huberman_lab-d5b2700b822f",
+      "rss_guid": "f70fb0f4-64b5-11f1-a007-8f725da7d012",
+      "published_date": "2026-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2362.0
+    },
+    {
+      "episode_id": "huberman_lab-db772783d5b9",
+      "rss_guid": "541f4308-62c8-11f1-91f3-dbdc64ae390a",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7039.0
+    },
+    {
+      "episode_id": "huberman_lab-326764874962",
+      "rss_guid": "2d042ec8-5fd0-11f1-a583-d34f98bf1200",
+      "published_date": "2026-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2468.0
+    },
+    {
+      "episode_id": "huberman_lab-c666c05e0101",
+      "rss_guid": "96b9863a-5d71-11f1-b345-0f1957d0ce33",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10117.0
+    },
+    {
+      "episode_id": "huberman_lab-aa9a2eec8df4",
+      "rss_guid": "99e90962-5a5f-11f1-ba4d-eb43c61a17f9",
+      "published_date": "2026-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2374.0
+    },
+    {
+      "episode_id": "huberman_lab-7cdb88401f4d",
+      "rss_guid": "486de24e-578d-11f1-ba69-6f7bd4573b0d",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8224.0
+    },
+    {
+      "episode_id": "huberman_lab-f622860329a7",
+      "rss_guid": "763cf880-54cd-11f1-873c-5798e0b960a6",
+      "published_date": "2026-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1984.0
+    },
+    {
+      "episode_id": "huberman_lab-d84134bb2f3c",
+      "rss_guid": "95a58356-4f17-11f1-bc49-cfdf160a55ae",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 9039.0
+    },
+    {
+      "episode_id": "huberman_lab-c9380f8c685b",
+      "rss_guid": "2f4d884c-4f26-11f1-ba88-474650216222",
+      "published_date": "2026-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2262.0
+    },
+    {
+      "episode_id": "huberman_lab-a04a308f176e",
+      "rss_guid": "09353758-4cf2-11f1-bfe6-7be31117ba20",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8884.0
+    },
+    {
+      "episode_id": "huberman_lab-5baf5d32da22",
+      "rss_guid": "46facd70-496c-11f1-be87-afc03e1435f1",
+      "published_date": "2026-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2286.0
+    },
+    {
+      "episode_id": "huberman_lab-193f567c5797",
+      "rss_guid": "c3a2dab6-475a-11f1-9ec4-4ff354be9c5e",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7817.0
+    },
+    {
+      "episode_id": "huberman_lab-1d737704cf52",
+      "rss_guid": "996cb320-444e-11f1-9918-8b74615a3b82",
+      "published_date": "2026-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2038.0
+    },
+    {
+      "episode_id": "huberman_lab-ac809bf401f0",
+      "rss_guid": "4721d474-41e2-11f1-a56d-87a62715859a",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9366.0
+    },
+    {
+      "episode_id": "huberman_lab-9ba3d45495d5",
+      "rss_guid": "c43eecb2-3ec7-11f1-ba1c-678e21968de5",
+      "published_date": "2026-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2376.0
+    },
+    {
+      "episode_id": "huberman_lab-dda146a6c5ab",
+      "rss_guid": "ac4d15c6-3c73-11f1-8836-af97a69c42c4",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 8872.0
+    },
+    {
+      "episode_id": "huberman_lab-e8884be84e6e",
+      "rss_guid": "b6628e5a-394a-11f1-8c45-d771da3d89a4",
+      "published_date": "2026-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2418.0
+    },
+    {
+      "episode_id": "huberman_lab-b2a6a9c4c521",
+      "rss_guid": "27eb92a8-34a3-11f1-83dc-3753005f3082",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 9377.0
+    },
+    {
+      "episode_id": "huberman_lab-7c03300c1e46",
+      "rss_guid": "179fc9fa-339f-11f1-bfdc-23c7ba4982f2",
+      "published_date": "2026-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2281.0
+    },
+    {
+      "episode_id": "huberman_lab-4e52b5204a3c",
+      "rss_guid": "a4256800-3168-11f1-b931-3f99a38a9983",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8434.0
+    },
+    {
+      "episode_id": "huberman_lab-486eac7a1eaa",
+      "rss_guid": "73f0c80a-2e4d-11f1-9770-17ae1ea27b2c",
+      "published_date": "2026-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2359.0
+    },
+    {
+      "episode_id": "huberman_lab-db81214edd10",
+      "rss_guid": "05730a5a-2baa-11f1-830b-07672403c194",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7892.0
+    },
+    {
+      "episode_id": "huberman_lab-90723158c16e",
+      "rss_guid": "3794bcf8-2895-11f1-849c-a3fc51f323d9",
+      "published_date": "2026-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2324.0
+    },
+    {
+      "episode_id": "huberman_lab-fe957387653b",
+      "rss_guid": "16f66160-2659-11f1-b15a-472825aac57d",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 12682.0
+    },
+    {
+      "episode_id": "huberman_lab-4d70267e177c",
+      "rss_guid": "99fba850-2347-11f1-b301-77c034c99428",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2173.0
+    },
+    {
+      "episode_id": "huberman_lab-1c02cb35c6f0",
+      "rss_guid": "c42bd964-20e6-11f1-aafa-e74c77411b18",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9839.0
+    },
+    {
+      "episode_id": "huberman_lab-437efa3378e7",
+      "rss_guid": "923b1d74-1dc7-11f1-bca5-eb04b3218f04",
+      "published_date": "2026-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2628.0
+    },
+    {
+      "episode_id": "huberman_lab-1ee4ddd422e8",
+      "rss_guid": "a0e32dc6-1b6a-11f1-baf3-bf39f9010b7c",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8847.0
+    },
+    {
+      "episode_id": "huberman_lab-6617e0814c4e",
+      "rss_guid": "e9960488-182e-11f1-b650-0f8dc737850c",
+      "published_date": "2026-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2110.0
+    },
+    {
+      "episode_id": "huberman_lab-5c0e58f7b3b8",
+      "rss_guid": "19a2cf16-15f6-11f1-8eb2-03d46abe30cf",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 11338.0
+    },
+    {
+      "episode_id": "huberman_lab-8c877056afae",
+      "rss_guid": "373771a0-128e-11f1-8e9a-e7159f1580b6",
+      "published_date": "2026-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2550.0
+    },
+    {
+      "episode_id": "huberman_lab-126ab940d705",
+      "rss_guid": "693d0c1a-1058-11f1-903d-5789d6bfd7af",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7168.0
+    },
+    {
+      "episode_id": "huberman_lab-d3606c8df80a",
+      "rss_guid": "2544007c-0d5b-11f1-8ed1-d36fdc75f1ae",
+      "published_date": "2026-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2400.0
+    },
+    {
+      "episode_id": "huberman_lab-75b1744b6578",
+      "rss_guid": "81acd3f4-0ae3-11f1-b283-27b2bdb17c2b",
+      "published_date": "2026-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9132.0
+    },
+    {
+      "episode_id": "huberman_lab-23aeb4588aae",
+      "rss_guid": "27764768-0777-11f1-ae6a-2349a01fcc14",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2391.0
+    },
+    {
+      "episode_id": "huberman_lab-858f32b7f470",
+      "rss_guid": "c324a042-0574-11f1-9b72-2702788cc9cc",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9737.0
+    },
+    {
+      "episode_id": "huberman_lab-db1a2901d9d8",
+      "rss_guid": "3af15e04-0245-11f1-a871-3b49da6996da",
+      "published_date": "2026-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2330.0
+    },
+    {
+      "episode_id": "huberman_lab-f8532e82976a",
+      "rss_guid": "d70ab042-fffc-11f0-b6c8-d32329ebb78c",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9699.0
+    },
+    {
+      "episode_id": "huberman_lab-094ed310751a",
+      "rss_guid": "591a819e-fcc8-11f0-b36b-93e1183366b1",
+      "published_date": "2026-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2111.0
+    },
+    {
+      "episode_id": "huberman_lab-e0ae20af0cac",
+      "rss_guid": "b4c0a940-fa68-11f0-b2b3-238e21b643e5",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 8666.0
+    },
+    {
+      "episode_id": "huberman_lab-b739ce61853c",
+      "rss_guid": "93e24316-f70f-11f0-99c5-735c7152e7d3",
+      "published_date": "2026-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2300.0
+    },
+    {
+      "episode_id": "huberman_lab-9474f22756a9",
+      "rss_guid": "15f7ada4-f4f0-11f0-b1b6-fffdeb96540e",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10058.0
+    },
+    {
+      "episode_id": "huberman_lab-5beb88b4c134",
+      "rss_guid": "2fdb50dc-f1b6-11f0-b265-93a8c274c6cd",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2472.0
+    },
+    {
+      "episode_id": "huberman_lab-fe069bf57024",
+      "rss_guid": "df0b9dda-ef6f-11f0-9603-23edf46f1f8d",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 12435.0
+    },
+    {
+      "episode_id": "huberman_lab-aaa835ebd0a0",
+      "rss_guid": "0cfcfc9c-ec56-11f0-9798-afb05eb53058",
+      "published_date": "2026-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2089.0
+    },
+    {
+      "episode_id": "huberman_lab-7bffcdb38328",
+      "rss_guid": "fd6756fc-e9de-11f0-a51b-0bec7fad1e1d",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 9333.0
+    },
+    {
+      "episode_id": "huberman_lab-ad77fc9467d2",
+      "rss_guid": "e08b52f4-e673-11f0-94e2-fff00461aa0b",
+      "published_date": "2026-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2433.0
+    },
+    {
+      "episode_id": "huberman_lab-56c8024f8e98",
+      "rss_guid": "9593c0e6-e476-11f0-ab87-37fc05625048",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 10245.0
+    },
+    {
+      "episode_id": "huberman_lab-543d65510e6a",
+      "rss_guid": "07340e0c-e0f5-11f0-a3e8-a31bee99d6c6",
+      "published_date": "2025-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2530.0
+    },
+    {
+      "episode_id": "huberman_lab-68cca568792a",
+      "rss_guid": "dc5610d4-def8-11f0-b8ae-ff1fbe9636b9",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 14048.0
+    },
+    {
+      "episode_id": "huberman_lab-4b629d3a576d",
+      "rss_guid": "ff669678-dbcb-11f0-bc19-47b1f377e533",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2263.0
+    },
+    {
+      "episode_id": "huberman_lab-aae4b341d9f8",
+      "rss_guid": "e3fcdbea-d96e-11f0-ad5c-5f0c75197f22",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 11820.0
+    },
+    {
+      "episode_id": "huberman_lab-977e44a10486",
+      "rss_guid": "6b791cda-d651-11f0-b8c2-cf423ce48b05",
+      "published_date": "2025-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2367.0
+    },
+    {
+      "episode_id": "huberman_lab-c0509e440a7f",
+      "rss_guid": "756f9f54-d3ed-11f0-9d11-3fe55ee08305",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 9006.0
+    },
+    {
+      "episode_id": "huberman_lab-c683fc37e63b",
+      "rss_guid": "32fcf83e-d0cc-11f0-b4b9-db36e4227c39",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2459.0
+    },
+    {
+      "episode_id": "huberman_lab-a680a697d445",
+      "rss_guid": "953f7602-ce6f-11f0-97bf-cfedc5e8bf0e",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8080.0
+    },
+    {
+      "episode_id": "huberman_lab-611542f0c12a",
+      "rss_guid": "3d2fa03c-cb30-11f0-b596-6fa9f6ec4daf",
+      "published_date": "2025-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2392.0
+    },
+    {
+      "episode_id": "huberman_lab-7c12ab304350",
+      "rss_guid": "02a20236-c8ea-11f0-bff6-736453fa059c",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 11262.0
+    },
+    {
+      "episode_id": "huberman_lab-a6a31a2983d8",
+      "rss_guid": "07a83e58-c5c5-11f0-8b1d-ab9734afbced",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2208.0
+    },
+    {
+      "episode_id": "huberman_lab-67ab32d12e49",
+      "rss_guid": "4afe13b4-c361-11f0-bb61-e7ef04560610",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8795.0
+    },
+    {
+      "episode_id": "huberman_lab-5c99e3077637",
+      "rss_guid": "e4778e98-c04c-11f0-a39d-83ed08e38562",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3000.0
+    },
+    {
+      "episode_id": "huberman_lab-98fede25b189",
+      "rss_guid": "4a984ada-bdde-11f0-a728-3fe402d9baf2",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8209.0
+    },
+    {
+      "episode_id": "huberman_lab-f3df66e1002b",
+      "rss_guid": "f8e3924e-bad1-11f0-9364-afd8027211cc",
+      "published_date": "2025-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2400.0
+    },
+    {
+      "episode_id": "huberman_lab-78f862126ac3",
+      "rss_guid": "db9cc320-b86c-11f0-869a-aff63b26f51c",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7148.0
+    },
+    {
+      "episode_id": "huberman_lab-a3780b174751",
+      "rss_guid": "0c8f2198-b53a-11f0-adf1-ef0fcf25d744",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2347.0
+    },
+    {
+      "episode_id": "huberman_lab-4c4a89ed9a34",
+      "rss_guid": "d1be7e4e-b2e4-11f0-a2e2-5f0995eae50a",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6001.0
+    },
+    {
+      "episode_id": "huberman_lab-5e94cb828e19",
+      "rss_guid": "04cf015e-af85-11f0-9857-d3189ede2bf8",
+      "published_date": "2025-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2371.0
+    },
+    {
+      "episode_id": "huberman_lab-ed8378060fc4",
+      "rss_guid": "a2f302b0-ad62-11f0-8333-571d29c2b2dc",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 8117.0
+    },
+    {
+      "episode_id": "huberman_lab-e42a7e5899c1",
+      "rss_guid": "e3ec8cf8-aa53-11f0-9758-83ed65b736ba",
+      "published_date": "2025-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2439.0
+    },
+    {
+      "episode_id": "huberman_lab-207e1618ad7b",
+      "rss_guid": "003f7ff2-a7e6-11f0-916d-f3c1340cb4be",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8877.0
+    },
+    {
+      "episode_id": "huberman_lab-4265ccb4690e",
+      "rss_guid": "9948b9fa-a4c3-11f0-a88e-d7fa1cab2599",
+      "published_date": "2025-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2035.0
+    },
+    {
+      "episode_id": "huberman_lab-6c2dc6e20128",
+      "rss_guid": "bfe1713a-a25f-11f0-885b-475bfdefa944",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 13370.0
+    },
+    {
+      "episode_id": "huberman_lab-bfd57c2e5304",
+      "rss_guid": "a4737ea8-9f52-11f0-8ff9-fb0258d72e02",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2160.0
+    },
+    {
+      "episode_id": "huberman_lab-fe58d4c38092",
+      "rss_guid": "481e07a2-9bbc-11f0-aaeb-43fe1a1436b0",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 9365.0
+    },
+    {
+      "episode_id": "huberman_lab-6f24e806ec28",
+      "rss_guid": "6ff8db44-9be4-11f0-ada2-9bf70993087d",
+      "published_date": "2025-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7823.0
+    },
+    {
+      "episode_id": "huberman_lab-620f3fc12583",
+      "rss_guid": "dd1fadac-99db-11f0-a923-93fedf9da507",
+      "published_date": "2025-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2356.0
+    },
+    {
+      "episode_id": "huberman_lab-e12095b712ef",
+      "rss_guid": "06a16590-9742-11f0-9a5f-a79d32600a01",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 11051.0
+    },
+    {
+      "episode_id": "huberman_lab-58ec997e4235",
+      "rss_guid": "a2bd0418-9443-11f0-b5ac-0f34d3e0e029",
+      "published_date": "2025-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2402.0
+    },
+    {
+      "episode_id": "huberman_lab-46757c481160",
+      "rss_guid": "a70df514-91e0-11f0-ba3b-5b1f70670c09",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7917.0
+    },
+    {
+      "episode_id": "huberman_lab-5be35a7b71d9",
+      "rss_guid": "0c81708e-8ec5-11f0-9a5d-eb756fb2c331",
+      "published_date": "2025-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2204.0
+    },
+    {
+      "episode_id": "huberman_lab-c0cdcfcb20db",
+      "rss_guid": "359fc540-8c60-11f0-9136-1be6e6ce84d8",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 9919.0
+    },
+    {
+      "episode_id": "huberman_lab-abf212063d7b",
+      "rss_guid": "fb2e1d2a-8945-11f0-a5d5-33e731ada20e",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2350.0
+    },
+    {
+      "episode_id": "huberman_lab-a2b50a53d49a",
+      "rss_guid": "76a7042c-86c5-11f0-b53d-c7a5bfe7a847",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6567.0
+    },
+    {
+      "episode_id": "huberman_lab-ecce3842f39d",
+      "rss_guid": "31455cca-83c4-11f0-be0a-8f37da084ae0",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2651.0
+    },
+    {
+      "episode_id": "huberman_lab-8c86404929f1",
+      "rss_guid": "5718456c-815c-11f0-ad79-4f2363a36f6c",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8673.0
+    },
+    {
+      "episode_id": "huberman_lab-614e937efd2b",
+      "rss_guid": "4219fb9a-7e43-11f0-ae0d-a740398cf0aa",
+      "published_date": "2025-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2119.0
+    },
+    {
+      "episode_id": "huberman_lab-3b799903bec9",
+      "rss_guid": "70cdd1ee-7bca-11f0-a4ed-ef58a840cd2c",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8609.0
+    },
+    {
+      "episode_id": "huberman_lab-e822bf9fa967",
+      "rss_guid": "b67ac942-788a-11f0-b59b-634948f947f7",
+      "published_date": "2025-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2317.0
+    },
+    {
+      "episode_id": "huberman_lab-3e807cfdf0b6",
+      "rss_guid": "87244e62-765e-11f0-80a4-8358f861af04",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 11390.0
+    },
+    {
+      "episode_id": "huberman_lab-b7c9013b1ab1",
+      "rss_guid": "484709f2-733c-11f0-a31e-cb0c890b70b7",
+      "published_date": "2025-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2179.0
+    },
+    {
+      "episode_id": "huberman_lab-8780736f715c",
+      "rss_guid": "def26916-7088-11f0-8b2f-434c69fe69df",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8196.0
+    },
+    {
+      "episode_id": "huberman_lab-6f1de8982f9d",
+      "rss_guid": "eaadb24a-6dc9-11f0-ada8-27be8ac7f368",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2561.0
+    },
+    {
+      "episode_id": "huberman_lab-c8a894597806",
+      "rss_guid": "12ee392c-6b6e-11f0-bafb-13f9162efc41",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 8818.0
+    },
+    {
+      "episode_id": "huberman_lab-af95254e2f5d",
+      "rss_guid": "c0e9f872-6844-11f0-a17e-0bfdc93fee8c",
+      "published_date": "2025-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2349.0
+    },
+    {
+      "episode_id": "huberman_lab-742e78ed5af3",
+      "rss_guid": "afe52ad6-65df-11f0-935c-5bb7f933db39",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 9847.0
+    },
+    {
+      "episode_id": "huberman_lab-64fe55a887d9",
+      "rss_guid": "81e08e0e-62c0-11f0-8725-6382b2c79413",
+      "published_date": "2025-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2676.0
+    },
+    {
+      "episode_id": "huberman_lab-f27e98042706",
+      "rss_guid": "d595a186-6060-11f0-b00e-f766dd6d0e7b",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7920.0
+    },
+    {
+      "episode_id": "huberman_lab-da61bbd222b8",
+      "rss_guid": "1871aec2-5d47-11f0-8f93-6bcab7c19918",
+      "published_date": "2025-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2210.0
+    },
+    {
+      "episode_id": "huberman_lab-72815c5fbf1c",
+      "rss_guid": "fac96dbe-5ae0-11f0-89a0-878380ecf9e7",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9323.0
+    },
+    {
+      "episode_id": "huberman_lab-863912400c02",
+      "rss_guid": "1f75a44c-57e0-11f0-b353-4fe810ba9eb7",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2443.0
+    },
+    {
+      "episode_id": "huberman_lab-b0b7facd4983",
+      "rss_guid": "de2bbf0e-5527-11f0-801a-c7d456374470",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 8014.0
+    },
+    {
+      "episode_id": "huberman_lab-07dfaa82e59a",
+      "rss_guid": "2a559544-5244-11f0-a56b-cf179e886292",
+      "published_date": "2025-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2192.0
+    },
+    {
+      "episode_id": "huberman_lab-feb0e2e57090",
+      "rss_guid": "c4a4127e-4fba-11f0-8e31-6be9f4c6bac8",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6749.0
+    },
+    {
+      "episode_id": "huberman_lab-f12fccef7b77",
+      "rss_guid": "d3bf24ea-4cc4-11f0-8cbf-030db5c04454",
+      "published_date": "2025-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2248.0
+    },
+    {
+      "episode_id": "huberman_lab-fc2646b59624",
+      "rss_guid": "6c522b5a-4a66-11f0-871d-3fe2eee02d90",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 11260.0
+    },
+    {
+      "episode_id": "huberman_lab-da4267a05605",
+      "rss_guid": "a293c8c6-4733-11f0-8055-eba7e62b206d",
+      "published_date": "2025-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2462.0
+    },
+    {
+      "episode_id": "huberman_lab-603d31cafe4c",
+      "rss_guid": "0ea5ef7a-44fb-11f0-af2e-6f9e7b6b7c1d",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 16068.0
+    },
+    {
+      "episode_id": "huberman_lab-1cd26c14b881",
+      "rss_guid": "eecf016a-41c0-11f0-9c07-e72ced43b934",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2434.0
+    },
+    {
+      "episode_id": "huberman_lab-0c226287c7c1",
+      "rss_guid": "e551a778-3f5e-11f0-8d79-e7cf09fc75d8",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9280.0
+    },
+    {
+      "episode_id": "huberman_lab-15560aa1cbea",
+      "rss_guid": "de2e8ba4-3c44-11f0-9b8e-933c0e8c3cc3",
+      "published_date": "2025-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2933.0
+    },
+    {
+      "episode_id": "huberman_lab-826fae22f962",
+      "rss_guid": "f8a48e06-39bb-11f0-9c43-b331ed4f276d",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6865.0
+    },
+    {
+      "episode_id": "huberman_lab-2acb5e938749",
+      "rss_guid": "0bc8c6fe-36d4-11f0-8776-4bcd55e20493",
+      "published_date": "2025-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2252.0
+    },
+    {
+      "episode_id": "huberman_lab-1e76b66d9bd8",
+      "rss_guid": "54213a22-33f4-11f0-a26e-838e794066d5",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8373.0
+    },
+    {
+      "episode_id": "huberman_lab-7f01af7a193f",
+      "rss_guid": "e393a918-313f-11f0-8e04-1b7c82aca4c8",
+      "published_date": "2025-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2640.0
+    },
+    {
+      "episode_id": "huberman_lab-d9b665e30dae",
+      "rss_guid": "c56be5ee-2eca-11f0-a85c-ab04ba5e88d4",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 10303.0
+    },
+    {
+      "episode_id": "huberman_lab-68fe28e1b0f6",
+      "rss_guid": "36105ea6-2bc4-11f0-9f07-6bc0e688cab5",
+      "published_date": "2025-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2328.0
+    },
+    {
+      "episode_id": "huberman_lab-e68035006bfb",
+      "rss_guid": "38dd04be-2975-11f0-b6ab-3354dd81df40",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 13164.0
+    },
+    {
+      "episode_id": "huberman_lab-1939344cdb8f",
+      "rss_guid": "55e00342-2635-11f0-a488-cb60dd8cb860",
+      "published_date": "2025-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2391.0
+    },
+    {
+      "episode_id": "huberman_lab-e414ba61c0e8",
+      "rss_guid": "14394d42-23e5-11f0-abc1-57022d08b1ea",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7598.0
+    },
+    {
+      "episode_id": "huberman_lab-43f467ea2251",
+      "rss_guid": "bf79a700-21ed-11f0-9981-ab7490841e74",
+      "published_date": "2025-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1096.0
+    },
+    {
+      "episode_id": "huberman_lab-7bab4a5af277",
+      "rss_guid": "4d227682-20bc-11f0-8f5a-67c0e7a13c37",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2091.0
+    },
+    {
+      "episode_id": "huberman_lab-dcb09b74ea94",
+      "rss_guid": "0dd95122-1e54-11f0-bacf-abd02742e7bf",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 11327.0
+    },
+    {
+      "episode_id": "huberman_lab-fbc19781ac0f",
+      "rss_guid": "b2174bba-1b1e-11f0-8578-437912f4bc6f",
+      "published_date": "2025-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2652.0
+    },
+    {
+      "episode_id": "huberman_lab-3094ebb26be4",
+      "rss_guid": "5c321fc4-18e2-11f0-a145-6bde588c8efc",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9815.0
+    },
+    {
+      "episode_id": "huberman_lab-ba27b27a4766",
+      "rss_guid": "7ea92e52-15b4-11f0-bdb6-e3b6c0054692",
+      "published_date": "2025-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2060.0
+    },
+    {
+      "episode_id": "huberman_lab-ad20351b1aa1",
+      "rss_guid": "e95e5e9a-1355-11f0-b62a-1fdbf0649653",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 12253.0
+    },
+    {
+      "episode_id": "huberman_lab-fbe2d11c0ed0",
+      "rss_guid": "142902da-102a-11f0-a1e0-c703a9779039",
+      "published_date": "2025-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2284.0
+    },
+    {
+      "episode_id": "huberman_lab-7fae5e039c24",
+      "rss_guid": "57437b6c-0de2-11f0-be1b-9f98408b23f3",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 11597.0
+    },
+    {
+      "episode_id": "huberman_lab-2aedfd333ae2",
+      "rss_guid": "ec67bd2a-0aa4-11f0-b3c0-9ff001e87e37",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2066.0
+    },
+    {
+      "episode_id": "huberman_lab-80a0a0653ab8",
+      "rss_guid": "88301522-085c-11f0-806e-2757fde2ed38",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 10501.0
+    },
+    {
+      "episode_id": "huberman_lab-b078d30197c2",
+      "rss_guid": "82a968a0-051a-11f0-a57a-c357e2d2a549",
+      "published_date": "2025-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1999.0
+    },
+    {
+      "episode_id": "huberman_lab-4cd43332708e",
+      "rss_guid": "bbbb913e-02dd-11f0-871b-53d7820d34f1",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 10881.0
+    },
+    {
+      "episode_id": "huberman_lab-7976442bfe82",
+      "rss_guid": "708feb12-ffb6-11ef-910d-778c8d684527",
+      "published_date": "2025-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2168.0
+    },
+    {
+      "episode_id": "huberman_lab-46aaa8463151",
+      "rss_guid": "11f78b0e-fd55-11ef-b94b-b39dd4c7c1ff",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 9500.0
+    },
+    {
+      "episode_id": "huberman_lab-2fd769464117",
+      "rss_guid": "5ce3a548-f96e-11ef-8da9-83bbb98ab2a6",
+      "published_date": "2025-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2114.0
+    },
+    {
+      "episode_id": "huberman_lab-4102639fa7f6",
+      "rss_guid": "87abcfa2-f7e9-11ef-8c95-f7785406234d",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8003.0
+    },
+    {
+      "episode_id": "huberman_lab-3e1b23a3aeb5",
+      "rss_guid": "18fca78a-f4b9-11ef-a786-bf85610342a4",
+      "published_date": "2025-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2395.0
+    },
+    {
+      "episode_id": "huberman_lab-5af58365dd19",
+      "rss_guid": "d862b12c-f258-11ef-92e1-7be7aa7f2422",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 12507.0
+    },
+    {
+      "episode_id": "huberman_lab-f1a716d126a5",
+      "rss_guid": "1db73ad8-eefb-11ef-a65d-7711874350e5",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2222.0
+    },
+    {
+      "episode_id": "huberman_lab-33f378fb987a",
+      "rss_guid": "f8b14c72-ecea-11ef-99f4-1ff7a774da21",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 13746.0
+    },
+    {
+      "episode_id": "huberman_lab-1a9c69fcb409",
+      "rss_guid": "1c6efa08-e9a1-11ef-b17c-9372c2ebcde7",
+      "published_date": "2025-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2699.0
+    },
+    {
+      "episode_id": "huberman_lab-8f9fa7c5a56d",
+      "rss_guid": "55ddd450-e75b-11ef-826c-9bdd805e399f",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 15328.0
+    },
+    {
+      "episode_id": "huberman_lab-77df310387ee",
+      "rss_guid": "38c7f6c2-e443-11ef-945d-4bb87b2ea302",
+      "published_date": "2025-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2570.0
+    },
+    {
+      "episode_id": "huberman_lab-29ac00537c69",
+      "rss_guid": "d3ad1afa-e1dc-11ef-bc87-bf4191c170d9",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 12154.0
+    },
+    {
+      "episode_id": "huberman_lab-f265ad68be94",
+      "rss_guid": "f0376218-dece-11ef-b032-ab552788584b",
+      "published_date": "2025-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2369.0
+    },
+    {
+      "episode_id": "huberman_lab-aafcfd021cc4",
+      "rss_guid": "250ff790-dc70-11ef-867b-7758b55ed00c",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 11827.0
+    },
+    {
+      "episode_id": "huberman_lab-4063783c3e2e",
+      "rss_guid": "1a1cb9c4-d91c-11ef-8ff0-cf14529548ad",
+      "published_date": "2025-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2224.0
+    },
+    {
+      "episode_id": "huberman_lab-8d646efdae4d",
+      "rss_guid": "7ade92aa-d6e7-11ef-ac7f-bf0f4e153b94",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 11272.0
+    },
+    {
+      "episode_id": "huberman_lab-d87c99db6af9",
+      "rss_guid": "74823302-d3c8-11ef-a46e-6bbfaa2aaf3b",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2243.0
+    },
+    {
+      "episode_id": "huberman_lab-7cbf2fdb9c1f",
+      "rss_guid": "ca01456a-d112-11ef-96fd-13de50bee410",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 13186.0
+    },
+    {
+      "episode_id": "huberman_lab-fe84c843fb51",
+      "rss_guid": "45ab9a6e-ce41-11ef-985d-ff3234b39739",
+      "published_date": "2025-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2436.0
+    },
+    {
+      "episode_id": "huberman_lab-123b00223de4",
+      "rss_guid": "26d74916-cbd6-11ef-808f-2f3b30e5d7d1",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6587.0
+    },
+    {
+      "episode_id": "huberman_lab-e7aa96f9e750",
+      "rss_guid": "278594b8-c888-11ef-99bc-ef47f02a9c81",
+      "published_date": "2025-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2087.0
+    },
+    {
+      "episode_id": "huberman_lab-c463720bb75a",
+      "rss_guid": "4c3799c4-c661-11ef-9354-b3704378c674",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 13870.0
+    },
+    {
+      "episode_id": "huberman_lab-75bb0715cb42",
+      "rss_guid": "15e972cc-c31c-11ef-a2fd-47823326b4fd",
+      "published_date": "2024-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2242.0
+    },
+    {
+      "episode_id": "huberman_lab-2d680e54f243",
+      "rss_guid": "eb45e7be-c0e9-11ef-9e8d-57fd6158b6e6",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 11285.0
+    },
+    {
+      "episode_id": "huberman_lab-a73b4a6340c7",
+      "rss_guid": "41e3a88a-bcd1-11ef-8747-2710628ab2e7",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2245.0
+    },
+    {
+      "episode_id": "huberman_lab-fb31ce175c21",
+      "rss_guid": "139f6de4-bb67-11ef-b48d-f3f066e14d44",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 11759.0
+    },
+    {
+      "episode_id": "huberman_lab-b20869f4670c",
+      "rss_guid": "97533ec4-b7dc-11ef-9ced-438a3014dc4c",
+      "published_date": "2024-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2329.0
+    },
+    {
+      "episode_id": "huberman_lab-2e2841518378",
+      "rss_guid": "8c800e66-b5d2-11ef-8bad-3b82d3cd475c",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 12369.0
+    },
+    {
+      "episode_id": "huberman_lab-2f8586927363",
+      "rss_guid": "50db51da-b2a4-11ef-9678-f77b39e44e38",
+      "published_date": "2024-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1827.0
+    },
+    {
+      "episode_id": "huberman_lab-c095e049d0c5",
+      "rss_guid": "c9c92ef6-b050-11ef-985d-7794bb3b170c",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8135.0
+    },
+    {
+      "episode_id": "huberman_lab-2c3310a1cce9",
+      "rss_guid": "1a7ba506-ad25-11ef-aad4-271adc50643f",
+      "published_date": "2024-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2304.0
+    },
+    {
+      "episode_id": "huberman_lab-489b59009f80",
+      "rss_guid": "271122ce-aadb-11ef-bee7-b7c75bcbefdc",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 11341.0
+    },
+    {
+      "episode_id": "huberman_lab-704a1b063557",
+      "rss_guid": "55f5e326-a75d-11ef-8322-c7c1f3a7218f",
+      "published_date": "2024-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2332.0
+    },
+    {
+      "episode_id": "huberman_lab-a11117d8a82f",
+      "rss_guid": "afab686a-a554-11ef-9bb7-93eeda77b41b",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 9250.0
+    },
+    {
+      "episode_id": "huberman_lab-f8e3a63d88f1",
+      "rss_guid": "25e8e80a-a20c-11ef-b4a3-5bc1f3eadf35",
+      "published_date": "2024-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2264.0
+    },
+    {
+      "episode_id": "huberman_lab-cc094fe6cd55",
+      "rss_guid": "eda33374-9fea-11ef-89dc-7b1b2816d2f8",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7665.0
+    },
+    {
+      "episode_id": "huberman_lab-d293ac5cb1d8",
+      "rss_guid": "6e03d1f6-9a58-11ef-ab84-538f45ec5451",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8282.0
+    },
+    {
+      "episode_id": "huberman_lab-996370b3a462",
+      "rss_guid": "5c9c04fc-94da-11ef-a9bc-8752a8f90f9d",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 9561.0
+    },
+    {
+      "episode_id": "huberman_lab-6d9a850ecf4f",
+      "rss_guid": "bf0edeee-8f5c-11ef-aed7-53b79fe4e995",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5813.0
+    },
+    {
+      "episode_id": "huberman_lab-83ebd10204c7",
+      "rss_guid": "f29e0ce2-89e6-11ef-ab69-3326577693de",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 8257.0
+    },
+    {
+      "episode_id": "huberman_lab-60b906bbf950",
+      "rss_guid": "3acbd42a-8462-11ef-a02e-1b756e7df8ef",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 8953.0
+    },
+    {
+      "episode_id": "huberman_lab-1d695f677219",
+      "rss_guid": "2725c124-7edb-11ef-a605-0f77f34b7fa1",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9548.0
+    },
+    {
+      "episode_id": "huberman_lab-6a735bd02d11",
+      "rss_guid": "4adefa70-795b-11ef-be9a-2758b2e44dea",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8818.0
+    },
+    {
+      "episode_id": "huberman_lab-6bc761f2b757",
+      "rss_guid": "d985a0f4-73e2-11ef-9c1a-bfd61ee63d3e",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7573.0
+    },
+    {
+      "episode_id": "huberman_lab-b9bc750ce8d2",
+      "rss_guid": "8fbd68b8-6e5a-11ef-83cd-630ed3dfb7db",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9273.0
+    },
+    {
+      "episode_id": "huberman_lab-5d9c8e5bcb9b",
+      "rss_guid": "3f479d38-68db-11ef-83bd-732c9da459db",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8202.0
+    },
+    {
+      "episode_id": "huberman_lab-11828d86dc51",
+      "rss_guid": "a99e69d0-635b-11ef-bf68-a39df0c12fa4",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6098.0
+    },
+    {
+      "episode_id": "huberman_lab-f608ab11bc14",
+      "rss_guid": "5fda276e-5c01-11ef-b5f0-438b95e019bb",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9963.0
+    },
+    {
+      "episode_id": "huberman_lab-144bed7f18e6",
+      "rss_guid": "63fbf636-5870-11ef-b79a-2bf03783e13e",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 14669.0
+    },
+    {
+      "episode_id": "huberman_lab-b57105c28029",
+      "rss_guid": "9c267700-52f5-11ef-ba22-17e179b2cd07",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 9893.0
+    },
+    {
+      "episode_id": "huberman_lab-8a7b0b43de64",
+      "rss_guid": "1d3d1680-5037-11ef-b39f-bf5e480148f7",
+      "published_date": "2024-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3403.0
+    },
+    {
+      "episode_id": "huberman_lab-44a2ad07ea49",
+      "rss_guid": "d564309a-4d62-11ef-a043-7fcce4a96067",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 9041.0
+    },
+    {
+      "episode_id": "huberman_lab-062cb578c470",
+      "rss_guid": "6ac56b9e-47bf-11ef-80b5-2bf3bb9f2e1a",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8917.0
+    },
+    {
+      "episode_id": "huberman_lab-c6ca4f84c543",
+      "rss_guid": "b97dc99c-425c-11ef-841c-83023d1564cf",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10335.0
+    },
+    {
+      "episode_id": "huberman_lab-33ec5eb0caec",
+      "rss_guid": "bb62b15c-3ce2-11ef-91d8-675f585a092b",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 13957.0
+    },
+    {
+      "episode_id": "huberman_lab-65c3da5187c5",
+      "rss_guid": "d68e0044-3701-11ef-959e-4fc45413712c",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8874.0
+    },
+    {
+      "episode_id": "huberman_lab-aed1c8e31720",
+      "rss_guid": "fdf55cd4-31ea-11ef-98fd-a7c4e71292e8",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 11016.0
+    },
+    {
+      "episode_id": "huberman_lab-1c9789d836aa",
+      "rss_guid": "a140307c-2c5e-11ef-8d6d-0b730eb8bd72",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8336.0
+    },
+    {
+      "episode_id": "huberman_lab-7a7e51e10ffe",
+      "rss_guid": "837d331e-26c3-11ef-b355-07b48e88f37e",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8815.0
+    },
+    {
+      "episode_id": "huberman_lab-955a18d26542",
+      "rss_guid": "fb4519a2-247a-11ef-bbd2-5b7f72a3f7c0",
+      "published_date": "2024-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3188.0
+    },
+    {
+      "episode_id": "huberman_lab-c99f8705cd98",
+      "rss_guid": "ee059ec2-214d-11ef-87b9-efd580d04869",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8311.0
+    },
+    {
+      "episode_id": "huberman_lab-d843094be695",
+      "rss_guid": "aeb0e5da-1bdd-11ef-a0e0-2b0a5835332b",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9732.0
+    },
+    {
+      "episode_id": "huberman_lab-09ae5c96fced",
+      "rss_guid": "ddc295e4-164c-11ef-a97e-33c3d1fbe298",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6903.0
+    },
+    {
+      "episode_id": "huberman_lab-c2559a501952",
+      "rss_guid": "ea999c22-1403-11ef-84d2-477c060a0e63",
+      "published_date": "2024-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3078.0
+    },
+    {
+      "episode_id": "huberman_lab-7ac96383e529",
+      "rss_guid": "018ca736-10d4-11ef-a1cd-6fdd1d8f92c7",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 9587.0
+    },
+    {
+      "episode_id": "huberman_lab-2d2bcfd67d77",
+      "rss_guid": "265eaece-0cd8-11ef-a632-e38ba0e7f06f",
+      "published_date": "2024-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 9185.0
+    },
+    {
+      "episode_id": "huberman_lab-c95790657309",
+      "rss_guid": "bca20ce6-0b39-11ef-baef-33780c8466e6",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10375.0
+    },
+    {
+      "episode_id": "huberman_lab-429ca7e75e40",
+      "rss_guid": "d79cc180-076f-11ef-8968-27a6f71b702d",
+      "published_date": "2024-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8113.0
+    },
+    {
+      "episode_id": "huberman_lab-a65e3b848cc7",
+      "rss_guid": "72add6ce-06fc-11ef-abb8-1744df0346d0",
+      "published_date": "2024-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1529.0
+    },
+    {
+      "episode_id": "huberman_lab-ba39d25276e0",
+      "rss_guid": "807abac2-0587-11ef-8d0a-9f0d25ac29b5",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7429.0
+    },
+    {
+      "episode_id": "huberman_lab-dfbd7d653144",
+      "rss_guid": "75aea2a0-01ce-11ef-bc39-f32612f1fc6a",
+      "published_date": "2024-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8907.0
+    },
+    {
+      "episode_id": "huberman_lab-692831d2b65a",
+      "rss_guid": "12acc7bc-0058-11ef-95d1-af5b7b6bad05",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8858.0
+    },
+    {
+      "episode_id": "huberman_lab-ad2c4151ee92",
+      "rss_guid": "56dcf4b2-fdeb-11ee-bbb7-0b2b2926e175",
+      "published_date": "2024-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3173.0
+    },
+    {
+      "episode_id": "huberman_lab-3327c55d5b7a",
+      "rss_guid": "9de992c2-fc68-11ee-929d-9f786d40b03a",
+      "published_date": "2024-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8338.0
+    },
+    {
+      "episode_id": "huberman_lab-c28fd7e01308",
+      "rss_guid": "a9f89aea-faa6-11ee-94bd-f3baff90519f",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8630.0
+    },
+    {
+      "episode_id": "huberman_lab-35cc5a16b57c",
+      "rss_guid": "e630633c-f6d5-11ee-a605-cb6d00178aa9",
+      "published_date": "2024-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 9774.0
+    },
+    {
+      "episode_id": "huberman_lab-49c1e857848a",
+      "rss_guid": "ebb18d22-f563-11ee-a31d-a7ccf43b9721",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 11633.0
+    },
+    {
+      "episode_id": "huberman_lab-2a6d619646f7",
+      "rss_guid": "fec6688e-f152-11ee-a2d3-e7db541bc468",
+      "published_date": "2024-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10773.0
+    },
+    {
+      "episode_id": "huberman_lab-ecbf4f4ba457",
+      "rss_guid": "ecf7d2c8-ef9f-11ee-9f75-2b2f8f7093f3",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4918.0
+    },
+    {
+      "episode_id": "huberman_lab-c22438ada0f3",
+      "rss_guid": "e5ad26be-ea5c-11ee-9a5f-abf27e5a83d0",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 10061.0
+    },
+    {
+      "episode_id": "huberman_lab-274e48ad630d",
+      "rss_guid": "7c9840f8-e7f7-11ee-b47a-2b8c4c2c132f",
+      "published_date": "2024-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3505.0
+    },
+    {
+      "episode_id": "huberman_lab-753da7a442ea",
+      "rss_guid": "e188f5cc-e4d5-11ee-a2c6-7f2b8cb15586",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7014.0
+    },
+    {
+      "episode_id": "huberman_lab-55c8b3f0ee94",
+      "rss_guid": "d4e70524-df54-11ee-a87b-e345258e3665",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10378.0
+    },
+    {
+      "episode_id": "huberman_lab-0dc9cb6c3d29",
+      "rss_guid": "027498a4-d9d2-11ee-9e1e-5371a97dd94c",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4438.0
+    },
+    {
+      "episode_id": "huberman_lab-7ba31f36193f",
+      "rss_guid": "b1623670-d723-11ee-a74d-27378095fc5c",
+      "published_date": "2024-02-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3408.0
+    },
+    {
+      "episode_id": "huberman_lab-8a8f7246241b",
+      "rss_guid": "8d4f3b56-d3aa-11ee-9cf3-f3e75644e2f4",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 10178.0
+    },
+    {
+      "episode_id": "huberman_lab-2daa22a229c1",
+      "rss_guid": "25318762-ced8-11ee-9fe5-2f14da719458",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8909.0
+    },
+    {
+      "episode_id": "huberman_lab-7706449384d2",
+      "rss_guid": "01f20c7a-c95d-11ee-8c0f-3f7b7cca5f9b",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6966.0
+    },
+    {
+      "episode_id": "huberman_lab-fae7345639bc",
+      "rss_guid": "58c1f94e-c3e4-11ee-92f6-c7d1cdeeee42",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8792.0
+    },
+    {
+      "episode_id": "huberman_lab-94446840a734",
+      "rss_guid": "256da5f0-c076-11ee-9c43-03a97380f8dc",
+      "published_date": "2024-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1742.0
+    },
+    {
+      "episode_id": "huberman_lab-38412d9574f9",
+      "rss_guid": "c0d56dd8-be65-11ee-99aa-b345ae4faf39",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5189.0
+    },
+    {
+      "episode_id": "huberman_lab-11ad59cd1b42",
+      "rss_guid": "42e91808-b8d3-11ee-b582-3fa52b6b2b08",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 11044.0
+    },
+    {
+      "episode_id": "huberman_lab-64d8772c0341",
+      "rss_guid": "db25926c-b361-11ee-9952-47fbd68c76aa",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10359.0
+    },
+    {
+      "episode_id": "huberman_lab-4706f9cdc2ce",
+      "rss_guid": "680a00b0-addf-11ee-b888-b7ea7e2a4012",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7294.0
+    },
+    {
+      "episode_id": "huberman_lab-490bf8f2a9eb",
+      "rss_guid": "1a31f606-a838-11ee-aff1-233811c76942",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 9201.0
+    },
+    {
+      "episode_id": "huberman_lab-8ff9caf7c39e",
+      "rss_guid": "0aa2f73c-a5fc-11ee-9dd5-9f59cc38d502",
+      "published_date": "2023-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3910.0
+    },
+    {
+      "episode_id": "huberman_lab-146079f99688",
+      "rss_guid": "64563ef0-a2e2-11ee-96af-63eded777116",
+      "published_date": "2023-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8644.0
+    },
+    {
+      "episode_id": "huberman_lab-ad1d23056b04",
+      "rss_guid": "47efcad4-9d64-11ee-9d58-9b2a9f1b600e",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 12247.0
+    },
+    {
+      "episode_id": "huberman_lab-f6840342cccb",
+      "rss_guid": "ae0f5048-9844-11ee-8370-931cf29a935d",
+      "published_date": "2023-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3283.0
+    },
+    {
+      "episode_id": "huberman_lab-df6b4d938cab",
+      "rss_guid": "c0147eb8-97df-11ee-9248-eb4ea6f48290",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10279.0
+    },
+    {
+      "episode_id": "huberman_lab-e44b697bf3a4",
+      "rss_guid": "31bf54ee-9249-11ee-a960-cf109e939e7c",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 11226.0
+    },
+    {
+      "episode_id": "huberman_lab-8a46c8997082",
+      "rss_guid": "fb377190-8f3c-11ee-83a5-fbe68041aaaa",
+      "published_date": "2023-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1457.0
+    },
+    {
+      "episode_id": "huberman_lab-2fafe28ccf15",
+      "rss_guid": "8f5cb28e-8cb0-11ee-8e31-67127eba9dd6",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 11263.0
+    },
+    {
+      "episode_id": "huberman_lab-e0ac2acde905",
+      "rss_guid": "7dbab328-8756-11ee-a542-db84066d59e4",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5629.0
+    },
+    {
+      "episode_id": "huberman_lab-49e858208a08",
+      "rss_guid": "8727533c-8272-11ee-a90f-dfda139cf5ca",
+      "published_date": "2023-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2347.0
+    },
+    {
+      "episode_id": "huberman_lab-d1a6d88f80d0",
+      "rss_guid": "083f30f6-819d-11ee-a181-038aa6be0860",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 12230.0
+    },
+    {
+      "episode_id": "huberman_lab-3f51eec58d75",
+      "rss_guid": "65791dd8-7c5a-11ee-ab18-73c75d3036b0",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 9248.0
+    },
+    {
+      "episode_id": "huberman_lab-1569ffe0f9bf",
+      "rss_guid": "80f3394e-780a-11ee-96e2-5b2201beb8e0",
+      "published_date": "2023-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 1747.0
+    },
+    {
+      "episode_id": "huberman_lab-6f7b86c436e9",
+      "rss_guid": "01b33d1a-76dd-11ee-971b-af0b0efa65ed",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7026.0
+    },
+    {
+      "episode_id": "huberman_lab-a559700e8414",
+      "rss_guid": "d3d36e5c-7154-11ee-9b9e-f398ff4f5e60",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7919.0
+    },
+    {
+      "episode_id": "huberman_lab-338276456957",
+      "rss_guid": "fdbb461a-6bd5-11ee-868e-eb1ce3a48204",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9395.0
+    },
+    {
+      "episode_id": "huberman_lab-419844369f6d",
+      "rss_guid": "27823518-664e-11ee-a08d-db14227b3374",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7530.0
+    },
+    {
+      "episode_id": "huberman_lab-8a011fd163b3",
+      "rss_guid": "1aa5478a-60e1-11ee-909c-fbe4e44f455d",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10261.0
+    },
+    {
+      "episode_id": "huberman_lab-0e7f9a9f938c",
+      "rss_guid": "2de9549a-5e51-11ee-bb1c-8fa051eb7f11",
+      "published_date": "2023-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2076.0
+    },
+    {
+      "episode_id": "huberman_lab-25f5f9f8fab5",
+      "rss_guid": "b0e91db0-5cf0-11ee-ab06-af2032a4f09f",
+      "published_date": "2023-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9673.0
+    },
+    {
+      "episode_id": "huberman_lab-f024ea5e78c1",
+      "rss_guid": "f61ee4b0-5b50-11ee-bf63-c3f86182d014",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 9071.0
+    },
+    {
+      "episode_id": "huberman_lab-84e58caca6f0",
+      "rss_guid": "e371ed50-5775-11ee-8d3a-3f7632afc7a5",
+      "published_date": "2023-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 11077.0
+    },
+    {
+      "episode_id": "huberman_lab-e8141d09079a",
+      "rss_guid": "edc754cc-55d4-11ee-92c9-273609c2270c",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6062.0
+    },
+    {
+      "episode_id": "huberman_lab-23fd59c5531a",
+      "rss_guid": "9de64686-511d-11ee-b77d-9f594df8dfe8",
+      "published_date": "2023-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 11718.0
+    },
+    {
+      "episode_id": "huberman_lab-5567cceab0f1",
+      "rss_guid": "c60262d0-505f-11ee-b581-0b718de97be6",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8332.0
+    },
+    {
+      "episode_id": "huberman_lab-a32eae16b092",
+      "rss_guid": "178f81a6-4c22-11ee-86f6-9bdc7952ea73",
+      "published_date": "2023-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 13369.0
+    },
+    {
+      "episode_id": "huberman_lab-920ee166d6c1",
+      "rss_guid": "32a11b1a-4ab2-11ee-aeee-d34f3a1fce36",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 10457.0
+    },
+    {
+      "episode_id": "huberman_lab-bf02e1a26995",
+      "rss_guid": "db1202b2-46d6-11ee-914e-073f1f1207d0",
+      "published_date": "2023-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1293.0
+    },
+    {
+      "episode_id": "huberman_lab-e78662e8a67a",
+      "rss_guid": "e9071e66-4550-11ee-bf97-4fb41d1a19ec",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5536.0
+    },
+    {
+      "episode_id": "huberman_lab-e7f15d4d5e3a",
+      "rss_guid": "7013e94c-3fb7-11ee-bfbd-17728b52b2ec",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 9188.0
+    },
+    {
+      "episode_id": "huberman_lab-697b859fd2bf",
+      "rss_guid": "5225bd0a-3a5a-11ee-a965-633057bde47e",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 10265.0
+    },
+    {
+      "episode_id": "huberman_lab-f7facd9b2e71",
+      "rss_guid": "b4b890c0-3490-11ee-b72a-3b2d98916fd0",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5996.0
+    },
+    {
+      "episode_id": "huberman_lab-de63c12c2494",
+      "rss_guid": "e2363144-2f52-11ee-8ae2-af8f84eddffe",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7967.0
+    },
+    {
+      "episode_id": "huberman_lab-79d7beb324e5",
+      "rss_guid": "2042a226-2cfe-11ee-92a8-17c85a9ed527",
+      "published_date": "2023-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1591.0
+    },
+    {
+      "episode_id": "huberman_lab-cda999018396",
+      "rss_guid": "bf8fae38-29c9-11ee-9e97-9b455de9a898",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9086.0
+    },
+    {
+      "episode_id": "huberman_lab-b173fcc7cab3",
+      "rss_guid": "f05e5c06-243a-11ee-96fe-77778f1fb53a",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5946.0
+    },
+    {
+      "episode_id": "huberman_lab-21a28e005c92",
+      "rss_guid": "e85a4062-1ede-11ee-989a-87b5bd3c458c",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10049.0
+    },
+    {
+      "episode_id": "huberman_lab-4b814854547c",
+      "rss_guid": "4d6ab4b6-1915-11ee-aef7-b31909b70194",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5577.0
+    },
+    {
+      "episode_id": "huberman_lab-618f6b706b3f",
+      "rss_guid": "78c31a80-13df-11ee-b48c-577a42be7e3a",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 9726.0
+    },
+    {
+      "episode_id": "huberman_lab-39b62094a9ab",
+      "rss_guid": "436eccde-1147-11ee-8619-5b5e45c83042",
+      "published_date": "2023-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1520.0
+    },
+    {
+      "episode_id": "huberman_lab-64f55ad021be",
+      "rss_guid": "73bb5e64-0e56-11ee-8d09-f3b0a5271c78",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 12869.0
+    },
+    {
+      "episode_id": "huberman_lab-cb7d3516ee16",
+      "rss_guid": "ee80036a-0849-11ee-8631-1f38ed81478e",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 8022.0
+    },
+    {
+      "episode_id": "huberman_lab-5930263abae6",
+      "rss_guid": "8e7b6e6a-02b7-11ee-aa02-5be331625839",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 9455.0
+    },
+    {
+      "episode_id": "huberman_lab-2ffe54fc90fd",
+      "rss_guid": "3b451068-fc20-11ed-96b9-b3ec9dc549c4",
+      "published_date": "2023-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 1340.0
+    },
+    {
+      "episode_id": "huberman_lab-95374dd00df6",
+      "rss_guid": "70cec64e-fdd2-11ed-9849-63bf8dfb57b0",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7082.0
+    },
+    {
+      "episode_id": "huberman_lab-e7417cc9367f",
+      "rss_guid": "b764c05c-f84d-11ed-9292-db00a5db12d2",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 9162.0
+    },
+    {
+      "episode_id": "huberman_lab-0cfbc0cd7696",
+      "rss_guid": "b0557d0e-f2b4-11ed-9e83-df3aa299d940",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8803.0
+    },
+    {
+      "episode_id": "huberman_lab-06e79a2db5b5",
+      "rss_guid": "ea326be2-ed44-11ed-b351-63f12d60141d",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7523.0
+    },
+    {
+      "episode_id": "huberman_lab-dfeb272ccafd",
+      "rss_guid": "61ee0e76-e795-11ed-bf99-db426789849b",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 11402.0
+    },
+    {
+      "episode_id": "huberman_lab-83a7aa444e43",
+      "rss_guid": "1724f4fe-e4b1-11ed-ba8c-03c4765d045c",
+      "published_date": "2023-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2173.0
+    },
+    {
+      "episode_id": "huberman_lab-1cc1c1b2ecf8",
+      "rss_guid": "2541fcf8-e245-11ed-a8e8-23276bf194bb",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6972.0
+    },
+    {
+      "episode_id": "huberman_lab-9f0248db6ec5",
+      "rss_guid": "c3b84c88-dcd8-11ed-91b5-8f3bcc57f41c",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7075.0
+    },
+    {
+      "episode_id": "huberman_lab-b23b67c36021",
+      "rss_guid": "00ac8cb6-d75d-11ed-b125-9f97f7a04b2a",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7245.0
+    },
+    {
+      "episode_id": "huberman_lab-a31518a4e0ab",
+      "rss_guid": "0ca1c2fa-d1d3-11ed-b13c-0313677274b5",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7296.0
+    },
+    {
+      "episode_id": "huberman_lab-db25c8f8a6ad",
+      "rss_guid": "9b59fa18-cc37-11ed-bc57-f32b4e828ca3",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6877.0
+    },
+    {
+      "episode_id": "huberman_lab-8061d212dfcb",
+      "rss_guid": "787a8434-c99b-11ed-8217-93e0e970753c",
+      "published_date": "2023-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1406.0
+    },
+    {
+      "episode_id": "huberman_lab-6271bf9ad3a3",
+      "rss_guid": "ce6b79fa-c6c3-11ed-8e60-3775c3d3dffc",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 12302.0
+    },
+    {
+      "episode_id": "huberman_lab-c29fff318a49",
+      "rss_guid": "e16216b0-c144-11ed-8dab-ebc88085ea78",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 9844.0
+    },
+    {
+      "episode_id": "huberman_lab-392c8504b26f",
+      "rss_guid": "17ac0c30-bbd7-11ed-b0d8-f7b9e1aacd7b",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8256.0
+    },
+    {
+      "episode_id": "huberman_lab-b0df787aaaef",
+      "rss_guid": "a5f3f4f6-b648-11ed-94be-0b407cb8da13",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8843.0
+    },
+    {
+      "episode_id": "huberman_lab-49071c355fe0",
+      "rss_guid": "69914d40-afce-11ed-ad1c-1fb2dc6ebc60",
+      "published_date": "2023-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1393.0
+    },
+    {
+      "episode_id": "huberman_lab-3a503b3b5041",
+      "rss_guid": "d0c7beb4-b25c-11ed-8731-4b09beb2594b",
+      "published_date": "2023-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 11133.0
+    },
+    {
+      "episode_id": "huberman_lab-982e9b7c2c2c",
+      "rss_guid": "429b0322-b0b7-11ed-90df-77de89de26ae",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 8061.0
+    },
+    {
+      "episode_id": "huberman_lab-40f6db6a8bee",
+      "rss_guid": "0cff707e-acc8-11ed-abe7-83c804f9fd84",
+      "published_date": "2023-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 11105.0
+    },
+    {
+      "episode_id": "huberman_lab-f096cabcdb12",
+      "rss_guid": "1c65b9fe-ab30-11ed-a72f-df8f2ab4fe8f",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7251.0
+    },
+    {
+      "episode_id": "huberman_lab-5cac58b0c31c",
+      "rss_guid": "33597df6-a65f-11ed-9434-f3268ce3f151",
+      "published_date": "2023-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 11167.0
+    },
+    {
+      "episode_id": "huberman_lab-8c72c35fc338",
+      "rss_guid": "c4e5dcde-a5d7-11ed-8c98-4f6426fb7dab",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8489.0
+    },
+    {
+      "episode_id": "huberman_lab-28ebc25589a6",
+      "rss_guid": "91019408-a0cd-11ed-a8ce-ef0f97132f26",
+      "published_date": "2023-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 13732.0
+    },
+    {
+      "episode_id": "huberman_lab-d346df50b6eb",
+      "rss_guid": "d956e3b0-a05b-11ed-9a95-b399ec9150e4",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9036.0
+    },
+    {
+      "episode_id": "huberman_lab-16027c83cd34",
+      "rss_guid": "c5a7be60-9c6f-11ed-b8f9-f7cbaa4ceea9",
+      "published_date": "2023-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 16763.0
+    },
+    {
+      "episode_id": "huberman_lab-bcf3e5e42b92",
+      "rss_guid": "3d29e37a-9a20-11ed-a2c2-47804023b745",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 15516.0
+    },
+    {
+      "episode_id": "huberman_lab-bc7ef0fdb246",
+      "rss_guid": "09f48208-9552-11ed-ad2e-c74d6fbce772",
+      "published_date": "2023-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7277.0
+    },
+    {
+      "episode_id": "huberman_lab-e40413addfc7",
+      "rss_guid": "2221ed12-9551-11ed-82c4-fb93df4f7fc1",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 10559.0
+    },
+    {
+      "episode_id": "huberman_lab-826a84bb3d4e",
+      "rss_guid": "6a0c85be-9214-11ed-9aa7-97e9f4368675",
+      "published_date": "2023-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1921.0
+    },
+    {
+      "episode_id": "huberman_lab-9eeadb9a419b",
+      "rss_guid": "e0a1ef8a-8fb6-11ed-b23a-eb377a5cea36",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6993.0
+    },
+    {
+      "episode_id": "huberman_lab-89ceb25c2931",
+      "rss_guid": "828c83a2-8a51-11ed-8acf-631de5b559f4",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 15435.0
+    },
+    {
+      "episode_id": "huberman_lab-72f72553dcef",
+      "rss_guid": "4b887544-84a4-11ed-82a5-fbfc2c57671c",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 14375.0
+    },
+    {
+      "episode_id": "huberman_lab-df4e8487515a",
+      "rss_guid": "b88e07c8-7f57-11ed-a6a2-83b69abe0931",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7923.0
+    },
+    {
+      "episode_id": "huberman_lab-0a358e26621d",
+      "rss_guid": "64039f66-7b19-11ed-ba97-3bc46da195a9",
+      "published_date": "2022-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2836.0
+    },
+    {
+      "episode_id": "huberman_lab-b21539c53947",
+      "rss_guid": "7a2d1084-79d8-11ed-aa86-9bcd35056045",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 8443.0
+    },
+    {
+      "episode_id": "huberman_lab-625f16ba3aa1",
+      "rss_guid": "4d762ab0-764c-11ed-9d94-df2923363749",
+      "published_date": "2022-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1830.0
+    },
+    {
+      "episode_id": "huberman_lab-140d021a0af8",
+      "rss_guid": "3a7bcfec-742a-11ed-9c54-f778b509351d",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8318.0
+    },
+    {
+      "episode_id": "huberman_lab-ca9b415d6a16",
+      "rss_guid": "c131ee36-6dbd-11ed-9704-e3ecf342e2ab",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 9490.0
+    },
+    {
+      "episode_id": "huberman_lab-57ac37df267e",
+      "rss_guid": "c872f8fc-691c-11ed-ab64-37bf0d23925b",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10812.0
+    },
+    {
+      "episode_id": "huberman_lab-23fa2a131d87",
+      "rss_guid": "9e709d18-63cf-11ed-89e3-7b79fc503181",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 8497.0
+    },
+    {
+      "episode_id": "huberman_lab-7630ddc0669a",
+      "rss_guid": "3dea0d76-5f83-11ed-a80a-db5914f8adde",
+      "published_date": "2022-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3817.0
+    },
+    {
+      "episode_id": "huberman_lab-754c9952bc7b",
+      "rss_guid": "01c9b068-5e24-11ed-be72-7b104a8e54d1",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 13633.0
+    },
+    {
+      "episode_id": "huberman_lab-a1e8d1d47ff4",
+      "rss_guid": "c4836c00-5a39-11ed-83a5-87f9ca0bb5bd",
+      "published_date": "2022-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1496.0
+    },
+    {
+      "episode_id": "huberman_lab-c4d1d29be62e",
+      "rss_guid": "1d541cc6-58b9-11ed-9aa9-0f435db50c58",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 8619.0
+    },
+    {
+      "episode_id": "huberman_lab-c13d8df7ea04",
+      "rss_guid": "460be38c-5351-11ed-96bc-2b185293fd9d",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9100.0
+    },
+    {
+      "episode_id": "huberman_lab-e2f3fcb2510a",
+      "rss_guid": "8b4c1dc6-4cd1-11ed-8ace-b39dd11fff9b",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6916.0
+    },
+    {
+      "episode_id": "huberman_lab-9d8875c69ec7",
+      "rss_guid": "f6821ba4-4844-11ed-949c-b38d0402ffab",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 9886.0
+    },
+    {
+      "episode_id": "huberman_lab-44d1467e889a",
+      "rss_guid": "d36f93b6-42be-11ed-8148-e7c826c3b243",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 9526.0
+    },
+    {
+      "episode_id": "huberman_lab-85814c14ed37",
+      "rss_guid": "bcfbeb50-3d43-11ed-bfb8-47150de8939f",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7860.0
+    },
+    {
+      "episode_id": "huberman_lab-d6be5ac6142e",
+      "rss_guid": "6c72da0a-37cf-11ed-ad30-7fc4e7640282",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6624.0
+    },
+    {
+      "episode_id": "huberman_lab-77823dc43256",
+      "rss_guid": "30028f10-3226-11ed-b36b-170517bf8168",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6754.0
+    },
+    {
+      "episode_id": "huberman_lab-943dbe99128d",
+      "rss_guid": "d1b341d2-2c7d-11ed-bf04-cb17a949fadf",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6387.0
+    },
+    {
+      "episode_id": "huberman_lab-79c108e974c1",
+      "rss_guid": "4dc06914-28bc-11ed-8bdc-ef3e0d5039b2",
+      "published_date": "2022-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3090.0
+    },
+    {
+      "episode_id": "huberman_lab-5f775bca1958",
+      "rss_guid": "04e58058-210a-11ed-b09a-5fc634371e16",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6695.0
+    },
+    {
+      "episode_id": "huberman_lab-e75d1fb40152",
+      "rss_guid": "abb835e8-2109-11ed-9f0e-6fdad86ddbe0",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7065.0
+    },
+    {
+      "episode_id": "huberman_lab-08023bac1e29",
+      "rss_guid": "3e516972-1be4-11ed-8ea9-030c016aa456",
+      "published_date": "2022-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3364.0
+    },
+    {
+      "episode_id": "huberman_lab-6b2f8d905b96",
+      "rss_guid": "36c8bc8a-1b0f-11ed-b9ca-bf292c18a834",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10020.0
+    },
+    {
+      "episode_id": "huberman_lab-c15100b044ab",
+      "rss_guid": "fd7f80f6-16b5-11ed-823e-3f6a6f4abde1",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5970.0
+    },
+    {
+      "episode_id": "huberman_lab-e0d67e62e2a6",
+      "rss_guid": "863bc252-112e-11ed-8c0a-9b95c18271c0",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5702.0
+    },
+    {
+      "episode_id": "huberman_lab-8cc276f9bc46",
+      "rss_guid": "a4bd0dd8-0b72-11ed-a5cd-038a82b27d01",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8197.0
+    },
+    {
+      "episode_id": "huberman_lab-77c551a17b8a",
+      "rss_guid": "2082113c-05e4-11ed-901c-93a646d687a7",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8067.0
+    },
+    {
+      "episode_id": "huberman_lab-4be550e0f6c5",
+      "rss_guid": "9b03fd9a-0084-11ed-aef0-1b9ff9d84243",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7555.0
+    },
+    {
+      "episode_id": "huberman_lab-443ce3c175ed",
+      "rss_guid": "e897877a-f571-11ec-bd90-937328595cdb",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9525.0
+    },
+    {
+      "episode_id": "huberman_lab-fd77c2090303",
+      "rss_guid": "ea8df6e6-f570-11ec-b473-a38819eec59e",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9072.0
+    },
+    {
+      "episode_id": "huberman_lab-6e1897a8370b",
+      "rss_guid": "780808a0-f02f-11ec-8137-83ec3ab94007",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 9154.0
+    },
+    {
+      "episode_id": "huberman_lab-fc296d7c6562",
+      "rss_guid": "55204354-eaa6-11ec-abef-53f1bb6b8c6c",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7473.0
+    },
+    {
+      "episode_id": "huberman_lab-edb412dae063",
+      "rss_guid": "6a4c46d2-e50c-11ec-9999-ab2b7684cfa3",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8551.0
+    },
+    {
+      "episode_id": "huberman_lab-50645239631f",
+      "rss_guid": "0aca3b42-df99-11ec-a22c-a3ba031c23d7",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7468.0
+    },
+    {
+      "episode_id": "huberman_lab-e298bb1712b3",
+      "rss_guid": "fc22d81c-da19-11ec-8524-97978227117e",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6269.0
+    },
+    {
+      "episode_id": "huberman_lab-36139ea894ac",
+      "rss_guid": "bbf9b3ec-d4a5-11ec-ab76-f309427532c2",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7626.0
+    },
+    {
+      "episode_id": "huberman_lab-2748dd2ba657",
+      "rss_guid": "ba2bd788-cf29-11ec-ac41-f368b851d545",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5307.0
+    },
+    {
+      "episode_id": "huberman_lab-33d619965ba2",
+      "rss_guid": "e7ae607e-c8c9-11ec-881d-d36243a44691",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9989.0
+    },
+    {
+      "episode_id": "huberman_lab-cab23239ba17",
+      "rss_guid": "fa77f8cc-c442-11ec-9ae5-f7a2c6ebfcfa",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6646.0
+    },
+    {
+      "episode_id": "huberman_lab-720c1f9d5881",
+      "rss_guid": "59b1f246-bed2-11ec-8606-27056f4b43b8",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8373.0
+    },
+    {
+      "episode_id": "huberman_lab-d90115973bbd",
+      "rss_guid": "0fe67796-b92c-11ec-a0e6-978b5cccc1a0",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10590.0
+    },
+    {
+      "episode_id": "huberman_lab-b5f1791e1ce0",
+      "rss_guid": "37f9327c-b3c4-11ec-8f51-bb122dd81219",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7896.0
+    },
+    {
+      "episode_id": "huberman_lab-536e8dde220e",
+      "rss_guid": "d51808fe-ae3c-11ec-a3fe-77e2f443c7dd",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 12467.0
+    },
+    {
+      "episode_id": "huberman_lab-75ec0a486a3f",
+      "rss_guid": "12ac8f3c-a8c5-11ec-97d7-837b2a925ded",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6912.0
+    },
+    {
+      "episode_id": "huberman_lab-0190d819e569",
+      "rss_guid": "3a410ca2-a33f-11ec-a78d-bb91ffda2883",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7297.0
+    },
+    {
+      "episode_id": "huberman_lab-1a8c8d12644c",
+      "rss_guid": "1901bd44-9db7-11ec-a50b-57e9b4211d39",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7821.0
+    },
+    {
+      "episode_id": "huberman_lab-c16ec33f507a",
+      "rss_guid": "65e13fce-984c-11ec-9832-37680733435a",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6583.0
+    },
+    {
+      "episode_id": "huberman_lab-e56961e1112d",
+      "rss_guid": "6767e80e-92be-11ec-ad96-53a90fa3cce0",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6536.0
+    },
+    {
+      "episode_id": "huberman_lab-1fe61617f92a",
+      "rss_guid": "a51e2aea-8d24-11ec-8a93-ef5aed6f7681",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9036.0
+    },
+    {
+      "episode_id": "huberman_lab-d42375da2387",
+      "rss_guid": "8389eb6c-87ca-11ec-8257-5bd71eafd4d5",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6203.0
+    },
+    {
+      "episode_id": "huberman_lab-867df39a59e8",
+      "rss_guid": "6b4d2e62-822d-11ec-b981-9fa7c5f0a47c",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5868.0
+    },
+    {
+      "episode_id": "huberman_lab-de3593e810a3",
+      "rss_guid": "7b337b1c-7cd6-11ec-a4e9-9f7d3f6441ce",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5849.0
+    },
+    {
+      "episode_id": "huberman_lab-30c7f8c9fc9f",
+      "rss_guid": "5dda4066-7be9-11ec-b1c4-5b851cd4a677",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6485.0
+    },
+    {
+      "episode_id": "huberman_lab-317ddb9b0056",
+      "rss_guid": "90c4be82-5159-41f0-b95e-81252bd3ba88",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8309.0
+    },
+    {
+      "episode_id": "huberman_lab-226296078aa8",
+      "rss_guid": "4dc25064-1d37-4777-9fa7-7cb144d280e6",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6460.0
+    },
+    {
+      "episode_id": "huberman_lab-d057ef75460e",
+      "rss_guid": "8fd04ec7-dda7-4497-a731-be008c9f2521",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7676.0
+    },
+    {
+      "episode_id": "huberman_lab-4def8762296f",
+      "rss_guid": "822bca5d-3470-4be9-953a-1aaf6cae9159",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5434.0
+    },
+    {
+      "episode_id": "huberman_lab-2bae4a5a42fc",
+      "rss_guid": "af69fa95-0f64-4891-a075-6863f1728db0",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6544.0
+    },
+    {
+      "episode_id": "huberman_lab-b2a0be1ccad6",
+      "rss_guid": "b10240f3-8ee2-40e9-bb31-38674e61ea6d",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7833.0
+    },
+    {
+      "episode_id": "huberman_lab-e50c247a9e45",
+      "rss_guid": "6e02d04a-7cbb-4421-b21d-a7fb3d0be525",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7804.0
+    },
+    {
+      "episode_id": "huberman_lab-0a0cc8057507",
+      "rss_guid": "a83e0853-b097-47ff-8371-b8b4f4dba022",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4970.0
+    },
+    {
+      "episode_id": "huberman_lab-f07a5b2731c1",
+      "rss_guid": "2bee38a1-67c9-418f-86d2-b596c105e953",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4290.0
+    },
+    {
+      "episode_id": "huberman_lab-ae2842ba390a",
+      "rss_guid": "1c6b2116-d574-48ab-91ff-2a213f75006e",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5282.0
+    },
+    {
+      "episode_id": "huberman_lab-63d128b1fe05",
+      "rss_guid": "e67d5ba8-5ea0-474c-8472-bf3bad8417c2",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7029.0
+    },
+    {
+      "episode_id": "huberman_lab-11bf434c3c10",
+      "rss_guid": "feb09576-17db-4d98-871a-e9f7685dc272",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7971.0
+    },
+    {
+      "episode_id": "huberman_lab-c624400b1aa9",
+      "rss_guid": "31deea0f-56fc-4025-92da-500e50c7f295",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5863.0
+    },
+    {
+      "episode_id": "huberman_lab-309314cdf0e8",
+      "rss_guid": "06432bae-33b4-46e5-b2a5-afe218c058de",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8545.0
+    },
+    {
+      "episode_id": "huberman_lab-e1340163373e",
+      "rss_guid": "08558db0-ba8d-4902-b2ad-4c4ea04626b6",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6514.0
+    }
+  ]
+}

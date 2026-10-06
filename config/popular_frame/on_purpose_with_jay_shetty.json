@@ -1,0 +1,4279 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_on_purpose_with_jay_shetty_20261002T193807Z",
+  "show_id": "on_purpose_with_jay_shetty",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/on-purpose",
+    "snapshot_relative_path": "data/raw/rss/on_purpose_with_jay_shetty/on_purpose_with_jay_shetty_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "9337e1d46fb28270940e6ceb244f896aeabaf99dbc77dbff33c5e48d37cca1e9",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1a462a406e0b",
+      "rss_guid": "cce03e0e-bc7e-11f1-8131-8fa0c788d008",
+      "published_date": "2026-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1819.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cccc05c38fe4",
+      "rss_guid": "ece48cbe-ba8f-11f1-81c9-6b2bf05cd687",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5338.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-712f979118a6",
+      "rss_guid": "f11ae8a4-b865-11f1-8d7d-5f804672dc17",
+      "published_date": "2026-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1990.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c2a85d48d21c",
+      "rss_guid": "03be9642-b6fc-11f1-9a55-27d6c4944fc2",
+      "published_date": "2026-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1668.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5920802f6f63",
+      "rss_guid": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5051.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f9ad7bc3af35",
+      "rss_guid": "dde1f526-b15c-11f1-b7f1-6307d2ecfae3",
+      "published_date": "2026-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2153.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7fef25751ff8",
+      "rss_guid": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
+      "published_date": "2026-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5455.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d7d5e72ca286",
+      "rss_guid": "55d3cbdc-ae41-11f1-a182-572eebf33b23",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4209.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-62718c0b6e7a",
+      "rss_guid": "e8a2ed58-abe4-11f1-8671-e339c1458278",
+      "published_date": "2026-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1884.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-620dd56c8c6d",
+      "rss_guid": "995177c0-abe3-11f1-9b9e-6b7127fb9723",
+      "published_date": "2026-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1968.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bec2177873ad",
+      "rss_guid": "d252c192-a89f-11f1-99e6-1b1f53e86e1e",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6095.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b93567abeabf",
+      "rss_guid": "3a813baa-a66f-11f1-ad3a-97793fc61cf6",
+      "published_date": "2026-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2319.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7018f40e473c",
+      "rss_guid": "a6842d00-a66d-11f1-99f2-0b193a5d4a57",
+      "published_date": "2026-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1954.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6dba2c197e0a",
+      "rss_guid": "48715f2a-a32b-11f1-a5f3-97d9fbb3f79c",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3912.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b62fad100df2",
+      "rss_guid": "971a6bde-a269-11f1-a216-6bf9b65a7fae",
+      "published_date": "2026-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2068.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d46437f065de",
+      "rss_guid": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
+      "published_date": "2026-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2173.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f487956e8f6f",
+      "rss_guid": "0eabebcc-9dac-11f1-95b1-270e5d156339",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6155.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-96e5d90578dc",
+      "rss_guid": "687d7cc0-9cf2-11f1-a10b-436692614587",
+      "published_date": "2026-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1971.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-69c7b0120758",
+      "rss_guid": "cfb3fa84-9b5f-11f1-9f4c-17c47ccd11b3",
+      "published_date": "2026-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2315.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cd3e07774073",
+      "rss_guid": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4185.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0b672d2c6626",
+      "rss_guid": "5c78d95c-95ee-11f1-aebf-4f0ee84296c1",
+      "published_date": "2026-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2020.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cb347ba10eeb",
+      "rss_guid": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
+      "published_date": "2026-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4841.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1dcac5c877dc",
+      "rss_guid": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4913.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fe2fd3bd7b14",
+      "rss_guid": "795546be-91f7-11f1-bf2d-0b55baeb3f8a",
+      "published_date": "2026-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1796.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-dc8e6d9c6f97",
+      "rss_guid": "c07b8262-9097-11f1-a333-a3bf8db7f8d4",
+      "published_date": "2026-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1980.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e43dfab6b94f",
+      "rss_guid": "91888614-8ec4-11f1-8706-f70f5dcd72b5",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4184.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-53a60b7d3c96",
+      "rss_guid": "6170c20a-8c6e-11f1-99be-df193de03dad",
+      "published_date": "2026-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 1979.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5b1233acf907",
+      "rss_guid": "04db6720-8ade-11f1-8085-af6461e8dcea",
+      "published_date": "2026-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4816.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f8b513f22535",
+      "rss_guid": "32c281b4-87af-11f1-8396-9fd8724b106e",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5233.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-da5f2f5b7e32",
+      "rss_guid": "f096429c-8553-11f1-9fa1-770f8fd1412d",
+      "published_date": "2026-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2071.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d1314c5f9981",
+      "rss_guid": "509030d8-8552-11f1-ae70-cb0e8474438f",
+      "published_date": "2026-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4611.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-abc19ae7339b",
+      "rss_guid": "269fe31c-8247-11f1-b2f6-131e6e8dd21a",
+      "published_date": "2026-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4219.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1c90378505b9",
+      "rss_guid": "ec240190-7fd1-11f1-a9a1-0f9ca58b7edc",
+      "published_date": "2026-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1898.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6fd6a81a1622",
+      "rss_guid": "03ec7358-7fd1-11f1-9411-7f0e421417b1",
+      "published_date": "2026-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4401.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-33ef9ca8e832",
+      "rss_guid": "4a10facc-7dc7-11f1-93b2-7351e9ea4342",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5070.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1e99525f3629",
+      "rss_guid": "55b9d322-7c1d-11f1-ba7c-b397c574d05f",
+      "published_date": "2026-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1928.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fe42c7d56c8c",
+      "rss_guid": "47cd85a2-f038-4ffd-9781-b481006859a5",
+      "published_date": "2026-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4552.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-82862e79bb5f",
+      "rss_guid": "5067c4e6-8bb9-4420-a46a-b47f005915d0",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3413.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-771d21c8faab",
+      "rss_guid": "2e344388-03dd-40ba-82ac-b47c00c870df",
+      "published_date": "2026-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5172.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f6dc65e27804",
+      "rss_guid": "62253afb-04c0-4426-b2c2-b47a00657cb7",
+      "published_date": "2026-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4587.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3b29e2b8c584",
+      "rss_guid": "f37324ba-c93b-4218-8bcd-b478005dbc86",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3691.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-258d7cc44d1b",
+      "rss_guid": "455b4276-9a9a-449e-a58e-b4750071e26b",
+      "published_date": "2026-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1662.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-dd54b2588b6f",
+      "rss_guid": "c803d668-4100-49d3-8de9-b47300601844",
+      "published_date": "2026-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4002.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4085ff62555e",
+      "rss_guid": "0b554ca5-f95c-4733-a4af-b4710061c95a",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3812.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-65587322d2a5",
+      "rss_guid": "aed5f24f-0fd9-4aac-9840-b46000428f62",
+      "published_date": "2026-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1664.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-916249087357",
+      "rss_guid": "0cc6a8e5-4d4d-4cc0-9292-b46e006fb857",
+      "published_date": "2026-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1664.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-65722aead916",
+      "rss_guid": "924c6c1a-f6ce-4ae8-97ea-b46c005eb42e",
+      "published_date": "2026-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4039.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b02e56de6ece",
+      "rss_guid": "b045d694-4cc1-4ffa-8a0a-b46a0069410e",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5474.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f713a05c6147",
+      "rss_guid": "4b7acbb4-1016-4587-84fd-b467005e83fa",
+      "published_date": "2026-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4979.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1585021c3442",
+      "rss_guid": "cb5351ec-8cf7-4f38-8adf-b4650059f40d",
+      "published_date": "2026-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5496.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-34828de8ef07",
+      "rss_guid": "b2251596-cb02-415f-a066-b4630059e3c8",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4686.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b84a10dfd20f",
+      "rss_guid": "7fc1c5cd-3f90-48e2-98e0-b45e005dc1e1",
+      "published_date": "2026-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4000.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f6e9943da830",
+      "rss_guid": "de8b2b1c-e257-41c6-bdf2-b45c0060494c",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4775.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-78b9936b837d",
+      "rss_guid": "4434c116-c697-4412-ae67-b459005def38",
+      "published_date": "2026-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1692.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-23977e90019c",
+      "rss_guid": "1138bf82-a1fb-4908-a75f-b457006068d8",
+      "published_date": "2026-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4061.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3c388f032630",
+      "rss_guid": "f9c8c7ed-ab26-4f17-84c0-b4550026512d",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5913.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b89e657029b7",
+      "rss_guid": "480f684a-1be4-4acf-9bcb-b452003c4a4a",
+      "published_date": "2026-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1841.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-41384f487ea6",
+      "rss_guid": "4d604e27-b9ee-425c-b412-b4500066d57d",
+      "published_date": "2026-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5111.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a6f2d8c2c5d3",
+      "rss_guid": "de286cd3-444b-49d7-bc9f-b44e002ed2a1",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5801.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9898be4e1f10",
+      "rss_guid": "afe6c21d-f7ad-4826-bd53-b44b005f43af",
+      "published_date": "2026-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1995.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d9e3cddef0ed",
+      "rss_guid": "57462589-572b-42b6-82d9-b449006445ea",
+      "published_date": "2026-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2941.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-edef938597af",
+      "rss_guid": "d7c8f2c7-93e2-46c6-b9f4-b44700669fb4",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7449.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fc5ad8d1cf97",
+      "rss_guid": "12a4f920-e473-4122-9689-b444003f8516",
+      "published_date": "2026-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1698.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-af675e0b2a20",
+      "rss_guid": "f4521e64-402c-471b-9e6d-b44200665269",
+      "published_date": "2026-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5453.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4224709dbcf5",
+      "rss_guid": "d041d682-b11f-43ee-aa99-b4400041b87a",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5595.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a52f83de6111",
+      "rss_guid": "47d23135-8c3a-40c0-9912-b43d00409267",
+      "published_date": "2026-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1671.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4a23bb12610c",
+      "rss_guid": "d391d85a-736b-437d-aa19-b43b005bbd32",
+      "published_date": "2026-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4360.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7f2d2301e961",
+      "rss_guid": "e187792c-3fde-4082-967f-b439006d1f93",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7166.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-69250eed3420",
+      "rss_guid": "15d47a71-e7b2-46e1-9bf0-b436006f42e7",
+      "published_date": "2026-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2009.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-dd39a441d474",
+      "rss_guid": "2d43c7ec-3c60-4909-b4a3-b434006201ae",
+      "published_date": "2026-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5968.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d05331e64b8e",
+      "rss_guid": "33cd9dc1-2b02-4149-ad1a-b432005b44f4",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7425.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5991b35656bf",
+      "rss_guid": "04827e72-7b82-48e4-9436-b42f005d94a1",
+      "published_date": "2026-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2191.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cd50dce03e03",
+      "rss_guid": "6bbb116b-144f-44d9-a3e6-b42d004b0685",
+      "published_date": "2026-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4727.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e69f652e195b",
+      "rss_guid": "5988d6bd-d210-4ed6-be01-b42b003108c5",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5676.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6f17f34049a2",
+      "rss_guid": "1bbab01c-c238-4f88-ac1f-b427012805f0",
+      "published_date": "2026-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1553.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b5d5dc49f35e",
+      "rss_guid": "8511e0a9-91cd-486b-bb5e-b4260055a55b",
+      "published_date": "2026-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4013.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-69e28988231f",
+      "rss_guid": "a8ac16d0-769a-4aa2-b612-b424005f6917",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5292.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8b3a796dd797",
+      "rss_guid": "55e495e1-75ec-47d7-bde2-b42100620095",
+      "published_date": "2026-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2320.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8b5ed17eb178",
+      "rss_guid": "8718d5c7-a5c3-441f-8442-b41f005db1af",
+      "published_date": "2026-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3216.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a473fc6efff6",
+      "rss_guid": "aacaba40-caf6-499c-84d2-b41d0067d3e2",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6644.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bbd42b26c207",
+      "rss_guid": "63f1dd8e-03b7-4a23-be39-b41a0057873d",
+      "published_date": "2026-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1929.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4c3bb8d78b18",
+      "rss_guid": "583498c3-10f1-4b96-be92-b41800352b2d",
+      "published_date": "2026-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5200.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-aad2e4463277",
+      "rss_guid": "ca537a71-d8d7-446e-9a3d-b416005c18d7",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4314.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bbf427be61cb",
+      "rss_guid": "0cce22b1-9ddb-4adc-acdd-b41300680b7f",
+      "published_date": "2026-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1836.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2a23ca5c87a5",
+      "rss_guid": "a51cbd45-0142-4ea4-a28e-b4110059471c",
+      "published_date": "2026-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4027.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d3006bc06252",
+      "rss_guid": "f0a7a117-76af-4709-9c2b-b40f00580fc5",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4952.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-23ac74100096",
+      "rss_guid": "9605b310-c932-4126-b2ed-b40c00466867",
+      "published_date": "2026-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1890.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4bb2ab096d03",
+      "rss_guid": "82b91d73-4169-486c-a007-b40a0064d371",
+      "published_date": "2026-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5375.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-98b54c2900e4",
+      "rss_guid": "ad1f0a6c-36b8-48d3-a002-b4080051c927",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4520.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9bc109fa9717",
+      "rss_guid": "37d8b316-d0b6-4907-88bd-b40500594a6d",
+      "published_date": "2026-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1661.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ee9e54621e9d",
+      "rss_guid": "a6c260de-9e69-4438-8bbd-b4030024ca38",
+      "published_date": "2026-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5552.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-169a5f620700",
+      "rss_guid": "e9949602-f597-48f3-a471-b4010063eb6d",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6502.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bcf3e5d1df03",
+      "rss_guid": "4fe6aa63-d17e-4d86-a26f-b3fe00632e15",
+      "published_date": "2026-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1497.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-662f48e7bbe4",
+      "rss_guid": "1b75f70c-a13e-451d-8895-b3fc008a9eaf",
+      "published_date": "2026-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6904.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f26ed6367d7e",
+      "rss_guid": "97f5d7c4-47df-4ca7-9a35-b3fa00551afc",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4587.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a0fd4eca53ba",
+      "rss_guid": "c8447492-c70b-48c9-94ff-b3f7005e9bf8",
+      "published_date": "2026-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2375.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-de992672ffae",
+      "rss_guid": "8a84c00d-8aff-425f-bf5b-b3f50066638b",
+      "published_date": "2026-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6588.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f30b46d5c957",
+      "rss_guid": "5f61e37b-c989-4a42-b479-b3f300595673",
+      "published_date": "2026-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5154.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9e26e0140f7c",
+      "rss_guid": "97cb0933-d552-4c6d-a149-b3f0005c59af",
+      "published_date": "2026-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1678.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a6e1f0bdb8b1",
+      "rss_guid": "e6b21463-c610-4a5d-86ce-b3ee003b02de",
+      "published_date": "2026-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3137.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-dc88bfc07b12",
+      "rss_guid": "c21b4dd0-b037-45d9-bad8-b3ec005ea9bd",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5515.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8ee4b2fdea69",
+      "rss_guid": "6f57e902-4578-4b55-8556-b3e9003a5348",
+      "published_date": "2026-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1512.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fd54ac6ba667",
+      "rss_guid": "339a118d-1dd2-478f-87ab-b3e700620792",
+      "published_date": "2026-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4598.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4947cdf2f197",
+      "rss_guid": "b47949cd-3632-4bd5-80db-b3e5006633f0",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6406.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6c3f0cb75318",
+      "rss_guid": "93e0a3df-dbad-4fc4-ac58-b3e20064a262",
+      "published_date": "2026-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1584.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c20d0912ec68",
+      "rss_guid": "9d75052c-8d10-4682-8b7d-b3e000618efb",
+      "published_date": "2026-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5625.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-23c69f6631e1",
+      "rss_guid": "c64fbc06-a8b8-49c5-87ce-b3de005af285",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5610.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-97de96b2ed6e",
+      "rss_guid": "39251388-1119-4471-8c87-b3db005fadb3",
+      "published_date": "2026-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1502.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-26afcfc1605a",
+      "rss_guid": "2259ef65-82d9-4ab7-888f-b3d900487c1a",
+      "published_date": "2026-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4276.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-627d5774e2f6",
+      "rss_guid": "44955103-3d88-42f3-af03-b3d70089977a",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4998.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9b54472564fc",
+      "rss_guid": "ba002015-9e8e-4859-ae56-b3d4001a722a",
+      "published_date": "2026-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 1591.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-803188690684",
+      "rss_guid": "52ae422e-99a1-4a97-8b5b-b3d20081a466",
+      "published_date": "2026-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4627.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-07dbfd655bc5",
+      "rss_guid": "9d1105a8-b0da-4330-8465-b3d0005c9ece",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5861.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2b79c76d3b84",
+      "rss_guid": "5034cad3-6558-4bb5-8f6a-b3cd002748c2",
+      "published_date": "2026-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1635.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-56a409008a25",
+      "rss_guid": "0f7380c4-7ab6-4a82-9072-b3cb006836d8",
+      "published_date": "2026-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5018.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e351cfbcdeb8",
+      "rss_guid": "cd706a3a-087c-4baf-80b9-b3c900776b4c",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4619.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1ed4922a18a0",
+      "rss_guid": "5d8f8f01-55dc-4cce-a04e-b3c60063398a",
+      "published_date": "2026-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1370.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8fa936022751",
+      "rss_guid": "09758c64-68a4-4a3b-8e9a-b3c4004b10a6",
+      "published_date": "2025-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5516.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5220c40e7f1e",
+      "rss_guid": "d454f62e-918f-4f3b-87c4-b3c20058a562",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4296.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-addd75e59b57",
+      "rss_guid": "8e331c16-bb88-46b8-80b1-b3bf0072e7f9",
+      "published_date": "2025-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5138.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d3ca65c12a7b",
+      "rss_guid": "9bae75ae-fc62-44ef-811e-b3bd005c1cb1",
+      "published_date": "2025-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3358.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e5340274da1f",
+      "rss_guid": "2f654678-ce09-493c-9cb6-b3bb0069d39f",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5870.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-85bbe0075fd0",
+      "rss_guid": "c5bdb32c-d62e-4ab2-ad13-b3b80076983e",
+      "published_date": "2025-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5625.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2fc2aff7557e",
+      "rss_guid": "05848876-68ad-46b8-9ad4-b3b6006f1384",
+      "published_date": "2025-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8325.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-54d2ed92c8b2",
+      "rss_guid": "9c228927-fdb4-4710-830a-b3b400650515",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6991.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-afcb8938882b",
+      "rss_guid": "b761b879-32e7-4238-82e3-b3b10064acb6",
+      "published_date": "2025-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2126.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2ca9d596ca14",
+      "rss_guid": "899d54bf-8f51-4239-8272-b3af00ab27ac",
+      "published_date": "2025-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4503.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-09fd09098792",
+      "rss_guid": "142a8aed-bf15-4926-b0f3-b3ad006b749d",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6207.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1f81a3a6d640",
+      "rss_guid": "61f7c439-5fd8-4ab0-ba5e-b3aa007a1792",
+      "published_date": "2025-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1765.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cd0ba8da02c5",
+      "rss_guid": "5e45dc4d-4644-413f-9b06-b3a80082c158",
+      "published_date": "2025-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5788.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-af447a2acfb7",
+      "rss_guid": "d2866ff0-0a36-4cc1-87ca-b3a600733449",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6075.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5a9dc9ae1a21",
+      "rss_guid": "8117241f-104e-424e-9661-b3a30055eb16",
+      "published_date": "2025-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1641.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0d4f3a5be6c8",
+      "rss_guid": "4eb6fba2-a014-40fd-aa96-b3a100575f09",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3910.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1d0860fd0bc7",
+      "rss_guid": "0c8dd554-e794-4259-9f6b-b39f0065c8d9",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9292.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2bf1bb061659",
+      "rss_guid": "7003a713-419d-4f83-82d5-b39d006a5f1d",
+      "published_date": "2025-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1951.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3feed49731e5",
+      "rss_guid": "f752e367-e815-461b-b6d5-b39c005ec139",
+      "published_date": "2025-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1919.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a411ddd85048",
+      "rss_guid": "9fcd9067-0d29-4ee9-8d9f-b39a00651bab",
+      "published_date": "2025-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3122.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-340c48e5f807",
+      "rss_guid": "17c31515-6975-4ddc-80cd-b39800641285",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5823.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c8701af680af",
+      "rss_guid": "1ef4e451-ae11-4064-a84b-b396006c9aba",
+      "published_date": "2025-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2440.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5367f334f1d2",
+      "rss_guid": "6202d4e6-ee00-4fdb-af7e-b395004da1ef",
+      "published_date": "2025-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1807.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e2e45374d280",
+      "rss_guid": "8d2bcc00-b95b-4013-a46b-b3930069c924",
+      "published_date": "2025-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5224.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c982e16aa637",
+      "rss_guid": "4d07884d-1a4c-4d38-9720-b39100671295",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5241.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-890fa836b194",
+      "rss_guid": "2f9c62b0-6901-43b6-9b7a-b38f00625ddd",
+      "published_date": "2025-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2350.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d72d4b0ac1fd",
+      "rss_guid": "061aea8b-4c32-48b0-ac8f-b38e007f1658",
+      "published_date": "2025-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1670.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f3bcb7e94391",
+      "rss_guid": "24f8d1ec-f9ce-4c42-9552-b38c00882395",
+      "published_date": "2025-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2560.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cb3c55293aa9",
+      "rss_guid": "78637466-e701-45bf-94d3-b38a006f1d49",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5697.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b395feecdc8c",
+      "rss_guid": "46515d75-0daa-412a-9ba1-b38800769dd0",
+      "published_date": "2025-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2451.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-80b7bd60e87b",
+      "rss_guid": "a48d25ac-0e49-4bb7-b1e6-b387005f1fbe",
+      "published_date": "2025-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 1600.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8e8070945b8d",
+      "rss_guid": "8f445037-87b8-4861-82dc-b38500813c78",
+      "published_date": "2025-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4234.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-30c905088f4b",
+      "rss_guid": "8869d1c4-4833-4a71-9d93-b383006ce228",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5745.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9559aa4f32d7",
+      "rss_guid": "c441651f-40ce-493c-9aa3-b380003a87b9",
+      "published_date": "2025-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1886.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-80a0e3401df0",
+      "rss_guid": "82be42ae-e469-4d1c-a118-b37e0035243b",
+      "published_date": "2025-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3442.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3a93fca72a9c",
+      "rss_guid": "25c45a97-d0d7-4df8-952c-b37c006d9949",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5460.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e31457271c33",
+      "rss_guid": "f457f2d4-1e51-49e2-933b-b379005e537d",
+      "published_date": "2025-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1577.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-697b405645a7",
+      "rss_guid": "39799b26-9c56-4588-a140-b37700657910",
+      "published_date": "2025-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6751.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e4008462626e",
+      "rss_guid": "04a663b7-5b69-4010-95c9-b3750060af23",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6873.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b9a3eeb52c79",
+      "rss_guid": "63c42e1c-a551-4e31-9fad-b3720029d611",
+      "published_date": "2025-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1555.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-22ec3806bf08",
+      "rss_guid": "cf8c52c4-d239-4cca-9546-b370005c04c2",
+      "published_date": "2025-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4519.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-256015ab91b7",
+      "rss_guid": "e71d9210-6452-463c-a67c-b36e005ec62d",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5422.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6254cf33e1f5",
+      "rss_guid": "af5c67e4-595b-4ffc-b559-b36b003736fe",
+      "published_date": "2025-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2792.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cdf8703899d3",
+      "rss_guid": "13f5c2b0-d80c-4a69-a487-b369003ba9ad",
+      "published_date": "2025-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2588.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d1546d05c2f7",
+      "rss_guid": "b3ee9061-45bf-49ec-bb45-b367005947c9",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8440.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-19d71a14f89d",
+      "rss_guid": "8f0038e9-d506-4590-9371-b36400260bed",
+      "published_date": "2025-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1783.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c9418977830d",
+      "rss_guid": "33afce4b-c79e-49fb-8af5-b362007d82ec",
+      "published_date": "2025-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9825.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f3dedfa4abbc",
+      "rss_guid": "e8b22d05-e580-447a-b534-b360009f4c70",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7707.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a28d2cedbc73",
+      "rss_guid": "07701a8d-8545-4799-9a15-b35d005b79bc",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2145.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d119353fd5c1",
+      "rss_guid": "36aef0fa-9feb-4a04-a243-b35b005f04a1",
+      "published_date": "2025-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3941.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a21e5b31187c",
+      "rss_guid": "de58afee-fc1e-4ec5-bd5d-b359005b4599",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4518.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7a6ba16c5b6e",
+      "rss_guid": "c2f62d43-bbb6-46b9-992f-b35600284885",
+      "published_date": "2025-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1604.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-02dc970fc105",
+      "rss_guid": "b32875ef-61af-4a3f-a87b-b354006821f8",
+      "published_date": "2025-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4551.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5387d81b2a5d",
+      "rss_guid": "1cf66619-9839-4114-aa57-b352005c7ff1",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6095.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1a54d94da6fc",
+      "rss_guid": "be6f60d8-4ebd-42b9-9217-b34f004dc7d2",
+      "published_date": "2025-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2371.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d6bdb42d5146",
+      "rss_guid": "71fb06ae-1e73-4e9c-bfed-b34d0057e382",
+      "published_date": "2025-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4804.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6f798b20f531",
+      "rss_guid": "c142056e-a116-49c2-b81d-b34b0071dcd8",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4109.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a9faaad4c4ea",
+      "rss_guid": "d3992cd9-b7eb-487e-ad2d-b348005d622c",
+      "published_date": "2025-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1663.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-672e77ad1e2c",
+      "rss_guid": "e2537a44-574d-4030-9a03-b346005e9882",
+      "published_date": "2025-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2371.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-60881686e15a",
+      "rss_guid": "d738f96f-b9bd-4069-aab3-b344007a92d6",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7516.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8d4d94d1633f",
+      "rss_guid": "19a1e0ee-7db7-4409-ae57-b3410033f341",
+      "published_date": "2025-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1908.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-196a9d8dd511",
+      "rss_guid": "95110f25-3803-4655-bc35-b33e0051478a",
+      "published_date": "2025-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3481.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6aeec340b51d",
+      "rss_guid": "d6780f08-12f6-4d89-8b8c-b33d005bde4a",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4496.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-45782797d2b0",
+      "rss_guid": "8f1dba38-90f6-4e54-a559-b33a006247a5",
+      "published_date": "2025-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1819.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b40832cc32d0",
+      "rss_guid": "69bed57f-e652-4fc3-8f89-b338005931f4",
+      "published_date": "2025-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3276.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-88d9541ade92",
+      "rss_guid": "30460d89-e882-4e55-83f7-b336002f3a6c",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7438.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0a3cac88fdd0",
+      "rss_guid": "49d193a1-bed8-4fdc-a153-b33300669730",
+      "published_date": "2025-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4992.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-aee72a18ec25",
+      "rss_guid": "6a1b25ac-d193-4a0b-a12d-b3310062f653",
+      "published_date": "2025-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5465.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f00db80ae5b3",
+      "rss_guid": "1f0b3ac0-bde1-4732-a146-b32f002d37c6",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7633.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cfb0b5bce960",
+      "rss_guid": "0cc3ddb5-5498-4f74-a3d0-b32c0058b6c5",
+      "published_date": "2025-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4807.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1fffbf3cac9f",
+      "rss_guid": "84b93601-575d-4521-8cfa-b32a005e6135",
+      "published_date": "2025-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4393.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2fe4fabe1678",
+      "rss_guid": "2437f10f-cac6-45e0-9ef7-b328005bb98c",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5393.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-41e23ab7aca5",
+      "rss_guid": "580f66c3-2306-4690-8d6d-b325005ffa2c",
+      "published_date": "2025-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1871.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-aa3b1c127422",
+      "rss_guid": "48a5daa3-6722-4f94-867c-b32200300e25",
+      "published_date": "2025-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3973.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b7d0e1b0065b",
+      "rss_guid": "7a5d6145-f9d7-4ed8-9fb2-b3210087accb",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4989.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e5538ee08754",
+      "rss_guid": "aa5cedc2-67b9-4aea-b73a-b31e0064a13f",
+      "published_date": "2025-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2241.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d3483a222b02",
+      "rss_guid": "8b60b6ef-3ab1-4ba0-94b6-b31c00714bc8",
+      "published_date": "2025-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4589.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-01ebc37aae27",
+      "rss_guid": "b7985843-19e3-46dd-8bbf-b31a00640fbe",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4463.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-84b813d3976e",
+      "rss_guid": "5ad3f84b-e8a8-4756-a8a7-b31700571dc1",
+      "published_date": "2025-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2060.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1bf7b5c10299",
+      "rss_guid": "0431a3f4-0370-4d49-a730-b315006b2faa",
+      "published_date": "2025-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5950.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bdbfaa6a8760",
+      "rss_guid": "fb75ef08-cf41-4f72-8a40-b3130028f566",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6343.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-171eb2d024ba",
+      "rss_guid": "8d8045a1-e30b-41b0-92c8-b3100069a8c6",
+      "published_date": "2025-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2051.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3debecf0564b",
+      "rss_guid": "f0326100-63c3-491f-b92d-b30e006294d2",
+      "published_date": "2025-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7653.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-835d9c69a086",
+      "rss_guid": "6cbce1ea-5701-4b5d-bdf2-b30c002ab7dd",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4872.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6cd444336e60",
+      "rss_guid": "1e72da5a-d7f8-4849-85da-b309005e00ce",
+      "published_date": "2025-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5071.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ad839638ec9a",
+      "rss_guid": "cbd02996-30a4-4909-a0ea-b3070075223d",
+      "published_date": "2025-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4113.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-72064d26653a",
+      "rss_guid": "8b2c8f8d-6911-4c9f-b10d-b305005b64cd",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5463.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fe39d521fb05",
+      "rss_guid": "f78e4a42-8c1e-4898-bd6a-b3020055cb97",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1681.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c98b981211a6",
+      "rss_guid": "6df8db30-2c96-4a2e-9fd2-b300005e26bd",
+      "published_date": "2025-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3447.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7a91951b8964",
+      "rss_guid": "2d8dd750-264c-4619-96d5-b2fe006b11b6",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5775.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fb9c22c8435d",
+      "rss_guid": "81f7d745-a2f8-4c2d-b257-b2fb006f2c71",
+      "published_date": "2025-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2032.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f6a03c5b2416",
+      "rss_guid": "fc8d5bf7-472b-4c9e-bab6-b2f9003d9753",
+      "published_date": "2025-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4150.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e5d5d1ab82ee",
+      "rss_guid": "365c416c-ef89-40c7-b74c-b2f700342b63",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6043.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4aa897a3aa64",
+      "rss_guid": "2b39012d-a090-422a-941f-b2f40073bb24",
+      "published_date": "2025-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5578.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1b1e0a1b8378",
+      "rss_guid": "65f66e30-72e6-41e8-962a-b2f20034381d",
+      "published_date": "2025-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2773.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8f8df92daadf",
+      "rss_guid": "97212f66-58e5-416b-8ae1-b2f0001faa18",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5975.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2c899afb95e8",
+      "rss_guid": "110fdb66-a77d-4602-b550-b2ec00e80ac3",
+      "published_date": "2025-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3299.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-56a123ffe5d5",
+      "rss_guid": "0f8aa264-42c5-48f4-99c3-b2eb0041336c",
+      "published_date": "2025-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4942.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-69f0388cf337",
+      "rss_guid": "c822fad8-15d2-46bd-a0ce-b2e900415c22",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5298.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-418fa6f66527",
+      "rss_guid": "a02e29ae-3711-4e22-ab33-b2e6002ae2c5",
+      "published_date": "2025-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1896.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d6f1a9af5ea4",
+      "rss_guid": "7e08b1c2-10e3-4856-8137-b2e400573a3f",
+      "published_date": "2025-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6690.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9c8d176c03e1",
+      "rss_guid": "b0f543c8-2ac7-4a46-a270-b2e2004e543a",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6692.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4dd49566cb70",
+      "rss_guid": "908c9934-ed01-4ec5-9b37-b2df0049e14a",
+      "published_date": "2025-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2748.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-46f2fb97f141",
+      "rss_guid": "5b7e08e2-eb48-46a6-9816-b2dd001c1896",
+      "published_date": "2025-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6139.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-865e33b046a9",
+      "rss_guid": "4afed8a1-5cbc-4e42-8bb5-b2db001a9c3c",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6635.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e27847bc0e08",
+      "rss_guid": "cd00dd79-8493-4e6d-ba3d-b2d700639411",
+      "published_date": "2025-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1521.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c70f1719233f",
+      "rss_guid": "deb9c5f3-a570-4464-a5d0-b2d600593ab8",
+      "published_date": "2025-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3707.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ac712a37fa29",
+      "rss_guid": "2ea0c03a-e4ce-4f7a-8509-b2d40044e5f0",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5413.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e893442ce92e",
+      "rss_guid": "c2a01dbf-fe03-46ef-b0ca-b2d1003fd869",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1812.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6fcfa671e2d0",
+      "rss_guid": "e139d5e3-46cc-4be2-993d-b2cf0045fc76",
+      "published_date": "2025-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4605.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-78b3b65a531f",
+      "rss_guid": "845aa6e3-c0b4-42e1-b376-b2cd0017588e",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5520.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9d9d98d973f0",
+      "rss_guid": "b4267b87-be98-4ac7-bafd-b2ca004ddad1",
+      "published_date": "2025-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2118.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3c2bc391d291",
+      "rss_guid": "e475ce57-47a8-4862-96e9-b2c800393856",
+      "published_date": "2025-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4593.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2e980619ba7b",
+      "rss_guid": "a32238cb-8d67-4d11-8bcf-b2c6002c01ba",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4114.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9374138890ce",
+      "rss_guid": "37714bff-4d46-4ea0-b822-b2c300203d0e",
+      "published_date": "2025-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1854.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bc0718e158c4",
+      "rss_guid": "1f3b2e4c-294f-4d8a-a5e2-b2c1003a71f8",
+      "published_date": "2025-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4562.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-73af91fc5fc0",
+      "rss_guid": "69c1196d-8dc4-4e16-bd9d-b2bf00292889",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5504.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-db08aba09763",
+      "rss_guid": "4d7036e5-ebb6-47d4-bb80-b2bb00f90ba0",
+      "published_date": "2025-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1748.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-340cfe525ff8",
+      "rss_guid": "1e878fd4-f996-4306-b51a-b2ba001cd91e",
+      "published_date": "2025-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2928.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-84c8b7f7072d",
+      "rss_guid": "5cb3798b-6ba3-46ae-a904-b2b800204632",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5202.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f694b855a280",
+      "rss_guid": "62842049-b512-44aa-b229-b2b50021d309",
+      "published_date": "2025-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1969.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-52ed16456612",
+      "rss_guid": "6bde63ef-385c-4d52-a2ba-b2b3004c00b8",
+      "published_date": "2025-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2190.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-30ed84ff4884",
+      "rss_guid": "9e2da8f0-2bb4-445f-9b28-b2b000daf531",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4698.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ff5805249928",
+      "rss_guid": "a52bfa4c-ff8e-47e0-bbca-b2ae0058de4b",
+      "published_date": "2025-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3518.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bd10cf191e95",
+      "rss_guid": "3df32fa4-299a-4b23-a025-b2ac00610852",
+      "published_date": "2025-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5502.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6d48e3e2dde6",
+      "rss_guid": "96f3cb8d-d8d9-416e-9c21-b2aa00580ec1",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5838.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bc6861f53dcc",
+      "rss_guid": "026ac060-d4fc-4eb5-8790-b2a7005b0c57",
+      "published_date": "2025-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1778.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5ad6e05d16dd",
+      "rss_guid": "c705fa45-1064-47b2-bc07-b2a5004b4b47",
+      "published_date": "2025-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4991.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4f400eefaf11",
+      "rss_guid": "70e5f663-a7c6-4018-b3f3-b2a300211dd5",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5424.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7655478fea3c",
+      "rss_guid": "6e4d9aab-e1c7-4432-8dd1-b2a000240340",
+      "published_date": "2025-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2998.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3ed3203ae26e",
+      "rss_guid": "05437140-010f-4fb9-9fd0-b29c005ac776",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4455.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d82e9febebfd",
+      "rss_guid": "f795fca9-2dd7-4769-bfd9-b29800da8ba5",
+      "published_date": "2025-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1923.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7d0112db4226",
+      "rss_guid": "8888f02d-8150-4048-8fad-b295005f9837",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5914.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b4a18fea4f0c",
+      "rss_guid": "c410a947-53d5-4705-bb59-b2920009aecd",
+      "published_date": "2025-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1903.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-305c52780b19",
+      "rss_guid": "7be6ca5e-dbca-4357-9984-b290005df6e5",
+      "published_date": "2025-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2144.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-47e53d264b62",
+      "rss_guid": "3003a7aa-d2fc-4f63-bcb0-b28e0027f213",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4652.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5349928a4cee",
+      "rss_guid": "eea92716-fa26-470b-8bc0-b28b0037a7ca",
+      "published_date": "2025-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1886.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3a9c0667713c",
+      "rss_guid": "e82ade63-5171-444f-acb3-b2870035aacb",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5769.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2fdd17c460c7",
+      "rss_guid": "15769039-86b8-4ebb-b36f-b2840069a3d8",
+      "published_date": "2025-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1955.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-06e74127c9df",
+      "rss_guid": "068a0b1c-3d9f-4adb-9ae9-b2820059676d",
+      "published_date": "2025-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5482.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2a9d79be77b6",
+      "rss_guid": "c98073a7-7e12-406d-b705-b2800026efb7",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5623.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1fd76b208e2d",
+      "rss_guid": "4416e5ed-0d10-4e86-aba0-b27d00250d99",
+      "published_date": "2025-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2006.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4b499246a4a8",
+      "rss_guid": "a35c4448-dc97-4219-a4e1-b279002e0c43",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5466.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-90068bc4a3f2",
+      "rss_guid": "407d1870-36a1-4b83-b151-b276005ae1e9",
+      "published_date": "2025-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 1960.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5b44cceb3408",
+      "rss_guid": "e8e592a7-be81-44f5-a2ac-b272002a694f",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5357.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d29a99eaa065",
+      "rss_guid": "070d6226-f749-4ded-af21-b26f004f735b",
+      "published_date": "2025-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4625.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4211e96ff23e",
+      "rss_guid": "38c37ce7-444a-4879-986b-b26b00649a52",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6003.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-34288ab84034",
+      "rss_guid": "9943f2b6-f5c1-420e-a1b0-b268006533de",
+      "published_date": "2025-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5703.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4c1a3cb8e3cc",
+      "rss_guid": "8b6d1753-2753-4ff7-a599-b264005a6f1c",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5607.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5d10172372b5",
+      "rss_guid": "192e8aaa-c5da-4ab0-9f8a-b2610062909a",
+      "published_date": "2025-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1799.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-639a4fefaa50",
+      "rss_guid": "ea4ba492-5f53-4121-bba2-b25d00299c7c",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5242.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ff23945bcac3",
+      "rss_guid": "303d0b6f-c734-4443-9dc1-b25a0061821c",
+      "published_date": "2025-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1856.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d7936850b10d",
+      "rss_guid": "bcc4ce90-3d49-4520-872f-b252007b72c6",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4304.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9fd6eb616040",
+      "rss_guid": "31aac461-6721-4047-b335-b2520077cebf",
+      "published_date": "2024-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1922.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8a512304b2f7",
+      "rss_guid": "94a092b9-c047-45c2-ae52-b24f0022b66d",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4742.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8aff842e66d1",
+      "rss_guid": "e5e58246-884c-4221-ad67-b24c002d956b",
+      "published_date": "2024-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1941.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8c1c957c0821",
+      "rss_guid": "b085a57f-b5a8-434a-a8d5-b247011eff06",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6473.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-627b2cd987e2",
+      "rss_guid": "bd607ff8-f399-4f9b-befa-b245005ba848",
+      "published_date": "2024-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4899.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8d72de6a93bb",
+      "rss_guid": "acd02715-0188-4832-acf6-b23d011d9b25",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5390.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-775b19b9679a",
+      "rss_guid": "be4bca03-e215-4408-9785-b23d00f06193",
+      "published_date": "2024-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1733.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-992b410db97f",
+      "rss_guid": "75b82deb-25fc-4172-881b-b23a0065a403",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5731.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b9f478fbf38d",
+      "rss_guid": "aaafaadf-8fce-41b7-989f-b2370061495a",
+      "published_date": "2024-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1553.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7ae1b1e46bbb",
+      "rss_guid": "8ac9badf-db78-43bc-b3aa-b233005ca14f",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6088.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-41a7747dbf11",
+      "rss_guid": "58481219-cb54-4983-8518-b230002877c3",
+      "published_date": "2024-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1817.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1258a2663e0d",
+      "rss_guid": "10be90ed-66fb-4e83-9fc5-b22c0031fa19",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5347.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-414a0ed28045",
+      "rss_guid": "48348a7b-8b09-4061-ab8e-b229002b88b0",
+      "published_date": "2024-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1755.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4463feafbff9",
+      "rss_guid": "2353e999-046b-43b6-8e22-b2250053e4e8",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5897.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-244a29f91e8c",
+      "rss_guid": "f6406c58-b02a-4da8-ba76-b2220068318e",
+      "published_date": "2024-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1711.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7d0ac9a87cbc",
+      "rss_guid": "f1b4d38b-9e58-40de-95a0-b21e0052bffc",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4023.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-501678d813c8",
+      "rss_guid": "5349cb81-2c9e-4610-9a0c-b21a0102af22",
+      "published_date": "2024-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1562.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-68c5d1cbc25e",
+      "rss_guid": "09fb81c3-462c-4a96-887f-b217000f77fc",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6542.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-edcd41ad4d17",
+      "rss_guid": "7ec1ed06-d49f-429d-95d9-b21400100fd3",
+      "published_date": "2024-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1873.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-85e1878157de",
+      "rss_guid": "7230b34f-f3fd-4164-a255-b210002b27e8",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5736.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2890d72d9462",
+      "rss_guid": "877d2555-2141-4d70-af42-b20d0055f435",
+      "published_date": "2024-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1610.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b25c7203c8ff",
+      "rss_guid": "96d44f96-ba84-4fa6-8558-b209002c0416",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6271.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-721f1c884089",
+      "rss_guid": "f7d3b0b1-c63b-4f47-afc4-b2060069e3c7",
+      "published_date": "2024-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1802.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-27deea3c9978",
+      "rss_guid": "c3d2bde7-fbde-424a-9db1-b202005b25ed",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4813.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-61c1ca4af680",
+      "rss_guid": "e47e1758-fb70-4bd3-99a6-b1ff00464996",
+      "published_date": "2024-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1582.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2956d2a43cbb",
+      "rss_guid": "b8413808-5e9b-4d77-b80a-b1fb005cc31d",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6275.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3f46157b6d31",
+      "rss_guid": "9b36be94-f741-4c2e-9f6b-b1f800267e41",
+      "published_date": "2024-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1585.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-65d3ad2454ac",
+      "rss_guid": "ed18b450-2041-4f09-9e50-b1f40059fcde",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6860.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9b0483eb3aa8",
+      "rss_guid": "9946c85b-d914-4c8a-9733-b1f1000c3458",
+      "published_date": "2024-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1847.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-540449b7fa0a",
+      "rss_guid": "805177f6-eb33-474c-8d5d-b1ed00214fe7",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5675.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-59c9a3103333",
+      "rss_guid": "cf7136c9-b086-4998-8413-b1ea001f143b",
+      "published_date": "2024-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1891.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0e859978fe12",
+      "rss_guid": "9a298149-c460-46d1-a358-b1e60026ccf9",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4915.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3581bf095908",
+      "rss_guid": "ce43d1de-4fc3-4e0f-bc4a-b1e3001fee10",
+      "published_date": "2024-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1900.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-564593f4a8a4",
+      "rss_guid": "90588f37-403d-4aca-9f51-b1df002424bc",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5213.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-356687f086c8",
+      "rss_guid": "ee27427b-491d-4a1a-be9f-b1dc0047a683",
+      "published_date": "2024-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1979.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a06223e72a97",
+      "rss_guid": "c82e084a-c385-446c-8c35-b1d80020655c",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6284.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-29368a9f3b5d",
+      "rss_guid": "5089cc33-12f9-4453-a6f2-b1d5005b075b",
+      "published_date": "2024-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1649.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-86f725b03b8c",
+      "rss_guid": "1d585c63-b80a-48b1-93d4-b1d1002fa264",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4571.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-78d4ae9bb338",
+      "rss_guid": "0fadb79e-dce0-4f3f-8f90-b1ce002437f6",
+      "published_date": "2024-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 1842.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fb9597b66c01",
+      "rss_guid": "4fd924fa-802e-4e68-8fd6-b1ca005bdbf3",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6240.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4d978ae64d47",
+      "rss_guid": "fa212417-d54b-4df7-9f42-b1c7002f5d50",
+      "published_date": "2024-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4937.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e6ca7278fd24",
+      "rss_guid": "434ed5f7-525b-4e63-bc67-b1c300324d08",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5144.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2a34ae1dc3c4",
+      "rss_guid": "2f542a12-2d75-450c-a0c3-b1c0005baeec",
+      "published_date": "2024-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2005.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9b221ceb1eea",
+      "rss_guid": "3591baac-971f-4841-9eab-b1bc000b3fba",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6042.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-704d1b0b6693",
+      "rss_guid": "54c2fa36-2df2-4b49-aaf2-b1b9001c9a5a",
+      "published_date": "2024-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1858.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ce8bd5c14efe",
+      "rss_guid": "d65036e1-aeaf-4613-a9d0-b1b50012bfa6",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5059.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ab97217745ab",
+      "rss_guid": "c765a94d-cba3-4ee4-93ab-b1b2003323c4",
+      "published_date": "2024-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5659.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1284c2e7a60f",
+      "rss_guid": "3f217a48-677b-4db0-9123-b1ae0065739f",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6473.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cf72909ae916",
+      "rss_guid": "5b071997-a7b5-4cb3-84db-b1ab005d96e4",
+      "published_date": "2024-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1684.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5f6651eb01fb",
+      "rss_guid": "faef46df-2ccc-4e48-bd4b-b1a70054e509",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4962.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e899f097022c",
+      "rss_guid": "2a3e2bec-0b72-4eee-94d0-b1a40050136f",
+      "published_date": "2024-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3845.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b54e456e6397",
+      "rss_guid": "5e0f637a-9a04-4dc4-ab0c-b1a00024f8e8",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4827.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-52eb50ea6a5d",
+      "rss_guid": "5bfc1047-dc4b-442e-b813-b19d0025ec79",
+      "published_date": "2024-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1646.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9bd00cbdc534",
+      "rss_guid": "c022fa02-d7d9-45ac-a93a-b19900353ddf",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5261.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-92313b720399",
+      "rss_guid": "929ad4f0-0222-4925-b2e2-b19600417580",
+      "published_date": "2024-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1640.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-443232ba1acf",
+      "rss_guid": "549f5217-3752-4d53-a057-b192001465f5",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 9246.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7728c2727115",
+      "rss_guid": "00c9e12e-d781-4f38-9f6a-b18f0003e3b9",
+      "published_date": "2024-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1528.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-42b73d2c1cca",
+      "rss_guid": "c6972ab7-b155-48ef-9b4c-b18b0037a2d2",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7129.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9fb62c3f1f2b",
+      "rss_guid": "104a0271-b07f-4006-b6a7-b188000bf484",
+      "published_date": "2024-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1791.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6a704a8d26e8",
+      "rss_guid": "470f1161-e70a-4567-b999-b184003b520a",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6392.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f22920b2b9a7",
+      "rss_guid": "6bab76e6-a50d-4f5a-84c8-b181006c2b2a",
+      "published_date": "2024-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2016.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3dbf89fa8117",
+      "rss_guid": "d50412f7-2c81-488f-b71a-b17d00713b8f",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4204.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b96809be08e0",
+      "rss_guid": "47446392-2e04-4724-8ded-b17a005334ab",
+      "published_date": "2024-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1705.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0bd3f7c70678",
+      "rss_guid": "37799c74-d961-4434-bbce-b176002040db",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6818.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fea3bded9204",
+      "rss_guid": "e7e05b08-b99b-4193-b133-b17300013057",
+      "published_date": "2024-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5081.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-835033d1ba86",
+      "rss_guid": "001d953c-ec40-4daa-8b9c-b16e0158df5f",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6708.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-44d293dbe981",
+      "rss_guid": "27e10921-2dc3-4402-b537-b16c005c847f",
+      "published_date": "2024-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1726.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3c489832caab",
+      "rss_guid": "ad12e422-7d78-4ba4-aa67-b168004dac29",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6175.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8bac26f53e64",
+      "rss_guid": "230831ec-847c-41da-a86f-b1650070dec7",
+      "published_date": "2024-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4118.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ac2c18d23cd9",
+      "rss_guid": "ff8a897a-895a-4ec2-a2b1-b16100524578",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5576.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9cd953ceb51a",
+      "rss_guid": "b63ea8dc-98d1-4375-a1a1-b15e0013914c",
+      "published_date": "2024-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1968.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0b1418188ce6",
+      "rss_guid": "6eb39704-abd5-4658-a0be-b15a002b5a93",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6006.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-388e9439137e",
+      "rss_guid": "7183a961-c2a9-4c60-ab33-b1570036ec63",
+      "published_date": "2024-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1906.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8ec87725c42e",
+      "rss_guid": "17231ed9-4449-4ea4-8ef5-b15300500fa4",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5260.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3562770f638d",
+      "rss_guid": "cccf1771-6604-4629-8254-b150006f47ef",
+      "published_date": "2024-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3708.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4fcdff828610",
+      "rss_guid": "45ebf0a3-e72c-49d5-bb9f-b14c002da991",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4200.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e644191b702f",
+      "rss_guid": "f2b9f525-9684-478b-93a8-b1490060c89b",
+      "published_date": "2024-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1795.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7966c3f1f66a",
+      "rss_guid": "2df1ff61-3cb8-45ba-9c9d-b1450057a0ef",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4505.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6220def28d4b",
+      "rss_guid": "a1056a9d-30c6-4220-a17b-b142005ff8b0",
+      "published_date": "2024-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1632.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-42ccfd5b2d62",
+      "rss_guid": "8f733829-90b5-4a98-b43d-b13e005e8a5a",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3843.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-46bceda20eb0",
+      "rss_guid": "7fc6e685-9dfe-413c-96e5-b13b002b7a5b",
+      "published_date": "2024-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1865.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6a79a8774780",
+      "rss_guid": "ab99537f-fdf3-4abc-9740-b137002f0a06",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4800.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-79c2c14f3e61",
+      "rss_guid": "f07f1f48-3c30-4430-a30f-b13400547275",
+      "published_date": "2024-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4793.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-289cdb6f854b",
+      "rss_guid": "7a215c53-d224-43b7-8184-b130005bc123",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5288.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-449f2b406846",
+      "rss_guid": "895b76ec-acdd-47e2-abe7-b12c018881fa",
+      "published_date": "2024-03-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2475.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fb735a2df6d0",
+      "rss_guid": "f05e30fe-35d7-4821-823f-b129005992e5",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3847.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-27af75489fac",
+      "rss_guid": "f16a4347-3104-4845-b6ad-b12600739d03",
+      "published_date": "2024-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1838.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1524c90c8b2f",
+      "rss_guid": "b86e9a07-3610-4f40-ae28-b122008d9aab",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4709.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1eff629139f7",
+      "rss_guid": "918660e2-e729-4ae6-a222-b11f00684458",
+      "published_date": "2024-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2689.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7677110e7cb2",
+      "rss_guid": "e56b5252-fd78-4aef-a5e1-b11b0054f24f",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4429.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d96704357d65",
+      "rss_guid": "82666a5f-b9e7-4685-ae3e-b118003d5501",
+      "published_date": "2024-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 1896.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d235719fa2bb",
+      "rss_guid": "a7d4b15d-9923-479e-bf44-b11400626cf2",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4677.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6b77f38aea79",
+      "rss_guid": "4be6cdf2-dacb-4df8-9b93-b111005fb5a9",
+      "published_date": "2024-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2155.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1b630b7027d7",
+      "rss_guid": "5faeefab-88c5-4d60-9ec8-b10d005fc108",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6295.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5c8f2d2aa1ec",
+      "rss_guid": "e5bf7704-d96f-43ea-ab37-b10a010f8d40",
+      "published_date": "2024-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1991.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-92fe5351df83",
+      "rss_guid": "ca9761bc-991f-4995-ba10-b1060077d144",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4447.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f839d62acbd1",
+      "rss_guid": "4b9bd046-28f9-4db4-8fc4-b103005e1a1c",
+      "published_date": "2024-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1893.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d955ae80903f",
+      "rss_guid": "42f0a1e7-f57c-4928-8f0d-b0ff0056fd57",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4200.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bff0bf0c67a2",
+      "rss_guid": "439cd99a-abdd-46a5-bbbd-b0fc0069aa65",
+      "published_date": "2024-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1864.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-04ca3c5e0726",
+      "rss_guid": "91629e17-e8a9-4dbb-98d8-b0f8001ea809",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5676.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e5a526b497c0",
+      "rss_guid": "264a266e-4dd5-4bce-960c-b0f50030b876",
+      "published_date": "2024-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1859.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-178434fa6a5d",
+      "rss_guid": "6c086e96-ee84-42b2-8c3c-b0f1001ebb14",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4326.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3bef0d78bdbc",
+      "rss_guid": "dad0d46d-26dd-41d2-87b2-b0ee00623813",
+      "published_date": "2024-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1906.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e7d35e4d57ba",
+      "rss_guid": "57e22e75-5f8c-467f-bc84-b0ea00520c80",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3681.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-97d900f5b637",
+      "rss_guid": "d7056b2e-cf7d-446c-bfd8-b0e600718b0b",
+      "published_date": "2023-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1821.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-507d0d056183",
+      "rss_guid": "4e23ad7b-e207-4e14-a707-b0e300210fe6",
+      "published_date": "2023-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5499.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5799b3f67b43",
+      "rss_guid": "8a934951-aba8-4fdc-a21d-b0e00046202b",
+      "published_date": "2023-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3753.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-261a99a79065",
+      "rss_guid": "bf323a1a-172e-4abc-89d7-b0dc005564d1",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3169.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-af464512b949",
+      "rss_guid": "7e4f3d30-6e68-4bfd-a432-b0d90036a0ae",
+      "published_date": "2023-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2785.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2816202c34fb",
+      "rss_guid": "3804aa87-bcf9-49d9-80b1-b0d50068677f",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6285.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-53b640fba746",
+      "rss_guid": "8a980683-7da9-4fd6-9dc6-b0d100dc974e",
+      "published_date": "2023-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1961.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c6c505ef0466",
+      "rss_guid": "51579d70-545b-48fc-8f3f-b0ce006516dc",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5669.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a680374e3601",
+      "rss_guid": "f1976dea-062d-4326-9a88-b0ca0079ae2f",
+      "published_date": "2023-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1615.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c449f8bd764a",
+      "rss_guid": "8b3eab93-a148-46c0-b30a-b0c700629903",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5699.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0d259e6d40d9",
+      "rss_guid": "80ebdac6-d0c4-4ed4-9eb8-b0c40014f8f9",
+      "published_date": "2023-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1812.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-df779b129607",
+      "rss_guid": "4e289d2c-8097-4e2d-b963-b0c0006c2a73",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3983.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2eba1060cd84",
+      "rss_guid": "100759d1-c6aa-4958-b56e-b0bd00109670",
+      "published_date": "2023-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1824.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1eab61176099",
+      "rss_guid": "c9403244-656e-408c-8fe9-b0b9001dd85c",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4052.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-af222627d2c3",
+      "rss_guid": "038f7a51-9ed2-4004-85b8-b0b600203c2b",
+      "published_date": "2023-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5464.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-54d255c3f667",
+      "rss_guid": "fc8b59c1-fd49-46da-a232-b0b200264161",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5708.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3f46cdf43721",
+      "rss_guid": "55c4f83a-8134-4d03-9100-b0af0027a212",
+      "published_date": "2023-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1907.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-02971fe2edb8",
+      "rss_guid": "03927728-bc7b-478d-a6f9-b0ab00375fd1",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6015.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-58095245d04f",
+      "rss_guid": "3bcdfd52-59bb-434c-8f12-b0a800636979",
+      "published_date": "2023-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1890.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6a0d8f9bfa19",
+      "rss_guid": "0747396c-ba87-4d72-be5b-b0a4002d22e4",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4139.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4ae3cbfe3fc0",
+      "rss_guid": "25ee6139-a27e-4670-b93a-b0a1002a2752",
+      "published_date": "2023-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4361.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bc6f17f62a91",
+      "rss_guid": "ec71d428-3bd2-4170-9ae7-b09d0021f319",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9535.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c9d72e7855cb",
+      "rss_guid": "37661319-426b-49bb-b3d9-b0990183a565",
+      "published_date": "2023-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1724.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e038b65accfa",
+      "rss_guid": "a8ee8662-8c63-4f10-8657-b096002c0407",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7038.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5986ef16a4e5",
+      "rss_guid": "9ad901b8-2a10-44e8-9ab2-b093001ceae6",
+      "published_date": "2023-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5140.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-711bc584d225",
+      "rss_guid": "649caa60-3da2-4468-aaa1-b08f00648656",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5300.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-62a48cb48b3a",
+      "rss_guid": "a4d21588-2a43-4b04-b153-b08c0039303e",
+      "published_date": "2023-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5318.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6599c08b2d5c",
+      "rss_guid": "68a80345-7c58-46b7-8a7e-b088001ef1e6",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6747.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7a1ffcfc3a13",
+      "rss_guid": "18c21e4e-3624-470f-b545-b085005db32f",
+      "published_date": "2023-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1959.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d66144f274da",
+      "rss_guid": "9356df91-479e-4b89-9181-b08100211d9a",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5793.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5c2a129538f0",
+      "rss_guid": "b80390c9-878b-4b9e-afe4-b07e005bf065",
+      "published_date": "2023-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2993.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f6244bf441d7",
+      "rss_guid": "34ded2b5-609e-4cfb-874e-b07a006036ba",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6356.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4bec6032ec41",
+      "rss_guid": "04b6318c-c00a-486c-aca7-b077003a8e1c",
+      "published_date": "2023-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2332.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0124c84d6d5d",
+      "rss_guid": "4c10edd2-1d4c-4560-89d2-b073006942ef",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4399.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f4ccabf2ed7b",
+      "rss_guid": "50297f96-b2df-41c6-a981-b07000329c39",
+      "published_date": "2023-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2192.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-327525de053a",
+      "rss_guid": "8a0dd4a7-399d-43f5-9783-b06c004eb13a",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4681.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4d64f1b08210",
+      "rss_guid": "3cca80cc-06c8-42f9-8af0-b069004037f6",
+      "published_date": "2023-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1821.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ec66cd29ca2f",
+      "rss_guid": "47a934ce-e37c-48a9-aa2f-b0650054de1b",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5049.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5fabda9a3f31",
+      "rss_guid": "1cbe9ba7-3544-4cca-a3f8-b062005e6ddd",
+      "published_date": "2023-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5134.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e4a0338cf153",
+      "rss_guid": "041473b4-cb42-40d0-92a2-b05e005f6d98",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4139.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-83e4fade994b",
+      "rss_guid": "54693242-307b-4465-99ad-b05a00e37e2f",
+      "published_date": "2023-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2409.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-850975e00b1e",
+      "rss_guid": "7cfc81c6-a256-4eea-badc-b05700385c21",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5935.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9267ca2b196a",
+      "rss_guid": "33d7833a-b07b-4d59-9eed-b05400371c32",
+      "published_date": "2023-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2435.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0762c4a15fd8",
+      "rss_guid": "86a57517-c2d3-41cb-bdb3-b050005db0b4",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2739.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1598981d4ee5",
+      "rss_guid": "510a16ec-ec1f-45ba-b826-b04d0038e357",
+      "published_date": "2023-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2463.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0a96fc92a0da",
+      "rss_guid": "c5b272f4-1daa-4981-8537-b049000308f8",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5177.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d95fb1f8bafd",
+      "rss_guid": "6cb5c27f-87af-4cbd-8c4e-b046001bfbae",
+      "published_date": "2023-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2327.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c1a4146d8d96",
+      "rss_guid": "564f24c9-3bf7-45cb-a4a1-b042001a2908",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4388.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-244d03a12a38",
+      "rss_guid": "f8d8d4e4-9505-42ed-b474-b03f00521a46",
+      "published_date": "2023-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2978.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7d8aebb7b9b4",
+      "rss_guid": "bcec8b7c-3627-45a7-858d-b03b0011921c",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6827.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7561013ee567",
+      "rss_guid": "d0596320-5dd0-4e95-a566-b038004e52d6",
+      "published_date": "2023-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2730.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-620fb883ac47",
+      "rss_guid": "faf1776a-f971-4e9a-ad6e-b034001e4388",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4961.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6de1321a1ff4",
+      "rss_guid": "d7cd257a-1cfa-4057-9460-b03100171a51",
+      "published_date": "2023-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5096.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-39931b75b62d",
+      "rss_guid": "4bdd39d0-6e57-408c-9431-b02d00552822",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4143.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d28790222fd2",
+      "rss_guid": "bcda60b4-78f3-4a93-bc6e-b02a00ca6992",
+      "published_date": "2023-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4580.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-658ee5cc3bb1",
+      "rss_guid": "0673abe6-d7be-45aa-ba0f-b026001f0b31",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4884.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7de1e3e70fe5",
+      "rss_guid": "a98e215f-9d05-4b9e-b747-b0230020b73e",
+      "published_date": "2023-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6405.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-de56481fe752",
+      "rss_guid": "63b76d1b-5738-4ff4-a9cb-b01f005059c4",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4629.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-be0af0024a33",
+      "rss_guid": "f7396c60-4cfa-4e88-94e1-b01c0047ad53",
+      "published_date": "2023-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4534.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0ee92f8580b7",
+      "rss_guid": "f6080bda-86c9-41eb-9522-b018002b2e4c",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6327.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a5e518c5a2c0",
+      "rss_guid": "a352d31e-70c1-44a9-88e9-b015005ff8e9",
+      "published_date": "2023-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4005.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8e6e16b3c1f6",
+      "rss_guid": "73406670-5a3e-40d1-90eb-b01100513cf4",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4591.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4135fbe9baa0",
+      "rss_guid": "ce6fc721-dc18-4665-a5f7-b00e0062c55d",
+      "published_date": "2023-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3980.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-15df903b63d8",
+      "rss_guid": "c029b885-bfda-4c4a-9bf2-b00a0051da70",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4456.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f07b47afd074",
+      "rss_guid": "6e28b40d-8f4c-4121-b613-b00700589e89",
+      "published_date": "2023-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3322.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d7e95ccdf869",
+      "rss_guid": "0cf2f805-e2d2-443c-89fe-b00300569048",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4081.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5039f40a958e",
+      "rss_guid": "90ce6c27-2556-448d-8572-b000002a1dac",
+      "published_date": "2023-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4050.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-df328ec9ca0e",
+      "rss_guid": "41122d73-8e0a-4a24-af5d-affc00518384",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4963.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bfc7c251e74d",
+      "rss_guid": "d4981af4-f6f1-4a52-8fe9-aff900072553",
+      "published_date": "2023-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1976.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1dc328cba51c",
+      "rss_guid": "f2c0b367-4fd3-41f9-83d8-aff50021eb04",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4427.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-48485a18be64",
+      "rss_guid": "f54a0d46-0382-4349-bb92-aff200252fec",
+      "published_date": "2023-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4255.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5ee3b4884f82",
+      "rss_guid": "9f599c0b-ef4e-4025-b8c2-afee001c8bb8",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5643.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7c1c37d4027e",
+      "rss_guid": "57b70516-4826-4cfe-ad91-afeb002fb9d5",
+      "published_date": "2023-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7051.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6d1efd58f8e7",
+      "rss_guid": "e79ae562-ce58-41d1-81fe-afe70016d4c2",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5052.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-38c3a29537c4",
+      "rss_guid": "5b252add-5df2-465a-a5d4-afe4004cb066",
+      "published_date": "2023-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2312.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7a64dc2ca9b8",
+      "rss_guid": "ca24b13d-f0d3-4c6f-a342-afe0001dd91e",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2701.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-abd5ea8928a0",
+      "rss_guid": "e9d0477b-1d2d-4ed2-9940-afdd0019f211",
+      "published_date": "2023-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8a448fe47e2b",
+      "rss_guid": "4ed702d5-5442-4678-bae4-afd900194c9f",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2740.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d284cb9ca060",
+      "rss_guid": "aaf73abc-a860-4dd8-bf8f-afd6002d7432",
+      "published_date": "2023-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5003.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7467cbbe25a8",
+      "rss_guid": "83301725-1ae9-409e-9fe5-9d9b593bb760",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4454.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cbf3598370b8",
+      "rss_guid": "2883d2ef-3d4a-4503-b499-e056374ce240",
+      "published_date": "2023-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7176.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a3e61f98432c",
+      "rss_guid": "1633639d-bd40-437d-83c0-770fe2c99d5e",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3487.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a8f21895bd4c",
+      "rss_guid": "f33711ca-3770-4055-8849-90fa656f2a0f",
+      "published_date": "2023-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3043.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cdacde91fe14",
+      "rss_guid": "84df30d0-c1fa-48e2-aa33-ed8714834c78",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5106.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c44be049ac61",
+      "rss_guid": "08f4272d-19ca-4cbe-a8f6-2f74948b3a5e",
+      "published_date": "2023-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4415.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d8f45135ee85",
+      "rss_guid": "0f8de27b-2e84-4619-a052-fffc9ad6672f",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4982.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5f5d4fbd748b",
+      "rss_guid": "213b2de1-0dc0-4502-b661-7fcde6418090",
+      "published_date": "2023-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3382.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6fcf95099fcd",
+      "rss_guid": "0df507de-4f64-4b11-bb7b-4d79958da3c6",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4549.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e8f5a5467d87",
+      "rss_guid": "a382a2b2-b27e-4455-be88-ef9dca7e21e0",
+      "published_date": "2023-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3001.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9a458fe68925",
+      "rss_guid": "e7a927de-752a-421f-841d-d649164c072e",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4559.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-80cecafa13da",
+      "rss_guid": "7ac37f68-682a-4200-9aed-ab3344880b22",
+      "published_date": "2023-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4770.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2cf275be1c63",
+      "rss_guid": "aeb2ee4f-7478-4e35-821c-545ccb9a2de4",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4480.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e127e7c2e461",
+      "rss_guid": "0bcad19d-c50c-44aa-afb7-0e48ababa7b0",
+      "published_date": "2023-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1860.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-123692d7a663",
+      "rss_guid": "a3238ef9-6518-4f7f-84d1-273d4580598f",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4642.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d10e1d32c87a",
+      "rss_guid": "a9b65c69-88f3-494b-b074-f04dad4cc809",
+      "published_date": "2023-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1898.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e205d4404a83",
+      "rss_guid": "5a6a27d9-2bc9-4752-9a99-24f3b143168b",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4048.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4cdd3e56ec91",
+      "rss_guid": "95c0cd03-b37c-4051-88b9-89dce056aed7",
+      "published_date": "2023-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1998.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c0c6e8c24498",
+      "rss_guid": "ce1cce8e-eab7-4930-8efc-eeea84f26b9d",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4731.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a5c4809f8bd3",
+      "rss_guid": "35279242-ea23-4132-8e75-65b86697d864",
+      "published_date": "2023-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1741.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-659afbbef13e",
+      "rss_guid": "d3b110e5-1c92-4d32-a263-f2862d98ec1d",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5399.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a0a8caceb7dd",
+      "rss_guid": "94944266-36d0-40b2-9a93-d665cb21aa67",
+      "published_date": "2023-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1692.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4faa900b640a",
+      "rss_guid": "21bd2250-ce08-40a5-9f8d-66d22cf27b33",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6241.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-63e9e95f88df",
+      "rss_guid": "0084a454-3d31-4885-a59a-dbae50904d5f",
+      "published_date": "2023-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2030.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4fddfba857c3",
+      "rss_guid": "96962659-36d8-488f-ab78-67ee181504bd",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4267.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4416cc6cd6d9",
+      "rss_guid": "eeef79f6-e759-4939-a1fc-650c4ca5d848",
+      "published_date": "2022-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2851.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-79ef772a388e",
+      "rss_guid": "4228725d-480b-47d9-bec5-c6fbcdde626e",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4593.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5f5860988bfb",
+      "rss_guid": "4f34a109-ed1f-4b7f-aaa7-1c9c27968ef2",
+      "published_date": "2022-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3426.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-676b49362bfb",
+      "rss_guid": "51b9fb67-acef-479a-b2a6-7255a2149217",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5256.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-927f43d90dcc",
+      "rss_guid": "b0915bd5-6c1f-4628-83a8-6470f8af0a40",
+      "published_date": "2022-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 1476.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a3d6d4cda05c",
+      "rss_guid": "6eda454d-affa-4366-872b-1be0d46cbd2d",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4831.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3ba9a6a0df9d",
+      "rss_guid": "dbb43de0-2847-43c6-ba27-e0ccb17944b3",
+      "published_date": "2022-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1736.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-65d1d30c0cff",
+      "rss_guid": "a0f4936b-a7f3-4520-9197-e87ca4480425",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5811.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fb9f43a27d06",
+      "rss_guid": "06a31dee-1399-4d8e-93c2-ffd87f85f3f4",
+      "published_date": "2022-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1976.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1abc74dba01e",
+      "rss_guid": "8428d7ab-6a36-4847-ba66-1039efc43c52",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3430.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e307f302abaa",
+      "rss_guid": "20b3bf2b-78fe-4217-bcab-745b518c5293",
+      "published_date": "2022-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3524.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-efa562111230",
+      "rss_guid": "67f01e2c-176a-445a-b417-dd0ab80e0359",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4086.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0315e1ddd6c4",
+      "rss_guid": "07dded15-19a7-4ea0-9a42-d4ddd1c037c0",
+      "published_date": "2022-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1773.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d130267125e1",
+      "rss_guid": "1d944bb7-309f-4778-8fb9-fd1da5265b9e",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5924.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6014330ddd6f",
+      "rss_guid": "d3e11984-1ee0-42b6-9e93-af436b70fae9",
+      "published_date": "2022-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2110.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-12a8e31a81d2",
+      "rss_guid": "46f4c3b4-5328-4c75-8305-7f49bea17b26",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6293.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1af19b004b29",
+      "rss_guid": "c4f73ffe-0913-4436-9b25-88de0320b57f",
+      "published_date": "2022-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2388.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-67920136e13c",
+      "rss_guid": "7bc711a8-e94f-480a-a11b-4d0b37a4f033",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3286.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-82b37fdcc08f",
+      "rss_guid": "39a0c2d0-2931-4f3a-8272-336fcfb808f9",
+      "published_date": "2022-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4661.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a97153d09f6d",
+      "rss_guid": "8cda9d46-4cdc-48f6-a53f-9953874d776f",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4957.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-eac3e84c9401",
+      "rss_guid": "4ab9e10d-3936-4d8f-b98f-3d450ce93922",
+      "published_date": "2022-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1657.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9b58b5e77a9e",
+      "rss_guid": "f308ba53-d734-492a-ac40-b1cf07b7c66e",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4495.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f2d997d3f3da",
+      "rss_guid": "3771e511-fcd4-42ea-b3e1-6e618a142185",
+      "published_date": "2022-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1478.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-837568642cd5",
+      "rss_guid": "e3398d9a-487a-4515-b216-500f143f1cc7",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3555.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5698506ecd36",
+      "rss_guid": "a2e24daa-6cf9-4595-9633-c54ff394c443",
+      "published_date": "2022-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3533.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6cfa9423ed61",
+      "rss_guid": "100f64b1-8920-4b2d-b51b-0512b1ccb15a",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6669.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7470ff341e00",
+      "rss_guid": "6c06933e-2cb2-4c26-b38f-b5cfc2a65797",
+      "published_date": "2022-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3894.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c2eb6371c72e",
+      "rss_guid": "82a42f7b-15bf-4178-afc2-4d8366aaf71a",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4583.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c4aa56c420f3",
+      "rss_guid": "6692aa5e-c1be-488b-aa40-57e7c43c4b49",
+      "published_date": "2022-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1623.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cd58e8cf68db",
+      "rss_guid": "820c16ac-9084-40a7-8fa6-d6eabd800640",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3319.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-affb4721c883",
+      "rss_guid": "5018fa4e-ae7d-42bd-b2fc-295e8de6bcc2",
+      "published_date": "2022-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2188.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3345f1095aaf",
+      "rss_guid": "8481b919-c223-421f-9049-369e2e8302c1",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3461.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-33105ed2a98d",
+      "rss_guid": "d866a658-8a44-4e98-89d8-aac2fd006442",
+      "published_date": "2022-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1915.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-78ebc17460a6",
+      "rss_guid": "71dc7a40-ef11-4eb4-88ae-bd3824b68449",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4057.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-46041131a297",
+      "rss_guid": "db4f42c8-98c0-4e05-b814-401be996d164",
+      "published_date": "2022-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3540.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-dc1129a3c215",
+      "rss_guid": "b4265d05-70b5-4227-856f-d68df3f07746",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4060.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4eaf2116c464",
+      "rss_guid": "455348a6-cd2a-4ae3-ac08-1a7276efc3ef",
+      "published_date": "2022-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2101.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e5aa3f824ad4",
+      "rss_guid": "131df38f-6ca1-46f5-bc91-c4be399424e2",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3686.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-66cc0903d5e1",
+      "rss_guid": "0de07730-f9a2-4b66-a234-f428ae33ca8b",
+      "published_date": "2022-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1987.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cf3f88242c3a",
+      "rss_guid": "9daaa6d1-2e81-4a34-ac88-b9c67e6e4348",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5262.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3a61d908a268",
+      "rss_guid": "973731cf-17ac-4c43-94f7-704ac300aece",
+      "published_date": "2022-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1653.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f8eebdc5d1ae",
+      "rss_guid": "d73edf89-b149-4d87-a740-d56b7e0c965a",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3726.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-848643e2e1cd",
+      "rss_guid": "f138f94d-68c7-407f-a48e-6ea9dec03589",
+      "published_date": "2022-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1705.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-eee17086e71c",
+      "rss_guid": "bf2cddf6-1778-42d4-b6b0-a38c2456e8e4",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5806.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c129d7fde410",
+      "rss_guid": "42d7a550-f8bf-4c29-8921-1abc5be093a0",
+      "published_date": "2022-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3635.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-18ab3ca968a4",
+      "rss_guid": "bb3818cb-7908-4259-8271-c6ac407ca383",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4791.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d1e8da7882cc",
+      "rss_guid": "2839ac17-0dfb-496e-953d-17a3e533dfd9",
+      "published_date": "2022-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1874.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c15b8463e011",
+      "rss_guid": "91c0a0e3-52af-4d16-a427-a54598af0453",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2663.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cd5c23c04c9a",
+      "rss_guid": "a281bf96-1a54-4d78-9344-072a37b67c9c",
+      "published_date": "2022-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1966.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d6e065deb7a5",
+      "rss_guid": "ceac0ba7-b6b5-4b7f-925f-5c0eb2a83eb7",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3748.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fdcbef4963b6",
+      "rss_guid": "9490eed1-bfb0-4cda-a899-cf1c8deb6b94",
+      "published_date": "2022-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1613.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e3de0391ee78",
+      "rss_guid": "0e46ab07-4e10-4a51-b004-d052ccfa4c1f",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2935.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d29d537c6387",
+      "rss_guid": "1113da8d-2fc1-4db4-a011-39c0ed0a351a",
+      "published_date": "2022-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1707.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9be00d5db830",
+      "rss_guid": "0cc75d91-eba8-443d-93d6-149b26bcdf79",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4026.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5f96844f20ea",
+      "rss_guid": "ad6ad805-a388-4c15-b663-ce87f2686911",
+      "published_date": "2022-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3021.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-270defcd49ac",
+      "rss_guid": "a4be7319-e06d-4863-b127-a7cbb674f518",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3395.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5f84957dd12c",
+      "rss_guid": "c50d1385-82dd-404a-adfa-8e33ca1a4b29",
+      "published_date": "2022-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1864.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5d9f941a0fba",
+      "rss_guid": "1b37d352-1601-471c-9b09-7286f726a19c",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2490.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d26534faec0c",
+      "rss_guid": "67ef89bb-d9cf-4ed4-8d48-06bbec11434f",
+      "published_date": "2022-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3128.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8fc41e468eea",
+      "rss_guid": "0c86200f-fd6a-47a5-9bb9-51191edbee87",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4016.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-748909086848",
+      "rss_guid": "bdd1ea24-b116-4c92-8f77-8f76adb1ca7a",
+      "published_date": "2022-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1942.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b85aeb0b678f",
+      "rss_guid": "de920704-1b46-4003-a705-a50eef4118b6",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3841.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5bdb1876554c",
+      "rss_guid": "ce292110-80bf-4e48-85e6-e3f8568eeb97",
+      "published_date": "2022-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3364.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e208bed6686a",
+      "rss_guid": "f8632019-4953-4ce7-b33b-93dd938a237b",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5330.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-6057f1430e62",
+      "rss_guid": "626b4a7f-c48a-425a-9775-a6ab88d88f78",
+      "published_date": "2022-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2264.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fc999c7402aa",
+      "rss_guid": "d2f57cae-d05e-4721-bed8-c0f80e3fa347",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4110.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1ead36ec090f",
+      "rss_guid": "454f9e5a-327d-4fd0-8699-9cbc634b6ae3",
+      "published_date": "2022-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1839.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-509c0a26ad6e",
+      "rss_guid": "dfdd6f6b-66e1-4b67-aff9-9c9ac5c0e367",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5073.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-14923cbe3009",
+      "rss_guid": "ae34c88d-5192-40b3-8e7b-13278045aeb7",
+      "published_date": "2022-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1817.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-49c3c26c7193",
+      "rss_guid": "d9ee0a9b-5b82-4af0-9e2c-0e2e7d54b0e4",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5904.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-805f0b0f4163",
+      "rss_guid": "9ee81882-da00-4bdc-9173-c90dd070eacb",
+      "published_date": "2022-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6626.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-843477aa7e5f",
+      "rss_guid": "995e3a94-b90c-4579-89ba-a7236e8a9d4c",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3371.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-daaf9ac383d4",
+      "rss_guid": "e8e5e501-f966-4293-a9a1-c69e333c907f",
+      "published_date": "2022-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1818.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7860c8bfccf2",
+      "rss_guid": "a5de17fd-8225-4c22-9c44-2183ada50199",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5831.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2a5ed0134f67",
+      "rss_guid": "05d0e5e1-a683-43a8-a927-9edc06bfd418",
+      "published_date": "2022-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1742.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-34468c2505e0",
+      "rss_guid": "f2906e31-a882-4dd9-97dd-c70cfcfe5c7e",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4745.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-dbca601ad77e",
+      "rss_guid": "d187359b-1af2-4967-84af-16306a752b2a",
+      "published_date": "2022-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2077.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2478cd0cbd42",
+      "rss_guid": "1f839ee7-50cf-4931-8db9-36cc49055d6d",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4655.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cc3bf98b7111",
+      "rss_guid": "620d29e2-fa82-4ae5-8184-56c5c6278d25",
+      "published_date": "2022-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2036.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c090f245ff8e",
+      "rss_guid": "8185d18a-dbb4-4a0a-a0f5-57b38e0765ea",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5568.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8c18c1ce12a4",
+      "rss_guid": "ec5bc301-6e9f-466a-a995-5e4cccd59f53",
+      "published_date": "2022-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1657.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-aa082ee9dc47",
+      "rss_guid": "12c2ee66-bc43-43e1-a453-301b99e3b6c2",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2845.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-63762f62604d",
+      "rss_guid": "27556667-ccca-4557-a19d-f348076cd8d5",
+      "published_date": "2022-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1882.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-960deff67304",
+      "rss_guid": "db6f1ad7-735a-4407-aceb-79ad44a46013",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2530.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2139e083b0b2",
+      "rss_guid": "02db2e33-0088-45f6-bba9-1a25f8da224e",
+      "published_date": "2022-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1891.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-12cd6fb97799",
+      "rss_guid": "483114e6-64da-4101-b48f-8e7f41309f09",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3475.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9f025e930570",
+      "rss_guid": "ba8e0f14-ac20-4457-a718-9c8b47601afe",
+      "published_date": "2022-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1854.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-3a33940d453d",
+      "rss_guid": "1e795c5d-f5cc-4783-b3fe-25e2602fd40b",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3263.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ecf20c11c2bb",
+      "rss_guid": "513059ef-2b00-4aa8-a039-b2ee581738d4",
+      "published_date": "2022-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1897.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d75b652d796b",
+      "rss_guid": "464126c3-8f6d-4ad7-875d-60c454492d4b",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4726.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d7efd492137b",
+      "rss_guid": "6f5178f6-29ee-497e-85c5-6b1e7ffc534d",
+      "published_date": "2022-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2009.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1a389fa12e62",
+      "rss_guid": "45f121fa-7538-4605-af26-7fd92627f34c",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3364.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-0014be17da58",
+      "rss_guid": "24e5413e-5346-4019-a529-b1be743c8050",
+      "published_date": "2022-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2383.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1fd72217261c",
+      "rss_guid": "6f6cc745-6b47-4ced-b0c8-c480dc4997e2",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3690.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ba8c885dce39",
+      "rss_guid": "e04a569c-f0e8-4715-9f77-b4da2bec5926",
+      "published_date": "2022-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1770.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a8b6199a48a6",
+      "rss_guid": "821e870c-e02f-4b3c-b7a5-59d0554485de",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3834.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-7da9fccd895c",
+      "rss_guid": "d37cc37e-c796-48ec-bb2d-5eeecbcd2db6",
+      "published_date": "2022-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1782.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4f3f0ef97c5b",
+      "rss_guid": "bb7cdc45-077b-475f-a8d8-00ea74728780",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4092.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2130a3e5cffc",
+      "rss_guid": "8d400007-3d51-498a-ac45-697d74b8efdd",
+      "published_date": "2022-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1599.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bbbed4843e08",
+      "rss_guid": "0c8a9815-28c6-40c1-9b58-56a7d0997a9f",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3114.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-615c830270f9",
+      "rss_guid": "df19308d-1aed-427e-bee5-444d7fe8ce3c",
+      "published_date": "2022-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2085.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-09b1da3f42ab",
+      "rss_guid": "d899cec6-eab3-4201-a1fa-978d8ed4ab1b",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4138.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-253428903508",
+      "rss_guid": "89a84fb7-f041-4ca4-9864-b9686577ba0d",
+      "published_date": "2022-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1955.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-5c8968a017a8",
+      "rss_guid": "0ab23007-d490-40bd-bd16-33d497f64b1a",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2642.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c583fca70caf",
+      "rss_guid": "4cabf99e-dd2e-4a75-91af-1b947821cf8e",
+      "published_date": "2021-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2302.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c4d7193f8dd7",
+      "rss_guid": "e5ec520d-8563-43f5-8fa7-ad0fe67cb1e9",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5308.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-38e7b9f9617a",
+      "rss_guid": "56335443-9a4b-448e-aa04-de1702d514f3",
+      "published_date": "2021-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1720.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-9f7975f11e7f",
+      "rss_guid": "8d46661f-39b7-4fdb-a3a3-79526665a163",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2738.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-8cc969e2d769",
+      "rss_guid": "d39fd20f-7b80-4191-b991-948ca81495b7",
+      "published_date": "2021-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1663.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-fa4ad42f60d5",
+      "rss_guid": "bf7c6111-4952-4b59-978e-1681ba86015d",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3696.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-59a5e30aa530",
+      "rss_guid": "a5ed9605-018d-4c55-805f-71f2f6738122",
+      "published_date": "2021-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2070.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-d0d266092181",
+      "rss_guid": "804cd734-c3dc-40d5-81b2-61431c2f242d",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3826.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-db001d8687a1",
+      "rss_guid": "a6fe316f-3d7c-471b-aa99-0cf4562ce3fb",
+      "published_date": "2021-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1767.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ab2c39284a00",
+      "rss_guid": "1e9bc503-149d-493b-8790-8519afd89e32",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3263.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-80f5aa590799",
+      "rss_guid": "5e14e269-92a7-44a8-ade0-8dab2e93c2e4",
+      "published_date": "2021-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1456.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-f3096f6dfa37",
+      "rss_guid": "89435e9a-7361-4f59-bf93-882d8b589aa7",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3608.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-34548869c0f1",
+      "rss_guid": "5ad6b5b9-7a9c-480a-bf87-0dfece1fad34",
+      "published_date": "2021-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1832.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-16d524f139d2",
+      "rss_guid": "bf8833e3-4bb8-4dfd-a7ff-727859f925ae",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2299.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-2e88703d32a3",
+      "rss_guid": "d72ba3ca-3055-4744-91fc-14d6891e14e5",
+      "published_date": "2021-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1724.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4ad300da1f39",
+      "rss_guid": "bd542b0f-72a2-4524-af4d-56bc9e865b0a",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5575.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-729641a2847e",
+      "rss_guid": "a1d97eb5-4cfe-4dc7-9691-e157999b2530",
+      "published_date": "2021-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1938.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-4011272e50c8",
+      "rss_guid": "731f841e-c2e6-463e-baeb-ac2bce8a0f0c",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5276.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-cec37fb41f60",
+      "rss_guid": "8ac71cb9-5834-4ac9-8bdd-1032dd7774ce",
+      "published_date": "2021-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1979.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-e07e557c0a08",
+      "rss_guid": "eaaf9053-a5d6-4d35-8ed8-ccbea6fbd7e4",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4061.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-a80290f04b33",
+      "rss_guid": "9fb38960-825b-49fb-b42a-b2ec7f956d1c",
+      "published_date": "2021-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1835.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-670a387d9a18",
+      "rss_guid": "18cee3c1-ec83-486b-94ba-1286e76cdd38",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3653.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-c48719744e22",
+      "rss_guid": "409f3e4e-aa0f-4af9-8943-7d318188a048",
+      "published_date": "2021-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1764.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-bc34e16fb685",
+      "rss_guid": "c8510e41-0d0a-45bb-9cfb-02391fc8dbe3",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4719.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-ffcfc0575e85",
+      "rss_guid": "cad228ce-3284-4776-a44c-5443a3402da5",
+      "published_date": "2021-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1754.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-1c8af414929d",
+      "rss_guid": "a1cdd970-0538-478a-9da0-9c39e19423e7",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5222.0
+    },
+    {
+      "episode_id": "on_purpose_with_jay_shetty-b0eb2c44dd4c",
+      "rss_guid": "c02051ce-bc2c-4759-bf61-84da4ab05e52",
+      "published_date": "2021-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1671.0
+    }
+  ]
+}

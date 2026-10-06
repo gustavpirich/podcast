@@ -1,0 +1,1430 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_full_send_podcast_20261002T193807Z",
+  "show_id": "full_send_podcast",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/fullsend",
+    "snapshot_relative_path": "data/raw/rss/full_send_podcast/full_send_podcast_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "6382ce753eda7f9aff7ac12e872aa575ed31c822da9d4f20338009a73ae0af9a",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "full_send_podcast-922e0eb303e2",
+      "rss_guid": "b5931cfe-bc3c-11f1-bf6e-ffa421f18c13",
+      "published_date": "2026-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4299.0
+    },
+    {
+      "episode_id": "full_send_podcast-4aae5bf26028",
+      "rss_guid": "298e5bb0-b3c2-11f1-b7fd-1bbe12302539",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4039.0
+    },
+    {
+      "episode_id": "full_send_podcast-3f422680a6b0",
+      "rss_guid": "baae2bce-af9a-11f1-aba6-0b74b25abd97",
+      "published_date": "2026-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3486.0
+    },
+    {
+      "episode_id": "full_send_podcast-c14e1dd720a0",
+      "rss_guid": "9cee904a-aadd-11f1-8e65-67c6dccc83f4",
+      "published_date": "2026-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3399.0
+    },
+    {
+      "episode_id": "full_send_podcast-49e0eaea7060",
+      "rss_guid": "13ab6fa6-a344-11f1-8a21-4fbdba264fa2",
+      "published_date": "2026-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3022.0
+    },
+    {
+      "episode_id": "full_send_podcast-ee81a6dc66fc",
+      "rss_guid": "68873a94-9fe5-11f1-b1cf-6fca3b6796d6",
+      "published_date": "2026-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3061.0
+    },
+    {
+      "episode_id": "full_send_podcast-3f461c14c359",
+      "rss_guid": "f45e0b14-94dd-11f1-8638-77c23ad00488",
+      "published_date": "2026-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4027.0
+    },
+    {
+      "episode_id": "full_send_podcast-f738d4549cec",
+      "rss_guid": "ba863038-8ac9-11f1-b192-1f7a9585cde8",
+      "published_date": "2026-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3901.0
+    },
+    {
+      "episode_id": "full_send_podcast-319e5d7bafa9",
+      "rss_guid": "e8f7b858-86cb-11f1-92b4-2f836155d07c",
+      "published_date": "2026-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2859.0
+    },
+    {
+      "episode_id": "full_send_podcast-a603f993456b",
+      "rss_guid": "73592c34-8172-11f1-9ce0-b3412a47dc06",
+      "published_date": "2026-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3680.0
+    },
+    {
+      "episode_id": "full_send_podcast-6ce3951c61de",
+      "rss_guid": "386b41d6-78c4-11f1-963b-c348a8640c63",
+      "published_date": "2026-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2581.0
+    },
+    {
+      "episode_id": "full_send_podcast-5aa81d676abc",
+      "rss_guid": "582c6518-7487-11f1-b212-e770f1feb367",
+      "published_date": "2026-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3114.0
+    },
+    {
+      "episode_id": "full_send_podcast-c3cc19fe12a5",
+      "rss_guid": "0c1e3668-6a89-11f1-ab92-d73f99383bc6",
+      "published_date": "2026-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4031.0
+    },
+    {
+      "episode_id": "full_send_podcast-e9284665cb34",
+      "rss_guid": "ad771ed0-647b-11f1-a9d4-f74aef67f2cd",
+      "published_date": "2026-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3341.0
+    },
+    {
+      "episode_id": "full_send_podcast-cfa9c6968c78",
+      "rss_guid": "1de6e7a2-5ae2-11f1-957b-634b011a8097",
+      "published_date": "2026-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3507.0
+    },
+    {
+      "episode_id": "full_send_podcast-a9778f5a37ef",
+      "rss_guid": "51caf124-5486-11f1-86be-43f1d9d22146",
+      "published_date": "2026-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4804.0
+    },
+    {
+      "episode_id": "full_send_podcast-06629e909332",
+      "rss_guid": "f6262e82-496e-11f1-a366-eb30742172b9",
+      "published_date": "2026-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3309.0
+    },
+    {
+      "episode_id": "full_send_podcast-9c454d58db3e",
+      "rss_guid": "cc670d08-43f8-11f1-a704-033b526a235e",
+      "published_date": "2026-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4189.0
+    },
+    {
+      "episode_id": "full_send_podcast-dc09cf9d45f4",
+      "rss_guid": "b0131168-3e87-11f1-893b-e3f38b1e48ee",
+      "published_date": "2026-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4234.0
+    },
+    {
+      "episode_id": "full_send_podcast-2186043976fc",
+      "rss_guid": "664ad7ae-38f2-11f1-8a7d-3384dfba7ad3",
+      "published_date": "2026-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4573.0
+    },
+    {
+      "episode_id": "full_send_podcast-9f0b1270f660",
+      "rss_guid": "f783baf4-32c3-11f1-9aff-a39bf50abb00",
+      "published_date": "2026-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4824.0
+    },
+    {
+      "episode_id": "full_send_podcast-32b5e6f7633c",
+      "rss_guid": "63862c38-2d4b-11f1-b9b5-43016b8f8d67",
+      "published_date": "2026-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4270.0
+    },
+    {
+      "episode_id": "full_send_podcast-a1fc0e113854",
+      "rss_guid": "279039f2-2987-11f1-b691-eb2ce5fbe055",
+      "published_date": "2026-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4419.0
+    },
+    {
+      "episode_id": "full_send_podcast-d7f5a1e69461",
+      "rss_guid": "92c5e718-2477-11f1-907c-978e374206ab",
+      "published_date": "2026-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4669.0
+    },
+    {
+      "episode_id": "full_send_podcast-e971e211165a",
+      "rss_guid": "b1acb04a-1dd7-11f1-9669-17cafcf66d70",
+      "published_date": "2026-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3227.0
+    },
+    {
+      "episode_id": "full_send_podcast-aa1de1e9c5da",
+      "rss_guid": "ef20e802-11c4-11f1-9ad1-9368d64b3c41",
+      "published_date": "2026-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3842.0
+    },
+    {
+      "episode_id": "full_send_podcast-185eb89bf2e8",
+      "rss_guid": "7c4ae322-0db5-11f1-a8d7-0372b031fd1c",
+      "published_date": "2026-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4499.0
+    },
+    {
+      "episode_id": "full_send_podcast-0bb10e2b4db0",
+      "rss_guid": "f32fe914-05f0-11f1-87e8-8fd49ce74c52",
+      "published_date": "2026-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2772.0
+    },
+    {
+      "episode_id": "full_send_podcast-1ba65788126a",
+      "rss_guid": "9116c894-006c-11f1-9bcd-cb5f370beb15",
+      "published_date": "2026-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5963.0
+    },
+    {
+      "episode_id": "full_send_podcast-cd593a685a3e",
+      "rss_guid": "b7af0672-fb00-11f0-9e7a-b3596ad4681d",
+      "published_date": "2026-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3887.0
+    },
+    {
+      "episode_id": "full_send_podcast-32cd2bdd566e",
+      "rss_guid": "c8849b10-f588-11f0-b9e0-ff2854ecd1db",
+      "published_date": "2026-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5675.0
+    },
+    {
+      "episode_id": "full_send_podcast-ed0ac3124229",
+      "rss_guid": "6b1474fc-eff5-11f0-9b46-fba274423b05",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4591.0
+    },
+    {
+      "episode_id": "full_send_podcast-0ae27fee83ad",
+      "rss_guid": "5202adc2-eb7b-11f0-8691-6b3364a5ccf4",
+      "published_date": "2026-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3733.0
+    },
+    {
+      "episode_id": "full_send_podcast-e93e7c7d0c63",
+      "rss_guid": "6245d9a8-dad1-11f0-820d-d7b8762ef5d7",
+      "published_date": "2025-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2708.0
+    },
+    {
+      "episode_id": "full_send_podcast-37869f237364",
+      "rss_guid": "d324cb46-dc27-11f0-bccb-73496294160b",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4315.0
+    },
+    {
+      "episode_id": "full_send_podcast-48b4b3f20a47",
+      "rss_guid": "5278f930-d098-11f0-bf40-6b4c0c9c984c",
+      "published_date": "2025-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3856.0
+    },
+    {
+      "episode_id": "full_send_podcast-a2268dc23e1f",
+      "rss_guid": "52e33316-ca50-11f0-b71f-33c24273408f",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4930.0
+    },
+    {
+      "episode_id": "full_send_podcast-044f6ca2316e",
+      "rss_guid": "8170a8d2-c594-11f0-8199-07e4703766f6",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2945.0
+    },
+    {
+      "episode_id": "full_send_podcast-700b4d7bc683",
+      "rss_guid": "59d92e32-bb64-11f0-b979-63bf8c57eb60",
+      "published_date": "2025-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3335.0
+    },
+    {
+      "episode_id": "full_send_podcast-cb78a21204c8",
+      "rss_guid": "94556674-b9b7-11f0-8b8d-0f72c018037f",
+      "published_date": "2025-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5105.0
+    },
+    {
+      "episode_id": "full_send_podcast-62d836f7591d",
+      "rss_guid": "36804128-b2cc-11f0-8422-6f10b54ad5ff",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3822.0
+    },
+    {
+      "episode_id": "full_send_podcast-ac4530ab67a4",
+      "rss_guid": "065724b6-a9ef-11f0-a541-678f216565ef",
+      "published_date": "2025-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3139.0
+    },
+    {
+      "episode_id": "full_send_podcast-44b7bef67fd2",
+      "rss_guid": "fb1cc9a2-a2be-11f0-b3ed-e72100567087",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4994.0
+    },
+    {
+      "episode_id": "full_send_podcast-e34cc59c5822",
+      "rss_guid": "3e75a808-9f0f-11f0-bc88-abd4d5cafbd3",
+      "published_date": "2025-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3350.0
+    },
+    {
+      "episode_id": "full_send_podcast-24f82ece9789",
+      "rss_guid": "100e52b6-996b-11f0-9fc1-d3f8664d9a3d",
+      "published_date": "2025-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3995.0
+    },
+    {
+      "episode_id": "full_send_podcast-ebf5c843209e",
+      "rss_guid": "627e71aa-94d1-11f0-b9b6-675a7def35e3",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3209.0
+    },
+    {
+      "episode_id": "full_send_podcast-b0addee233f7",
+      "rss_guid": "10f1b0ae-8829-11f0-95fc-93567a39b7a1",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2665.0
+    },
+    {
+      "episode_id": "full_send_podcast-f22bc8019b8f",
+      "rss_guid": "f984e24c-836e-11f0-b7d2-67ec9cc0f6fa",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4528.0
+    },
+    {
+      "episode_id": "full_send_podcast-36e2326cf5e7",
+      "rss_guid": "92c5419c-7eb8-11f0-b09c-b3f93a183067",
+      "published_date": "2025-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2756.0
+    },
+    {
+      "episode_id": "full_send_podcast-244b3f7dd3cf",
+      "rss_guid": "c8f3b2d6-793f-11f0-be27-379ed1ac9435",
+      "published_date": "2025-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4473.0
+    },
+    {
+      "episode_id": "full_send_podcast-de91f7943f99",
+      "rss_guid": "edd153e8-6e49-11f0-ac95-8fb6435bf6df",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4901.0
+    },
+    {
+      "episode_id": "full_send_podcast-d58493e36f4b",
+      "rss_guid": "b5bf4b60-664a-11f0-b049-2fe1af9252bb",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4708.0
+    },
+    {
+      "episode_id": "full_send_podcast-9e1106404455",
+      "rss_guid": "afb67ab4-5dd9-11f0-8c57-b3c55c03d1d0",
+      "published_date": "2025-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2266.0
+    },
+    {
+      "episode_id": "full_send_podcast-7dd6347486df",
+      "rss_guid": "9ec2ceb4-4c7d-11f0-8d96-3321a99d2484",
+      "published_date": "2025-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1432.0
+    },
+    {
+      "episode_id": "full_send_podcast-9543e137923e",
+      "rss_guid": "67bd5b4c-4187-11f0-88d2-b33eafac284b",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2903.0
+    },
+    {
+      "episode_id": "full_send_podcast-6743eed2ca90",
+      "rss_guid": "a0fc4a28-3cdf-11f0-86a8-97d735331db2",
+      "published_date": "2025-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3229.0
+    },
+    {
+      "episode_id": "full_send_podcast-cd336e79d98c",
+      "rss_guid": "0e8ab332-2619-11f0-a973-53335f3772a1",
+      "published_date": "2025-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2495.0
+    },
+    {
+      "episode_id": "full_send_podcast-7cddc7bd7b1b",
+      "rss_guid": "c2d7f502-206a-11f0-abfe-57a219c55e0b",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3549.0
+    },
+    {
+      "episode_id": "full_send_podcast-6f801f58225f",
+      "rss_guid": "014315bc-1376-11f0-bf01-2b86b96f7926",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2769.0
+    },
+    {
+      "episode_id": "full_send_podcast-27fb94138f03",
+      "rss_guid": "a79b9308-10b0-11f0-b932-2f53c49dbbec",
+      "published_date": "2025-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5019.0
+    },
+    {
+      "episode_id": "full_send_podcast-1c55292b0523",
+      "rss_guid": "a9dd79f2-0a6a-11f0-89dd-17bcfc6827b4",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4282.0
+    },
+    {
+      "episode_id": "full_send_podcast-4e762a880a9e",
+      "rss_guid": "731b8a6a-0594-11f0-8ca2-0bfd457e129e",
+      "published_date": "2025-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3463.0
+    },
+    {
+      "episode_id": "full_send_podcast-69c55a4ee644",
+      "rss_guid": "b8da523a-f87d-11ef-b591-438bed58c071",
+      "published_date": "2025-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5128.0
+    },
+    {
+      "episode_id": "full_send_podcast-47074be5e919",
+      "rss_guid": "7c41d086-f5ef-11ef-977e-03ec68cc08f4",
+      "published_date": "2025-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2688.0
+    },
+    {
+      "episode_id": "full_send_podcast-3fabbf324e90",
+      "rss_guid": "2c1b434e-ef32-11ef-a99c-a7d9445a825d",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2880.0
+    },
+    {
+      "episode_id": "full_send_podcast-c0a462addd1f",
+      "rss_guid": "301649ca-e8a8-11ef-8bce-b79dab324710",
+      "published_date": "2025-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2695.0
+    },
+    {
+      "episode_id": "full_send_podcast-23394dc50e46",
+      "rss_guid": "4052d7c0-e4d6-11ef-acc5-b7b027228929",
+      "published_date": "2025-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2838.0
+    },
+    {
+      "episode_id": "full_send_podcast-c1b05465f85d",
+      "rss_guid": "adbf0a62-d37a-11ef-b47b-37ca217519a4",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5801.0
+    },
+    {
+      "episode_id": "full_send_podcast-ce2b7c5b5900",
+      "rss_guid": "687af192-c7c1-11ef-9eac-4bb7528ad4e0",
+      "published_date": "2024-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4514.0
+    },
+    {
+      "episode_id": "full_send_podcast-7477a6fed859",
+      "rss_guid": "8c2cdf6a-c3b1-11ef-a985-6fef194a41bd",
+      "published_date": "2024-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3777.0
+    },
+    {
+      "episode_id": "full_send_podcast-907c446a5dd1",
+      "rss_guid": "6eab2b3e-a685-11ef-8dfb-7fe155dec05f",
+      "published_date": "2024-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3054.0
+    },
+    {
+      "episode_id": "full_send_podcast-e6e274e3648c",
+      "rss_guid": "a7df720c-9acd-11ef-b90b-abc3286434d9",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5267.0
+    },
+    {
+      "episode_id": "full_send_podcast-1fedec4660fe",
+      "rss_guid": "1bb0037e-9630-11ef-b6d7-4b37e8b8b305",
+      "published_date": "2024-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4737.0
+    },
+    {
+      "episode_id": "full_send_podcast-995dc1adb744",
+      "rss_guid": "b5d5ccc4-9165-11ef-9e78-bfeaa212b468",
+      "published_date": "2024-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3916.0
+    },
+    {
+      "episode_id": "full_send_podcast-ee48b9fd2210",
+      "rss_guid": "723eac8a-8a4c-11ef-be5e-7b3877dcdf1a",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2422.0
+    },
+    {
+      "episode_id": "full_send_podcast-fee5e3f9ae6a",
+      "rss_guid": "75f61328-806e-11ef-831b-1f0972e534c4",
+      "published_date": "2024-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6210.0
+    },
+    {
+      "episode_id": "full_send_podcast-6cc602b514ee",
+      "rss_guid": "6779f5ae-746f-11ef-a4f7-af93bd4d6794",
+      "published_date": "2024-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6865.0
+    },
+    {
+      "episode_id": "full_send_podcast-bf547b1fb6aa",
+      "rss_guid": "3a50274c-746f-11ef-9f7b-d7f707522fbe",
+      "published_date": "2024-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4431.0
+    },
+    {
+      "episode_id": "full_send_podcast-448b33656615",
+      "rss_guid": "0e40e6b8-713c-11ef-b158-4f047902ba51",
+      "published_date": "2024-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2026.0
+    },
+    {
+      "episode_id": "full_send_podcast-caf2c308e86a",
+      "rss_guid": "e1c73b30-6eb8-11ef-999d-9fe0b11e460b",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6243.0
+    },
+    {
+      "episode_id": "full_send_podcast-f25f81855866",
+      "rss_guid": "6e3b778a-6562-11ef-947f-d3272c170c61",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5951.0
+    },
+    {
+      "episode_id": "full_send_podcast-be3541cda704",
+      "rss_guid": "67aea808-59c1-11ef-a640-03971e03f9e5",
+      "published_date": "2024-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5929.0
+    },
+    {
+      "episode_id": "full_send_podcast-b614e5fedf9d",
+      "rss_guid": "94b94e8c-4e97-11ef-87ec-3bf8a9216720",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4810.0
+    },
+    {
+      "episode_id": "full_send_podcast-f14a73015e9a",
+      "rss_guid": "3c96cd0a-504b-11ef-8e83-fbfd78262e09",
+      "published_date": "2024-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3503.0
+    },
+    {
+      "episode_id": "full_send_podcast-f8831931ba60",
+      "rss_guid": "608b751e-396f-11ef-8c36-173d0c3e573b",
+      "published_date": "2024-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4063.0
+    },
+    {
+      "episode_id": "full_send_podcast-2142d29a7335",
+      "rss_guid": "443e4cea-235a-11ef-90b3-dbb04bb0382b",
+      "published_date": "2024-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3371.0
+    },
+    {
+      "episode_id": "full_send_podcast-ecbce9622bcb",
+      "rss_guid": "0e32b982-1dde-11ef-b616-071fea2b44f3",
+      "published_date": "2024-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5616.0
+    },
+    {
+      "episode_id": "full_send_podcast-b36831015bf5",
+      "rss_guid": "a006bcd2-13c0-11ef-8538-3b2c3bbcb2c4",
+      "published_date": "2024-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5833.0
+    },
+    {
+      "episode_id": "full_send_podcast-e37ed15e645f",
+      "rss_guid": "7175f416-12f6-11ef-be53-23226dbbedc3",
+      "published_date": "2024-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 9141.0
+    },
+    {
+      "episode_id": "full_send_podcast-38cd1a58c480",
+      "rss_guid": "98ae1036-0d6a-11ef-81e8-8b252bc151ef",
+      "published_date": "2024-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4093.0
+    },
+    {
+      "episode_id": "full_send_podcast-54d7fa15c5ba",
+      "rss_guid": "eed5daba-0339-11ef-bb97-e3e7350200be",
+      "published_date": "2024-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4333.0
+    },
+    {
+      "episode_id": "full_send_podcast-65cb3cfa84b6",
+      "rss_guid": "2a85bc64-f350-11ee-9f3d-3b826bb9c6f9",
+      "published_date": "2024-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5724.0
+    },
+    {
+      "episode_id": "full_send_podcast-a9c2b71da2a0",
+      "rss_guid": "8a8fc11c-e884-11ee-a0d2-77d328b1f7cc",
+      "published_date": "2024-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3729.0
+    },
+    {
+      "episode_id": "full_send_podcast-d4efe5377abb",
+      "rss_guid": "25083ce2-e47a-11ee-9fc0-770574d20b4c",
+      "published_date": "2024-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3751.0
+    },
+    {
+      "episode_id": "full_send_podcast-0f4414874a2c",
+      "rss_guid": "42011182-e229-11ee-b980-7f312e2f7200",
+      "published_date": "2024-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4022.0
+    },
+    {
+      "episode_id": "full_send_podcast-e22e4f298817",
+      "rss_guid": "6e63f9f8-dbf1-11ee-b455-235fb1d5c48b",
+      "published_date": "2024-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3495.0
+    },
+    {
+      "episode_id": "full_send_podcast-090026e4e124",
+      "rss_guid": "93996468-c7b2-11ee-8057-276a368562a7",
+      "published_date": "2024-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5959.0
+    },
+    {
+      "episode_id": "full_send_podcast-768e8339b92e",
+      "rss_guid": "f82e6686-c1fd-11ee-b4ad-1f08a6b38bb7",
+      "published_date": "2024-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5182.0
+    },
+    {
+      "episode_id": "full_send_podcast-fdef1c2fdd78",
+      "rss_guid": "9254ea2a-bb03-11ee-80b6-b37fe3dc88a9",
+      "published_date": "2024-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3741.0
+    },
+    {
+      "episode_id": "full_send_podcast-21aa3ec21b6a",
+      "rss_guid": "471071e2-b667-11ee-937b-0b7127db2a18",
+      "published_date": "2024-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5463.0
+    },
+    {
+      "episode_id": "full_send_podcast-a6594e6321e8",
+      "rss_guid": "f197c72c-ae7f-11ee-b748-5319a59b2253",
+      "published_date": "2024-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6620.0
+    },
+    {
+      "episode_id": "full_send_podcast-2c8188a53dc6",
+      "rss_guid": "3b0c16c0-a5ab-11ee-9169-cb069b21a9c0",
+      "published_date": "2023-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4149.0
+    },
+    {
+      "episode_id": "full_send_podcast-4898ae106d5a",
+      "rss_guid": "61e8ce80-a0e9-11ee-a371-6f60a4c72e72",
+      "published_date": "2023-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4812.0
+    },
+    {
+      "episode_id": "full_send_podcast-1bce13b6cdaa",
+      "rss_guid": "b2cbd658-9b7b-11ee-b600-b31b5798dc15",
+      "published_date": "2023-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3175.0
+    },
+    {
+      "episode_id": "full_send_podcast-58fb804f46f4",
+      "rss_guid": "241b116c-92ca-11ee-ba3b-5f032015ff71",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7335.0
+    },
+    {
+      "episode_id": "full_send_podcast-59295801baf6",
+      "rss_guid": "0cfa7376-8dfa-11ee-8587-3ffd98b43f17",
+      "published_date": "2023-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4113.0
+    },
+    {
+      "episode_id": "full_send_podcast-3f3caeb33e38",
+      "rss_guid": "a132226a-6eaf-11ee-aae3-536c4827bb6b",
+      "published_date": "2023-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4612.0
+    },
+    {
+      "episode_id": "full_send_podcast-2f8693c65527",
+      "rss_guid": "ceab8102-6467-11ee-94f3-874ad713da71",
+      "published_date": "2023-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5893.0
+    },
+    {
+      "episode_id": "full_send_podcast-7afb506c629c",
+      "rss_guid": "ade4da2e-5ef2-11ee-bcb2-7b38d78bc509",
+      "published_date": "2023-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3030.0
+    },
+    {
+      "episode_id": "full_send_podcast-c23d4c0ee176",
+      "rss_guid": "86af3448-58e1-11ee-80af-9f6e701c667a",
+      "published_date": "2023-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4807.0
+    },
+    {
+      "episode_id": "full_send_podcast-b999fd5ea56d",
+      "rss_guid": "8661a9be-535d-11ee-a5fe-cf7f65a32bee",
+      "published_date": "2023-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5491.0
+    },
+    {
+      "episode_id": "full_send_podcast-7452fb318d23",
+      "rss_guid": "2080c4ac-4e78-11ee-a204-4308a954dfa1",
+      "published_date": "2023-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5539.0
+    },
+    {
+      "episode_id": "full_send_podcast-5f4edd87f90a",
+      "rss_guid": "c99f2bb2-4853-11ee-bc6d-7f57fc98f749",
+      "published_date": "2023-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5461.0
+    },
+    {
+      "episode_id": "full_send_podcast-49adb149a6b0",
+      "rss_guid": "93d5aca2-3d42-11ee-b723-333dd8e30051",
+      "published_date": "2023-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3824.0
+    },
+    {
+      "episode_id": "full_send_podcast-7cc9978a8de9",
+      "rss_guid": "0ac8d7b0-3c6e-11ee-a6d6-271d95ca01a5",
+      "published_date": "2023-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3700.0
+    },
+    {
+      "episode_id": "full_send_podcast-4fa929b472b2",
+      "rss_guid": "14576cd2-37c9-11ee-84fb-c3bd72a1ddfa",
+      "published_date": "2023-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4054.0
+    },
+    {
+      "episode_id": "full_send_podcast-67fc92cce4b8",
+      "rss_guid": "83dadd92-3246-11ee-81cd-c738a5d52246",
+      "published_date": "2023-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3032.0
+    },
+    {
+      "episode_id": "full_send_podcast-a61a8576c0ca",
+      "rss_guid": "421bffaa-2cbd-11ee-8caa-db0b0ce84fcc",
+      "published_date": "2023-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3514.0
+    },
+    {
+      "episode_id": "full_send_podcast-63d1bfe16c44",
+      "rss_guid": "6f24b6fa-2735-11ee-aab0-ebf55df93a7b",
+      "published_date": "2023-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4181.0
+    },
+    {
+      "episode_id": "full_send_podcast-2f081814be9e",
+      "rss_guid": "d4097ce6-229d-11ee-b5e2-8f017a8e532a",
+      "published_date": "2023-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5771.0
+    },
+    {
+      "episode_id": "full_send_podcast-d52a92c500be",
+      "rss_guid": "e43c7832-1c37-11ee-9778-b7a0eecee34a",
+      "published_date": "2023-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3411.0
+    },
+    {
+      "episode_id": "full_send_podcast-a2dfae6c603c",
+      "rss_guid": "730bd1ec-16c6-11ee-ad0c-8ff98beee9b7",
+      "published_date": "2023-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4084.0
+    },
+    {
+      "episode_id": "full_send_podcast-16aacc37a5e7",
+      "rss_guid": "2615ef82-114c-11ee-a1ea-231a0dd78e57",
+      "published_date": "2023-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3863.0
+    },
+    {
+      "episode_id": "full_send_podcast-a38ed739eadd",
+      "rss_guid": "f8c3ff6a-0656-11ee-8cca-6bfd23d24bbe",
+      "published_date": "2023-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4541.0
+    },
+    {
+      "episode_id": "full_send_podcast-666e8c286b84",
+      "rss_guid": "ef1a7860-00d2-11ee-85b0-9f3fecb7265b",
+      "published_date": "2023-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4871.0
+    },
+    {
+      "episode_id": "full_send_podcast-a32fc4552a4a",
+      "rss_guid": "d7c295e2-fc24-11ed-96b9-db37f384be40",
+      "published_date": "2023-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4230.0
+    },
+    {
+      "episode_id": "full_send_podcast-8ca7a98ff8df",
+      "rss_guid": "12550ea4-f5ce-11ed-8959-8f82a86cef63",
+      "published_date": "2023-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3711.0
+    },
+    {
+      "episode_id": "full_send_podcast-07b3ac693775",
+      "rss_guid": "24761264-f113-11ed-ae76-33bf3b4b0a81",
+      "published_date": "2023-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4001.0
+    },
+    {
+      "episode_id": "full_send_podcast-9b9633be1b74",
+      "rss_guid": "052e0e38-ea11-11ed-92e6-e31050be8d62",
+      "published_date": "2023-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5069.0
+    },
+    {
+      "episode_id": "full_send_podcast-371ea75db674",
+      "rss_guid": "6b84d9ac-dfba-11ed-8627-b3c2a8b31cd2",
+      "published_date": "2023-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2653.0
+    },
+    {
+      "episode_id": "full_send_podcast-95ab762d71e0",
+      "rss_guid": "52fc7724-da3c-11ed-8ec4-0f83b78aa7e0",
+      "published_date": "2023-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4894.0
+    },
+    {
+      "episode_id": "full_send_podcast-69db3dfc3e8a",
+      "rss_guid": "adc4331c-d4d9-11ed-b29e-0337a69615af",
+      "published_date": "2023-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5310.0
+    },
+    {
+      "episode_id": "full_send_podcast-d66a55b76fc4",
+      "rss_guid": "301ff5a0-cf24-11ed-8f4f-9329d70ec196",
+      "published_date": "2023-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4437.0
+    },
+    {
+      "episode_id": "full_send_podcast-7888907e4732",
+      "rss_guid": "b5f14594-bf7a-11ed-aab7-27c70644ed3a",
+      "published_date": "2023-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5332.0
+    },
+    {
+      "episode_id": "full_send_podcast-74a75c1e1d4a",
+      "rss_guid": "6cf13b44-b95b-11ed-9b9a-439d210d1c03",
+      "published_date": "2023-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4328.0
+    },
+    {
+      "episode_id": "full_send_podcast-37f01efa8b68",
+      "rss_guid": "4441f7dc-b466-11ed-8270-9fbc68014d2d",
+      "published_date": "2023-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4328.0
+    },
+    {
+      "episode_id": "full_send_podcast-910046f05277",
+      "rss_guid": "e9051f5c-aeed-11ed-85d6-af212e8af7b2",
+      "published_date": "2023-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4447.0
+    },
+    {
+      "episode_id": "full_send_podcast-ada484c94d3d",
+      "rss_guid": "338c6d62-a98c-11ed-a8fc-abba5c7e8d1f",
+      "published_date": "2023-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4286.0
+    },
+    {
+      "episode_id": "full_send_podcast-8dc279a452d6",
+      "rss_guid": "cdb480aa-a356-11ed-af7b-e799817650f7",
+      "published_date": "2023-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5357.0
+    },
+    {
+      "episode_id": "full_send_podcast-5e19b7e84c88",
+      "rss_guid": "9c4bd29e-9ddd-11ed-9a64-23636e31c2dc",
+      "published_date": "2023-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4282.0
+    },
+    {
+      "episode_id": "full_send_podcast-40bf1ab6dc96",
+      "rss_guid": "9357e17e-95d0-11ed-bbdf-d746d40a66bd",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5129.0
+    },
+    {
+      "episode_id": "full_send_podcast-c26d460816f7",
+      "rss_guid": "09e24f9c-8d56-11ed-8aec-9f4da3c160d6",
+      "published_date": "2023-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5362.0
+    },
+    {
+      "episode_id": "full_send_podcast-2b7b658aac6d",
+      "rss_guid": "e9a9bba4-8263-11ed-9e20-db4c24bcf3c0",
+      "published_date": "2022-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7428.0
+    },
+    {
+      "episode_id": "full_send_podcast-e7fdee882ac7",
+      "rss_guid": "e7be2b40-7f6b-11ed-b197-1bdb49d38db9",
+      "published_date": "2022-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6751.0
+    },
+    {
+      "episode_id": "full_send_podcast-bbb9163c0617",
+      "rss_guid": "4989db94-7dfa-11ed-969e-83f2ec00541c",
+      "published_date": "2022-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5302.0
+    },
+    {
+      "episode_id": "full_send_podcast-87021edb42eb",
+      "rss_guid": "e6931b9a-7b10-11ed-ae1d-0bce64fb0e92",
+      "published_date": "2022-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7663.0
+    },
+    {
+      "episode_id": "full_send_podcast-2e5ddc2d8c5f",
+      "rss_guid": "fcb1cac0-71dd-11ed-b225-93e17f5361f3",
+      "published_date": "2022-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5113.0
+    },
+    {
+      "episode_id": "full_send_podcast-c80d758fef35",
+      "rss_guid": "9a5ed824-69cf-11ed-80f0-4f9915f2cb63",
+      "published_date": "2022-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6421.0
+    },
+    {
+      "episode_id": "full_send_podcast-49375cf2eed7",
+      "rss_guid": "21b243b8-6a95-11ed-9cc4-9b5182bc49d4",
+      "published_date": "2022-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8737.0
+    },
+    {
+      "episode_id": "full_send_podcast-9f2584c6a9fe",
+      "rss_guid": "a712521a-5bda-11ed-af7a-3fd530b7d73b",
+      "published_date": "2022-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5369.0
+    },
+    {
+      "episode_id": "full_send_podcast-75ff57eefc9f",
+      "rss_guid": "920b80fa-50ca-11ed-97af-6f905917dc18",
+      "published_date": "2022-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5936.0
+    },
+    {
+      "episode_id": "full_send_podcast-53a82de6ec89",
+      "rss_guid": "acb736d0-4e57-11ed-ab64-d7966eacffcf",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4019.0
+    },
+    {
+      "episode_id": "full_send_podcast-fa8f1f8ba9f5",
+      "rss_guid": "e820ebf0-467b-11ed-9d8b-9b53e05b5832",
+      "published_date": "2022-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5737.0
+    },
+    {
+      "episode_id": "full_send_podcast-8c1f700332db",
+      "rss_guid": "eb33f888-4049-11ed-b06a-1fbae2b9dfbe",
+      "published_date": "2022-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7851.0
+    },
+    {
+      "episode_id": "full_send_podcast-eebe303afb94",
+      "rss_guid": "4b0469b4-3b6d-11ed-a81d-07e44b868c03",
+      "published_date": "2022-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5127.0
+    },
+    {
+      "episode_id": "full_send_podcast-b8155bbc3c43",
+      "rss_guid": "c0dc29be-354c-11ed-8f12-3b6ed88d128e",
+      "published_date": "2022-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4942.0
+    },
+    {
+      "episode_id": "full_send_podcast-d80ea9461601",
+      "rss_guid": "52b27612-2fc7-11ed-8b01-87b4f14e3b2b",
+      "published_date": "2022-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5213.0
+    },
+    {
+      "episode_id": "full_send_podcast-6b31029af6d3",
+      "rss_guid": "f9e828fe-2af5-11ed-8516-8f84bd046043",
+      "published_date": "2022-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4276.0
+    },
+    {
+      "episode_id": "full_send_podcast-0ecca44ca52b",
+      "rss_guid": "5e19ec60-1f55-11ed-9091-ffd7f782a9c7",
+      "published_date": "2022-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5346.0
+    },
+    {
+      "episode_id": "full_send_podcast-c9fc10555773",
+      "rss_guid": "a9dead94-145a-11ed-9520-77b92ef6d524",
+      "published_date": "2022-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 11626.0
+    },
+    {
+      "episode_id": "full_send_podcast-6045035040e9",
+      "rss_guid": "96ce08bc-0ea1-11ed-b5b6-cf367d998bdf",
+      "published_date": "2022-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 8743.0
+    },
+    {
+      "episode_id": "full_send_podcast-bbd5095ccc07",
+      "rss_guid": "967047c8-09e1-11ed-b5ee-d3ff526475e7",
+      "published_date": "2022-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4585.0
+    },
+    {
+      "episode_id": "full_send_podcast-8a859168f378",
+      "rss_guid": "39552ad6-03b5-11ed-8f65-b329e02fef5d",
+      "published_date": "2022-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4623.0
+    },
+    {
+      "episode_id": "full_send_podcast-5f21be80ceea",
+      "rss_guid": "e78f8382-fe27-11ec-8b99-bf415c63241f",
+      "published_date": "2022-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3995.0
+    },
+    {
+      "episode_id": "full_send_podcast-952d9b424d35",
+      "rss_guid": "2c5d0166-f8a5-11ec-ba27-ab22a71dc8ab",
+      "published_date": "2022-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5046.0
+    },
+    {
+      "episode_id": "full_send_podcast-8d8d05e79108",
+      "rss_guid": "59c5a93a-f3ed-11ec-8a5b-8be4eda86449",
+      "published_date": "2022-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3041.0
+    },
+    {
+      "episode_id": "full_send_podcast-a5b7318c2735",
+      "rss_guid": "ca03d042-ed7a-11ec-8a40-cf888efde5b5",
+      "published_date": "2022-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5256.0
+    },
+    {
+      "episode_id": "full_send_podcast-4ed0ee862deb",
+      "rss_guid": "8c035b24-e824-11ec-ab3a-9f4fbb7fbe87",
+      "published_date": "2022-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6851.0
+    },
+    {
+      "episode_id": "full_send_podcast-539980c45227",
+      "rss_guid": "8d619664-e2cc-11ec-8e94-ff2aec097050",
+      "published_date": "2022-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4672.0
+    },
+    {
+      "episode_id": "full_send_podcast-e353abb06078",
+      "rss_guid": "6a4ee074-d6c3-11ec-8ef4-138b5bb3ccfb",
+      "published_date": "2022-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4564.0
+    },
+    {
+      "episode_id": "full_send_podcast-7e9dfe7656ad",
+      "rss_guid": "4d29b6f2-d242-11ec-b8a1-4361fa47f5f9",
+      "published_date": "2022-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4578.0
+    },
+    {
+      "episode_id": "full_send_podcast-0a34cadd38d3",
+      "rss_guid": "d81a3804-cc89-11ec-bc8c-1fd932f1d228",
+      "published_date": "2022-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4264.0
+    },
+    {
+      "episode_id": "full_send_podcast-b73a9427544a",
+      "rss_guid": "a94ef986-c0f1-11ec-beb4-5f17d1e5c2c4",
+      "published_date": "2022-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4594.0
+    },
+    {
+      "episode_id": "full_send_podcast-20799578644a",
+      "rss_guid": "0e23250e-bb5b-11ec-b835-dbaea41067f3",
+      "published_date": "2022-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5470.0
+    },
+    {
+      "episode_id": "full_send_podcast-4fbbce91f687",
+      "rss_guid": "eb89aa56-b5db-11ec-823a-3319e40fe048",
+      "published_date": "2022-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5431.0
+    },
+    {
+      "episode_id": "full_send_podcast-f426e9760ec8",
+      "rss_guid": "d980f600-b01a-11ec-a78f-ebed2f37493d",
+      "published_date": "2022-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4813.0
+    },
+    {
+      "episode_id": "full_send_podcast-989fd4273fc9",
+      "rss_guid": "a14e30ba-ade3-11ec-a6ea-bb45388f27b1",
+      "published_date": "2022-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4332.0
+    },
+    {
+      "episode_id": "full_send_podcast-22fc5dc08ae7",
+      "rss_guid": "76faf666-ab24-11ec-82cc-07992b0a7d01",
+      "published_date": "2022-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3764.0
+    },
+    {
+      "episode_id": "full_send_podcast-cc86357d82c0",
+      "rss_guid": "357e3328-a639-11ec-b5bc-fb88945f599a",
+      "published_date": "2022-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7905.0
+    },
+    {
+      "episode_id": "full_send_podcast-fc17a7a032f9",
+      "rss_guid": "9faffa3c-9fe6-11ec-9785-cb5b1d72b6e0",
+      "published_date": "2022-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3162.0
+    },
+    {
+      "episode_id": "full_send_podcast-7f5af818ed46",
+      "rss_guid": "e55f1824-9b09-11ec-87db-d3022c2e625a",
+      "published_date": "2022-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3856.0
+    },
+    {
+      "episode_id": "full_send_podcast-ee1abc132479",
+      "rss_guid": "3e5745a4-95d9-11ec-98c4-3f27863685d6",
+      "published_date": "2022-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6928.0
+    },
+    {
+      "episode_id": "full_send_podcast-df017427647e",
+      "rss_guid": "d16aaf32-920c-11ec-8b85-6b09b9a2413b",
+      "published_date": "2022-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3519.0
+    },
+    {
+      "episode_id": "full_send_podcast-aea1128ccd2e",
+      "rss_guid": "c07de37c-8a84-11ec-a2b2-6bef5bc8a43d",
+      "published_date": "2022-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3552.0
+    },
+    {
+      "episode_id": "full_send_podcast-d2d0905f0c5a",
+      "rss_guid": "9e20ca82-8468-11ec-9b33-a37032a9652c",
+      "published_date": "2022-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3293.0
+    },
+    {
+      "episode_id": "full_send_podcast-55abb3151890",
+      "rss_guid": "807379e0-7959-11ec-abe0-0f0ed6da1f0a",
+      "published_date": "2022-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4191.0
+    },
+    {
+      "episode_id": "full_send_podcast-8a73fe2b8b61",
+      "rss_guid": "f1714c5a-7a51-11ec-bcba-f31e1669d86b",
+      "published_date": "2022-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3203.0
+    },
+    {
+      "episode_id": "full_send_podcast-f6c1d6d28112",
+      "rss_guid": "f49eccfc-78a5-11ec-bb4f-0f9904c0d3a6",
+      "published_date": "2022-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3751.0
+    },
+    {
+      "episode_id": "full_send_podcast-62f7b72a9324",
+      "rss_guid": "7d0ef162-73d2-11ec-b14d-8f78b6000e7f",
+      "published_date": "2022-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4289.0
+    },
+    {
+      "episode_id": "full_send_podcast-93696ba6e205",
+      "rss_guid": "66ea0f26-6fe9-11ec-9125-f72fbc2b25c5",
+      "published_date": "2022-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5275.0
+    },
+    {
+      "episode_id": "full_send_podcast-2f02e07286c7",
+      "rss_guid": "dc1f2f04-6398-11ec-b94d-cf4cf85fedeb",
+      "published_date": "2021-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5754.0
+    },
+    {
+      "episode_id": "full_send_podcast-39f483f004ab",
+      "rss_guid": "0550b0d8-5e11-11ec-8aab-efb083921875",
+      "published_date": "2021-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5275.0
+    },
+    {
+      "episode_id": "full_send_podcast-5f2871511ca5",
+      "rss_guid": "115f20ae-5884-11ec-8381-5337c1056a96",
+      "published_date": "2021-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5076.0
+    },
+    {
+      "episode_id": "full_send_podcast-13db557d81e1",
+      "rss_guid": "09e25986-52d5-11ec-913e-17600c68a4a3",
+      "published_date": "2021-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3192.0
+    },
+    {
+      "episode_id": "full_send_podcast-37ef7c382414",
+      "rss_guid": "5867ddf2-4d43-11ec-b483-cbd6d6f60f6b",
+      "published_date": "2021-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5852.0
+    },
+    {
+      "episode_id": "full_send_podcast-a469461ce51b",
+      "rss_guid": "b017f032-4893-11ec-bb69-c3cd276d5707",
+      "published_date": "2021-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5263.0
+    },
+    {
+      "episode_id": "full_send_podcast-cc82e679b51c",
+      "rss_guid": "c514bd4a-41da-11ec-9e91-6f84daaae971",
+      "published_date": "2021-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4118.0
+    },
+    {
+      "episode_id": "full_send_podcast-3795d92ce31c",
+      "rss_guid": "b32bfb60-3c63-11ec-8026-d3d27448ffa9",
+      "published_date": "2021-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4986.0
+    },
+    {
+      "episode_id": "full_send_podcast-bb065474e7b0",
+      "rss_guid": "58c222d2-3770-11ec-8b66-87f4df2c3180",
+      "published_date": "2021-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5880.0
+    },
+    {
+      "episode_id": "full_send_podcast-a36057c488ec",
+      "rss_guid": "eeb9d27e-31fa-11ec-b46a-474fd0125333",
+      "published_date": "2021-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3316.0
+    },
+    {
+      "episode_id": "full_send_podcast-3bf0ee963e59",
+      "rss_guid": "9a4baa88-2be1-11ec-af9c-63da576896ff",
+      "published_date": "2021-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5195.0
+    },
+    {
+      "episode_id": "full_send_podcast-eef691fa1ed0",
+      "rss_guid": "d9fc7252-2704-11ec-b3a6-33c81d2bbf61",
+      "published_date": "2021-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4551.0
+    }
+  ]
+}

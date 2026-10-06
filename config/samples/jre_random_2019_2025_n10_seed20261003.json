@@ -1,0 +1,85 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "jre_random_2019_2025_n10_seed20261003",
+  "show_id": "jre",
+  "selected_at": "2026-10-03",
+  "selection_rule": "Random sample of 10 episodes published 2019-01-01 to 2025-12-31 with a declared duration of at least 20 minutes, stratified by publication year (proportional allocation, largest remainder), seed 20261003.",
+  "source": {
+    "path": "config/jre_full_archive_2026-09-15.json",
+    "sha256": "f65501ab535d5d2e02e877b30923020e30557c48810adbedd83284ea0c21b2ec",
+    "eligible_episodes": 1331
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "jre-1228-d9d95f35cdf5",
+      "rss_guid": "d6b53592-eed0-3f5d-a8bb-a4920eea34ae",
+      "published_date": "2019-01-20",
+      "guest_name": "Bari Weiss",
+      "duration_seconds": 10578.0
+    },
+    {
+      "episode_id": "jre-1378-bf85f7a5f248",
+      "rss_guid": "06936e3e-046c-3c3f-92bc-aca34390acd2",
+      "published_date": "2019-11-05",
+      "guest_name": "Greg Fitzsimmons",
+      "duration_seconds": 9708.0
+    },
+    {
+      "episode_id": "jre-1407-3a7125223176",
+      "rss_guid": "d83526b0-c3aa-333f-a28d-063864dfdf74",
+      "published_date": "2020-01-06",
+      "guest_name": "Michael Malice",
+      "duration_seconds": 10160.0
+    },
+    {
+      "episode_id": "jre-1493-a8b2bdf71b46",
+      "rss_guid": "645d2642-5864-3333-99e5-48b665f473b5",
+      "published_date": "2020-06-16",
+      "guest_name": "Steve Schirripa & Michael Imperioli",
+      "duration_seconds": 9429.0
+    },
+    {
+      "episode_id": "jre-1623-3386c104ef81",
+      "rss_guid": "af261d86-a2d5-44e8-be67-b824fc848645",
+      "published_date": "2021-03-25",
+      "guest_name": "Doug Stanhope",
+      "duration_seconds": 10468.0
+    },
+    {
+      "episode_id": "jre-1885-39146a94bde8",
+      "rss_guid": "33e47472-a15f-4964-a6e5-906d7af63f12",
+      "published_date": "2022-10-20",
+      "guest_name": "Mike Sarraille & Andy Stumpf",
+      "duration_seconds": 9063.0
+    },
+    {
+      "episode_id": "jre-1992-5be3950882ba",
+      "rss_guid": "61f6283d-ce9a-4b5c-8132-fc605231d78a",
+      "published_date": "2023-05-30",
+      "guest_name": "Oliver Stone",
+      "duration_seconds": 6792.0
+    },
+    {
+      "episode_id": "jre-2215-f5fef8f7f253",
+      "rss_guid": "e71f0b24-88d2-11ef-b003-b3fba917f7a2",
+      "published_date": "2024-10-17",
+      "guest_name": "Graham Hancock",
+      "duration_seconds": 9163.0
+    },
+    {
+      "episode_id": "jre-2277-1ef0d1573733",
+      "rss_guid": "20a8aaf4-ed81-11ef-bbc7-cfcc60cfac3e",
+      "published_date": "2025-02-22",
+      "guest_name": "Woody Harrelson",
+      "duration_seconds": 9460.0
+    },
+    {
+      "episode_id": "jre-2408-8ad0c15e3d26",
+      "rss_guid": "97eefdf4-bc3c-11f0-a29b-b3793e8e2867",
+      "published_date": "2025-11-08",
+      "guest_name": "Bret Weinstein",
+      "duration_seconds": 11583.0
+    }
+  ]
+}

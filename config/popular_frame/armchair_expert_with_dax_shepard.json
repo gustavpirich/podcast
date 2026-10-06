@@ -1,0 +1,5182 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_armchair_expert_with_dax_shepard_20261002T193807Z",
+  "show_id": "armchair_expert_with_dax_shepard",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://rss.art19.com/armchair-expert",
+    "snapshot_relative_path": "data/raw/rss/armchair_expert_with_dax_shepard/armchair_expert_with_dax_shepard_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "1b99e9cff94e956e42da38cb6a620ed1f8e561ea1fedbe6b5cb558c8aaf388cb",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-efd5ca17fe63",
+      "rss_guid": "gid://art19-episode-locator/V0/_SsUocluEMczMvJHJLG0cZB-iMDIfwEjmhnuaUYZnm8",
+      "published_date": "2026-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6907.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3b06160259e9",
+      "rss_guid": "gid://art19-episode-locator/V0/tZOUHVbxeAlzXTB9vsXpjvc1MsoH25dTLU4J4TCjj5Q",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 8420.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1ba4fd0e3120",
+      "rss_guid": "gid://art19-episode-locator/V0/vtXm3EA1cduliSmkjXn3r1tFOxdPHLSfUhaBXzC2B2A",
+      "published_date": "2026-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3252.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-98a34fc94a82",
+      "rss_guid": "gid://art19-episode-locator/V0/7m8UgcNGYwmu2m4sPkYDK6ImzOtOygA51tBYqHFNGOI",
+      "published_date": "2026-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7416.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-98b1fa263620",
+      "rss_guid": "gid://art19-episode-locator/V0/eEKLU91odnYMZho8bH_W5qO19F1fqbgCdaeg5zZhNvg",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7753.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6c48c1402a66",
+      "rss_guid": "gid://art19-episode-locator/V0/l9IfxdMdGD6-eRO6tZSxkf1q7DVh07swabt3uhBHzW4",
+      "published_date": "2026-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2791.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bb7add623689",
+      "rss_guid": "gid://art19-episode-locator/V0/PmFETg-qvBPzdfKOml7yT8dEuFEE9z8K53x6Toyew0U",
+      "published_date": "2026-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6566.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d242945cddd5",
+      "rss_guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7182.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7ef0e69f11b7",
+      "rss_guid": "gid://art19-episode-locator/V0/_MPPd3d6lMXUXnmmue_0S5mMf0h-NvSqQWxvVoOB9EM",
+      "published_date": "2026-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2956.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6fab0a626c67",
+      "rss_guid": "gid://art19-episode-locator/V0/g1H1b-7cauyo3bdjziQ1GIlHU7l2Mt-nM3alKsRixYU",
+      "published_date": "2026-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7309.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8f1598fd1964",
+      "rss_guid": "gid://art19-episode-locator/V0/kW9deFG0ugDWx5oPaPQFA746LEfWqhhWJvaxqWdw9bU",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9140.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1c1514812993",
+      "rss_guid": "gid://art19-episode-locator/V0/MWDq7fBr3WmC3toocPt7GR6i6kmFkVTg55EvEDbZCc0",
+      "published_date": "2026-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2986.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7a37353bd15a",
+      "rss_guid": "gid://art19-episode-locator/V0/_X1UbkLbukPWAiZZuoZZyt50EBBU_ZLEbLTh5jtzvns",
+      "published_date": "2026-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8783.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-14738ad0ea11",
+      "rss_guid": "gid://art19-episode-locator/V0/fB-MiAxwHEsdXh7of5VKfD3Gmk9D5OtD7xw7pDb_z9Y",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7157.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-69e36944ef9e",
+      "rss_guid": "gid://art19-episode-locator/V0/mlpLl2hVjaWHkNsPEKJUB6qQ9Lm_eKzmyL3BemYArsI",
+      "published_date": "2026-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2456.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ff8ebb469ab7",
+      "rss_guid": "gid://art19-episode-locator/V0/C2xYtA8JeVOCNFwSwXaTLlpciEaDXbWDC_0a0xqYnno",
+      "published_date": "2026-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7685.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7e9d18d2147f",
+      "rss_guid": "gid://art19-episode-locator/V0/1MVEmFRi3FQPpIgvHv3KF_VbTs5KBBCcLqBzX0NMpU4",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7537.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f264e54b1f64",
+      "rss_guid": "gid://art19-episode-locator/V0/YzEBt3bf-R12yRT0nPZRmUFsYl8vzMucN039SKQ0v_8",
+      "published_date": "2026-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2648.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-449a71ac26fe",
+      "rss_guid": "gid://art19-episode-locator/V0/4gXXZQiOL6BL-jKBGZ9ko-wO2ZuQV9BLjmM6l8xEj_g",
+      "published_date": "2026-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8013.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ebd5cc0c0d9b",
+      "rss_guid": "gid://art19-episode-locator/V0/jq7vu24dKabBCVfN8LxJDqKB3hMmDX56FahqBXxdYEs",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8970.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c6d84ea2f111",
+      "rss_guid": "gid://art19-episode-locator/V0/8GeIDzyw8gjvq8e2IxuQQp7k3Ev3NGgGhoRorNfC7rI",
+      "published_date": "2026-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3262.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-67d82e29a08b",
+      "rss_guid": "gid://art19-episode-locator/V0/C60kuU2jM1hJ4VaOiasJhTf4dG22XiUpUBqe2KcInFk",
+      "published_date": "2026-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7805.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c9dddb2ee8c9",
+      "rss_guid": "gid://art19-episode-locator/V0/sX7AAcnp642H_bhEewffDS1MKiHx-fnzU701xhxf5_k",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6843.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a47512dda549",
+      "rss_guid": "gid://art19-episode-locator/V0/L8VJ5EgSqyhDqPgmd5-nVx-w8_Izcm5iYeWBHQYwbrk",
+      "published_date": "2026-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2855.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-eedb1c86131e",
+      "rss_guid": "gid://art19-episode-locator/V0/_xRBRUmvr3cbEhPAOtdBkl_F1AnmzPcfqbKZWMM_0K0",
+      "published_date": "2026-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8876.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-475ae713397b",
+      "rss_guid": "gid://art19-episode-locator/V0/bzVraCsqfgTxFDCVTS52W9QsBSVByO377o89AAqun68",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6817.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c9f52d4cceb5",
+      "rss_guid": "gid://art19-episode-locator/V0/MGUCqMCrw58yffd1FDpgO08vRRnE_WpfRKODH6OxPNE",
+      "published_date": "2026-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3006.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d7283007a4f9",
+      "rss_guid": "gid://art19-episode-locator/V0/1BEuBjOBLhPS3FU5kL41C3kMO_YMxrKyXpS_HjchwI8",
+      "published_date": "2026-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7544.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1563c81dbfaa",
+      "rss_guid": "gid://art19-episode-locator/V0/5TdwQCn8nIX_nyBrRHgrJBirzCpcrb41-itagcNqxz8",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6622.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e7e9b2cd529a",
+      "rss_guid": "gid://art19-episode-locator/V0/3lT6FHkjPYN-pLQ6PPVVzIk_NE14p7zXjdV3Gc_0KRk",
+      "published_date": "2026-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2266.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7af4577d77c9",
+      "rss_guid": "gid://art19-episode-locator/V0/XFwmjoL7jCuIDRmry4VzmXNAM91XskbPu5b9Ou4pZBo",
+      "published_date": "2026-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6570.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2dad5389ed22",
+      "rss_guid": "gid://art19-episode-locator/V0/rCN6gS4vWs5HrpHmpucQ1ZQJQ-Z5qsTfnJtu4SLEG8E",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7477.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6a6e2934361d",
+      "rss_guid": "gid://art19-episode-locator/V0/HRk58T2QqjowEeS_ENBJ75iVTuaBAGalEkHKcMEKvtw",
+      "published_date": "2026-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3193.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-32eb7c6d8aee",
+      "rss_guid": "gid://art19-episode-locator/V0/adzbT4om7mSxEXUPCkeiyiBMGsvudstOo-dzSzO_XIo",
+      "published_date": "2026-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6428.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-64e316446bdf",
+      "rss_guid": "gid://art19-episode-locator/V0/WYw9aGotggSKe-sq9W4CJZEYqkz-YvC8qnbs8ZaGBlE",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7266.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fd7e8353643c",
+      "rss_guid": "gid://art19-episode-locator/V0/ynNl55PFv14TWhocKrNBwAqedKKabYsSvsBSlAdRGZM",
+      "published_date": "2026-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3233.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a8bd7d381a01",
+      "rss_guid": "gid://art19-episode-locator/V0/Ss5uODvXGvHVwa7HvqSS58bNuMzq34BTei_FXKf6Ero",
+      "published_date": "2026-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7405.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-845222e9383f",
+      "rss_guid": "gid://art19-episode-locator/V0/ne787VesTD9qYcprM1zecasJFK86le_iMP1-sR6LYi4",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7779.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5996381a2071",
+      "rss_guid": "gid://art19-episode-locator/V0/FpADBhJ24YY_19VuIeV1n7WyY9CchXaNbI9_X_h_MCE",
+      "published_date": "2026-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2403.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-57c6c5ee6399",
+      "rss_guid": "gid://art19-episode-locator/V0/o4y6-mT9NsCTIhXzQrooZRCSji84SzhZMEYzqTE49b0",
+      "published_date": "2026-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7376.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-509ef682ae3c",
+      "rss_guid": "gid://art19-episode-locator/V0/U1eWCEfo-tDSYaZMAR5vcDp30fgda3IdHOKci_axvko",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8645.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b6ae7c651ea1",
+      "rss_guid": "gid://art19-episode-locator/V0/pc-8PR5vTkb7CNEizkil9HLuUFu9EDX-lJSNFjNt9gw",
+      "published_date": "2026-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3358.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f24617dcaa9f",
+      "rss_guid": "gid://art19-episode-locator/V0/xjVpByn0MOluByJ_ACkwVaNm5mfIE3j7tNuvnL2gjJ4",
+      "published_date": "2026-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7781.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-10ebc53ceae4",
+      "rss_guid": "gid://art19-episode-locator/V0/yxtHcNm2NATi4iFtrNQE5vuxcnMDTlIb9dxYb3VSq7Y",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6408.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e4949f5e9839",
+      "rss_guid": "gid://art19-episode-locator/V0/1AzCItWbghFCoy2XaiawWhnJcLyCoszrW65CFKebRIY",
+      "published_date": "2026-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3577.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f60200e50827",
+      "rss_guid": "gid://art19-episode-locator/V0/WyrZ3yhqxoYaMbdhXvLjcSqHOiEB9InsMGFQKN8kE44",
+      "published_date": "2026-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6175.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8c97805809f8",
+      "rss_guid": "gid://art19-episode-locator/V0/Cb3263Jrvsy3cni4TtCcp8XxiZ1wUrKfngnHcg7vAMM",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7197.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-103f59d98b1a",
+      "rss_guid": "gid://art19-episode-locator/V0/qG9CW0q4BnTXicrWfjP_663asCTTm3uKLsTE_Rf50WE",
+      "published_date": "2026-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3266.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-983fe40b0a1c",
+      "rss_guid": "gid://art19-episode-locator/V0/KNfSVBFGNhZl72jghAABgybFz_VRg6ies9WLpc83BSM",
+      "published_date": "2026-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6476.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-331ab21397a6",
+      "rss_guid": "gid://art19-episode-locator/V0/5iVsRtDTRdhTUWyNNE7wGaheWKTEWN2sOBVSP8Nc8LI",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 9178.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-434e7abaf062",
+      "rss_guid": "gid://art19-episode-locator/V0/dfzGyGSlw_cFqgvgjrqH0PVOMM6N5Tj0p7Mn151iPYg",
+      "published_date": "2026-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2756.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1fdbcf00e589",
+      "rss_guid": "gid://art19-episode-locator/V0/_o3EJA4MLh8jZb-ocIbA2ilUKKBE9YLmCPlWcwRVPOs",
+      "published_date": "2026-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7633.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dc760ea5d7e2",
+      "rss_guid": "gid://art19-episode-locator/V0/5refzB0cfXIkuSDp3vPtW-Er5K8kMnTqSHGqrehnOWg",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7231.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7bd08ee048b7",
+      "rss_guid": "gid://art19-episode-locator/V0/BX9o7jt4EgxJlbkXFZbrlIQpdFgwc5XkoJKTf-MH9RY",
+      "published_date": "2026-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3339.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9c743c346cbc",
+      "rss_guid": "gid://art19-episode-locator/V0/rdFezRFc2cm4zSXKAD0ZmxQqFInsIvsn4u3t1CM5Gws",
+      "published_date": "2026-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7660.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-eb34d150b767",
+      "rss_guid": "gid://art19-episode-locator/V0/6ujxamGWI2OwqiMIr6Koi2yqjApYmbt9rBHqB7xqSMQ",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8934.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-00a6cd644c90",
+      "rss_guid": "gid://art19-episode-locator/V0/RtFGhPe305VUxTxhcHRmAiKqODuDn84psOYcUrE0AiU",
+      "published_date": "2026-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2958.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1e6ef1208783",
+      "rss_guid": "gid://art19-episode-locator/V0/wg8Sx7xCiI--OcMXznvQm_JQ1rNVywh2n3odkPbe4Tk",
+      "published_date": "2026-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7275.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5c1b3d195c4b",
+      "rss_guid": "gid://art19-episode-locator/V0/vHA3a9oT8VvfGSiShbq2PieZgsj3ITO5l7_aIlKEX_g",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8534.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-99cbb8e1ed0b",
+      "rss_guid": "gid://art19-episode-locator/V0/QRObd59uwFrCOasqZ7JKCzyCbqv6jlI6_cIWp6a37ho",
+      "published_date": "2026-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2828.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-92825212530a",
+      "rss_guid": "gid://art19-episode-locator/V0/dpXnVG4NPaw7s9oL8GkEvgrS2epaIOrO2u0VLvofcJc",
+      "published_date": "2026-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6723.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5644a22e2649",
+      "rss_guid": "gid://art19-episode-locator/V0/maLBFvpDwBE4hBr1LxsbmnJhjbrE2zeGsCkXL_9irtE",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7104.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d827616fc7d2",
+      "rss_guid": "gid://art19-episode-locator/V0/D-8ipNbr1xZeiL9WONqludNhbRjPg4RgF1kP6s2BQgc",
+      "published_date": "2026-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3210.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-13e31e1e72e2",
+      "rss_guid": "gid://art19-episode-locator/V0/lN0CCS3fSaT1P1vhSVtIbqxf93fbWL8-zuK9cRgs1vA",
+      "published_date": "2026-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6797.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8b750a320256",
+      "rss_guid": "gid://art19-episode-locator/V0/ctnTjP8eo0PsUkPiZC_xCuFILta1mslDsdnBhfvL_zI",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8204.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1ce8c0b8a624",
+      "rss_guid": "gid://art19-episode-locator/V0/xsfnJ1AFRw5CZ-WJgtaBT6V09ahEff3qhvz_tKAH2ZU",
+      "published_date": "2026-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2689.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ea32068d16dc",
+      "rss_guid": "gid://art19-episode-locator/V0/p5ItmXNhPOVoDa_b6AWwfPL-dPcbsYNPAFz4G-mjg2U",
+      "published_date": "2026-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5718.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-12195ca3153a",
+      "rss_guid": "gid://art19-episode-locator/V0/ZRxsvQy-U_jiOCF0W7kt2MhfPnmmSBGDFoNi35B4Z84",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6716.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-38e6f8538d77",
+      "rss_guid": "gid://art19-episode-locator/V0/04hpLCz0Z5ABOzUceVxoujyIforOUB5VkmVGOzUb2Gw",
+      "published_date": "2026-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2806.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-619c214b42a3",
+      "rss_guid": "gid://art19-episode-locator/V0/XIbwHggweiZquxWdTPvpVb75BlPx4aQZroU7f2-220g",
+      "published_date": "2026-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8101.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8e7dcf86604e",
+      "rss_guid": "gid://art19-episode-locator/V0/caDtGfDbNunD4duuKnWpTPhEnYCWBgJJI2K-7iGYIHE",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6838.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-82c55e75f36f",
+      "rss_guid": "gid://art19-episode-locator/V0/bBf5F7WdKgl8yhO7MUnuclAfU-n9faLKla3Lm0uZMAI",
+      "published_date": "2026-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3381.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f558694f74b7",
+      "rss_guid": "gid://art19-episode-locator/V0/vV-Xri4dTdaVArg6CTofEKZ49YEl9bxBQcqEvTZe6KQ",
+      "published_date": "2026-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7423.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-350a963a5ef5",
+      "rss_guid": "gid://art19-episode-locator/V0/lOBq-mTJGEzS9SisxyRLrNddPE7CpuomCekRVFtcB1M",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8335.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-021265b15a5c",
+      "rss_guid": "gid://art19-episode-locator/V0/MMY1HNWnCk8gX0w6P-gmvqcAOVV2_9ShlpeYoiR9y-k",
+      "published_date": "2026-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3342.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d5698170bef6",
+      "rss_guid": "gid://art19-episode-locator/V0/sUpzDPKP6x0BDp2cwOzq3RTzNG_wa5X3qNgFggEiCyA",
+      "published_date": "2026-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6667.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-36309a8f4bbd",
+      "rss_guid": "gid://art19-episode-locator/V0/b-4CNvozIuv5gkQFQxOSubTJ4-9VWeNVS3kalIEklzE",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6816.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-988acf15e37b",
+      "rss_guid": "gid://art19-episode-locator/V0/H_Wy-Cn_84WkpK7pH1xnP562wARaIUrHB1TmL9WVIXQ",
+      "published_date": "2026-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3136.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-efeb66782656",
+      "rss_guid": "gid://art19-episode-locator/V0/o_XTr6PmpvMWjcALz-ezhr9aFghoHBxrsRicziS0C-Y",
+      "published_date": "2026-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7782.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5ec88bda7f99",
+      "rss_guid": "gid://art19-episode-locator/V0/vU5Kug4Kvo82tWenQaCPEeUnKh8FDJ4LdCzkzZWNhN0",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6986.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f756e607988f",
+      "rss_guid": "gid://art19-episode-locator/V0/qs88h-EJQV0rCy5LC-VlMntf6sr-vTWwTmOcyV3mg98",
+      "published_date": "2026-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3017.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d664030cedfb",
+      "rss_guid": "gid://art19-episode-locator/V0/Sp73Yu7QFVmq6XkJ8xxfY9ardzK-PC8HUC7eq-x8exA",
+      "published_date": "2026-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6732.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fdeceb32c700",
+      "rss_guid": "gid://art19-episode-locator/V0/rD44NHvxRuiT9Wgj8I_y9lMLIKVznR2Ofea0P6ra_Fc",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7030.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-cf81889efa61",
+      "rss_guid": "gid://art19-episode-locator/V0/fJPuE8931E_uU_-ZAbaE7pk_HyHPMSujLGWskLrxW-A",
+      "published_date": "2026-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2767.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9e33acae8b1a",
+      "rss_guid": "gid://art19-episode-locator/V0/qXkO6yBxwGFdsgecXmT1_TC6ySfdyLDuJCJJ2hY1SHQ",
+      "published_date": "2026-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7903.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fd39bbbbba53",
+      "rss_guid": "gid://art19-episode-locator/V0/Dg_9Ja3SX_PTNR8JfH6-fO_54ylVPAM92xddw7Hq-FU",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7736.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c2c7e5b26fbf",
+      "rss_guid": "gid://art19-episode-locator/V0/EByQV9huWS-P6fGo4Ebqe0-sOuKBukPyP2kS0I9mapw",
+      "published_date": "2026-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2719.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f30f45f5bf31",
+      "rss_guid": "gid://art19-episode-locator/V0/FSltg-1HM4IqQcWuoLN8CGkoNCFl-ZOjnOtFUsx0LI8",
+      "published_date": "2026-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7326.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b54061d06f57",
+      "rss_guid": "gid://art19-episode-locator/V0/7N79sl4dBrdaEFXPU7lB1mEN7U92fSNcNPNdNOh36nw",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8272.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-01fdc467e769",
+      "rss_guid": "gid://art19-episode-locator/V0/VeNXVqsVJAelIvXtzDZ2MlQgfAIIolizuuD1b6IPrWc",
+      "published_date": "2026-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2918.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7399c7a856a5",
+      "rss_guid": "gid://art19-episode-locator/V0/--VuT1WW-2LBa9tnu56WW22NgcOsVcqcRG_6lkdCYWU",
+      "published_date": "2026-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5552.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-da704d6a566e",
+      "rss_guid": "gid://art19-episode-locator/V0/RoiTbfzArhSzBiTziq3wlHUtkQwtXubEKX6U4Nhd3Bo",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6657.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7ae77518e979",
+      "rss_guid": "gid://art19-episode-locator/V0/_5jxdHAQiF1FxPDMPk-nSaF2RqcpCaD0MNBDdGrRa4Y",
+      "published_date": "2026-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3019.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-63097bd08bf7",
+      "rss_guid": "gid://art19-episode-locator/V0/nniaNxJSs7eTdbAMWU6qIQNalUNWvjqhdDVwkCRHbUU",
+      "published_date": "2026-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6273.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-07a5829b52ff",
+      "rss_guid": "gid://art19-episode-locator/V0/QxNNeyz0OtCY4Tg8UaxYtvHPbbqMmd2zmgM74T-N4kM",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7314.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b9fd7d2c2955",
+      "rss_guid": "gid://art19-episode-locator/V0/7XA_4aezWnb2ShKZIsD9VwVk4DiKp_IajRsbsI93FJI",
+      "published_date": "2026-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2345.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-24947206de08",
+      "rss_guid": "gid://art19-episode-locator/V0/d2QT_PAlX8HOIEgI3zQJk7NopA26rBxCrX0Uw4aZeYA",
+      "published_date": "2026-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7304.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d45189e9af59",
+      "rss_guid": "gid://art19-episode-locator/V0/VWX9YSQGg7Z-RzsBU6CAjqL3owsHUZweJnS_mOSrxAs",
+      "published_date": "2026-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6990.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f4074e5a45b1",
+      "rss_guid": "gid://art19-episode-locator/V0/4S070ZhSg-SUK0XrcLyGyjphcMb_7VIZ4_6U0zOs1kA",
+      "published_date": "2026-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2739.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-25d2be036703",
+      "rss_guid": "gid://art19-episode-locator/V0/KSF2BvX-6hTXDXvSydXCmynE0-FcmsRpW0q6LAxOOns",
+      "published_date": "2026-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8436.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-986026ce5977",
+      "rss_guid": "gid://art19-episode-locator/V0/K5LRtHFUP6WK9ysUnfyDdrZu2gAo3QthSyDU73bt2zM",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5932.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2c02ecf37d47",
+      "rss_guid": "gid://art19-episode-locator/V0/P98b8pyx-XW5lvmm2AteSieqkR6Gt5K2OSTS4HTYfF4",
+      "published_date": "2026-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2854.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a5dbabfeaaff",
+      "rss_guid": "gid://art19-episode-locator/V0/8mPtc8DEfG3O4p33NVfUk4XciTWdKocpew7HFWZKdbM",
+      "published_date": "2026-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7810.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2d9c985c3ceb",
+      "rss_guid": "gid://art19-episode-locator/V0/MObYhrb5yU9jdVkPle5veky0-uMcHqjdptIwahvuiDI",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7601.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-82be3a1684a1",
+      "rss_guid": "gid://art19-episode-locator/V0/1JqFz4bkml-lWzaXjksL6gVGQW2JjVpG8vAGgIjr9AE",
+      "published_date": "2026-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2567.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ba70e6b9d1e9",
+      "rss_guid": "gid://art19-episode-locator/V0/12sFNBKrh126uuTC0cJgoqK8JDAW9tcPDbNxCNXtOiw",
+      "published_date": "2026-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6972.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b162a9456480",
+      "rss_guid": "gid://art19-episode-locator/V0/7vJ5OWeqMS6P_JZLQtqLdh7xRkSbFl3PojsFieu_ciA",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6824.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e004995bd2b1",
+      "rss_guid": "gid://art19-episode-locator/V0/6FCN2wFZRyH07wSUg_e6BNSeadDjvyPHZvOucSt-Wzg",
+      "published_date": "2026-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2949.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5365fef2d766",
+      "rss_guid": "gid://art19-episode-locator/V0/XpPYmTJ5LHqvx0GRPkSUjSiDCbrdi49R7T-HNVUbYl8",
+      "published_date": "2026-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8536.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c83d4a9d26d2",
+      "rss_guid": "gid://art19-episode-locator/V0/eR5t-IQw5vICuUM-i_T-NK-aZkjyATO23hAlt6dY9Ds",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7185.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d3f57a7859fe",
+      "rss_guid": "gid://art19-episode-locator/V0/X_GB7QhGXh93hV1KB4AfNjqf1kYTQT_IRS_Tl6ROsRU",
+      "published_date": "2026-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2916.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-25de42c278ca",
+      "rss_guid": "gid://art19-episode-locator/V0/PRiu76Uuut1tJ-MZLns15zGxsZW_Bjf4LiYy7_rpkG4",
+      "published_date": "2026-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5727.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fcf0d35b83d8",
+      "rss_guid": "gid://art19-episode-locator/V0/gaqWzfr6DhZ5ZfDAUxbPamz2ufLdxKIzKzjursGaa3A",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6999.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1a7502331975",
+      "rss_guid": "gid://art19-episode-locator/V0/YIGudX9FarMezu9jZueZp_WZhpZAAX3yStl0GiZGeMY",
+      "published_date": "2026-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3215.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7be2ed9de33d",
+      "rss_guid": "gid://art19-episode-locator/V0/Uv9eDC2VCPC-7VKvIiKhh9mTgP121PIZuq56t-QPdY0",
+      "published_date": "2026-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7093.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a0ac1bf8ef93",
+      "rss_guid": "gid://art19-episode-locator/V0/Wo-S4X1wjAZu61xxEPMpksbJ5-Yggieukpx9FfyxLYg",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7131.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-440b080b9336",
+      "rss_guid": "gid://art19-episode-locator/V0/VfKWgmJ6CPGd9ETzv1tubdoO3PMN9utMGAA-IN1HfqQ",
+      "published_date": "2026-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6520.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2534d3753544",
+      "rss_guid": "gid://art19-episode-locator/V0/ehVisjaWOWSkOR3nhHtoohFcm4o2tPePvWHp2HLMOdI",
+      "published_date": "2025-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6536.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-15f21c9d1bfc",
+      "rss_guid": "gid://art19-episode-locator/V0/dcH6NoIjUTf0BR4MFYpJfGtsMvWHsyR7DaFedGgmUBo",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6348.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-65cd07fb77a5",
+      "rss_guid": "gid://art19-episode-locator/V0/CNJwD3jN0HWYOAHWEblpJZNAErkEcjFKqs_i9mmqYR0",
+      "published_date": "2025-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5227.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-01840ca7012c",
+      "rss_guid": "gid://art19-episode-locator/V0/lWhvtn7w1Oj4xvuGttvt76lXjtVMkVahZT70U52T-1M",
+      "published_date": "2025-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4886.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a727f35a7a23",
+      "rss_guid": "gid://art19-episode-locator/V0/d6HHcKGdqmq9xhHP5gYD31Y_JGNpWV3dW_BCEC9b4Vo",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4652.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-680f69098b97",
+      "rss_guid": "gid://art19-episode-locator/V0/T71-RLoO6PYACCQl2G_-5VoxQZYvUIqgeci8tPS46to",
+      "published_date": "2025-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2286.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ea91c60bc3e3",
+      "rss_guid": "gid://art19-episode-locator/V0/kjjgHJhwgwPHBaVD1owN4zQ1A2NROEbfEkL9TKTSFI8",
+      "published_date": "2025-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3370.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e212e7f27253",
+      "rss_guid": "gid://art19-episode-locator/V0/iKQkqd2786TNQ4ubKuLc8feUlK0ww5h2AkWSQHbRvXo",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6650.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d3ac070fc6ca",
+      "rss_guid": "gid://art19-episode-locator/V0/aoN4opviyuPSBeTiclpw2HAy4Fo8_O7j4-CnzvAL-S8",
+      "published_date": "2025-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2939.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b723751be05b",
+      "rss_guid": "gid://art19-episode-locator/V0/gy-B8geW_Uo5LOYQFhEU_AAexT-V4cOuAFAdtOJ5aRY",
+      "published_date": "2025-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8047.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-66b40ec2f187",
+      "rss_guid": "gid://art19-episode-locator/V0/njtbE8l8ifotczadmXVhZN9e6YLHYtqvJNe601iWMTs",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6890.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-970efd4af603",
+      "rss_guid": "gid://art19-episode-locator/V0/6NX8MWT_eMo80Al-Ahthdb0sBKUsCjI6XtgF-QB_s4g",
+      "published_date": "2025-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3173.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a87203f438f1",
+      "rss_guid": "gid://art19-episode-locator/V0/MUab__WKrY2OzUgvtov5pI3xXS9KZ5dpeRqmkflKlxA",
+      "published_date": "2025-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6383.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0987a7d3b783",
+      "rss_guid": "gid://art19-episode-locator/V0/Oqt3MDeA46JXNUL5cutwpcoPvcWbJfV-xCiCnDJa7yY",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6066.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d690b957d061",
+      "rss_guid": "gid://art19-episode-locator/V0/Eo4uuEOcU-3rq5ePNVsICtJriDqN6GivG-q9UfqVOpM",
+      "published_date": "2025-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2705.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1028de96efae",
+      "rss_guid": "gid://art19-episode-locator/V0/Rm_nE0DvlQhka2h0gQm6e0vooaiUOdD1ZsuXeWlSDLM",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5586.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f03b14646e33",
+      "rss_guid": "gid://art19-episode-locator/V0/8-7s850T6wSI3vYH5ac_misjAP9oNs-QQWSso7R5Jk8",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6730.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ed8d9c6fc2cc",
+      "rss_guid": "gid://art19-episode-locator/V0/diNrQcq_Rw35GYy_wZCX0i0i67J5KoNfY0_OKPW9gN8",
+      "published_date": "2025-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2771.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-336acf4f440a",
+      "rss_guid": "gid://art19-episode-locator/V0/pzrCPIIbZ7c6scakri3YPYeNz0IRqaI3QNVM7ZYwprY",
+      "published_date": "2025-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6431.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-feca3fe75690",
+      "rss_guid": "gid://art19-episode-locator/V0/HDo65DWeqc_3jxzzvkjeYK6SeUz9V7P-NkcxUMYrmmg",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8177.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a3bcfe3cce2e",
+      "rss_guid": "gid://art19-episode-locator/V0/QReU1JTSIFn7wGzOyJO7VJXwEYPd7LL9mhOxzUuNWpM",
+      "published_date": "2025-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2828.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-97d29e2292f6",
+      "rss_guid": "gid://art19-episode-locator/V0/HO9IkMyu_spuwnh9uqVzgP2x3XmttHzU_1tyUaHmAHc",
+      "published_date": "2025-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7949.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-365a6a7355c2",
+      "rss_guid": "gid://art19-episode-locator/V0/rHFht3ELj5o8vlBNxwMZnj5eB5ZmcTaGFT45XEvlC6I",
+      "published_date": "2025-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3270.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-aa98f5dd0567",
+      "rss_guid": "gid://art19-episode-locator/V0/kTmVDRc70asBMiZf88Y7T8__BxR2-HnIrl-LSfKDeqg",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5364.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-74e9a427889a",
+      "rss_guid": "gid://art19-episode-locator/V0/QmsGrQSzAF7tOsyzwuc2F1E7nACLol9f_76W-8oH6yQ",
+      "published_date": "2025-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2924.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-169a13c0992d",
+      "rss_guid": "gid://art19-episode-locator/V0/OYYJBT-X9S2-TQdG2QFETT6ipHwpNd9BncCoCkCLAps",
+      "published_date": "2025-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7504.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8cb05412c30f",
+      "rss_guid": "gid://art19-episode-locator/V0/wTGE_Z-cguIbTzY5lb09xedoYIZWo_wTVPnmf10FUyA",
+      "published_date": "2025-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2971.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6d72cdd7782d",
+      "rss_guid": "gid://art19-episode-locator/V0/HSsMeuccC-OELbn061AYWVB_SnXugAg1kEuI68TlYbk",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7690.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e660c113eec7",
+      "rss_guid": "gid://art19-episode-locator/V0/Y5sTFlHb2pBb7wdbKoMWZP9-wIeqYViRWRS9hXF6HbE",
+      "published_date": "2025-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2851.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1d153923e7f3",
+      "rss_guid": "gid://art19-episode-locator/V0/VCSh5pu7hiflximpmCM63IBX2nCDlOK20Nn_6l722Bw",
+      "published_date": "2025-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5583.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f581fd6efd84",
+      "rss_guid": "gid://art19-episode-locator/V0/QItVf1XISITDe4An7MDNFPI074J2l3ydDrfS5HFwrCM",
+      "published_date": "2025-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2947.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0b033b5a61ff",
+      "rss_guid": "gid://art19-episode-locator/V0/7Lf0WE5I5pCR5jCqeHBT0WkgTx0rFPHvwVE-xZzY0pM",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6744.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c14f4a7b7224",
+      "rss_guid": "gid://art19-episode-locator/V0/4azyIOJl2RRd_uT9T_NpZWQYnrVJqgKcrxzMNq1ByAs",
+      "published_date": "2025-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2924.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-19166914b839",
+      "rss_guid": "gid://art19-episode-locator/V0/vAdu_sUVa6FrBC9wVYJ0IEk9XzBE3VfCpIhTQbaxUhg",
+      "published_date": "2025-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6595.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d96a7fb693c7",
+      "rss_guid": "gid://art19-episode-locator/V0/BCgQUFDrVsWoHvK79SkWIvT9d9Xucrd4CSERchLjrMQ",
+      "published_date": "2025-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3816.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c778eb8828ed",
+      "rss_guid": "gid://art19-episode-locator/V0/8smrDqU-ObCshOZmCZDnOcF3-V17gk5_cDhgqu2ujD4",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7820.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ae6a20a0b75d",
+      "rss_guid": "gid://art19-episode-locator/V0/FVjBI546byZHJo2Ir9uMIvfdxNBTzoNEPdtFohV_q8E",
+      "published_date": "2025-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2584.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-278d372b8f66",
+      "rss_guid": "gid://art19-episode-locator/V0/fG6e9mnjuDY28mmH22j4jE7Uss-15_W1-k5VXYTF83U",
+      "published_date": "2025-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6508.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8e8ac7dfdb03",
+      "rss_guid": "gid://art19-episode-locator/V0/gUqVsDciX6hb5jZE-T6YJ4XlVY_ss9WQw58vi5pe3QQ",
+      "published_date": "2025-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3090.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2b8362bab8c4",
+      "rss_guid": "gid://art19-episode-locator/V0/e1wjiWInTU7Pvu45g7s-AlIQDfzgsvSK0YDHFSEKN7o",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6879.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d34a33f6dd46",
+      "rss_guid": "gid://art19-episode-locator/V0/pvhhPp6MvteBScoGHMRkXy4jH6tFa1YahMLxB_HG11c",
+      "published_date": "2025-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3118.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4e0dfbd65652",
+      "rss_guid": "gid://art19-episode-locator/V0/L73v_WPMbPfs0gagF3IfgAWOAuRMZLTufMs_Ya6-7xs",
+      "published_date": "2025-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5772.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b9b18beb644e",
+      "rss_guid": "gid://art19-episode-locator/V0/7pSXU4pvg0R8zDw8vETLbVhboXHigPkxBIH2ZzGKGvA",
+      "published_date": "2025-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3289.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bb4d77c70046",
+      "rss_guid": "gid://art19-episode-locator/V0/gVb4cS2tsJnqhseQrFGgll6HbRFjnlgwjYm3yR6MWgc",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7713.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b8aea9b541c1",
+      "rss_guid": "gid://art19-episode-locator/V0/fcfIXa7_KTTbBWFAWzJyWF-Q2F1tOYMG2j9Uev1CgfY",
+      "published_date": "2025-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5351.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ad926687611f",
+      "rss_guid": "gid://art19-episode-locator/V0/aT7oTJpRnFzhWeaTjuAfX9dCkc7t1tPAG7vKnj0JTAU",
+      "published_date": "2025-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3035.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fbfbd0f43113",
+      "rss_guid": "gid://art19-episode-locator/V0/T8UzQckjE1ILTMlfhRyPNRBaXZESpqWUvQAElb_9NMQ",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7910.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b5ebe27f3b13",
+      "rss_guid": "gid://art19-episode-locator/V0/md2uGlT5dep3O1ToUScBvUm-NLZ71IWuWyT3B1ywt70",
+      "published_date": "2025-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2711.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1f58a122cfa5",
+      "rss_guid": "gid://art19-episode-locator/V0/qnqLJITUucUVqye47jnqQu0ETEyn_YvFC1nEOwCpYfE",
+      "published_date": "2025-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7023.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-51257822090a",
+      "rss_guid": "gid://art19-episode-locator/V0/rmo-ObB2b_oa2smwzhz4hlplTtH2YhEc1pdAwRXCEho",
+      "published_date": "2025-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3287.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bc34e327f73c",
+      "rss_guid": "gid://art19-episode-locator/V0/TB3jLzojlTwAgzCazTTUByjYLAgDWaEm1sItCa6J5AM",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7028.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5f113a2ac3a8",
+      "rss_guid": "gid://art19-episode-locator/V0/hBdj90TJPbHoLJhGg1QmfhW9qTlEV4fuilEmX5eu42Y",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2814.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-543e8b79e5f2",
+      "rss_guid": "gid://art19-episode-locator/V0/t2yMZctDRV6mHzG9U0pphHCFUxt82lNfB8-z5awC-Tw",
+      "published_date": "2025-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6282.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fc2e3c06e0da",
+      "rss_guid": "gid://art19-episode-locator/V0/lCJkkQsiEN9ly-bQBn4T2qiRegQsiPRBC7UN0JtpwBk",
+      "published_date": "2025-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3070.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4052724b8db2",
+      "rss_guid": "gid://art19-episode-locator/V0/vLxQIUVllStEq7LfCYlw_7LB5K6N_8BDjinpToDP7qM",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7719.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3afc8271d5a7",
+      "rss_guid": "gid://art19-episode-locator/V0/FWyARizq61wVxahfPtstmRAyqn-nNeYsnwIgmRRu9eY",
+      "published_date": "2025-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2773.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ebfe63dde117",
+      "rss_guid": "gid://art19-episode-locator/V0/iRemtZnUEF0VeazrkVbXSlN4QVkVRDH-PZBbCyw0LyU",
+      "published_date": "2025-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6242.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8ae9b3e24dcc",
+      "rss_guid": "gid://art19-episode-locator/V0/3dk6_REyDdrlO5Y5U7ceB1LZsZFforU9gkj_d611NqM",
+      "published_date": "2025-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3176.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-24af64abc66a",
+      "rss_guid": "gid://art19-episode-locator/V0/tyJQYltVONNg4yAaGOcnyZa0kU6xF88EYsMMrtecFM8",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7072.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d77c6ccc4b5c",
+      "rss_guid": "gid://art19-episode-locator/V0/0bQB37dYkGTEvsDTcgpSB3-PcCPao9ax4J_YyltFaRA",
+      "published_date": "2025-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2817.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-364d09717f78",
+      "rss_guid": "gid://art19-episode-locator/V0/LA-S9tIAH-P-lRyOxrp8hLduvY3yFSvh-q11puEZeGY",
+      "published_date": "2025-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6839.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-829e32a19e10",
+      "rss_guid": "gid://art19-episode-locator/V0/mqrg4qZZnOakRFZg-FJcdzWuLntWUkmu7Kaf0-eYDSI",
+      "published_date": "2025-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3711.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f3c2b376737c",
+      "rss_guid": "gid://art19-episode-locator/V0/2i0qNOvQupIDFBM0G7LBMTpS6ColqzyEaAMmcwe-sj8",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6023.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7563c6219dc3",
+      "rss_guid": "gid://art19-episode-locator/V0/X5mhgQqaRtwTdd8ah-UAsh6_pp_rYptrlysSO0nJRSY",
+      "published_date": "2025-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2620.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-96551b00af36",
+      "rss_guid": "gid://art19-episode-locator/V0/LuhArhE8wwEnpMr1NzPKW8rCFsAl2anvIEJanAw2xNg",
+      "published_date": "2025-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6727.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-104f1477ae7b",
+      "rss_guid": "gid://art19-episode-locator/V0/sfFW8RzXiLtzPxl5xLnUywyqeiElf7dBtLnfZfBbelI",
+      "published_date": "2025-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3186.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-35d68f604b53",
+      "rss_guid": "gid://art19-episode-locator/V0/kYC_-A55o9fLVksvsOSywU4csnjNmucRe4FSR8F4C7g",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8229.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5d58190a26e8",
+      "rss_guid": "gid://art19-episode-locator/V0/sG70I1kxSVzvyT0OpdNxOSLb-cUCZ_Ms0Em46pZ5y-I",
+      "published_date": "2025-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2771.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9c014c4ac34c",
+      "rss_guid": "gid://art19-episode-locator/V0/5g7E1WYlZhtyHCaOgNwcXWIZOys8oKwP2kcaNW3HQL0",
+      "published_date": "2025-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6783.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6bbbe565d380",
+      "rss_guid": "gid://art19-episode-locator/V0/sEBk7Kw1NMjYg4sAd53h_8Z4BJD_dkOxpaUXjem7HHw",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6599.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6dacb1400186",
+      "rss_guid": "gid://art19-episode-locator/V0/LnPjzagYsBdUvEDkmpoyiyLfZQFsfriBkT5NJS0RdqQ",
+      "published_date": "2025-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2684.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-783a3b291224",
+      "rss_guid": "gid://art19-episode-locator/V0/K0ziYz3PXveQSw1Jxj4H7Q_1w49jPUYlfRAxrYEmes4",
+      "published_date": "2025-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7776.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-aee1e6ef5f1b",
+      "rss_guid": "gid://art19-episode-locator/V0/-XlGKXkwfn4eWzHOEyRcEQ34WJXZ02BiSu88cqHPR8U",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7173.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9ebb32993a21",
+      "rss_guid": "gid://art19-episode-locator/V0/DpMW3qmN3kNBvWGs35ZtcTT9No5bqwhQrnzIkor1qqQ",
+      "published_date": "2025-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2872.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b4f35a8655c8",
+      "rss_guid": "gid://art19-episode-locator/V0/89iyh9Y0_2NW1IlzCVk-TihpmfM5zZhhFEscD_foENA",
+      "published_date": "2025-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5099.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-63d04d333329",
+      "rss_guid": "gid://art19-episode-locator/V0/TGoP-TwHWKzOv_pa8n-kD5OiSMd-bZcaf1DfDhlEpDA",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6445.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dc3858dca6e2",
+      "rss_guid": "gid://art19-episode-locator/V0/lbp__h3MC0StWoKB0y6Ov-248Z7g99IiM2HdApuEccA",
+      "published_date": "2025-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7492.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e2c49a30bd75",
+      "rss_guid": "gid://art19-episode-locator/V0/9_GlzenahEViWDJaoVS7GogL1vOb7UeyC361Bcr6UFk",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6824.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e647f2eba6e7",
+      "rss_guid": "gid://art19-episode-locator/V0/2wN419OLmd274mrfA3FiHUvwzh4O1I6uSF0NBLdoS9M",
+      "published_date": "2025-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3143.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8ea55a50c8c7",
+      "rss_guid": "gid://art19-episode-locator/V0/gjBWePeZNd6qLy3OB1-L7zO0a0BqObtp_mriwtQUzeY",
+      "published_date": "2025-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7861.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-15c8ac07e770",
+      "rss_guid": "gid://art19-episode-locator/V0/nSDIffvojDR7G-TCl0gLPhNYhfnQ-_lkQyvbpnYUwRU",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7805.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-db1bfa2e33bf",
+      "rss_guid": "gid://art19-episode-locator/V0/A3soHpSnHa4FRUYNPrfso9frpk1Tas-lpPv_zIH4DVQ",
+      "published_date": "2025-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2544.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c87d341c33be",
+      "rss_guid": "gid://art19-episode-locator/V0/M-EcV5MzT0Ih3Mvk6ZUkvt2ACLCbzUra26zINgizZck",
+      "published_date": "2025-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7662.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7088884a4ed1",
+      "rss_guid": "gid://art19-episode-locator/V0/Od_zYKaptr8f_jOf9Jo1CPddpDzpR5Fise2xrrlSeMw",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6453.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f3bc2d85d7e4",
+      "rss_guid": "gid://art19-episode-locator/V0/Qab-KHUhCq9Y4YXOrXler_lAdq4Leg6RT5t0QrmPWBo",
+      "published_date": "2025-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2618.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-52b7007fd54b",
+      "rss_guid": "gid://art19-episode-locator/V0/3H7wFsMp2WvlwT50_xm5neQyJYCjTRJC5GatWCc3jbo",
+      "published_date": "2025-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6532.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b7c71af023ea",
+      "rss_guid": "gid://art19-episode-locator/V0/G6DgJVkpTB73Pwu_w_JKc5sO8Z0cqxzZ0cG2k8ayuxc",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6367.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5565fe1a61d6",
+      "rss_guid": "gid://art19-episode-locator/V0/ktZH88Zap44FhwtaWDzh3GAVS2u58hfebm1dcABK8qI",
+      "published_date": "2025-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2531.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d5933ec725bb",
+      "rss_guid": "gid://art19-episode-locator/V0/iTqOeNhqPtIhw7_aGs-dPkahsVEIYCrPoX5DHx-JALo",
+      "published_date": "2025-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6939.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fce618296444",
+      "rss_guid": "gid://art19-episode-locator/V0/cs2pbmptW7Y3_Udq15GsMdkBhMxf2aw8LnzMCgGOQII",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6519.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-76ad9420550f",
+      "rss_guid": "gid://art19-episode-locator/V0/utuKO7IXNPVkJYkhJZ4K64evvDD4-HEzHDFKuOcQJ6U",
+      "published_date": "2025-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2464.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-53780f8b1bad",
+      "rss_guid": "gid://art19-episode-locator/V0/fiDSFeKVgor6_zy3ShhbxAzm3ws9FrXpqmeJZTD9LmU",
+      "published_date": "2025-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6542.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e800b5cf9066",
+      "rss_guid": "gid://art19-episode-locator/V0/Jh2DTntL65ibaXhJJYnLVGKtCvCMzBM0eQ2rIuxce7c",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7693.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-30ddb4d33487",
+      "rss_guid": "gid://art19-episode-locator/V0/bWjpRVqgp4mTeY7qQCoDY0jeqU4t6bBUpCZ5JawLVww",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2341.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d6109175d139",
+      "rss_guid": "gid://art19-episode-locator/V0/7dXzUjHwcLtgH2KRgpc6_ydjcfvxi8dK9LO4HovKVsE",
+      "published_date": "2025-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6781.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e92c5695e55c",
+      "rss_guid": "gid://art19-episode-locator/V0/fwx-he3MwbR3qcvuZlfRbUogzQQnCBK1xcTThUGh1pM",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6956.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d759b0004955",
+      "rss_guid": "gid://art19-episode-locator/V0/UjrFPRrp2LdKyBcYUkX1yOajRNkLf5l7icLuo5EuJ-Q",
+      "published_date": "2025-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3228.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d69f3a9a3189",
+      "rss_guid": "gid://art19-episode-locator/V0/qDDUMm5mBTEWA9NyrfXwP-Kaeb87mvtpHe9S5f4luUU",
+      "published_date": "2025-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6553.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-88bddeec3c62",
+      "rss_guid": "gid://art19-episode-locator/V0/MRFJb2dkphyYKEzbQogvi13vKG6Wx7aeKRpctPV0vBY",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6042.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-774fd1aa4afe",
+      "rss_guid": "gid://art19-episode-locator/V0/rLZYKyYxsPzoiKOC9i3TpwxQ-rVUCDGMI0Med8A9Eug",
+      "published_date": "2025-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2822.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-48e6c9e704a8",
+      "rss_guid": "gid://art19-episode-locator/V0/pB6juljRSOBhq9XSF5bmp2Id0izcruDpL9aQ0BrSrZI",
+      "published_date": "2025-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7560.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e4f04b51a5a0",
+      "rss_guid": "gid://art19-episode-locator/V0/19KMwOjMs2Gy_4-zAEwMbFW6ySOCkOa4hbik3oYv7aw",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7161.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bf09d9838595",
+      "rss_guid": "gid://art19-episode-locator/V0/WNI17Cr_siNhBNYHI9SmF5RyQaRO_LVyjclDkQPiDkw",
+      "published_date": "2025-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2404.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d35f3fd1f9ab",
+      "rss_guid": "gid://art19-episode-locator/V0/q7vQxFZd0mo0xbm0Kc0UUHYEHXdili9DhgHlsNlBK44",
+      "published_date": "2025-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7441.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-606516180cc3",
+      "rss_guid": "gid://art19-episode-locator/V0/cwtJX0WyXk8k8y9Hm6pceH23-J8KI_YNqSMnyqLULGU",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6492.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c0ec2821dbd4",
+      "rss_guid": "gid://art19-episode-locator/V0/_SRA2G3Xwy3LwNVmYi82Yk3dVDLYTVipSdYBiqs08xE",
+      "published_date": "2025-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2492.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-da5522842df8",
+      "rss_guid": "gid://art19-episode-locator/V0/D4KtnnBnoM8sSrCt2xBEFIbqPBjoKnR09R-y_Y5Pwls",
+      "published_date": "2025-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6487.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-87d199a7bc6d",
+      "rss_guid": "gid://art19-episode-locator/V0/g21NHICy_NafxwPN0l4g_G9HpGX4xUP8Hfc2ElL0fx8",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7856.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-955982073aaf",
+      "rss_guid": "gid://art19-episode-locator/V0/0539YzdVN1FzUhllEGpdj0xCDwN--ZQRaeOu_LxraYc",
+      "published_date": "2025-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2397.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-cb189093d87b",
+      "rss_guid": "gid://art19-episode-locator/V0/H6gzig5FPfT-WE3CALMlNbDmoNpsCU6BYLQNXIlKsrU",
+      "published_date": "2025-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5974.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d9d860fafa52",
+      "rss_guid": "gid://art19-episode-locator/V0/qjvg2_VaCNe15dmief31FrTyytKstgFuBRZirN7Tp-E",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7481.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d9e432526cd9",
+      "rss_guid": "gid://art19-episode-locator/V0/zmHnmE-BwxHfSV0_H4TKiW7j3-kRakQ7gRNGcIwYzAQ",
+      "published_date": "2025-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3679.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ca4358ca8de7",
+      "rss_guid": "gid://art19-episode-locator/V0/WqWhEdRGzqClG_SUbRXOJnXugiyXQdAIoJc6CpabeZE",
+      "published_date": "2025-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7038.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-aaddcc4e381a",
+      "rss_guid": "gid://art19-episode-locator/V0/p6YeOJD7HNw2BK018UqVtSjmG7NGryscHVvMY2k6Da0",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6029.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fff76d6f3795",
+      "rss_guid": "gid://art19-episode-locator/V0/KvFpKrIB-VNp4tJCG99EAatuhuwt0_RWxCWGXBiTdMQ",
+      "published_date": "2025-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6727.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b289b01de69b",
+      "rss_guid": "gid://art19-episode-locator/V0/lNLEQGdNWKpAIA6I8p6IqAXzERXmB2SphR120bfielQ",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6810.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a540e6773458",
+      "rss_guid": "gid://art19-episode-locator/V0/5SFKC4BVdcqcaPlQNtgfn2iYu-omOJRWovUAUkESLDQ",
+      "published_date": "2025-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2451.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d35661658303",
+      "rss_guid": "gid://art19-episode-locator/V0/0Bl6NNdfUH7JMOEzqfILUmsaj23TNL1x-9qNKcbyHtA",
+      "published_date": "2025-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5879.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2f0957f2f3ca",
+      "rss_guid": "gid://art19-episode-locator/V0/yNXcE0JQbc0fSfwPeA5_hIyirPbd4-xsbpYQz29d7Kg",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5569.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-de8fce63d32b",
+      "rss_guid": "gid://art19-episode-locator/V0/gVE9OsCkmdSwNz8xtyQBFzex7gTD3ypx74KKPYJdQQY",
+      "published_date": "2025-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2396.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-acabcdca1b6d",
+      "rss_guid": "gid://art19-episode-locator/V0/J8nq1gjDfQARTLncH0Rz_SEB44GX5fyrE_Cqmt7eKjo",
+      "published_date": "2025-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7393.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-45e13a690ac0",
+      "rss_guid": "gid://art19-episode-locator/V0/X19h6nEogNMpa14rjD4_dFu7553kE6OKoLxGfa6BX6k",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6816.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-120e42d28faf",
+      "rss_guid": "gid://art19-episode-locator/V0/sOEGlOvYFr0HzzE45lK-46U3LWr3lpoKBlGWrNBKHpo",
+      "published_date": "2025-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2357.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e1c5a8137942",
+      "rss_guid": "gid://art19-episode-locator/V0/D3HKHAms4JYz-bCCLIjR7SlPx-C2RRzBLjosJhs3PVQ",
+      "published_date": "2025-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6344.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0914a6ed5cdd",
+      "rss_guid": "gid://art19-episode-locator/V0/qW9WQyFArlhfcATZpFyVoTPN4SO9yYzZ8pvYCUqWHyM",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7093.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fa246c78a175",
+      "rss_guid": "gid://art19-episode-locator/V0/B_dUBbtukjkcG2hq1Enql8U9KNX3yc-qSjSNGoLdJ_4",
+      "published_date": "2025-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2420.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6e2c5605ed3d",
+      "rss_guid": "gid://art19-episode-locator/V0/eESZ6q2B7kWdhVv4-PvGHvayDRUFuk6g-m8Eylrbkm4",
+      "published_date": "2025-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6705.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0abbaabb63e6",
+      "rss_guid": "gid://art19-episode-locator/V0/AMHzGV4hX-lPMwifnWLWe_7LL3v44hYsRxVc0K3UncQ",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6246.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-57d6e013774e",
+      "rss_guid": "gid://art19-episode-locator/V0/fAF6i2_4RC6TDFWJeLirgwPR0XpPx7a11Uk1sZnKIgA",
+      "published_date": "2025-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2695.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8bcdf71e4179",
+      "rss_guid": "gid://art19-episode-locator/V0/pvkx_T8py14L8d_tEgFn3hWvoz8wg23OqmvoBwLJmQ4",
+      "published_date": "2025-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6062.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-aed564c7af17",
+      "rss_guid": "gid://art19-episode-locator/V0/qNKbVdI9MpyUylg_tpPUVPqy0uYcA1eRTgGgnflcjV4",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6220.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f481e37cc6c1",
+      "rss_guid": "gid://art19-episode-locator/V0/N--b8TbmMnRABMPtBc0htkP8Ck9qyzOWjHC3M9dxFYY",
+      "published_date": "2025-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2351.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-232c7a6d7afb",
+      "rss_guid": "gid://art19-episode-locator/V0/f0cxKr-J0r_3aTPk35WIha4Wem-uy615ogj2C0DiXmE",
+      "published_date": "2025-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7579.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8bc3d92c581e",
+      "rss_guid": "gid://art19-episode-locator/V0/LLHIqdV3Fct1X6Av6_0YDYDrF5gjVDgVX2Zy51IUF1s",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6512.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c0644252513f",
+      "rss_guid": "gid://art19-episode-locator/V0/nprK1diT7zlPFJcDnRMbdOpgKYKiHuT8nDWpVxEKQZ0",
+      "published_date": "2025-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2189.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f1a4df4bc2be",
+      "rss_guid": "gid://art19-episode-locator/V0/ZTmx-U51hRG2tOF4C00YRvbeeI1h4RSrO5AZwjakASU",
+      "published_date": "2025-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7886.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-811f728a162f",
+      "rss_guid": "gid://art19-episode-locator/V0/e0vFtPXrVfG3-XplbGLIK6443SG1gN17sOZiFXez3m0",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6878.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d35f18924424",
+      "rss_guid": "gid://art19-episode-locator/V0/pl2b_OLm9HCLbnjDuT8us-wIv-3nSRBukseiQZTaO8A",
+      "published_date": "2025-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2775.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-03140c0b8497",
+      "rss_guid": "gid://art19-episode-locator/V0/F31bF0K1eyLZvv1iUDe29zclZ_dNczyh5_e1pUKoHx8",
+      "published_date": "2025-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7576.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-83b5078e31e1",
+      "rss_guid": "gid://art19-episode-locator/V0/NP_Tl4aIiK4xqo3GA3fDLTjlecZrFh_eQRphWIxbV0M",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7769.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ca0cd42383f8",
+      "rss_guid": "gid://art19-episode-locator/V0/ii_E8sY7W4Z_qy5yq9u9OzU258j0IHGqVZ5RpuTmnxA",
+      "published_date": "2025-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2623.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b3728cd75fa0",
+      "rss_guid": "gid://art19-episode-locator/V0/FgTD0AQm0OmEpmIl_Znfx-ruDcDoul53W39-2HVaHok",
+      "published_date": "2025-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6178.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1f47b6b8cdb9",
+      "rss_guid": "gid://art19-episode-locator/V0/1nVAuNcHRWQfxkrbCli8yk1NGY4Lc3N4iUYn9dPf47M",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6536.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3f2a6de8751d",
+      "rss_guid": "gid://art19-episode-locator/V0/TDft_WMcInxzvQg0Bw1VBYG-ZM3yQwpAKtYxWlf_ynk",
+      "published_date": "2025-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2971.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b8206d265277",
+      "rss_guid": "gid://art19-episode-locator/V0/PD9YAKyUb_QL6zyOIk9d8ns7qoRsyws1g6RXuSOJVhc",
+      "published_date": "2025-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7727.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e9ef801dc222",
+      "rss_guid": "gid://art19-episode-locator/V0/IhEuHvEeDTodr0_8ROHV7MaEIF6HkLniZAVTmPPamY4",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6520.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-681d434f5401",
+      "rss_guid": "gid://art19-episode-locator/V0/DXlxNQhVHOl8M7zLvBQw3Z2w8_MyfcEw90ggmdn39pE",
+      "published_date": "2025-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2972.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-328dd8faf1bd",
+      "rss_guid": "gid://art19-episode-locator/V0/8NnYhPAjM3pioVwFw2HMeC-9dcaZ9QpA8Hb8yIatNrI",
+      "published_date": "2025-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5574.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a32e94cf50ee",
+      "rss_guid": "gid://art19-episode-locator/V0/Ny7_Dg-aEgFibsMzCEYu_6D64UtW5nKoO9-rY7PSrjI",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6356.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-81f44c4947f0",
+      "rss_guid": "gid://art19-episode-locator/V0/yjbtZh7txKRtBukDS2566nuCIOa46H6SHd7MT8E0gQY",
+      "published_date": "2025-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2417.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-178fbe85ee5e",
+      "rss_guid": "gid://art19-episode-locator/V0/3oDcwX8o1SdHcRnwiIUaV-5wTLutpKVq-ZqyA3ctnAg",
+      "published_date": "2025-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6344.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-137ea4d0dd9d",
+      "rss_guid": "gid://art19-episode-locator/V0/Hx_poIkdk4znKlcpT62O6xD-lfI3IynRNvVS7ZRe0Zo",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8209.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1c96f71e6a93",
+      "rss_guid": "gid://art19-episode-locator/V0/mfwvdv2jwV2rhY6BpBc_fDkXfBYJHGDll0vyURXRKkw",
+      "published_date": "2025-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2573.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-68e20322c248",
+      "rss_guid": "gid://art19-episode-locator/V0/BWnLzQUaJAWr1YT8CzpHYwkqnOKbshqGXuJX2-FYb-k",
+      "published_date": "2025-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6952.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-881307062759",
+      "rss_guid": "gid://art19-episode-locator/V0/5-w4_6OHpJ2TjvZcKPCMNVlZI_pkGW9gQinyG93NEpg",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8595.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d01e8ab2e64d",
+      "rss_guid": "gid://art19-episode-locator/V0/bWjut8y1GerFT8VI2sLpVxSOHZrK6Mgeo619onlXCwg",
+      "published_date": "2025-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3103.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fef65ead0e2b",
+      "rss_guid": "gid://art19-episode-locator/V0/agtZGex7gKLfzU7RN9VgBuGE_CKSndZPinl0GzXYzT8",
+      "published_date": "2025-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6971.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-450baad8c002",
+      "rss_guid": "gid://art19-episode-locator/V0/ZAELlGthbqUdr1urxcAOBQgvhaXKdl8JaPpnMqltRx0",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6348.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-269fcc8f9832",
+      "rss_guid": "gid://art19-episode-locator/V0/Ud0QN45vrwbpaibITokv3dMPRb-FSls6Qs8HPe89kaA",
+      "published_date": "2025-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3317.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a03f4eb0ada1",
+      "rss_guid": "gid://art19-episode-locator/V0/TfqlmcAtiYtKXJya3t0STxIWkky91R1GC9IMXxkHO48",
+      "published_date": "2025-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6152.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-664c3a9da6f4",
+      "rss_guid": "gid://art19-episode-locator/V0/zXSz0EeJH05RvRnEKBJ0TF9RDc4PdbUmBTdBeM-UCT0",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5921.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-73264dc10fa6",
+      "rss_guid": "gid://art19-episode-locator/V0/ukmDt6XcMi4OJH1RFWNe_G4N8zmRQ7XUzm6eXtM5Q_8",
+      "published_date": "2025-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2562.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-89db490e9e70",
+      "rss_guid": "gid://art19-episode-locator/V0/cUiTbyiqr4CyZG0xDhkRajkMQ85GuQeBAPrN3u6ulXI",
+      "published_date": "2025-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7193.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7b542762ec67",
+      "rss_guid": "gid://art19-episode-locator/V0/Rft3x7du06PIGbOy0ci-W7hO4namkCgYVLPuKpexJKE",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7240.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0c7cb652b317",
+      "rss_guid": "gid://art19-episode-locator/V0/chuIUO1QaIadkBS1eExKL4_5wvMj28EcdLJMs21XYmQ",
+      "published_date": "2025-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6834.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8e0093364525",
+      "rss_guid": "gid://art19-episode-locator/V0/H6hbY0zuN1RTtPeMfCSib7sw8b9eQqTo4kFrtiNRyvU",
+      "published_date": "2025-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6536.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-22c3b2c845c8",
+      "rss_guid": "gid://art19-episode-locator/V0/HIOtGEBRimKWQUiCpGBD8dE98_GupxS2roPe0d1FQ8Q",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9373.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-06c1ef0921b4",
+      "rss_guid": "gid://art19-episode-locator/V0/OKeFZLS5Gj5uX9lHMf2wZQsJfbXvXadasgktr3J75Kk",
+      "published_date": "2024-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4379.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-cc2fff60e47e",
+      "rss_guid": "gid://art19-episode-locator/V0/TfhidfrKP3-q4o_YhYsRDzVYX4VarvMSIZvCQWj1d9M",
+      "published_date": "2024-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4557.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7d8b392a05bd",
+      "rss_guid": "gid://art19-episode-locator/V0/iec5EWo8H7MQOMjc4VhDTrc4mgbZzNN_N3YzihNEpEI",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5242.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b635315de401",
+      "rss_guid": "gid://art19-episode-locator/V0/A9_RWBggjQdwqMiGFq3ysthKrIYNmVtFdLcAEwZWKwc",
+      "published_date": "2024-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4478.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4e10cfdd94ed",
+      "rss_guid": "gid://art19-episode-locator/V0/BJ2nxKgJAvFnx42IDNMyabtN17pXOm3jk_IenazH3sQ",
+      "published_date": "2024-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1927.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e461152e5370",
+      "rss_guid": "gid://art19-episode-locator/V0/gGUZ0LaebWQaSphIwdXWZb_cUEE5k1PH2UxeURJjCYs",
+      "published_date": "2024-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6395.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-808f9fdc591f",
+      "rss_guid": "gid://art19-episode-locator/V0/hchT7biK1jnZCrSbs9I0n6sqWkjwi1u82FoSJXs2bio",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7354.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6ae7c9b6c763",
+      "rss_guid": "gid://art19-episode-locator/V0/nymm29gFMTUOMHzljcsgsSOwXdHhnYBTgoRP0mqjxcE",
+      "published_date": "2024-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3109.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9bd34f3e4418",
+      "rss_guid": "gid://art19-episode-locator/V0/YJd4wLSoylErRbO6KhXlC314w1cQY6IMceXQgvAOWAo",
+      "published_date": "2024-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6855.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1d78ceae607a",
+      "rss_guid": "gid://art19-episode-locator/V0/DAiss8CUyEASzBo0gHyvDyn3ySaiSdfRSWauU-4WatE",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8996.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d68fa0461401",
+      "rss_guid": "gid://art19-episode-locator/V0/MyOmh7B8Hjcxxztg7nS2vt2lQPbvgn3DyKe9XMXvedU",
+      "published_date": "2024-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2884.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6214fb2a5e2d",
+      "rss_guid": "gid://art19-episode-locator/V0/vKgggYie5HZlX6nh-dAZtYD6J0U9oYrHf_OCMJ-tlOc",
+      "published_date": "2024-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7381.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9839809edb88",
+      "rss_guid": "gid://art19-episode-locator/V0/ZlL7K4G8Yyv61UXWOlaHHhA6bsNUpX1sDuy5TGO-5qQ",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6807.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8a60b8fc0493",
+      "rss_guid": "gid://art19-episode-locator/V0/2eCYv30yxt8QBCFeKo6OGUSmvq34QmgreEPS4lES5rk",
+      "published_date": "2024-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4048.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dd9c287b9872",
+      "rss_guid": "gid://art19-episode-locator/V0/toVAAkpXuGZjtt2H9c9zr-nEb9CVuOisv_dD5juxdRA",
+      "published_date": "2024-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7570.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1db874f13136",
+      "rss_guid": "gid://art19-episode-locator/V0/Df7EvH38-datyJMBDu_R3IqlEp5BUwgOx5_knpzp_lU",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8290.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4c2e8b8eed29",
+      "rss_guid": "gid://art19-episode-locator/V0/zhOVSYvnq4xivUMQsfpHWMT3SJDoF_BECdjOHknm144",
+      "published_date": "2024-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2810.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bb9b06c8fbb0",
+      "rss_guid": "gid://art19-episode-locator/V0/XaV-aSeX-1uI9rY92YShDKfsg7DXUp8lPRYsJY1MWbQ",
+      "published_date": "2024-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5728.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0a8baadd9af6",
+      "rss_guid": "gid://art19-episode-locator/V0/Ycv03RnW5SLl0qtzwpcFIkx9IIAwVfYLz7JnYWTRpI8",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7151.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1aef20b30482",
+      "rss_guid": "gid://art19-episode-locator/V0/-VTMRFQPLYUv0nmPsv78ntVuze-RPe4TGShnaMJpbLE",
+      "published_date": "2024-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3196.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3459b8db87a8",
+      "rss_guid": "gid://art19-episode-locator/V0/o45J4mwXZm6Ca98SQAdOKVvWldiWm0U5K2UCW0ayFZ4",
+      "published_date": "2024-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7223.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ad2851058b36",
+      "rss_guid": "gid://art19-episode-locator/V0/PKRErxK92HOMvMrCPugh5GVeFejyjncmK9xkVvjFf5g",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7796.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-37a0e1f35388",
+      "rss_guid": "gid://art19-episode-locator/V0/gejsSG_Ni0-QHkCDdZG0N1jXCc3anahZ3k1ODd91kZA",
+      "published_date": "2024-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3391.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-643475eea800",
+      "rss_guid": "gid://art19-episode-locator/V0/Ni-KHy5Y7WmSOFIE216XULgFVVeAhUb9TYFGmIH1xoc",
+      "published_date": "2024-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8225.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a61c236b9ddd",
+      "rss_guid": "gid://art19-episode-locator/V0/_N0AlyvgQNAf3Q9H7gpbNFcgis1OPyWnLuQJllmP7w8",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7446.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-76760fee5f97",
+      "rss_guid": "gid://art19-episode-locator/V0/g_aLlmTz-z3uAMG6UAq1Fuh9i0gJ2C_KlGWmBcf2uBA",
+      "published_date": "2024-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 8795.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-035bd71a1732",
+      "rss_guid": "gid://art19-episode-locator/V0/e-3wm5k7yd3t-GpzR94PPDpsYUtKibHMUy3ktatRZOQ",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7518.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6e6d3f5016a2",
+      "rss_guid": "gid://art19-episode-locator/V0/Vb5QKDRg4b6xdwWsavCv_673m8MuQ-VdW8HGOY8hhbU",
+      "published_date": "2024-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2852.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a2d7989d6271",
+      "rss_guid": "gid://art19-episode-locator/V0/p9_clFI4PUi9JGYO94GvBrB6ospgAwnwEIQzIiy7ndk",
+      "published_date": "2024-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7195.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-af8553a4a749",
+      "rss_guid": "gid://art19-episode-locator/V0/0-3X5CNVGDzgEnZ2OWg49_zOoKDATZIfhbbf2po86Wc",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7189.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9b96622fefe7",
+      "rss_guid": "gid://art19-episode-locator/V0/Sq9GSu6z2ijsah5eMW52j3CMiIMQ7tAv8p6T9FlHyLU",
+      "published_date": "2024-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2653.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c56add03d242",
+      "rss_guid": "gid://art19-episode-locator/V0/Uoc1G6o4xzL_zHb-VUYDh4xGK6hYU7LtEE392PxiZfI",
+      "published_date": "2024-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7401.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2438413155ea",
+      "rss_guid": "gid://art19-episode-locator/V0/iAhmLrdMtg99d2XrjZF6CRSIAT5S8d1aaQ-nFTIBnvw",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6876.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-718cf48aaed9",
+      "rss_guid": "gid://art19-episode-locator/V0/ST2r6dwZqSSi0VkBu_nc8HzGj4UqbRnHdmah37oRqwQ",
+      "published_date": "2024-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3106.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7eb4b10ec718",
+      "rss_guid": "gid://art19-episode-locator/V0/h4qTgfn8ARRdU_yD_HK6uoFygRGpBMBbAcAbnRdfKQM",
+      "published_date": "2024-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8083.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-773918a6c020",
+      "rss_guid": "gid://art19-episode-locator/V0/0K0auoL2bTuj2mVunUKCIXCJtclsk7482Bd11VBY_Sg",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 8407.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-54faf926535a",
+      "rss_guid": "gid://art19-episode-locator/V0/bN-RdiR5Lp5Hc4RpJ847VzJHkRsMt-IBYxeTCuAQpOs",
+      "published_date": "2024-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3092.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c0dd2dc53393",
+      "rss_guid": "gid://art19-episode-locator/V0/KOU-4V1Hi_rF1zSk1c5ZgE3r4_AxkjVq942dwqqSnZU",
+      "published_date": "2024-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8256.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dc97e620cb02",
+      "rss_guid": "gid://art19-episode-locator/V0/2z3IlROrs-CuDQ4-ngs4qwO0iNPImuaysApcEx_DMe8",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7352.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e663eee9841f",
+      "rss_guid": "gid://art19-episode-locator/V0/RUrNn84kx3RfOySaVBG-PzABxZ1jrXdQf0Y-W50mHk0",
+      "published_date": "2024-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2233.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ba82422d5c5a",
+      "rss_guid": "gid://art19-episode-locator/V0/9xTt7dJS-2sIRtVVDnCbUdmpn7oq9NwjvTt_EOdpbAY",
+      "published_date": "2024-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7869.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d00fb6662b36",
+      "rss_guid": "gid://art19-episode-locator/V0/deBGc13hXli2q6DcN-_cxb8huXnIhYWRLm-xRl6tcBI",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7779.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1dfd6d7d5a22",
+      "rss_guid": "gid://art19-episode-locator/V0/ik7GJ4eKHjsgreHr4F0ECiBYoXK0-i7tLTY8RB6fw2w",
+      "published_date": "2024-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2565.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bf9617142b97",
+      "rss_guid": "gid://art19-episode-locator/V0/Axd358nG0AXGVDABmW3i3aU75c3OXgySS5Pr-TVKShE",
+      "published_date": "2024-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6646.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d0ebc219ee5f",
+      "rss_guid": "gid://art19-episode-locator/V0/0UIM2HPFU968s87oX2_nIEmGe5qzwscRxNAwcIyKZu0",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6549.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-db4622340746",
+      "rss_guid": "gid://art19-episode-locator/V0/ZJt0t39hoHCNqvICQyuzA-Z_OOPfadZlfJHS1wpMgH4",
+      "published_date": "2024-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3012.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-99b939fc9017",
+      "rss_guid": "gid://art19-episode-locator/V0/sExvAH0XYFij43_AOQP9Q88v9b_rn_nEfIt2ivqO8dc",
+      "published_date": "2024-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7314.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9d3e220dec80",
+      "rss_guid": "gid://art19-episode-locator/V0/DT6-a5v2EFkE-tUTuR2Z7tH0uIq6LwJGHwZEK3Iivzg",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7758.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b7bc1260fe41",
+      "rss_guid": "gid://art19-episode-locator/V0/JpdjKw6i5yz38MY0XXIsBHf0GyJagszXVd7CaxFGPrQ",
+      "published_date": "2024-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3072.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f770a987553d",
+      "rss_guid": "gid://art19-episode-locator/V0/vN3tPWhDaCJtVcXBMbxLP7kP_xbH42yqecnJVb0QcH8",
+      "published_date": "2024-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9417.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3eacae50d86d",
+      "rss_guid": "gid://art19-episode-locator/V0/QBxpKRJkEigVSYMk0dnzCCZR47drZNKEK3Zb8hf4Sz4",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8099.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bb521c16588a",
+      "rss_guid": "3c4fc5fa-b3fb-11ee-b9f6-9fac5971f4e9",
+      "published_date": "2024-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2983.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b0cb1c14be4e",
+      "rss_guid": "7b1466b6-b3fa-11ee-82be-af7e06d19a18",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7165.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4467b00eb1ab",
+      "rss_guid": "7ab47954-b3fa-11ee-82be-3f7e87db6e4a",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7052.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fb27d744195e",
+      "rss_guid": "3ca7f43c-b3fb-11ee-b9f6-3fa6a7e4097d",
+      "published_date": "2024-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2682.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7e6e55a8e910",
+      "rss_guid": "7b73f478-b3fa-11ee-82be-c742d6fa1e78",
+      "published_date": "2024-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7771.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-81e67cf0fd1b",
+      "rss_guid": "7a547432-b3fa-11ee-82be-9b2e2984a10e",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7118.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-436ea4e26228",
+      "rss_guid": "3bf84d52-b3fb-11ee-b9f6-27108fa5a6c1",
+      "published_date": "2024-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3130.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-228126efdb76",
+      "rss_guid": "7bd365ca-b3fa-11ee-82be-bfa49287760b",
+      "published_date": "2024-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7325.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-33116c3e9eb9",
+      "rss_guid": "79f49986-b3fa-11ee-82be-53aabffa9393",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7477.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8a654cbcf2cf",
+      "rss_guid": "3ba0c050-b3fb-11ee-b9f6-9b3c472a5b09",
+      "published_date": "2024-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3034.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5067e0de0c51",
+      "rss_guid": "7c33454e-b3fa-11ee-82be-7794eb0dc8f7",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7144.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6e470a6aba78",
+      "rss_guid": "7994ef72-b3fa-11ee-82be-4bf73d9bd15a",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8520.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-02005306523f",
+      "rss_guid": "7c927a00-b3fa-11ee-82be-9702c7bf9e3d",
+      "published_date": "2024-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8111.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b58db1c8fd65",
+      "rss_guid": "77b9fcf6-b3fa-11ee-82be-572a17a5d2c6",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6888.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7d91c194e001",
+      "rss_guid": "3b497d90-b3fb-11ee-b9f6-538cb817e6f3",
+      "published_date": "2024-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3735.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-649cbf785eaa",
+      "rss_guid": "7818dbc2-b3fa-11ee-82be-3396047fa916",
+      "published_date": "2024-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8965.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e13c7f280114",
+      "rss_guid": "775b624a-b3fa-11ee-82be-e7182808aaca",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6466.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-122525dbb753",
+      "rss_guid": "3aef9672-b3fb-11ee-b9f6-ab09a9b2ee7c",
+      "published_date": "2024-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3595.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a23e34af91b5",
+      "rss_guid": "78783338-b3fa-11ee-82be-e7539db62f8c",
+      "published_date": "2024-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7112.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-812dbcef131d",
+      "rss_guid": "76fc903a-b3fa-11ee-82be-3b4d3c62845c",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7750.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ead8a1b8a14a",
+      "rss_guid": "3a96b8ea-b3fb-11ee-b9f6-3fc4c9b886de",
+      "published_date": "2024-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3054.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0d0ada7c3421",
+      "rss_guid": "78d729ce-b3fa-11ee-82be-b3b8240f1a47",
+      "published_date": "2024-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8001.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0f86e716a23f",
+      "rss_guid": "769d16b4-b3fa-11ee-82be-df04b2ec9271",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8078.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6398921cbd39",
+      "rss_guid": "3a3e9f8e-b3fb-11ee-b9f6-c3be8a784ece",
+      "published_date": "2024-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3192.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a1d4998faf8c",
+      "rss_guid": "79363a90-b3fa-11ee-82be-e3ffcb9369b6",
+      "published_date": "2024-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6227.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9d0bd168c028",
+      "rss_guid": "763d3794-b3fa-11ee-82be-d339e3110cf3",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7919.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c42afd02dfe2",
+      "rss_guid": "39e770b0-b3fb-11ee-b9f6-03b7eaab364a",
+      "published_date": "2024-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2968.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0a358fd93627",
+      "rss_guid": "751da560-b3fa-11ee-82be-130804bf1c99",
+      "published_date": "2024-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7060.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9edb6895ad55",
+      "rss_guid": "745e31f8-b3fa-11ee-82be-3b60e8bf7692",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6142.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dd96cf331022",
+      "rss_guid": "3990cb02-b3fb-11ee-b9f6-a7e756d65b22",
+      "published_date": "2024-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3215.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d6e4759bd286",
+      "rss_guid": "74be223e-b3fa-11ee-82be-f771bb9733f1",
+      "published_date": "2024-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7024.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-00c9927f7c9d",
+      "rss_guid": "73fdca34-b3fa-11ee-82be-c7b21e4b7e02",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7340.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2d108f79d465",
+      "rss_guid": "3939a52a-b3fb-11ee-b9f6-d7c917002bd2",
+      "published_date": "2024-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2735.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-14e153399a4d",
+      "rss_guid": "757dbcd4-b3fa-11ee-82be-f3f77c0e54c4",
+      "published_date": "2024-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6945.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a18bc5fe1a10",
+      "rss_guid": "7380f450-b3fa-11ee-82be-bbc913cb9b8e",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8291.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8c8f6c691b7d",
+      "rss_guid": "38e2e352-b3fb-11ee-b9f6-4bf451da3527",
+      "published_date": "2024-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3153.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2c24d4e47f73",
+      "rss_guid": "75dcf6a4-b3fa-11ee-82be-3b398bf70781",
+      "published_date": "2024-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4735.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8fc801829d9e",
+      "rss_guid": "732178b8-b3fa-11ee-82be-532036ed4bf4",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6486.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-75a0459e7403",
+      "rss_guid": "38893bd6-b3fb-11ee-b9f6-1301ae36c23a",
+      "published_date": "2024-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3543.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9a0bc9f4829e",
+      "rss_guid": "719f622a-b3fa-11ee-82be-570f164beb3f",
+      "published_date": "2024-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7941.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-483343189dd4",
+      "rss_guid": "70e03f62-b3fa-11ee-82be-77d676a7eb18",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8217.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0ca0a8261047",
+      "rss_guid": "3831e0d4-b3fb-11ee-b9f6-f7a3a058dde3",
+      "published_date": "2024-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3619.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6fc2985e069d",
+      "rss_guid": "713f1212-b3fa-11ee-82be-c7d0f849bf5c",
+      "published_date": "2024-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6842.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e89efeea141e",
+      "rss_guid": "707ce2d2-b3fa-11ee-82be-0bec1a12bae9",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7493.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-697c6700930d",
+      "rss_guid": "37da5ad0-b3fb-11ee-b9f6-dbd1ac4d86cd",
+      "published_date": "2024-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2292.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fdebd77dba77",
+      "rss_guid": "72000d3c-b3fa-11ee-82be-4fa4e8627c18",
+      "published_date": "2024-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8797.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3f130b526cf6",
+      "rss_guid": "11d8e628-10b5-11ef-be79-9bbf3872fbdd",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7935.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-42959a63d019",
+      "rss_guid": "3783d368-b3fb-11ee-b9f6-4f9b71f4eba6",
+      "published_date": "2024-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2405.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-49827aae264c",
+      "rss_guid": "7260c47e-b3fa-11ee-82be-5ff5934eee36",
+      "published_date": "2024-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7480.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9d1abcc50366",
+      "rss_guid": "6fbc798e-b3fa-11ee-82be-1b84dbdfa7a0",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8087.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-17c41d3c6258",
+      "rss_guid": "72c1060e-b3fa-11ee-82be-cb1c0228d68a",
+      "published_date": "2024-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8285.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-39aaaeedab91",
+      "rss_guid": "f46d406e-058a-11ef-ae20-930a990b688e",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7529.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-91e94d1f5ef1",
+      "rss_guid": "372ca9bc-b3fb-11ee-b9f6-f3917f9d2dd0",
+      "published_date": "2024-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4156.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ed515601fa93",
+      "rss_guid": "6efbd5d0-b3fa-11ee-82be-27781feb125b",
+      "published_date": "2024-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7508.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5481be5aee38",
+      "rss_guid": "6d7b1914-b3fa-11ee-82be-4be8034a69de",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8797.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-102e6294effc",
+      "rss_guid": "36d54578-b3fb-11ee-b9f6-efff8df5bdff",
+      "published_date": "2024-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3672.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-23c7c897ad71",
+      "rss_guid": "6e9b8e32-b3fa-11ee-82be-8fe5f776aaac",
+      "published_date": "2024-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8267.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a486f6141bd5",
+      "rss_guid": "6d1a3810-b3fa-11ee-82be-d7379aba7cf1",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7239.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c3efb4079292",
+      "rss_guid": "367e96d8-b3fb-11ee-b9f6-23a6d55f7e22",
+      "published_date": "2024-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3182.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-22261c0c8901",
+      "rss_guid": "6e3ad3d0-b3fa-11ee-82be-5f4ca3f209f3",
+      "published_date": "2024-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8752.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e9376d456fa5",
+      "rss_guid": "6cb9a112-b3fa-11ee-82be-e3798e994adc",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7789.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-079a3d43782a",
+      "rss_guid": "3621ad92-b3fb-11ee-b9f6-57d6c55a7663",
+      "published_date": "2024-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3228.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bc26713d835a",
+      "rss_guid": "6ddc4e50-b3fa-11ee-82be-df6e2c754ffc",
+      "published_date": "2024-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8084.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-44eecc57a5b1",
+      "rss_guid": "6c4e702c-b3fa-11ee-82be-cb81c6b36c98",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7213.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f238de3ba5cc",
+      "rss_guid": "209f1490-d422-11ee-8106-134397f6649f",
+      "published_date": "2024-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2885.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e4372b008b1b",
+      "rss_guid": "666552f8-97c5-11ee-be09-5b2b2ee70d59",
+      "published_date": "2024-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5322.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-10aa9cc9bba1",
+      "rss_guid": "64e31ed8-97c5-11ee-be09-4fc25a7dbd53",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6942.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-209a7d01887d",
+      "rss_guid": "bcdb0ec0-97c5-11ee-95d6-8f69a60ccfe0",
+      "published_date": "2024-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2935.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c85be2171460",
+      "rss_guid": "66038d8e-97c5-11ee-be09-6b7b7481b9f8",
+      "published_date": "2024-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7274.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-501793d8a5af",
+      "rss_guid": "648278bc-97c5-11ee-be09-3fff4a3593de",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6770.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ae73a5f1577c",
+      "rss_guid": "bc778e4a-97c5-11ee-95d6-4b0d92df4547",
+      "published_date": "2024-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3910.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9e6fbae5a04c",
+      "rss_guid": "65a3ae5a-97c5-11ee-be09-7becc275b0cc",
+      "published_date": "2024-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6456.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5b2454c12fe3",
+      "rss_guid": "64215d20-97c5-11ee-be09-f321b7ab1110",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7194.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-158a0a39541c",
+      "rss_guid": "bc1665e8-97c5-11ee-95d6-e354a8052672",
+      "published_date": "2024-03-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2892.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-052531b5e079",
+      "rss_guid": "6543e498-97c5-11ee-be09-e710e0b50a1b",
+      "published_date": "2024-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7963.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1178997e694c",
+      "rss_guid": "63c08ffe-97c5-11ee-be09-47aa97c25709",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6939.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2a642eea5fcd",
+      "rss_guid": "61d96b02-97c5-11ee-be09-d326fd7bf274",
+      "published_date": "2024-02-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7930.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1e885d21ba57",
+      "rss_guid": "d0f67206-d441-11ee-9a8a-6f9e4730cff0",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7393.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dec465b5e95d",
+      "rss_guid": "bb57dfba-97c5-11ee-95d6-4f187a9423c4",
+      "published_date": "2024-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2755.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-cfb146162831",
+      "rss_guid": "623a251e-97c5-11ee-be09-7b1180500eaf",
+      "published_date": "2024-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7405.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-34d22569ee66",
+      "rss_guid": "61177c22-97c5-11ee-be09-fbd9bc9a4f6c",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8592.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-430ec7862fed",
+      "rss_guid": "baf80bd0-97c5-11ee-95d6-9b865198fb79",
+      "published_date": "2024-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3539.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4f48e7fd1a53",
+      "rss_guid": "629b68b0-97c5-11ee-be09-1754a58dcde5",
+      "published_date": "2024-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7676.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-889435e4ad01",
+      "rss_guid": "60b6a64a-97c5-11ee-be09-c7ba16271b44",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 8063.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8c4fe7bed030",
+      "rss_guid": "ba974106-97c5-11ee-95d6-e704e298ce94",
+      "published_date": "2024-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3178.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3f3e236b9a36",
+      "rss_guid": "62fe26ee-97c5-11ee-be09-47c1cfaad4cd",
+      "published_date": "2024-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6515.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b4a93433968c",
+      "rss_guid": "6055695c-97c5-11ee-be09-bf7421c636d5",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6779.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-15512eb37e40",
+      "rss_guid": "ba37253c-97c5-11ee-95d6-0f93d7790b9a",
+      "published_date": "2024-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2901.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2d5773001a25",
+      "rss_guid": "635fa536-97c5-11ee-be09-87299c317032",
+      "published_date": "2024-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6342.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1fd6aa95eced",
+      "rss_guid": "9b5eb236-ba27-11ee-9d53-d7307801a1ea",
+      "published_date": "2024-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6860.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4f3e2cadcc1e",
+      "rss_guid": "5ed08ddc-97c5-11ee-be09-a734c428b1a4",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5953.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0274efa4933f",
+      "rss_guid": "b9d6f07c-97c5-11ee-95d6-ab1b6602a614",
+      "published_date": "2024-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3350.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5dbf77ad35c8",
+      "rss_guid": "5ff45bee-97c5-11ee-be09-4bbf4b1e81f8",
+      "published_date": "2024-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6729.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-700c52e911fd",
+      "rss_guid": "5e6e6666-97c5-11ee-be09-5bd50a72fd39",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6850.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8dc4198cec57",
+      "rss_guid": "b977f18a-97c5-11ee-95d6-6b5c7e2ce6e4",
+      "published_date": "2024-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2507.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b8360cb0ba48",
+      "rss_guid": "5f93bcf8-97c5-11ee-be09-97ae6a5d8fb7",
+      "published_date": "2024-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8914.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-79bf48d4bff5",
+      "rss_guid": "5e0d070e-97c5-11ee-be09-13523f6bef1e",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6574.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-866855ba65f4",
+      "rss_guid": "b918941a-97c5-11ee-95d6-c76bb827b4e1",
+      "published_date": "2024-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3713.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-114638d1cf00",
+      "rss_guid": "5f31f6da-97c5-11ee-be09-a741c43442e8",
+      "published_date": "2024-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6584.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-98c7641b27f6",
+      "rss_guid": "5dabd024-97c5-11ee-be09-b3994d675ac0",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7281.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ab8ae89750f4",
+      "rss_guid": "b8a9e006-97c5-11ee-95d6-2f75a4bbbc98",
+      "published_date": "2024-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3200.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-313556990bb6",
+      "rss_guid": "5d4a4566-97c5-11ee-be09-a33e6dd8a801",
+      "published_date": "2024-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7006.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-636889f8ab5a",
+      "rss_guid": "5cb2fbac-97c5-11ee-be09-0fc4c5e28740",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7789.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2124d9da167f",
+      "rss_guid": "94265d1a-a255-11ed-8573-27265b423c86",
+      "published_date": "2023-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3036.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a83df2022b7b",
+      "rss_guid": "b63ac756-9f7a-11ee-ba7c-f74660d35b58",
+      "published_date": "2023-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3477.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-eb14555329d7",
+      "rss_guid": "f9f0bf64-a255-11ed-b5cb-737bdbffc263",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4591.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b4a50ecfe013",
+      "rss_guid": "93ff312c-a255-11ed-8573-531b218aecef",
+      "published_date": "2023-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3078.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dc78d7dfc20d",
+      "rss_guid": "fa336f62-a255-11ed-b5cb-03893ac3734b",
+      "published_date": "2023-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 8368.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fd8ec48f8ce9",
+      "rss_guid": "f9cbb3ea-a255-11ed-b5cb-e3e622b9544c",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7402.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8ac6960843d0",
+      "rss_guid": "93dad070-a255-11ed-8573-ff8f03b6501d",
+      "published_date": "2023-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2889.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-71ef0ebb740c",
+      "rss_guid": "fa127d52-a255-11ed-b5cb-3790270f4ac7",
+      "published_date": "2023-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6704.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9da4a2aac223",
+      "rss_guid": "f9abae74-a255-11ed-b5cb-cb728a04b888",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7788.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8c81bbab19b6",
+      "rss_guid": "094b14f8-881c-11ee-bc7b-cb493ba0d082",
+      "published_date": "2023-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3640.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2f229a6008a4",
+      "rss_guid": "f90457fa-a255-11ed-b5cb-eba38c1c0854",
+      "published_date": "2023-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 8502.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-452d1f006fbf",
+      "rss_guid": "f8e2a2b8-a255-11ed-b5cb-d72b61a7e045",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7013.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f4c827533a45",
+      "rss_guid": "93b56a6a-a255-11ed-8573-9fb3ececc956",
+      "published_date": "2023-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3576.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-49934f44b0c3",
+      "rss_guid": "f924f8de-a255-11ed-b5cb-4b3afed95195",
+      "published_date": "2023-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 9443.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0146474be40c",
+      "rss_guid": "f8c0a2bc-a255-11ed-b5cb-9f2326574cf5",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 8014.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ff505b032cab",
+      "rss_guid": "f9494658-a255-11ed-b5cb-230725cd6ab8",
+      "published_date": "2023-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7972.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fe660390962d",
+      "rss_guid": "f89fae5e-a255-11ed-b5cb-2b05ef408ab3",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8952.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2b94f063170c",
+      "rss_guid": "936b37e2-a255-11ed-8573-0b390c298d79",
+      "published_date": "2023-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2641.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f1d0b580171c",
+      "rss_guid": "f9695164-a255-11ed-b5cb-67c00d5c5e21",
+      "published_date": "2023-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8140.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4b7524a95bff",
+      "rss_guid": "f87de59e-a255-11ed-b5cb-fbf22bea9ea6",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8530.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d44ef4c568a9",
+      "rss_guid": "934655ee-a255-11ed-8573-2fc085acad5b",
+      "published_date": "2023-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3119.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-cd4d5ce25477",
+      "rss_guid": "f98b6754-a255-11ed-b5cb-ebf32cb77012",
+      "published_date": "2023-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7004.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8920825d4c36",
+      "rss_guid": "f7d1994c-a255-11ed-b5cb-6fdfec416efa",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7379.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6203b83379d1",
+      "rss_guid": "9320d968-a255-11ed-8573-b3686ce3f1cd",
+      "published_date": "2023-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2960.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-143f76d5d1bd",
+      "rss_guid": "f7f76262-a255-11ed-b5cb-b737c5274a73",
+      "published_date": "2023-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 9135.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-018098c2661b",
+      "rss_guid": "f7af3078-a255-11ed-b5cb-07c54ab827f8",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6855.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-531b15509f04",
+      "rss_guid": "92fbe4a0-a255-11ed-8573-7781ebc50cf9",
+      "published_date": "2023-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3050.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-94aeaadf93b5",
+      "rss_guid": "f81b369c-a255-11ed-b5cb-bf105dd421f2",
+      "published_date": "2023-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6616.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c3f791ccd53f",
+      "rss_guid": "46122cc4-6bb0-11ee-83e9-9bc5171e9b27",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7538.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b68dbbe11f2c",
+      "rss_guid": "92d6b7ac-a255-11ed-8573-efec6e5b555a",
+      "published_date": "2023-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2788.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d94900507133",
+      "rss_guid": "f83bbb9c-a255-11ed-b5cb-df32ca05f677",
+      "published_date": "2023-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 8412.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ef8624d11c99",
+      "rss_guid": "f76ced62-a255-11ed-b5cb-2f458fa1b710",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7143.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6432b6ff8d9d",
+      "rss_guid": "92b14fee-a255-11ed-8573-2bfd7d4b8500",
+      "published_date": "2023-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2976.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0db17c3974bc",
+      "rss_guid": "f85d0504-a255-11ed-b5cb-6ba92d83ea38",
+      "published_date": "2023-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8931.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ea4140493dbe",
+      "rss_guid": "f74be16c-a255-11ed-b5cb-9b67e5e0329a",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6278.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b6919ffc08d4",
+      "rss_guid": "928c2688-a255-11ed-8573-1f7e8c0c050a",
+      "published_date": "2023-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2105.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a193710743cc",
+      "rss_guid": "f6c78250-a255-11ed-b5cb-6fe8a901ce6d",
+      "published_date": "2023-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6181.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-de223dd38e62",
+      "rss_guid": "f6a42eb8-a255-11ed-b5cb-9ff44a1998b3",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6634.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7296d612da3c",
+      "rss_guid": "9265bfe8-a255-11ed-8573-fb7399fd2e35",
+      "published_date": "2023-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2984.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2294792b580b",
+      "rss_guid": "f6e881b2-a255-11ed-b5cb-a35d70c2b9df",
+      "published_date": "2023-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7855.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-81ed7f4e2141",
+      "rss_guid": "f67c4fb0-a255-11ed-b5cb-17af1d42e8cd",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6818.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2d1f69a45826",
+      "rss_guid": "923f3a3a-a255-11ed-8573-ebd11f3ab342",
+      "published_date": "2023-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3133.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-da37f85f9c2e",
+      "rss_guid": "f7094ce4-a255-11ed-b5cb-af2a0a7f9bb5",
+      "published_date": "2023-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 8341.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-abca750db653",
+      "rss_guid": "f659d728-a255-11ed-b5cb-03cc02fc9bc0",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8684.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-99a22ab6da85",
+      "rss_guid": "92193678-a255-11ed-8573-8f21a99f547f",
+      "published_date": "2023-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3317.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0e7426cc8efe",
+      "rss_guid": "f72a331e-a255-11ed-b5cb-7bea24fb56f7",
+      "published_date": "2023-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6613.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d9b3e9e7212b",
+      "rss_guid": "f63707e8-a255-11ed-b5cb-a3ce3481af29",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8041.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f5eeb3f19cf7",
+      "rss_guid": "f6154324-a255-11ed-b5cb-2f6ce021a425",
+      "published_date": "2023-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5321.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6f8a69146e71",
+      "rss_guid": "f5701958-a255-11ed-b5cb-831ecdf052a4",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7376.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-59e04a0bb35d",
+      "rss_guid": "91eea354-a255-11ed-8573-7710992f01eb",
+      "published_date": "2023-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2428.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f8bc312b9ca1",
+      "rss_guid": "f5f28aaa-a255-11ed-b5cb-fff02206e546",
+      "published_date": "2023-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7802.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ef69fa3c57a5",
+      "rss_guid": "f54fc05e-a255-11ed-b5cb-4377130d317d",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6363.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-489313a84008",
+      "rss_guid": "91c89880-a255-11ed-8573-f330c818f8cd",
+      "published_date": "2023-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2521.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-25cb14b884b0",
+      "rss_guid": "f5d1e070-a255-11ed-b5cb-7bcb142847d6",
+      "published_date": "2023-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7880.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c3f6c5216dd4",
+      "rss_guid": "f52f3d48-a255-11ed-b5cb-5361a2619afd",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9637.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b85931e00fcb",
+      "rss_guid": "283c2e1c-37b6-11ee-8d8d-5b42f3d8e0f6",
+      "published_date": "2023-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2978.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-19b1ba8fdc20",
+      "rss_guid": "f5b19360-a255-11ed-b5cb-fbc3b02a2e99",
+      "published_date": "2023-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 9621.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f523f9403544",
+      "rss_guid": "f50ea59c-a255-11ed-b5cb-1b75c7027121",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7769.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7e8270650fd2",
+      "rss_guid": "917be846-a255-11ed-8573-73b67cffa58a",
+      "published_date": "2023-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1914.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4897f4e4b73a",
+      "rss_guid": "f590ab46-a255-11ed-b5cb-8ff3354d98ca",
+      "published_date": "2023-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6969.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-be8429052e25",
+      "rss_guid": "f4645f92-a255-11ed-b5cb-13aa776da227",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7288.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-033d3d3c6aa9",
+      "rss_guid": "91563876-a255-11ed-8573-f7bdee613d86",
+      "published_date": "2023-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2587.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7ec71e9e0677",
+      "rss_guid": "f4854a2c-a255-11ed-b5cb-0f5f9cb72f9b",
+      "published_date": "2023-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5275.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-eacbc008a16b",
+      "rss_guid": "f443c67e-a255-11ed-b5cb-57595528d117",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7219.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-36a86903f229",
+      "rss_guid": "9130eecc-a255-11ed-8573-077a40fc2062",
+      "published_date": "2023-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2455.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-62ecb547c194",
+      "rss_guid": "f4aae412-a255-11ed-b5cb-8fcbc93d9128",
+      "published_date": "2023-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7285.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-29dfa1f0c582",
+      "rss_guid": "f4236ce4-a255-11ed-b5cb-afbe94ffed96",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7195.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-725bd6ea9a9e",
+      "rss_guid": "910c09fe-a255-11ed-8573-53cad945a84b",
+      "published_date": "2023-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2667.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c6c00e0623d4",
+      "rss_guid": "f4cdce64-a255-11ed-b5cb-27addf084ff5",
+      "published_date": "2023-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8612.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c1440a375747",
+      "rss_guid": "f4026f12-a255-11ed-b5cb-d3f4489abb4a",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6828.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-48c6998a4211",
+      "rss_guid": "90e6d666-a255-11ed-8573-43146f35c775",
+      "published_date": "2023-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2708.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-de16b8787b44",
+      "rss_guid": "f4ede6ea-a255-11ed-b5cb-7b19c0df679b",
+      "published_date": "2023-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7186.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9b2039739018",
+      "rss_guid": "f3e21e60-a255-11ed-b5cb-93a622a0757d",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7452.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-cdfb65f74771",
+      "rss_guid": "90bfbe32-a255-11ed-8573-23557aaa1961",
+      "published_date": "2023-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2514.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3d35d17e90f2",
+      "rss_guid": "f3c1613e-a255-11ed-b5cb-bb02e8df7c4f",
+      "published_date": "2023-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6110.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-be97cdf93810",
+      "rss_guid": "f31dd636-a255-11ed-b5cb-474d91a3819f",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6661.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-14e56d1efbe0",
+      "rss_guid": "9099c934-a255-11ed-8573-635a67b5a8a2",
+      "published_date": "2023-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2978.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-df61275aada5",
+      "rss_guid": "f3a07d66-a255-11ed-b5cb-437fed8f3bdb",
+      "published_date": "2023-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5394.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7cc6b0faad80",
+      "rss_guid": "f2fc69e2-a255-11ed-b5cb-cfcc93df3a05",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9575.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e31f06c68b18",
+      "rss_guid": "9074922c-a255-11ed-8573-1f6e8a72774e",
+      "published_date": "2023-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2676.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-179d0a0432ed",
+      "rss_guid": "f37f99b6-a255-11ed-b5cb-9760d60d9eee",
+      "published_date": "2023-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7373.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ebd40ae17614",
+      "rss_guid": "f2dbf356-a255-11ed-b5cb-db1fd247e5b7",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6484.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-01e4e0131b63",
+      "rss_guid": "904f68bc-a255-11ed-8573-23538aa4f1d7",
+      "published_date": "2023-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2409.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-03e56a45a578",
+      "rss_guid": "f35f6b1e-a255-11ed-b5cb-6b5b5f45e85a",
+      "published_date": "2023-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7892.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c846e3e2405f",
+      "rss_guid": "056297be-0354-11ee-9595-9faae14d38c4",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6832.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-079965ffb582",
+      "rss_guid": "f33ef974-a255-11ed-b5cb-535caf57f4e0",
+      "published_date": "2023-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6364.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-331f3baabfc2",
+      "rss_guid": "f1de0b60-a255-11ed-b5cb-7791132d66a5",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6871.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7621eba2ba9f",
+      "rss_guid": "90299ff6-a255-11ed-8573-ff104dc349aa",
+      "published_date": "2023-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3368.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-38b8f6b6e830",
+      "rss_guid": "f28cd5f0-a255-11ed-b5cb-4f2a6688a7bf",
+      "published_date": "2023-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7631.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fa1480c2c1c5",
+      "rss_guid": "f1b386ce-a255-11ed-b5cb-87c87aa74131",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7988.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bc9d4ab6f51b",
+      "rss_guid": "8fff4d00-a255-11ed-8573-c7d045479f60",
+      "published_date": "2023-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3534.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-82754da3ad2c",
+      "rss_guid": "f2085d52-a255-11ed-b5cb-cbee11d66cc9",
+      "published_date": "2023-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8334.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-48e6e15b1f94",
+      "rss_guid": "f18857a6-a255-11ed-b5cb-d7fd3141abcc",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6903.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c5bcc7816069",
+      "rss_guid": "8fd4d3b8-a255-11ed-8573-abd58fd3b1b3",
+      "published_date": "2023-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2607.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-80e3c451da63",
+      "rss_guid": "df10c682-ef97-11ed-b1b8-83e9761e80c4",
+      "published_date": "2023-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8291.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-33b9e00cda7c",
+      "rss_guid": "8d757dee-ecf0-11ed-8019-f7460e44e169",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7217.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3d976b0d4c88",
+      "rss_guid": "8faf5390-a255-11ed-8573-8314a5d038bb",
+      "published_date": "2023-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2772.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ece1bad0b4ba",
+      "rss_guid": "f260b3ee-a255-11ed-b5cb-e3cefb3c7125",
+      "published_date": "2023-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6722.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-042f97db5d94",
+      "rss_guid": "f133d334-a255-11ed-b5cb-2bd6df7f80bb",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6569.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-61736c84034c",
+      "rss_guid": "8f8168ae-a255-11ed-8573-3398ca7b67ec",
+      "published_date": "2023-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3356.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1ccceb4c6f2a",
+      "rss_guid": "f10a2796-a255-11ed-b5cb-77135abb3cce",
+      "published_date": "2023-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7265.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-88b7639da936",
+      "rss_guid": "f0624030-a255-11ed-b5cb-d785dd1e3f51",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9706.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b7ebe0dc3ace",
+      "rss_guid": "8f59a9e0-a255-11ed-8573-3b37d2df0b8b",
+      "published_date": "2023-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3342.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-28b3aae35a60",
+      "rss_guid": "f0e0c266-a255-11ed-b5cb-afd88409d1d3",
+      "published_date": "2023-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7136.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3da79923b21a",
+      "rss_guid": "f03877b4-a255-11ed-b5cb-3ba4cdf26687",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8541.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3089a42397dc",
+      "rss_guid": "8f325552-a255-11ed-8573-dfc2515e43ba",
+      "published_date": "2023-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2554.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-35b7b35918af",
+      "rss_guid": "f0b6a7f6-a255-11ed-b5cb-e7bbfac49e0f",
+      "published_date": "2023-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8790.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-32b4fed15e27",
+      "rss_guid": "f00e47f0-a255-11ed-b5cb-efa9f5eb2006",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6198.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4502cfb7fabc",
+      "rss_guid": "8f0bf470-a255-11ed-8573-cf54a1f3ac93",
+      "published_date": "2023-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2234.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a11e5bb5310f",
+      "rss_guid": "f08cd160-a255-11ed-b5cb-675413e7754a",
+      "published_date": "2023-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6717.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8a896fddbd91",
+      "rss_guid": "efe344a6-a255-11ed-b5cb-f79c58aedce5",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5779.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bff944050991",
+      "rss_guid": "b02463c4-74e5-11ed-a24b-df90e72e327f",
+      "published_date": "2023-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2824.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0aebf9221c38",
+      "rss_guid": "9596b76e-74e5-11ed-af34-fb47b6b7eac2",
+      "published_date": "2023-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7969.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a0533fffd047",
+      "rss_guid": "94e44822-74e5-11ed-af34-07c46db36f20",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9160.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b7260eabb1e4",
+      "rss_guid": "8ebcb784-a255-11ed-8573-17b4827980c3",
+      "published_date": "2023-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3371.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-18d415ab8d80",
+      "rss_guid": "95717c1a-74e5-11ed-af34-078823ba6776",
+      "published_date": "2023-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7028.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e51dec249f66",
+      "rss_guid": "3f836550-c6b3-11ed-a625-b3b2ca253b3c",
+      "published_date": "2023-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6031.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8d1bcf117790",
+      "rss_guid": "afe53e10-74e5-11ed-a24b-973d7d3ba03a",
+      "published_date": "2023-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3329.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f12acf9d9836",
+      "rss_guid": "394f7680-c382-11ed-b12f-7b51eafe7475",
+      "published_date": "2023-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8456.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-642bab02d09b",
+      "rss_guid": "949c126e-74e5-11ed-af34-fb228e9eb3a1",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6464.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c4506081db20",
+      "rss_guid": "afc335fe-74e5-11ed-a24b-0bfed9b09d7b",
+      "published_date": "2023-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3369.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c8dfed447a4a",
+      "rss_guid": "9529ca1e-74e5-11ed-af34-8b41358920ab",
+      "published_date": "2023-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7020.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-666220050df2",
+      "rss_guid": "94779c72-74e5-11ed-af34-978a67683542",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8020.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0c48e1e12966",
+      "rss_guid": "95075812-74e5-11ed-af34-3b9087832442",
+      "published_date": "2023-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7350.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-72abfb469c85",
+      "rss_guid": "93c4834e-74e5-11ed-af34-a3cb957c8528",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8532.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4dfb48b83f1c",
+      "rss_guid": "afa22f80-74e5-11ed-a24b-f3201597083a",
+      "published_date": "2023-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2602.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f7052c03bbdb",
+      "rss_guid": "94555f04-74e5-11ed-af34-1f28ab7f3b06",
+      "published_date": "2023-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7122.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-023b4bc4c3b6",
+      "rss_guid": "939f5308-74e5-11ed-af34-abceb219c1d0",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 9038.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f6a47ea7201f",
+      "rss_guid": "af80daf6-74e5-11ed-a24b-db86f0489a3e",
+      "published_date": "2023-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3114.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e356dcd060b9",
+      "rss_guid": "17c8d594-ad96-11ed-b47f-f712a7925d2b",
+      "published_date": "2023-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6051.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2d1d123dab87",
+      "rss_guid": "dd38cc52-aafe-11ed-aa50-878c70703495",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5804.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-40e12fe65f6c",
+      "rss_guid": "af617f12-74e5-11ed-a24b-ffdf46aa0269",
+      "published_date": "2023-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2903.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2a41d27f9835",
+      "rss_guid": "940cf4e4-74e5-11ed-af34-c3f54e112ee2",
+      "published_date": "2023-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6381.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0c83ea4fb18b",
+      "rss_guid": "9357ef54-74e5-11ed-af34-4b47c887afab",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7310.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8e8bf0b88907",
+      "rss_guid": "af4040a4-74e5-11ed-a24b-27db8c7969f2",
+      "published_date": "2023-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4010.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1138ca9dbfa8",
+      "rss_guid": "93e7324a-74e5-11ed-af34-6f8e86c8648f",
+      "published_date": "2023-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8983.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-71ea4631d48a",
+      "rss_guid": "92a42b7c-74e5-11ed-af34-a76d490fe241",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6780.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-78aba09fe991",
+      "rss_guid": "af1e5d22-74e5-11ed-a24b-9b3d17fb58a8",
+      "published_date": "2023-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3015.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9604b0c7bf86",
+      "rss_guid": "d2b25f9e-9d09-11ed-a70e-ffb1ba43b950",
+      "published_date": "2023-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7507.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7f0c0bf18be4",
+      "rss_guid": "9281005c-74e5-11ed-af34-d3ff1c959c8a",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7038.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-28aac64abc40",
+      "rss_guid": "3fc671b8-986b-11ed-8452-73be62f22fae",
+      "published_date": "2023-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2862.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a0c73b2ab7aa",
+      "rss_guid": "93128572-74e5-11ed-af34-ff0d0b1225a1",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7284.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4e89426945f2",
+      "rss_guid": "925c0dc4-74e5-11ed-af34-6fd8e4ebe990",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7384.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5781afb430bd",
+      "rss_guid": "aed92676-74e5-11ed-a24b-17144aed4bb0",
+      "published_date": "2023-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3104.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a99c0a658561",
+      "rss_guid": "92ed5d56-74e5-11ed-af34-87441f5c1720",
+      "published_date": "2023-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6389.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ae270a8d33ee",
+      "rss_guid": "92393394-74e5-11ed-af34-a33ed8aa9092",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8910.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-def36f92cea2",
+      "rss_guid": "92c9f488-74e5-11ed-af34-9fd9d7f6fd86",
+      "published_date": "2023-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10097.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-91d75f31f4c6",
+      "rss_guid": "92131574-74e5-11ed-af34-ffec135232f9",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9887.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-298a0235bafc",
+      "rss_guid": "0447b4d2-743d-11ed-b28f-1f48f35b1a61",
+      "published_date": "2022-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4337.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e8450e5342ab",
+      "rss_guid": "7b85830c-70e2-11ed-bf18-8736a799c541",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9986.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2a3b18a47f63",
+      "rss_guid": "4b5333f0-7c3b-11ed-8d01-e3dfae9f7b95",
+      "published_date": "2022-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5875.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b28ca6c1f8f3",
+      "rss_guid": "7b5a93e0-70e2-11ed-bf18-237dac106dfb",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7285.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-09f323a4e7b8",
+      "rss_guid": "28cc24a6-468d-11ed-9160-177542c760cc",
+      "published_date": "2022-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3064.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d4d7eda86829",
+      "rss_guid": "03f23b88-743d-11ed-b28f-334d9c7f9b7e",
+      "published_date": "2022-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7113.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9b4f54767f8c",
+      "rss_guid": "7b2e1aae-70e2-11ed-bf18-8705b93952f3",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7298.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a8bdc887ad1f",
+      "rss_guid": "28a75f40-468d-11ed-9160-9b052020f808",
+      "published_date": "2022-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3295.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4ed68ccf603d",
+      "rss_guid": "27d2264a-70e0-11ed-8f2b-637826787150",
+      "published_date": "2022-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8744.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9e5e3a44a91d",
+      "rss_guid": "a7400bd0-6eac-11ed-bcfc-4f6ebeb5b0e8",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5672.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-da441f6a4aa5",
+      "rss_guid": "a6228ffc-458a-11ed-8e51-3ffa6491194a",
+      "published_date": "2022-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3212.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-44bcd44bf1aa",
+      "rss_guid": "62632b98-2251-11ed-ab02-43bf968684ed",
+      "published_date": "2022-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8185.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c0100c60e2cb",
+      "rss_guid": "61eaf70e-2251-11ed-ab02-eb8240a2c922",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5690.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5962a800609a",
+      "rss_guid": "a5fdb6b4-458a-11ed-8e51-e7a70618081f",
+      "published_date": "2022-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2757.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e05e7526c7be",
+      "rss_guid": "624b3bd2-2251-11ed-ab02-47754b3e7b9f",
+      "published_date": "2022-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7179.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-39a3e43cd21e",
+      "rss_guid": "6eba3e8a-63bb-11ed-86ff-a35780fef4bf",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 8662.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d381a1e0759d",
+      "rss_guid": "a5d8c4a8-458a-11ed-8e51-276ae9d55497",
+      "published_date": "2022-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3315.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f32614bf7d70",
+      "rss_guid": "1acd0874-6097-11ed-8779-67d7b5785767",
+      "published_date": "2022-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8885.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a613f05d280c",
+      "rss_guid": "61b8cb4e-2251-11ed-ab02-cbdf53ca4abd",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6594.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3e8ecd62fde3",
+      "rss_guid": "a5b4350c-458a-11ed-8e51-03b47d67d7ed",
+      "published_date": "2022-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3748.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d17bc183a7d4",
+      "rss_guid": "621b2d7a-2251-11ed-ab02-dfa01b0b7a29",
+      "published_date": "2022-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6087.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-af7aeafbdde9",
+      "rss_guid": "612beed6-2251-11ed-ab02-e7a404f89303",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5679.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-352854d0f711",
+      "rss_guid": "a58fa78c-458a-11ed-8e51-c3bfd1ee80da",
+      "published_date": "2022-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3076.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-70f2ac05d500",
+      "rss_guid": "619bafdc-2251-11ed-ab02-4f7b23d3547d",
+      "published_date": "2022-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8062.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-28cbb6941439",
+      "rss_guid": "258f768c-536a-11ed-b11b-733f20c7bc23",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7052.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-5804fea7f6a4",
+      "rss_guid": "a5688bde-458a-11ed-8e51-77cdccb4a430",
+      "published_date": "2022-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2425.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-945fd18e015e",
+      "rss_guid": "617ffa58-2251-11ed-ab02-37ed58ffba66",
+      "published_date": "2022-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6381.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-76ad1e6824e8",
+      "rss_guid": "60f40de0-2251-11ed-ab02-f791c5a8dbd9",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7120.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d8cbe561bd1a",
+      "rss_guid": "a542df60-458a-11ed-8e51-c774e62fa43b",
+      "published_date": "2022-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2978.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c6e2266cef94",
+      "rss_guid": "61633dc8-2251-11ed-ab02-f346680a8c8b",
+      "published_date": "2022-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7809.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6585fdd662dc",
+      "rss_guid": "60d845c4-2251-11ed-ab02-0bfe07d27194",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7084.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-66ce7bc525c8",
+      "rss_guid": "a51d73d8-458a-11ed-8e51-6b30ee5ddade",
+      "published_date": "2022-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2516.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-aad0855b4c1a",
+      "rss_guid": "6147f996-2251-11ed-ab02-cb803dcb73de",
+      "published_date": "2022-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6265.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1977b53b870f",
+      "rss_guid": "8b7e181c-42c7-11ed-9071-eb30aac1bbd9",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6846.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4de09f8a3115",
+      "rss_guid": "36159900-dae3-11ec-98e2-a713d0457549",
+      "published_date": "2022-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1850.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d3d22164700e",
+      "rss_guid": "60a112f2-2251-11ed-ab02-ffee3177f1fb",
+      "published_date": "2022-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5801.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2922214c3a2e",
+      "rss_guid": "6014121c-2251-11ed-ab02-0b9dc54022a3",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5966.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-35e0f795fb1f",
+      "rss_guid": "3240fd6a-1da5-11ed-8166-cf0415cad522",
+      "published_date": "2022-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3875.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6870c035a367",
+      "rss_guid": "60854914-2251-11ed-ab02-2b772b2ff87b",
+      "published_date": "2022-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5328.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8172c761f223",
+      "rss_guid": "5ff78818-2251-11ed-ab02-27bda45f1aa6",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4742.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-736b217ef378",
+      "rss_guid": "321dd9de-1da5-11ed-8166-3bdcdecc4dfe",
+      "published_date": "2022-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3000.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-be466c3763c2",
+      "rss_guid": "477d0dee-348a-11ed-9fe4-cba22fe82ece",
+      "published_date": "2022-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6994.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3e472cb596d3",
+      "rss_guid": "fb9fa6bc-3230-11ed-ade9-67a1519e9a77",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6692.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6eab0d2ae219",
+      "rss_guid": "31fb1e58-1da5-11ed-8166-cb007a31ba5a",
+      "published_date": "2022-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2206.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c7db9554b1c5",
+      "rss_guid": "604c3354-2251-11ed-ab02-3367a0615f03",
+      "published_date": "2022-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6649.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-215f30e27321",
+      "rss_guid": "5fbf2c16-2251-11ed-ab02-87fc0d580c8b",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7266.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-adb3811cd0f5",
+      "rss_guid": "6030c7ae-2251-11ed-ab02-5fa65818124c",
+      "published_date": "2022-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5214.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-31e036e4a5a9",
+      "rss_guid": "c0d4d050-d17a-11ec-9bee-1bcd23071284",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6299.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ac7180c9147b",
+      "rss_guid": "31d8fbde-1da5-11ed-8166-575cd84edb8a",
+      "published_date": "2022-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2191.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-51e8443fe395",
+      "rss_guid": "c1645dec-d17a-11ec-9bee-93b55ff2f4d4",
+      "published_date": "2022-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7332.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fc752fe7b2de",
+      "rss_guid": "dd0b348a-21cf-11ed-bb5e-6f5912a4557b",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7041.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3ee5efb86d44",
+      "rss_guid": "31b554a4-1da5-11ed-8166-473039b0fde0",
+      "published_date": "2022-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2179.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-933b5b50b48f",
+      "rss_guid": "c1490aec-d17a-11ec-9bee-135305f51ee8",
+      "published_date": "2022-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5997.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0e2c70c302ee",
+      "rss_guid": "c09f1564-d17a-11ec-9bee-d73be6d1e2b1",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5799.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b5256f3cbd4a",
+      "rss_guid": "0f19217c-1991-11ed-97b4-8fc8dbc0d6df",
+      "published_date": "2022-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2654.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-160a665cd7e5",
+      "rss_guid": "c12be502-d17a-11ec-9bee-6b35d5f15cbd",
+      "published_date": "2022-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5676.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1c88c22fa32b",
+      "rss_guid": "c0843dac-d17a-11ec-9bee-2bfae47d982c",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5675.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7b20bda4f77c",
+      "rss_guid": "4f370d30-1416-11ed-be69-efece5eb0dc3",
+      "published_date": "2022-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3692.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-255ccffe9f8f",
+      "rss_guid": "44e6f3ba-13ba-11ed-8b6f-1fe3d05a8fd7",
+      "published_date": "2022-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5320.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9b9dda45e524",
+      "rss_guid": "c0f0adfc-d17a-11ec-9bee-23ea94494ba5",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 9277.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fbf1a64027f0",
+      "rss_guid": "931c8f72-e291-11ec-a01d-9bf16e252bc4",
+      "published_date": "2022-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2409.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-423295616651",
+      "rss_guid": "203526b8-0e10-11ed-a2d9-4ff309f8ca03",
+      "published_date": "2022-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6056.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-93d448e8a1bb",
+      "rss_guid": "bffc7458-d17a-11ec-9bee-8b25719022cd",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6115.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-068744f6d8b8",
+      "rss_guid": "933479a2-e291-11ec-a01d-df1011d99671",
+      "published_date": "2022-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2311.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-eab023e65fd1",
+      "rss_guid": "c0336be8-d17a-11ec-9bee-d332eec8d790",
+      "published_date": "2022-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5703.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c6a31f5239c2",
+      "rss_guid": "912e1500-0640-11ed-8702-8ba7d875fecf",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6819.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7f86c8edfd79",
+      "rss_guid": "9304a88a-e291-11ec-a01d-7b5147c21901",
+      "published_date": "2022-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2556.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a6160ceb6d53",
+      "rss_guid": "a6bfa0ec-030b-11ed-848d-b720fbd9c871",
+      "published_date": "2022-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5517.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ec5023c35872",
+      "rss_guid": "bfc503ce-d17a-11ec-9bee-574d3b3a5a3b",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7098.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-192891bfb97a",
+      "rss_guid": "92ec1ce8-e291-11ec-a01d-3365fd95dab1",
+      "published_date": "2022-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2883.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f61d4f342996",
+      "rss_guid": "60d987ac-fbb6-11ec-9a90-e735f6fa52d2",
+      "published_date": "2022-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6623.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-57f504845c86",
+      "rss_guid": "bfa6d6a6-d17a-11ec-9bee-1f2523a67ed3",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6310.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ddc2b6c9b2ee",
+      "rss_guid": "bf19c8ba-d17a-11ec-9bee-6baa3cde6c9d",
+      "published_date": "2022-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5614.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ef673a2c6081",
+      "rss_guid": "beff37c0-d17a-11ec-9bee-b76524bc5550",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5791.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-da23cb50f06f",
+      "rss_guid": "92d34d6c-e291-11ec-a01d-b70dd65359e5",
+      "published_date": "2022-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2528.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-000f3d922fb3",
+      "rss_guid": "8847587c-f2b1-11ec-ab20-97bce321caa0",
+      "published_date": "2022-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8737.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e276af69fe88",
+      "rss_guid": "bee4acfc-d17a-11ec-9bee-83a62ff65f65",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5013.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-c5eeacb0dc1b",
+      "rss_guid": "85ed2492-ee8f-11ec-bf27-9b187d511505",
+      "published_date": "2022-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 707.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9038feb9e1e4",
+      "rss_guid": "92bb6d50-e291-11ec-a01d-d35a16226a9d",
+      "published_date": "2022-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2074.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a900a3b3fe54",
+      "rss_guid": "bf512080-d17a-11ec-9bee-47a0b943f681",
+      "published_date": "2022-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6580.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-85cc352e01f3",
+      "rss_guid": "bec9d986-d17a-11ec-9bee-6b40cf2a0213",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6733.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9b62b9631231",
+      "rss_guid": "92a35616-e291-11ec-a01d-ab5e086a2c98",
+      "published_date": "2022-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2891.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-cea2c8b3a297",
+      "rss_guid": "bf6d2e60-d17a-11ec-9bee-0bb7247208c4",
+      "published_date": "2022-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5882.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0f662e3ea502",
+      "rss_guid": "beae1a02-d17a-11ec-9bee-43960d1bcd0a",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5835.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8d9faf0618bc",
+      "rss_guid": "928aa0f8-e291-11ec-a01d-fbfa37987898",
+      "published_date": "2022-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2361.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2faa0efab7ce",
+      "rss_guid": "bf89a5ae-d17a-11ec-9bee-33af1986b767",
+      "published_date": "2022-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7912.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8b3b9309b289",
+      "rss_guid": "b72f04e4-879c-11ec-aa8e-9f60fb995012",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7461.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9dadb1343e52",
+      "rss_guid": "b78805e4-879c-11ec-aa8e-5f9404613166",
+      "published_date": "2022-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5840.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-01dd7c4f016d",
+      "rss_guid": "b717d2e2-879c-11ec-aa8e-f72b76f5dd94",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7066.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f4c1b5dfddf1",
+      "rss_guid": "b7717f9a-879c-11ec-aa8e-971f4179a0c6",
+      "published_date": "2022-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6346.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e8ab174930e9",
+      "rss_guid": "b6eb4fc4-879c-11ec-aa8e-0f5606ae136a",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6692.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-bda99be2b33f",
+      "rss_guid": "b75bbdb8-879c-11ec-aa8e-3ff3da06586d",
+      "published_date": "2022-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5290.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9205057e88dc",
+      "rss_guid": "b6d50f66-879c-11ec-aa8e-8f07ead1fbf9",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5643.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d59502821547",
+      "rss_guid": "b74572ce-879c-11ec-aa8e-cbe111a9090a",
+      "published_date": "2022-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5744.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-e3efb733ab96",
+      "rss_guid": "b701699e-879c-11ec-aa8e-ffacde548c7e",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5677.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-dc5627540803",
+      "rss_guid": "b67bbfe2-879c-11ec-aa8e-3f890024ec1f",
+      "published_date": "2022-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6086.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-b62bb22b45b1",
+      "rss_guid": "b665f982-879c-11ec-aa8e-87c4417a81d0",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6906.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8b8162c74ad4",
+      "rss_guid": "b691c922-879c-11ec-aa8e-dbd1c01c9f6e",
+      "published_date": "2022-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4565.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0778f2eee239",
+      "rss_guid": "b64ffa2e-879c-11ec-aa8e-cbcac9427a7f",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3787.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-56226c306ab5",
+      "rss_guid": "2e5995d2-bc33-11ec-b92d-e32a47aa9534",
+      "published_date": "2022-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2349.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-70d03543c468",
+      "rss_guid": "b6a83482-879c-11ec-aa8e-0797699e277d",
+      "published_date": "2022-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4833.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0022894e3887",
+      "rss_guid": "b63a2226-879c-11ec-aa8e-f73993109046",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5047.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2bfacc23e3f7",
+      "rss_guid": "b6bea168-879c-11ec-aa8e-e322a7d79b7f",
+      "published_date": "2022-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5323.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d60edf36e27a",
+      "rss_guid": "b62431fa-879c-11ec-aa8e-bf17e64f1c6c",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5613.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-26156a500635",
+      "rss_guid": "b60e0cc2-879c-11ec-aa8e-8b21c568af29",
+      "published_date": "2022-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5280.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4b14718630f5",
+      "rss_guid": "d3021040-ae51-11ec-a9d3-4f8920ee0cb4",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4893.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f9eddb6f7256",
+      "rss_guid": "b5f7e924-879c-11ec-aa8e-ef05ea7b1195",
+      "published_date": "2022-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5904.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6d804a4efc7d",
+      "rss_guid": "b5884b78-879c-11ec-aa8e-17244fd7e55d",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5709.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ea11cd04b4d1",
+      "rss_guid": "b5e1bfe6-879c-11ec-aa8e-670d90b65f4e",
+      "published_date": "2022-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6893.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4a7d4ca9bb01",
+      "rss_guid": "b5721ed4-879c-11ec-aa8e-6f284e075f24",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5352.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-281b476ade13",
+      "rss_guid": "b5caaeb4-879c-11ec-aa8e-b3ecb1a53320",
+      "published_date": "2022-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6737.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7756dbaf5604",
+      "rss_guid": "b55a6dd4-879c-11ec-aa8e-5b53741cc4a4",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4330.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4ca5f606bcd1",
+      "rss_guid": "b5b456a0-879c-11ec-aa8e-17c65ea5371b",
+      "published_date": "2022-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4261.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6754433b3633",
+      "rss_guid": "bff66ad0-3d0b-11ec-b36f-eb9e0386bf0c",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4921.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7af303f8291c",
+      "rss_guid": "3efb0380-9528-11ec-b73f-d3ec863c48d8",
+      "published_date": "2022-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5667.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-77c87e425cf1",
+      "rss_guid": "612c8d68-92ab-11ec-9031-0fb626a79cfa",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4700.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9a6496ba3573",
+      "rss_guid": "c0dcbb34-3d0b-11ec-b36f-6b71037b5fea",
+      "published_date": "2022-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5093.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7b5b99eb0bbe",
+      "rss_guid": "bf5b4582-3d0b-11ec-b36f-db484a5710bc",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4366.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-a2a698ef00b1",
+      "rss_guid": "c0908566-3d0b-11ec-b36f-f3685ad69169",
+      "published_date": "2022-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6045.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-71fafa5670c0",
+      "rss_guid": "d45c7d2e-87bc-11ec-8bae-ef035db2e21a",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4737.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1446abfcad45",
+      "rss_guid": "4c5f1bb4-8476-11ec-ad78-bb95dd95dd69",
+      "published_date": "2022-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6373.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f29ab760f7cf",
+      "rss_guid": "bd8e2ada-3d0b-11ec-b36f-bf2b329191aa",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4395.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-1ffc3292a78b",
+      "rss_guid": "bec0bb0c-3d0b-11ec-b36f-e3b728569d19",
+      "published_date": "2022-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6584.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-918d97abac6c",
+      "rss_guid": "5c310266-7ca9-11ec-a3b7-6fd720418225",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5916.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7b32db80d61b",
+      "rss_guid": "be744cfe-3d0b-11ec-b36f-9fcd1c3f0251",
+      "published_date": "2022-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5842.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-790566aba431",
+      "rss_guid": "bcf575e2-3d0b-11ec-b36f-1736ad3f8f0e",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4960.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-0d793b6f199c",
+      "rss_guid": "f91ffa0c-7405-11ec-acbf-1f9e70198bd2",
+      "published_date": "2022-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5043.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-192047ebe311",
+      "rss_guid": "37ac668a-71d5-11ec-aa02-77f096c7de7b",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4319.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-edc9d0a935f1",
+      "rss_guid": "82f5ca3e-6e90-11ec-ba83-5705aae7a24d",
+      "published_date": "2022-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6309.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-2f12fade8238",
+      "rss_guid": "bc596bca-3d0b-11ec-b36f-bb67f39b2c54",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5826.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-eed9f75ab3dd",
+      "rss_guid": "1274329a-6086-11ec-acbf-877722a2e63a",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4838.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d1e17e6a895a",
+      "rss_guid": "48a76612-2a25-11ec-889d-af0c87962987",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5912.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3bbf413b9485",
+      "rss_guid": "b71cea8a-5893-11ec-a2b3-177bc2ff470c",
+      "published_date": "2021-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6163.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-161a10e3be83",
+      "rss_guid": "48551bf0-2a25-11ec-889d-37e9bdf5ac52",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6926.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-fb86082465f8",
+      "rss_guid": "4a912346-2a25-11ec-889d-7318faf21f1b",
+      "published_date": "2021-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6322.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-8fd2bf2f816c",
+      "rss_guid": "987e7bd8-0114-11ec-af65-33db2c36ce8a",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6832.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-9aade89e31ee",
+      "rss_guid": "98a5dd36-0114-11ec-af65-fb8f4580a53f",
+      "published_date": "2021-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6639.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-18520c0e0c46",
+      "rss_guid": "329ffb42-4b43-11ec-97be-3b8b57be1965",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6214.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-49f14d98524b",
+      "rss_guid": "98cbcc58-0114-11ec-af65-d30ac62f2f0a",
+      "published_date": "2021-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4608.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-4048aa714ad4",
+      "rss_guid": "98321cac-0114-11ec-af65-27d3fe0eacc5",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4641.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-857ddd6a8f60",
+      "rss_guid": "98f18dbc-0114-11ec-af65-87a1408075a1",
+      "published_date": "2021-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6005.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-edfd1802d928",
+      "rss_guid": "980bba12-0114-11ec-af65-3f49e2973538",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7192.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-24050a6b0940",
+      "rss_guid": "9916e97c-0114-11ec-af65-d3d7cbf56fc7",
+      "published_date": "2021-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6277.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-749ad6100f4f",
+      "rss_guid": "97e51ed4-0114-11ec-af65-a308debd5f77",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6300.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-f91aa36b7505",
+      "rss_guid": "122ff69c-ef35-11eb-8941-cf21d21d1a5c",
+      "published_date": "2021-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6911.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d9e42df86ec6",
+      "rss_guid": "1206aa3a-ef35-11eb-8941-832bf1b8d3f1",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5256.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-6313c535b349",
+      "rss_guid": "125add12-ef35-11eb-8941-f7aebdecf075",
+      "published_date": "2021-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6707.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-d7cda74bac05",
+      "rss_guid": "11dd4532-ef35-11eb-8941-ef2d5a54e3db",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6136.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-3a7354d4e0f7",
+      "rss_guid": "128493c8-ef35-11eb-8941-23a18485e727",
+      "published_date": "2021-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7190.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-7a68713be2c2",
+      "rss_guid": "11b352fe-ef35-11eb-8941-e7035146ae54",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7857.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-ba0199692f5b",
+      "rss_guid": "12adbbea-ef35-11eb-8941-6fb7f2314e29",
+      "published_date": "2021-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6528.0
+    },
+    {
+      "episode_id": "armchair_expert_with_dax_shepard-85e50c7ad5da",
+      "rss_guid": "1189ba34-ef35-11eb-8941-4bdc047194dd",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5447.0
+    }
+  ]
+}

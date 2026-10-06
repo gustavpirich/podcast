@@ -148,6 +148,15 @@ def load_inputs(
     return selected_audio, metadata_path, metadata
 
 
+def max_speakers(metadata: dict[str, Any]) -> int:
+    """Upper diarization bound: per-show value in the raw record, else the original 4."""
+
+    value = int(metadata.get("podcast", {}).get("max_speakers_expected") or 4)
+    if not 2 <= value <= 10:
+        raise TranscriptionError(f"max_speakers_expected must be 2-10, got {value}")
+    return value
+
+
 def known_speakers(
     metadata: dict[str, Any], guest_name: str | None = None
 ) -> list[dict[str, str]]:
@@ -187,6 +196,7 @@ def request_summary(
     output_dir: Path,
     speakers: list[dict[str, str]],
     delivery: str,
+    speaker_limit: int = 4,
 ) -> str:
     names = ", ".join(f"{item['name']} ({item['role']})" for item in speakers)
     return "\n".join(
@@ -204,7 +214,7 @@ def request_summary(
             f"  Media delivery: {delivery}",
             f"  Models:         {', '.join(SPEECH_MODELS)}",
             "  Language:       English",
-            "  Diarization:    2 to 4 speakers",
+            f"  Diarization:    2 to {speaker_limit} speakers",
             "  Identification: name-based, medium effort (not human-verified)",
             "  Region:         US",
         ]
@@ -464,6 +474,52 @@ def upload_file_with_curl(audio_path: Path, api_key: str) -> str:
     return parse_upload_response(result.stdout)
 
 
+NUMBERED_NAME = re.compile(r"^(?P<base>.+?) - \d+$")
+BARE_LABEL = re.compile(r"^[A-Z]{1,2}$")
+
+
+def classify_speaker(
+    label: str, name: str, role_by_name: dict[str, str]
+) -> tuple[str, str, str]:
+    """Return (output name, role, name source) for one diarized speaker.
+
+    AssemblyAI may split one voice into "Name - 1" and "Name - 2", or name a
+    person who is not in the roster. Hosts are merged back to their configured
+    name; any other named person is treated as a guest and flagged.
+    """
+
+    numbered = NUMBERED_NAME.match(name)
+    base = numbered.group("base") if numbered else name
+    role = role_by_name.get(base)
+    if role == "Host":
+        return base, "Host", "roster" if base == name else "roster_split_voice_merged"
+    if role == "Guest":
+        return name, "Guest", "roster"
+    if name == label or BARE_LABEL.fullmatch(name):
+        return name, "Unidentified", "diarization_label_only"
+    return name, "Guest", "named_by_provider_not_in_roster"
+
+
+def renamed_utterances(
+    utterances: list[dict[str, Any]], rename: dict[str, str]
+) -> list[dict[str, Any]]:
+    """Apply merged speaker names to utterances and their words."""
+
+    if not rename:
+        return utterances
+    output = []
+    for utterance in utterances:
+        item = dict(utterance)
+        item["speaker"] = rename.get(item.get("speaker"), item.get("speaker"))
+        if isinstance(item.get("words"), list):
+            item["words"] = [
+                {**word, "speaker": rename.get(word.get("speaker"), word.get("speaker"))}
+                for word in item["words"]
+            ]
+        output.append(item)
+    return output
+
+
 def speaker_mapping(response: dict[str, Any]) -> dict[str, str]:
     speech_understanding = response.get("speech_understanding") or {}
     understanding_response = speech_understanding.get("response") or {}
@@ -478,8 +534,12 @@ def normalized_document(
     audio_path: Path | None,
     speaker_identification_status: str | None = None,
     speaker_identification_error: str | None = None,
+    base_response: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
+    """Normalize a provider response; base_response holds the transcript's own metadata."""
+
     role_by_name = {item["name"]: item["role"] for item in speakers}
+    meta = base_response or response
     mapping = speaker_mapping(response)
     utterances = response.get("utterances") or []
     if speaker_identification_status is None:
@@ -487,15 +547,23 @@ def normalized_document(
         understanding_response = speech_understanding.get("response") or {}
         identification = understanding_response.get("speaker_identification") or {}
         speaker_identification_status = identification.get("status", "not_available")
+    rename: dict[str, str] = {}
     if mapping:
-        normalized_speakers = [
-            {
-                "id": original_label,
-                "name": name,
-                "role": role_by_name.get(name, "Unidentified"),
-            }
-            for original_label, name in mapping.items()
-        ]
+        normalized_speakers = []
+        for original_label, name in mapping.items():
+            output_name, role, source = classify_speaker(original_label, name, role_by_name)
+            if output_name != name:
+                rename[name] = output_name
+            normalized_speakers.append(
+                {
+                    "id": original_label,
+                    "name": output_name,
+                    "role": role,
+                    "provider_name": name,
+                    "name_source": source,
+                }
+            )
+        utterances = renamed_utterances(utterances, rename)
     else:
         generic_labels = list(
             dict.fromkeys(
@@ -535,14 +603,14 @@ def normalized_document(
         "transcription": {
             "provider": "AssemblyAI",
             "region": "US",
-            "transcript_id": response.get("id"),
-            "status": response.get("status"),
-            "language_code": response.get("language_code"),
-            "audio_duration_seconds": response.get("audio_duration"),
-            "confidence": response.get("confidence"),
+            "transcript_id": meta.get("id"),
+            "status": meta.get("status"),
+            "language_code": meta.get("language_code"),
+            "audio_duration_seconds": meta.get("audio_duration"),
+            "confidence": meta.get("confidence"),
             "speech_models_requested": SPEECH_MODELS,
-            "speech_model_used": response.get("speech_model_used")
-            or response.get("speech_model"),
+            "speech_model_used": meta.get("speech_model_used")
+            or meta.get("speech_model"),
             "speaker_identification_effort": "medium",
             "speaker_identification_status": speaker_identification_status,
             "speaker_identification_error": speaker_identification_error,
@@ -598,6 +666,49 @@ def markdown_transcript(document: dict[str, Any]) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
+def rebuild_outputs(
+    output_dir: Path,
+    metadata: dict[str, Any],
+    speakers: list[dict[str, str]],
+    audio_path: Path | None,
+) -> int:
+    """Re-normalize a completed transcript without submitting new audio."""
+
+    response_path = output_dir / "assemblyai_response.json.gz"
+    job_path = output_dir / "assemblyai_job.json"
+    if not response_path.is_file() or not job_path.is_file():
+        raise TranscriptionError(f"No completed transcript to rebuild in {output_dir}")
+    if (output_dir / "transcript.json").exists():
+        raise TranscriptionError("Legacy uncompressed transcript.json present; rebuild not supported here")
+    api_key = os.environ.get("ASSEMBLYAI_API_KEY", "").strip()
+    if not api_key:
+        raise TranscriptionError("ASSEMBLYAI_API_KEY is needed to fetch transcript metadata")
+    import assemblyai as aai
+
+    job = json.loads(job_path.read_text(encoding="utf-8"))
+    with gzip.open(response_path, "rt", encoding="utf-8") as handle:
+        identified_response = json.load(handle)
+    aai.settings.api_key = api_key
+    base = aai.Transcript.get_by_id(job["transcript_id"]).json_response
+    identification = job.get("speaker_identification") or {}
+    document = normalized_document(
+        identified_response,
+        metadata,
+        speakers,
+        audio_path,
+        speaker_identification_status=identification.get("status"),
+        speaker_identification_error=identification.get("error"),
+        base_response={key: base.get(key) for key in (
+            "id", "status", "language_code", "audio_duration", "confidence",
+            "speech_model_used", "speech_model",
+        )},
+    )
+    atomic_write_json_gzip(output_dir / "transcript.json.gz", document)
+    atomic_write_text(output_dir / "transcript.md", markdown_transcript(document))
+    print(f"Rebuilt transcript.json.gz and transcript.md for {job['transcript_id']}")
+    return 0
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -641,6 +752,14 @@ def parse_args() -> argparse.Namespace:
         help="Upload/submit or resume the job, record its ID, and do not wait",
     )
     parser.add_argument(
+        "--rebuild",
+        action="store_true",
+        help=(
+            "Regenerate transcript.json.gz and transcript.md from the saved provider "
+            "response and the transcript's metadata (free GET; no new transcription)"
+        ),
+    )
+    parser.add_argument(
         "--skip-speaker-identification",
         action="store_true",
         help=(
@@ -666,8 +785,11 @@ def main() -> int:
                 output_dir,
                 speakers,
                 args.delivery,
+                max_speakers(metadata),
             )
         )
+        if args.rebuild:
+            return rebuild_outputs(output_dir, metadata, speakers, audio_path)
         if not args.yes:
             print("\nDry run only. Add --yes to submit the billable AssemblyAI request.")
             return 0
@@ -756,7 +878,7 @@ def main() -> int:
                 speaker_labels=True,
                 speaker_options=aai.SpeakerOptions(
                     min_speakers_expected=2,
-                    max_speakers_expected=4,
+                    max_speakers_expected=max_speakers(metadata),
                 ),
             )
             transcriber = aai.Transcriber(api_key=api_key)
@@ -807,7 +929,7 @@ def main() -> int:
                     "format_text": True,
                     "speaker_labels": True,
                     "min_speakers_expected": 2,
-                    "max_speakers_expected": 4,
+                    "max_speakers_expected": max_speakers(metadata),
                 },
                 "assemblyai_sdk_version": importlib.metadata.version("assemblyai"),
             }
@@ -896,6 +1018,7 @@ def main() -> int:
             audio_path,
             speaker_identification_status=identification_status,
             speaker_identification_error=identification_error,
+            base_response=transcript.json_response,
         )
         atomic_write_json_gzip(
             output_dir / "assemblyai_response.json.gz", identified_response

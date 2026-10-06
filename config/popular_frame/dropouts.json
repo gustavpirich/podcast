@@ -1,0 +1,1451 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_dropouts_20261002T193807Z",
+  "show_id": "dropouts",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/24f40f28-dcb5-4b94-a356-b4a40123b496/2b027f27-d706-4ef9-9cff-b4a40123b4a3/podcast.rss",
+    "snapshot_relative_path": "data/raw/rss/dropouts/dropouts_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "2f89f2ed853e487f878a474a4fd2f5bb9fb1e2be7ac9b70c237f1263a13b6572",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "dropouts-e471f6b63104",
+      "rss_guid": "59337545-d86b-43e5-8ebf-b4d5001dd4e0",
+      "published_date": "2026-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3258.0
+    },
+    {
+      "episode_id": "dropouts-dc4ea000c6e0",
+      "rss_guid": "e66c3c97-55a2-4a8a-88db-b4ce002df796",
+      "published_date": "2026-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2884.0
+    },
+    {
+      "episode_id": "dropouts-e03128c62a7d",
+      "rss_guid": "63c6432a-36ab-4665-9ba4-b4c7000d365a",
+      "published_date": "2026-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3292.0
+    },
+    {
+      "episode_id": "dropouts-e20c5e0bc8d5",
+      "rss_guid": "30ebda8d-187c-46dc-b23b-b4c0002cab80",
+      "published_date": "2026-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4145.0
+    },
+    {
+      "episode_id": "dropouts-bc8903859be8",
+      "rss_guid": "9b9cd174-06fc-4060-bdad-c49a3c1aaa4c",
+      "published_date": "2025-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6557.0
+    },
+    {
+      "episode_id": "dropouts-a81c1223b500",
+      "rss_guid": "6e87705c-ae39-4f72-9a13-ae36dcf6c2c7",
+      "published_date": "2025-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3931.0
+    },
+    {
+      "episode_id": "dropouts-b917acbaa305",
+      "rss_guid": "1f867536-560c-4f93-9965-723f97e753be",
+      "published_date": "2025-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4487.0
+    },
+    {
+      "episode_id": "dropouts-e76388556c60",
+      "rss_guid": "fe56ee28-0239-4ce3-a2f1-1d147f6557dd",
+      "published_date": "2025-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4804.0
+    },
+    {
+      "episode_id": "dropouts-00efd4218b71",
+      "rss_guid": "21ef253c-8080-4b5e-811f-8e5cbf9e869c",
+      "published_date": "2025-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3102.0
+    },
+    {
+      "episode_id": "dropouts-4d56408b2b2e",
+      "rss_guid": "0bf730f3-0afa-44cf-9863-915e36f16fe4",
+      "published_date": "2025-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4656.0
+    },
+    {
+      "episode_id": "dropouts-faa2eb0ca1c2",
+      "rss_guid": "f748e66b-4deb-4eca-aff3-5b62651fe825",
+      "published_date": "2025-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4422.0
+    },
+    {
+      "episode_id": "dropouts-19384a894478",
+      "rss_guid": "750c0ce3-9ed7-49b9-9aa5-1a52301f60b7",
+      "published_date": "2025-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3534.0
+    },
+    {
+      "episode_id": "dropouts-eedef82da147",
+      "rss_guid": "d748a777-ad93-4970-a6bc-fe31687164da",
+      "published_date": "2025-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4421.0
+    },
+    {
+      "episode_id": "dropouts-3e613b8ce048",
+      "rss_guid": "0a50437b-b5c0-4b0d-b1c2-1db0e08505f5",
+      "published_date": "2025-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5222.0
+    },
+    {
+      "episode_id": "dropouts-f91747915e8f",
+      "rss_guid": "b88b893f-88b9-4958-b6ec-4fafe1980b6a",
+      "published_date": "2025-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4628.0
+    },
+    {
+      "episode_id": "dropouts-f8615318786a",
+      "rss_guid": "6cc4944a-f84d-4980-b32b-98f044992306",
+      "published_date": "2025-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4737.0
+    },
+    {
+      "episode_id": "dropouts-46b28d9c01e9",
+      "rss_guid": "e8620086-eba2-44f0-8efa-0cde90fe804d",
+      "published_date": "2025-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4222.0
+    },
+    {
+      "episode_id": "dropouts-404a17ecc7a0",
+      "rss_guid": "87880bb8-b35b-43cc-bd65-a4d6fbf57771",
+      "published_date": "2025-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4312.0
+    },
+    {
+      "episode_id": "dropouts-2a5b0f29abeb",
+      "rss_guid": "123e0b6c-04e1-4606-bdf3-b331e7b79b0e",
+      "published_date": "2025-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4030.0
+    },
+    {
+      "episode_id": "dropouts-4122e3c219b4",
+      "rss_guid": "936a510a-adcc-4763-b187-fe13be274f23",
+      "published_date": "2025-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4149.0
+    },
+    {
+      "episode_id": "dropouts-562f3ed953d3",
+      "rss_guid": "715a4630-eb06-4028-a554-1ff053dd7592",
+      "published_date": "2025-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4293.0
+    },
+    {
+      "episode_id": "dropouts-957d39a02647",
+      "rss_guid": "d64b67d0-3096-418c-b606-0d01f6530562",
+      "published_date": "2025-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4654.0
+    },
+    {
+      "episode_id": "dropouts-32c918d1c89c",
+      "rss_guid": "9a2ad23d-bf45-4fce-a295-7e663c0ef981",
+      "published_date": "2025-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4472.0
+    },
+    {
+      "episode_id": "dropouts-52bb1a239cd4",
+      "rss_guid": "15caea59-e1ec-474d-9b88-0495e8159577",
+      "published_date": "2025-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4342.0
+    },
+    {
+      "episode_id": "dropouts-2b8e849ac950",
+      "rss_guid": "fd0426ed-c34a-4d65-9aae-0d3b39f7c565",
+      "published_date": "2025-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3531.0
+    },
+    {
+      "episode_id": "dropouts-8aef4fbc47b7",
+      "rss_guid": "c84bafde-9132-4d27-93bb-5bea7f3e6793",
+      "published_date": "2025-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5851.0
+    },
+    {
+      "episode_id": "dropouts-6398a4ad6aa4",
+      "rss_guid": "ad6699cc-09a9-47eb-acc4-d86dc4127751",
+      "published_date": "2025-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4182.0
+    },
+    {
+      "episode_id": "dropouts-545ef3ba367d",
+      "rss_guid": "fc34117d-9aca-4fab-864d-1c2e49895caf",
+      "published_date": "2025-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5032.0
+    },
+    {
+      "episode_id": "dropouts-841f5a28edbb",
+      "rss_guid": "f03aff91-cc4c-4e92-8dd6-a7eea7de573f",
+      "published_date": "2025-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5336.0
+    },
+    {
+      "episode_id": "dropouts-057ae8ba7490",
+      "rss_guid": "473d42c6-c314-4e8c-b40b-b25204799f63",
+      "published_date": "2025-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3991.0
+    },
+    {
+      "episode_id": "dropouts-d6f810568ed3",
+      "rss_guid": "f71c8234-ff14-4b96-a2c7-848f6b2dd988",
+      "published_date": "2025-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4241.0
+    },
+    {
+      "episode_id": "dropouts-b455360c29fb",
+      "rss_guid": "6d0bbe36-5a4e-4bcf-8cc9-e1094ab83789",
+      "published_date": "2025-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4924.0
+    },
+    {
+      "episode_id": "dropouts-39c5137d46b5",
+      "rss_guid": "a579c05b-9588-4b0a-ac14-5a277885e223",
+      "published_date": "2025-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4197.0
+    },
+    {
+      "episode_id": "dropouts-0d55420667dc",
+      "rss_guid": "450ddc30-81f9-49ab-8bce-9576ee1ed71c",
+      "published_date": "2025-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4315.0
+    },
+    {
+      "episode_id": "dropouts-c72435d6ba97",
+      "rss_guid": "0644a408-a78e-407d-adab-21d73afe5cd2",
+      "published_date": "2024-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3842.0
+    },
+    {
+      "episode_id": "dropouts-f1ca04ce830b",
+      "rss_guid": "82c59766-a206-488c-a6bc-7eab10d40f8a",
+      "published_date": "2024-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3970.0
+    },
+    {
+      "episode_id": "dropouts-a2dadec18bb5",
+      "rss_guid": "d087b5f0-42c8-4792-b29b-91370dda446a",
+      "published_date": "2024-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3799.0
+    },
+    {
+      "episode_id": "dropouts-70bc53a91edd",
+      "rss_guid": "ff492217-3699-40d5-97af-780f66de8fb6",
+      "published_date": "2024-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4456.0
+    },
+    {
+      "episode_id": "dropouts-cab13ddd472d",
+      "rss_guid": "998f5b73-7eab-42d7-94f7-0515d178a0fd",
+      "published_date": "2024-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4882.0
+    },
+    {
+      "episode_id": "dropouts-33cee0011b4f",
+      "rss_guid": "f2bed11e-4407-466c-a909-5259e33de2fd",
+      "published_date": "2024-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4503.0
+    },
+    {
+      "episode_id": "dropouts-6ca28cb30562",
+      "rss_guid": "d053a314-c643-4732-be8a-914418ba1cef",
+      "published_date": "2024-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4299.0
+    },
+    {
+      "episode_id": "dropouts-28439e1a8fe4",
+      "rss_guid": "ee5c786c-d765-4fb0-ac9c-7dc78895aa6d",
+      "published_date": "2024-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5124.0
+    },
+    {
+      "episode_id": "dropouts-18429315fd85",
+      "rss_guid": "d899dece-2414-420d-b86c-e3938a16263e",
+      "published_date": "2024-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4256.0
+    },
+    {
+      "episode_id": "dropouts-1275db2996a7",
+      "rss_guid": "7049407c-c121-457a-a392-cde699e43f07",
+      "published_date": "2024-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4383.0
+    },
+    {
+      "episode_id": "dropouts-476b592f3c88",
+      "rss_guid": "6b21ce1b-59bb-426f-9a30-a2884df2f30f",
+      "published_date": "2024-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4867.0
+    },
+    {
+      "episode_id": "dropouts-d405910bd05d",
+      "rss_guid": "73f783da-93ed-4ac7-846f-fc7076bae935",
+      "published_date": "2024-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3821.0
+    },
+    {
+      "episode_id": "dropouts-a3633d4df2d4",
+      "rss_guid": "5e083662-6dc8-4ca4-9a5b-318148f49b47",
+      "published_date": "2024-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3685.0
+    },
+    {
+      "episode_id": "dropouts-0bcb552f2fcf",
+      "rss_guid": "a517e632-66dc-41e7-8fba-572180216fb5",
+      "published_date": "2024-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3949.0
+    },
+    {
+      "episode_id": "dropouts-b3093f214229",
+      "rss_guid": "5f6cbb90-e627-41be-8d36-0f1a7cc57f40",
+      "published_date": "2024-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4508.0
+    },
+    {
+      "episode_id": "dropouts-65739b854378",
+      "rss_guid": "795af3eb-8532-43de-b25c-218237a91c3e",
+      "published_date": "2024-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4967.0
+    },
+    {
+      "episode_id": "dropouts-0ab26999d88b",
+      "rss_guid": "faff61bb-69f0-43c0-876a-c591f7b91420",
+      "published_date": "2024-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3947.0
+    },
+    {
+      "episode_id": "dropouts-b31963967c3f",
+      "rss_guid": "9db9cd91-f93f-446c-9f88-9465b1b6bbdc",
+      "published_date": "2024-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4139.0
+    },
+    {
+      "episode_id": "dropouts-7963ab3b621d",
+      "rss_guid": "aabf00d7-bf3b-44fc-9efa-aee1e45b9ea5",
+      "published_date": "2024-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4146.0
+    },
+    {
+      "episode_id": "dropouts-9affe07f054a",
+      "rss_guid": "d4eeab3c-8352-41a3-8161-786fa5a9a692",
+      "published_date": "2024-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4054.0
+    },
+    {
+      "episode_id": "dropouts-65cd1bffde43",
+      "rss_guid": "fb3d962a-9c34-4db3-a58e-9b0da704d572",
+      "published_date": "2024-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4893.0
+    },
+    {
+      "episode_id": "dropouts-a22d810f2b13",
+      "rss_guid": "a732ad6c-2730-42a8-aa13-6964feae1fbc",
+      "published_date": "2024-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3973.0
+    },
+    {
+      "episode_id": "dropouts-1021896710ed",
+      "rss_guid": "b334796a-8ed6-4fbd-816f-1000c2f5990f",
+      "published_date": "2024-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4798.0
+    },
+    {
+      "episode_id": "dropouts-29c6a159443f",
+      "rss_guid": "93058ad1-8852-4560-b18f-cb6359bd9e20",
+      "published_date": "2024-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4011.0
+    },
+    {
+      "episode_id": "dropouts-1df8cdfc018e",
+      "rss_guid": "978051e0-f6e1-48a7-8b96-05de598d009c",
+      "published_date": "2024-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5648.0
+    },
+    {
+      "episode_id": "dropouts-ae0b06fd92ff",
+      "rss_guid": "35cd6ee7-34da-4cda-8822-75ff55eff2c8",
+      "published_date": "2024-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3895.0
+    },
+    {
+      "episode_id": "dropouts-91a8923b8b8d",
+      "rss_guid": "8906e548-7255-45b9-8315-a67ef3453b03",
+      "published_date": "2024-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3953.0
+    },
+    {
+      "episode_id": "dropouts-67bab6ae0c02",
+      "rss_guid": "619cf3ef-d6ed-45cb-8665-2980f73478a6",
+      "published_date": "2024-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4427.0
+    },
+    {
+      "episode_id": "dropouts-533eff1d8e41",
+      "rss_guid": "8e4d524a-dde2-41e4-8f37-c546e4ed0f14",
+      "published_date": "2024-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4161.0
+    },
+    {
+      "episode_id": "dropouts-2169753fd88c",
+      "rss_guid": "be0e5a12-11ea-451c-8602-6d0cfadf7aa7",
+      "published_date": "2024-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3546.0
+    },
+    {
+      "episode_id": "dropouts-2fb14e7504ea",
+      "rss_guid": "e14f2118-1f47-4398-9147-c4c5df7c5e91",
+      "published_date": "2024-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3905.0
+    },
+    {
+      "episode_id": "dropouts-58b75e12a295",
+      "rss_guid": "e294a6b0-dd2d-47ae-a7e1-53470418fb8c",
+      "published_date": "2024-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3559.0
+    },
+    {
+      "episode_id": "dropouts-ccf14a989625",
+      "rss_guid": "fe8ccd44-71ca-4daa-bcd9-9879963dd909",
+      "published_date": "2024-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3643.0
+    },
+    {
+      "episode_id": "dropouts-7a3d85599e12",
+      "rss_guid": "7a8c66e4-3188-4720-b1d7-f3d1faca3cb7",
+      "published_date": "2024-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3038.0
+    },
+    {
+      "episode_id": "dropouts-d018761a3fee",
+      "rss_guid": "fce98fce-a55f-4c5c-8380-5d6c39c198ec",
+      "published_date": "2024-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2719.0
+    },
+    {
+      "episode_id": "dropouts-d32828159e55",
+      "rss_guid": "d854e41e-768e-49ef-8f4d-d62c3c6dff0a",
+      "published_date": "2024-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4150.0
+    },
+    {
+      "episode_id": "dropouts-09e6a74a79ba",
+      "rss_guid": "e1b92b36-d8a7-4085-8e6b-3a48a17cb296",
+      "published_date": "2024-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3651.0
+    },
+    {
+      "episode_id": "dropouts-9caa2c9501f9",
+      "rss_guid": "ffcd8192-9694-4fc0-9a7a-022277123a86",
+      "published_date": "2024-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3674.0
+    },
+    {
+      "episode_id": "dropouts-87a3b5ad6511",
+      "rss_guid": "e86394f1-60de-4d3b-819e-f241bd43a5ed",
+      "published_date": "2024-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4241.0
+    },
+    {
+      "episode_id": "dropouts-5a42c215c2e7",
+      "rss_guid": "212ba43b-7ae4-4336-99ca-68d1ff0e088f",
+      "published_date": "2024-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4682.0
+    },
+    {
+      "episode_id": "dropouts-e3a07630fe31",
+      "rss_guid": "7862eeb6-0c71-411e-8821-512625741852",
+      "published_date": "2024-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3643.0
+    },
+    {
+      "episode_id": "dropouts-a0721924eebc",
+      "rss_guid": "7e48032e-2ed8-4114-b9ef-0e94e8bc0db5",
+      "published_date": "2024-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4006.0
+    },
+    {
+      "episode_id": "dropouts-e38f51b4afca",
+      "rss_guid": "339a8086-aadb-4f26-ad5c-2b3ec60bbbc7",
+      "published_date": "2024-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4878.0
+    },
+    {
+      "episode_id": "dropouts-5bfc2f353ec6",
+      "rss_guid": "0a961236-2b5c-49d9-8963-5509d3658912",
+      "published_date": "2024-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4068.0
+    },
+    {
+      "episode_id": "dropouts-7829cb2d83a3",
+      "rss_guid": "77dd8215-e9c5-44b0-ad5b-6d14fceb0eed",
+      "published_date": "2024-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3819.0
+    },
+    {
+      "episode_id": "dropouts-0818d4c85c45",
+      "rss_guid": "492a500a-3090-4f8f-a10f-7de0a80e35b4",
+      "published_date": "2024-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4083.0
+    },
+    {
+      "episode_id": "dropouts-2fa68ec8859d",
+      "rss_guid": "bc566190-2458-4dfe-8fa5-b9f3ce3c2570",
+      "published_date": "2024-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3403.0
+    },
+    {
+      "episode_id": "dropouts-7a2b43e62db7",
+      "rss_guid": "1d962b7c-a78d-4f01-8d2b-908ea78861ce",
+      "published_date": "2024-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5092.0
+    },
+    {
+      "episode_id": "dropouts-f21fb14fcc14",
+      "rss_guid": "633999e1-b587-485a-b025-fa11290477ea",
+      "published_date": "2024-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4021.0
+    },
+    {
+      "episode_id": "dropouts-2bacaf3c3d8f",
+      "rss_guid": "34cbcd15-99cc-4ed1-8392-1518e16d7c37",
+      "published_date": "2024-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3739.0
+    },
+    {
+      "episode_id": "dropouts-b0e57e43e2f1",
+      "rss_guid": "86d55810-5c0c-4aaa-b447-6bc9c377a4c9",
+      "published_date": "2024-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3848.0
+    },
+    {
+      "episode_id": "dropouts-2447f81a02ad",
+      "rss_guid": "3cb656dd-83d1-4c4c-b917-8724b05e1a20",
+      "published_date": "2024-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3603.0
+    },
+    {
+      "episode_id": "dropouts-f3254f24d16b",
+      "rss_guid": "aad4ecd2-5349-452c-b3ca-268f47cc0587",
+      "published_date": "2024-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3456.0
+    },
+    {
+      "episode_id": "dropouts-0169283dd0c7",
+      "rss_guid": "ea6cf11b-b008-4faf-a519-8de7bba3cc50",
+      "published_date": "2023-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3335.0
+    },
+    {
+      "episode_id": "dropouts-2d4dc2bdf37d",
+      "rss_guid": "dfbd3bd3-b691-4966-bf8a-50c2ec03764e",
+      "published_date": "2023-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3152.0
+    },
+    {
+      "episode_id": "dropouts-ff2272fc4218",
+      "rss_guid": "d57bd84a-42a5-4227-8196-e78705270bed",
+      "published_date": "2023-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3960.0
+    },
+    {
+      "episode_id": "dropouts-95b17838afd0",
+      "rss_guid": "8784d189-d118-40f4-8f36-a07a09177070",
+      "published_date": "2023-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4790.0
+    },
+    {
+      "episode_id": "dropouts-4da5746fb535",
+      "rss_guid": "415e0af2-dd8b-4779-ad60-c5a1f8751aea",
+      "published_date": "2023-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3418.0
+    },
+    {
+      "episode_id": "dropouts-5aec19f30882",
+      "rss_guid": "28843e2f-62ee-47eb-9120-a52a021ba89b",
+      "published_date": "2023-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3531.0
+    },
+    {
+      "episode_id": "dropouts-4e06ee730b59",
+      "rss_guid": "5ece0587-1645-4bff-9321-134cd2ca3efe",
+      "published_date": "2023-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3590.0
+    },
+    {
+      "episode_id": "dropouts-fcf57cf6da55",
+      "rss_guid": "445850cd-60ac-4fa2-b72b-d30eaa03e9bd",
+      "published_date": "2023-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3230.0
+    },
+    {
+      "episode_id": "dropouts-c6677f57b218",
+      "rss_guid": "65cff89c-9374-40de-a7de-1e97f9ac47a9",
+      "published_date": "2023-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3210.0
+    },
+    {
+      "episode_id": "dropouts-9e3b7db072bb",
+      "rss_guid": "a08ad521-68e8-4d9c-baaa-2f835e8f7711",
+      "published_date": "2023-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4308.0
+    },
+    {
+      "episode_id": "dropouts-96a4f939f251",
+      "rss_guid": "139860a1-f265-4f46-a911-bb49d4c75d41",
+      "published_date": "2023-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4935.0
+    },
+    {
+      "episode_id": "dropouts-5e1459408c76",
+      "rss_guid": "21aa9761-6aa1-46bf-a981-af76a4f38f06",
+      "published_date": "2023-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3758.0
+    },
+    {
+      "episode_id": "dropouts-4daba477120a",
+      "rss_guid": "2d394406-c2d3-44d5-9e1a-0646238bcd04",
+      "published_date": "2023-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3628.0
+    },
+    {
+      "episode_id": "dropouts-70c15e4ab759",
+      "rss_guid": "7403e8b8-cc5b-4610-944c-14a43c473eff",
+      "published_date": "2023-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5193.0
+    },
+    {
+      "episode_id": "dropouts-5a375adb548d",
+      "rss_guid": "524d723e-6029-4cdc-8055-e995c74a9365",
+      "published_date": "2023-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3351.0
+    },
+    {
+      "episode_id": "dropouts-f477e8fa9425",
+      "rss_guid": "ec334ced-6cc9-42f2-8196-a67ab18135ef",
+      "published_date": "2023-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3564.0
+    },
+    {
+      "episode_id": "dropouts-e2af2de3f5ec",
+      "rss_guid": "ea5f812d-0f67-4b0f-b16b-38cb1ba9dbf1",
+      "published_date": "2023-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4051.0
+    },
+    {
+      "episode_id": "dropouts-e67c3370b3af",
+      "rss_guid": "156c8e8d-99bf-45cf-9ce2-3b523ba44735",
+      "published_date": "2023-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4107.0
+    },
+    {
+      "episode_id": "dropouts-9c8c41a41498",
+      "rss_guid": "88ed9c6f-0e0c-4366-b5f6-f8b58962eec4",
+      "published_date": "2023-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3436.0
+    },
+    {
+      "episode_id": "dropouts-e8321918052f",
+      "rss_guid": "0fe52faa-b9b1-414b-9920-dbd605b549f6",
+      "published_date": "2023-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3347.0
+    },
+    {
+      "episode_id": "dropouts-cb287dc71282",
+      "rss_guid": "6921061c-5859-4850-9238-fbd705b5ecbc",
+      "published_date": "2023-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2990.0
+    },
+    {
+      "episode_id": "dropouts-222396c80ab1",
+      "rss_guid": "fcbe7019-fb2b-49ae-985b-3035c31f5703",
+      "published_date": "2023-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3794.0
+    },
+    {
+      "episode_id": "dropouts-c2627a3c5939",
+      "rss_guid": "defd8ac3-4674-41b1-9fd6-a583f08b43df",
+      "published_date": "2023-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4015.0
+    },
+    {
+      "episode_id": "dropouts-1c3628a45b06",
+      "rss_guid": "0a45178e-6969-4982-b0a7-692e32b2aa82",
+      "published_date": "2023-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4309.0
+    },
+    {
+      "episode_id": "dropouts-66ab21266796",
+      "rss_guid": "11b20334-77c0-4c3f-9506-2ba16525891f",
+      "published_date": "2023-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3827.0
+    },
+    {
+      "episode_id": "dropouts-fc51bb3dab2e",
+      "rss_guid": "a9e6be5c-ea4f-4196-b262-e1681dd57725",
+      "published_date": "2023-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3412.0
+    },
+    {
+      "episode_id": "dropouts-2e98111603c8",
+      "rss_guid": "65ac0509-9576-4e90-9fee-8ad1081986bb",
+      "published_date": "2023-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3286.0
+    },
+    {
+      "episode_id": "dropouts-d3289a487aa4",
+      "rss_guid": "8f731b9e-e932-440f-96ca-e2710508bace",
+      "published_date": "2023-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5666.0
+    },
+    {
+      "episode_id": "dropouts-cfc2201de3b3",
+      "rss_guid": "5c095994-ca74-4ab8-b422-feb2ea38b77c",
+      "published_date": "2023-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4427.0
+    },
+    {
+      "episode_id": "dropouts-e3aeaacb1c3e",
+      "rss_guid": "72c5b365-3690-4062-b434-02b3de536170",
+      "published_date": "2023-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4408.0
+    },
+    {
+      "episode_id": "dropouts-8a55485c8961",
+      "rss_guid": "fbcb9b4b-e1a3-4a50-ab80-7b743e6ecf8e",
+      "published_date": "2023-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3311.0
+    },
+    {
+      "episode_id": "dropouts-11d7ed2f4d81",
+      "rss_guid": "05c94433-90e6-49f8-bafe-f7239e95b9c1",
+      "published_date": "2023-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3599.0
+    },
+    {
+      "episode_id": "dropouts-508120386ecc",
+      "rss_guid": "16abe621-14be-4da4-96fe-1e623840fffa",
+      "published_date": "2023-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3339.0
+    },
+    {
+      "episode_id": "dropouts-ee4759ccec32",
+      "rss_guid": "daf01254-426e-4665-a090-7019d4fb2f1d",
+      "published_date": "2023-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3734.0
+    },
+    {
+      "episode_id": "dropouts-48e6556ded20",
+      "rss_guid": "d12483cd-f763-4fdc-ae2a-6652bc520bdd",
+      "published_date": "2023-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3455.0
+    },
+    {
+      "episode_id": "dropouts-f876c07b937b",
+      "rss_guid": "978e4d96-8de8-4455-ab47-47edec46d80e",
+      "published_date": "2023-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4593.0
+    },
+    {
+      "episode_id": "dropouts-da9cec971ecf",
+      "rss_guid": "5c53f340-6384-4ba0-948e-d50cc4598be6",
+      "published_date": "2023-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4246.0
+    },
+    {
+      "episode_id": "dropouts-4a2f929c5d6c",
+      "rss_guid": "9f0a1264-93e6-437d-b037-21d930654f31",
+      "published_date": "2023-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4447.0
+    },
+    {
+      "episode_id": "dropouts-bbe181d05b49",
+      "rss_guid": "7aff5222-7445-4d1c-9eee-b2207791391c",
+      "published_date": "2023-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5646.0
+    },
+    {
+      "episode_id": "dropouts-3d3328ac0d68",
+      "rss_guid": "799b821b-1ecf-4474-af53-26377fcab1f6",
+      "published_date": "2023-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2600.0
+    },
+    {
+      "episode_id": "dropouts-9d4696fa54ad",
+      "rss_guid": "13c7eec1-80cf-4c51-ae41-3166c6d92ead",
+      "published_date": "2023-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2972.0
+    },
+    {
+      "episode_id": "dropouts-70af19fe56e0",
+      "rss_guid": "55cf9b14-13fd-427f-8e18-663641e0752b",
+      "published_date": "2023-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4188.0
+    },
+    {
+      "episode_id": "dropouts-3ab236910f56",
+      "rss_guid": "968b8dab-fcad-4af8-bf74-82b17683ab2a",
+      "published_date": "2023-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3883.0
+    },
+    {
+      "episode_id": "dropouts-1b24e14f4018",
+      "rss_guid": "5a0ed84c-a057-4eef-99c5-7a918b20c0de",
+      "published_date": "2023-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3568.0
+    },
+    {
+      "episode_id": "dropouts-e3b92cfb3b62",
+      "rss_guid": "f5694b80-f0b3-4f73-a8fb-4a7125c770bc",
+      "published_date": "2023-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3185.0
+    },
+    {
+      "episode_id": "dropouts-1814abb75bcf",
+      "rss_guid": "4adfa57d-cf0b-4285-b61b-0e2a369c635b",
+      "published_date": "2023-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4153.0
+    },
+    {
+      "episode_id": "dropouts-fd78d4f5ed69",
+      "rss_guid": "7ad72764-9948-407a-b840-1f9c2d5b7b21",
+      "published_date": "2023-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2636.0
+    },
+    {
+      "episode_id": "dropouts-0296cd2a9c01",
+      "rss_guid": "643238d5-797f-4e7c-ae9a-0093e048270e",
+      "published_date": "2023-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2610.0
+    },
+    {
+      "episode_id": "dropouts-e2783d18c490",
+      "rss_guid": "caf9356b-d43c-4aaf-831b-8316d359fbda",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2979.0
+    },
+    {
+      "episode_id": "dropouts-4f00a76eea2c",
+      "rss_guid": "274958a6-2f4d-4957-a447-2c450b54eacb",
+      "published_date": "2023-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2645.0
+    },
+    {
+      "episode_id": "dropouts-7c38d6e4ae42",
+      "rss_guid": "0d851e19-5cc6-49ab-81e4-883da1b35907",
+      "published_date": "2023-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2829.0
+    },
+    {
+      "episode_id": "dropouts-c25e26bb93d8",
+      "rss_guid": "92f8c9d7-1e76-4aae-a6c0-604fe9a962a0",
+      "published_date": "2022-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3018.0
+    },
+    {
+      "episode_id": "dropouts-6420cd5b36dc",
+      "rss_guid": "4a7437ac-d1fa-44ef-a237-e9073b6539f6",
+      "published_date": "2022-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2435.0
+    },
+    {
+      "episode_id": "dropouts-9d64fd45d1ca",
+      "rss_guid": "c411d82c-8499-476f-b7ed-c370c9c4bc80",
+      "published_date": "2022-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2765.0
+    },
+    {
+      "episode_id": "dropouts-e89edab05dc3",
+      "rss_guid": "e9516514-74d3-11ed-b329-63d995e3d414",
+      "published_date": "2022-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2765.0
+    },
+    {
+      "episode_id": "dropouts-69a5c92d078f",
+      "rss_guid": "e95d35ec-74d3-11ed-b329-77f5c5bfbafe",
+      "published_date": "2022-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3882.0
+    },
+    {
+      "episode_id": "dropouts-4206bdacee8b",
+      "rss_guid": "e955dcde-74d3-11ed-b329-e71bb0b7c6e5",
+      "published_date": "2022-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3963.0
+    },
+    {
+      "episode_id": "dropouts-a3aee487420e",
+      "rss_guid": "e9523cf0-74d3-11ed-b329-07769e16b52e",
+      "published_date": "2022-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4834.0
+    },
+    {
+      "episode_id": "dropouts-4cdf2e93fcc9",
+      "rss_guid": "e950e5f8-74d3-11ed-b329-9f957763f94d",
+      "published_date": "2022-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4219.0
+    },
+    {
+      "episode_id": "dropouts-ee2d024cb613",
+      "rss_guid": "e954b354-74d3-11ed-b329-cb1549ed94a6",
+      "published_date": "2022-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5767.0
+    },
+    {
+      "episode_id": "dropouts-7caf5ee443f7",
+      "rss_guid": "e95d0b8a-74d3-11ed-b329-67ca36132109",
+      "published_date": "2022-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2612.0
+    },
+    {
+      "episode_id": "dropouts-c8fea7c2f042",
+      "rss_guid": "e951362a-74d3-11ed-b329-1330b6e3e5a1",
+      "published_date": "2022-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5318.0
+    },
+    {
+      "episode_id": "dropouts-7e84aa54cc43",
+      "rss_guid": "e95c014a-74d3-11ed-b329-c768a288cbe9",
+      "published_date": "2022-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4682.0
+    },
+    {
+      "episode_id": "dropouts-ae7b7e8d52ec",
+      "rss_guid": "e95d1e5e-74d3-11ed-b329-b365e6da6d36",
+      "published_date": "2022-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5453.0
+    },
+    {
+      "episode_id": "dropouts-ed7cb76375af",
+      "rss_guid": "e9512ba8-74d3-11ed-b329-c705a9fcaa63",
+      "published_date": "2022-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6962.0
+    },
+    {
+      "episode_id": "dropouts-86b0dbf66bc2",
+      "rss_guid": "e95d2fe8-74d3-11ed-b329-6f002251e861",
+      "published_date": "2022-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3862.0
+    },
+    {
+      "episode_id": "dropouts-3857b0b269a3",
+      "rss_guid": "e95555ac-74d3-11ed-b329-33b6bcfab6a1",
+      "published_date": "2022-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2864.0
+    },
+    {
+      "episode_id": "dropouts-511d583e1061",
+      "rss_guid": "e95a6fba-74d3-11ed-b329-bf8a6ec7bce6",
+      "published_date": "2022-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3430.0
+    },
+    {
+      "episode_id": "dropouts-2c61eb0a82a2",
+      "rss_guid": "e950f43a-74d3-11ed-b329-f3f158f71f39",
+      "published_date": "2022-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3422.0
+    },
+    {
+      "episode_id": "dropouts-b98014ac439f",
+      "rss_guid": "e9556056-74d3-11ed-b329-936819561583",
+      "published_date": "2022-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3867.0
+    },
+    {
+      "episode_id": "dropouts-9e6d7a7beb48",
+      "rss_guid": "e95d270a-74d3-11ed-b329-0b11eb40c106",
+      "published_date": "2022-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3367.0
+    },
+    {
+      "episode_id": "dropouts-68f55fce4114",
+      "rss_guid": "e95d174c-74d3-11ed-b329-979845702e75",
+      "published_date": "2022-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3671.0
+    },
+    {
+      "episode_id": "dropouts-26685dfe53a8",
+      "rss_guid": "e95af764-74d3-11ed-b329-47ebeed4d705",
+      "published_date": "2022-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3385.0
+    },
+    {
+      "episode_id": "dropouts-80787842a788",
+      "rss_guid": "e9545be8-74d3-11ed-b329-2f0d946c60c5",
+      "published_date": "2022-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4443.0
+    },
+    {
+      "episode_id": "dropouts-cc803fcb3d8b",
+      "rss_guid": "e95c2198-74d3-11ed-b329-e3502fcc4969",
+      "published_date": "2022-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4626.0
+    },
+    {
+      "episode_id": "dropouts-eb111b115a67",
+      "rss_guid": "e953f388-74d3-11ed-b329-470ef17d706a",
+      "published_date": "2022-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3520.0
+    },
+    {
+      "episode_id": "dropouts-79a4637c8aa8",
+      "rss_guid": "e9541e30-74d3-11ed-b329-4bfcd248e4f6",
+      "published_date": "2022-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3081.0
+    },
+    {
+      "episode_id": "dropouts-a1c8d269aaa3",
+      "rss_guid": "e954547c-74d3-11ed-b329-6fb3b4ecdd6d",
+      "published_date": "2022-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2653.0
+    },
+    {
+      "episode_id": "dropouts-87283d562524",
+      "rss_guid": "e953eda2-74d3-11ed-b329-43dd694105f9",
+      "published_date": "2022-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3223.0
+    },
+    {
+      "episode_id": "dropouts-cf32998b89e2",
+      "rss_guid": "e953e6c2-74d3-11ed-b329-234eea02cd6e",
+      "published_date": "2022-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3627.0
+    },
+    {
+      "episode_id": "dropouts-fa30ac9c9b57",
+      "rss_guid": "e953baa8-74d3-11ed-b329-dfc353f37d62",
+      "published_date": "2022-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2660.0
+    },
+    {
+      "episode_id": "dropouts-6ef9dc6a378b",
+      "rss_guid": "e95d1166-74d3-11ed-b329-dfb97a459897",
+      "published_date": "2022-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3177.0
+    },
+    {
+      "episode_id": "dropouts-dc7c6322ff4e",
+      "rss_guid": "e9538970-74d3-11ed-b329-334c0fa9cced",
+      "published_date": "2022-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3226.0
+    },
+    {
+      "episode_id": "dropouts-e8219a151a19",
+      "rss_guid": "e95c196e-74d3-11ed-b329-e31d1dc70430",
+      "published_date": "2022-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3797.0
+    },
+    {
+      "episode_id": "dropouts-c93b73c50399",
+      "rss_guid": "e95347e4-74d3-11ed-b329-93120716e865",
+      "published_date": "2022-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4854.0
+    },
+    {
+      "episode_id": "dropouts-fa921e0fc0d8",
+      "rss_guid": "e9534f78-74d3-11ed-b329-3352e6689dd8",
+      "published_date": "2022-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4452.0
+    },
+    {
+      "episode_id": "dropouts-b12cb5468d88",
+      "rss_guid": "e9538286-74d3-11ed-b329-435cfabd41e1",
+      "published_date": "2022-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5713.0
+    },
+    {
+      "episode_id": "dropouts-20b88c1d1224",
+      "rss_guid": "e9557b04-74d3-11ed-b329-5fb3c55dfaca",
+      "published_date": "2022-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3496.0
+    },
+    {
+      "episode_id": "dropouts-a18de41e4025",
+      "rss_guid": "e9533ad8-74d3-11ed-b329-076f422d12b6",
+      "published_date": "2022-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3984.0
+    },
+    {
+      "episode_id": "dropouts-155a3f94ca58",
+      "rss_guid": "e95341cc-74d3-11ed-b329-9722914b9458",
+      "published_date": "2022-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2282.0
+    },
+    {
+      "episode_id": "dropouts-59d9ab20c8b9",
+      "rss_guid": "e9532e76-74d3-11ed-b329-6f9fa6ee78bc",
+      "published_date": "2022-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3508.0
+    },
+    {
+      "episode_id": "dropouts-264526f71bba",
+      "rss_guid": "e95335c4-74d3-11ed-b329-4b88b7c81fa3",
+      "published_date": "2022-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3498.0
+    },
+    {
+      "episode_id": "dropouts-428f0f147e95",
+      "rss_guid": "e95a64a2-74d3-11ed-b329-8f18537df082",
+      "published_date": "2022-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3184.0
+    },
+    {
+      "episode_id": "dropouts-aee1a76cf966",
+      "rss_guid": "e9532822-74d3-11ed-b329-9f0b17ff8162",
+      "published_date": "2022-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5227.0
+    },
+    {
+      "episode_id": "dropouts-3fd3d5cecd1c",
+      "rss_guid": "e9531c9c-74d3-11ed-b329-1f87f0601680",
+      "published_date": "2022-03-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5027.0
+    },
+    {
+      "episode_id": "dropouts-ff7836eea96d",
+      "rss_guid": "e9531120-74d3-11ed-b329-4b7bfb459556",
+      "published_date": "2022-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3938.0
+    },
+    {
+      "episode_id": "dropouts-3f7b6fc7eb47",
+      "rss_guid": "e952e3da-74d3-11ed-b329-cfda89597780",
+      "published_date": "2022-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3836.0
+    },
+    {
+      "episode_id": "dropouts-facdad422787",
+      "rss_guid": "e952d7fa-74d3-11ed-b329-f304257f8d00",
+      "published_date": "2022-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2854.0
+    },
+    {
+      "episode_id": "dropouts-caa95f616666",
+      "rss_guid": "e954bbce-74d3-11ed-b329-1f617b338ae6",
+      "published_date": "2022-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3891.0
+    },
+    {
+      "episode_id": "dropouts-08c386e1994b",
+      "rss_guid": "e95571fe-74d3-11ed-b329-a37f4fcdb950",
+      "published_date": "2022-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3382.0
+    },
+    {
+      "episode_id": "dropouts-414ed52cf0dd",
+      "rss_guid": "e952de8a-74d3-11ed-b329-a3c892e80341",
+      "published_date": "2022-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3458.0
+    },
+    {
+      "episode_id": "dropouts-9ac195a36a39",
+      "rss_guid": "e9527bac-74d3-11ed-b329-67d44457de46",
+      "published_date": "2022-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3288.0
+    },
+    {
+      "episode_id": "dropouts-f41f238ef0c7",
+      "rss_guid": "e952aa64-74d3-11ed-b329-673abf4adcc4",
+      "published_date": "2022-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3151.0
+    },
+    {
+      "episode_id": "dropouts-e1f5a8afac4c",
+      "rss_guid": "e9527184-74d3-11ed-b329-1b0ffbc8a509",
+      "published_date": "2022-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3311.0
+    },
+    {
+      "episode_id": "dropouts-579172d00b1a",
+      "rss_guid": "e9556d3a-74d3-11ed-b329-b755ae03e29b",
+      "published_date": "2021-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3827.0
+    },
+    {
+      "episode_id": "dropouts-20cfaaba58aa",
+      "rss_guid": "e956e430-74d3-11ed-b329-f3098dc9b407",
+      "published_date": "2021-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4493.0
+    },
+    {
+      "episode_id": "dropouts-08cbfe1fe5ff",
+      "rss_guid": "e95245c4-74d3-11ed-b329-bb6658780bbc",
+      "published_date": "2021-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2341.0
+    },
+    {
+      "episode_id": "dropouts-6c3aedac4888",
+      "rss_guid": "e955195c-74d3-11ed-b329-e36862f8a1b7",
+      "published_date": "2021-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3362.0
+    },
+    {
+      "episode_id": "dropouts-66e020a0c9e1",
+      "rss_guid": "e9550ed0-74d3-11ed-b329-777a2f113c90",
+      "published_date": "2021-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2512.0
+    },
+    {
+      "episode_id": "dropouts-c7d6ed709754",
+      "rss_guid": "e9567838-74d3-11ed-b329-4b328f1b6248",
+      "published_date": "2021-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4097.0
+    },
+    {
+      "episode_id": "dropouts-e4b099c917af",
+      "rss_guid": "e950aee4-74d3-11ed-b329-ef000c520afd",
+      "published_date": "2021-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3466.0
+    },
+    {
+      "episode_id": "dropouts-064251abe8d5",
+      "rss_guid": "e95d3a74-74d3-11ed-b329-0bb601a1ca0c",
+      "published_date": "2021-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4363.0
+    },
+    {
+      "episode_id": "dropouts-0b8e865ccc48",
+      "rss_guid": "ac382b61-9d07-45d4-88d3-e14357a9f353",
+      "published_date": "2021-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2980.0
+    },
+    {
+      "episode_id": "dropouts-9fea1e396d64",
+      "rss_guid": "e95236ce-74d3-11ed-b329-8fcf00bf1fe3",
+      "published_date": "2021-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2980.0
+    },
+    {
+      "episode_id": "dropouts-d0ae8e6e0df0",
+      "rss_guid": "0a2bb370-f14d-4b1f-b62e-b0979f05afd9",
+      "published_date": "2021-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3374.0
+    },
+    {
+      "episode_id": "dropouts-2877ea4fc25b",
+      "rss_guid": "21fc6207-c766-4d78-859f-29d304f3df6f",
+      "published_date": "2021-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2630.0
+    },
+    {
+      "episode_id": "dropouts-a791b7869ce4",
+      "rss_guid": "307b6dd0-6b31-463d-a47f-5f0119aae392",
+      "published_date": "2021-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2653.0
+    },
+    {
+      "episode_id": "dropouts-664eb48e7c63",
+      "rss_guid": "ebbc1b9a-53e6-43b3-9670-49f3d0422e47",
+      "published_date": "2021-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2928.0
+    }
+  ]
+}

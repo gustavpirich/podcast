@@ -133,6 +133,194 @@ protocol.
   review. The other 39 transcripts retain machine-inferred names that also
   require human verification.
 
+- On 2026-10-01, the researcher set the descriptive headline "The supply and
+  demand of fringe information on podcasts" (`notes/DESCRIPTIVES_PLAN.md`) and
+  decided that emerging/non-mainstream, alternative/speculative and
+  consensus-contradicting claims are all fringe, reported as three tiers. Only
+  claims the speaker asserts or entertains count. The analysis starts on the
+  20-episode broad-fringe pilot; demand is measured with YouTube views and
+  engagement. Exaggeration alone stays a separate dimension (confirmed the same
+  day). Guest thresholds remain open. The researcher approved a stratified human
+  validation sample of 150 model-coded fringe claims before tables and figures,
+  and a public YouTube metrics snapshot (taken 2026-10-01T20:53Z, 20/20 episodes).
+
+- On 2026-10-02, the researcher defined a larger corpus of popular US podcasts.
+  Popularity source: the Edison Research (now SSRS) "Top 50 Podcasts in the
+  U.S." releases from Q4 2021 to Q2 2026 (17 releases; there is no separate
+  Q1 2023 list). Releases up to Q3–Q4 2022 rank adults 18+ over a rolling
+  period; later ones rank one quarter of listeners 13+, so ranks are not
+  strictly comparable. Genres: shows whose own primary RSS category is Comedy,
+  Health & Fitness, or Education > Self-Improvement. Episodes: all episodes
+  published 2021-10-01 to 2026-09-30, excluding trailers. Speakers: hosts are
+  named from the show configuration and other voices are labelled by role
+  (guest) rather than by per-episode guest names. Using the primary rather
+  than any listed category was confirmed the same day. The Edison lists are
+  published as images and were transcribed by an AI model
+  (`config/edison_top50_transcribed.csv`, `human_verified = 0`); spot checks
+  against the archived images are required. Transcription spending requires
+  separate approval after the free episode count and cost estimate.
+  Later the same day the researcher asked for three transparent criteria for
+  popular, health/comedy, long-form conversational ("Joe Rogan-like") shows.
+  Adopted: (1) listed in an Edison release above; (2) primary RSS category
+  Comedy, Health & Fitness, or Education > Self-Improvement; (3) median episode
+  length in the window of at least 60 minutes. Of 111 listed shows, 106 had a
+  public feed and 29 meet all three (10,957 episodes, 18,047 hours; frame
+  `data/derived/popular_frame/20261002T193807Z/`). Hosts are taken only from
+  names printed in each feed; maximum diarized speakers = hosts + 3 (4-10),
+  with Kill Tony (10) and Full Send (6) as noted exceptions. The configured
+  transcription estimate is about $5,900 for the untranscribed episodes and is
+  not yet approved.
+- On 2026-10-02 the researcher approved a 10-episode AssemblyAI pilot (Huberman
+  Lab 3, Theo Von 2, Kill Tony 2, Distractible 3; 15.6 audio hours, configured
+  estimate $5.13). All 10 completed with Universal-3.5 Pro. The pilot showed
+  that AssemblyAI can split one host into "Name - 1"/"Name - 2" and can name a
+  guest itself instead of using the "Guest" label. Rule implemented in
+  `02_transcribe_assemblyai.py` (requires researcher confirmation): split host
+  names merge back to the configured host; "Guest"/"Guest - N" and any other
+  person named by the provider are role Guest (the latter flagged
+  `named_by_provider_not_in_roster`); bare diarization letters stay
+  Unidentified (in the pilot: ads and producers, 0-11% of words). The pilot
+  outputs were rebuilt from the saved provider responses (no new
+  transcription). AssemblyAI's pricing page, checked directly on 2026-10-02,
+  confirms the recorded rates: Universal-3.5 Pro $0.21/hour, diarization
+  $0.02/hour, speaker identification $0.02/hour at low effort and $0.10/hour at
+  the medium effort used here ($0.33/hour in total). The full-run estimate is
+  about $5,900 for the remaining ~17,900 hours and is not yet approved.
+- On 2026-10-03 the researcher judged the full AssemblyAI run too expensive and
+  narrowed the focus to about ten shows (including JRE, Theo Von and The Diary
+  of a CEO; the final ten are not yet fixed). Free official transcripts with
+  named speakers exist only for Lex Fridman (from June 2023) and Mel Robbins;
+  third-party transcript sites restrict reuse. The researcher chose to
+  implement free local transcription: Whisper large-v3-turbo (MLX) plus
+  pyannote community-1 diarization, with GPT assigning host/guest roles
+  afterwards (`code/02_transcribe_local.py`, output in
+  `data/derived/transcripts_local/`). A first transcription-only test on a
+  38-minute pilot episode ran at about 10x real time on the M2 Pro and agreed
+  with the AssemblyAI text on 95.6% of words (jiwer word error rate 4.4%,
+  AssemblyAI as reference; not ground truth). Diarization awaits a Hugging
+  Face token.
+- On 2026-10-03 the researcher focused on The Joe Rogan Experience and chose
+  free local transcription. Parakeet TDT 0.6B v2 (MLX) replaced Whisper after
+  a three-episode comparison (text difference from AssemblyAI 3.0/5.5/25.4%
+  versus 4.4/7.0/29.2% for Whisper; Kill Tony differences are mostly
+  dynamically inserted ads that differ between downloads). Pipeline: Parakeet
+  + pyannote community-1 locally, then GPT-5.6 Luna names each diarized
+  speaker (host/guest/producer/advertisement/other/unknown) from the title,
+  description start and at most six 60-word excerpts per speaker
+  (`config/speaker_labeling.json`). First run: a random sample of 10 JRE
+  episodes 2019-2025 stratified by year, seed 20261003
+  (`config/samples/jre_random_2019_2025_n10_seed20261003.json`); 26.8 audio
+  hours took 107 minutes on the M2 Pro (about 15x real time); 10/10
+  succeeded. Spot checks: host and guests correctly separated, including two
+  two-guest episodes and host voices split across labels; one 3% speaker in
+  #1885 labelled "Jamie (producer)" is probably a guest. Speaker labels are
+  machine-inferred and not human-verified.
+- On 2026-10-03/04 the local pipeline was revised after comparison with
+  AssemblyAI. Speakers are now assigned per sentence (majority of the
+  sentence's time; word-level only for 8+-word sentences where a second
+  speaker covers at least 35%), which cut mid-sentence speaker switches from a
+  median 39% to about 5% (AssemblyAI: 1%) with little change in word-level
+  agreement. The researcher asked to use the RSS title to fix pyannote's
+  speaker count when this helps: on #2520 and #2531, an exact count (hosts +
+  guests named in the title) raised end-to-end agreement with AssemblyAI after
+  GPT naming from 90.9/86.5% to 91.5/89.9%, by removing small mixed crosstalk
+  clusters. It is now the default (`--speaker-count title`, falling back to
+  2-4 when the title names no guests; the setting is stored per episode).
+  Evidence is two episodes only; with an exact count, inserted ads and the
+  producer are absorbed into host or guest speech. A further random sample of
+  30 JRE episodes 2019-2025 (seed 20261004, excluding the first 10) was
+  transcribed and labelled (81.1 audio hours, 30/30 succeeded) before this
+  change, with sentence-level assignment and the 2-4 range.
+
+- On 2026-10-03 the researcher asked for a guest database: for every episode
+  of the popular long-form comedy / health / self-improvement shows, who is
+  interviewed, from 2019 to now. Decisions the same day: (1) the frame window
+  starts 2019-01-01 (was 2021-10-01; end unchanged, 2026-09-30), and the five
+  Edison rankings before Q4 2021 are added to the popularity list (Q3/Q4 2019
+  Top 10; Q3 2019-Q2 2020 Top 30; 2020 Top 50; Q3 2020-Q2 2021 and Q4 2020-Q3
+  2021 Top 50; snapshot `data/raw/popularity/edison_top50/20261003T092011Z/`;
+  no separate Q1 2021 list was found). The 2019-2020 rankings cover fewer than
+  50 shows. (2) Guests are identified only from each episode's RSS title and
+  description. A guest is a named person whom the text says takes part in the
+  episode and who is not a regular host; roles `guest`, `guest_cohost`,
+  `recurring_regular` (e.g. Kill Tony band and regulars) and `mentioned_only`;
+  episodes without a named guest get one row with an empty name and a reason.
+  (3) Superseded the same day: the researcher does not want to spend money,
+  so no model is used. Guests are read with free local text rules
+  (`config/guest_rules.json`, `code/18_build_guest_dataset.py`): per-show
+  title slots (e.g. JRE "#2426 - Name", "w/ Name", "feat. Name", "Name x Nelk
+  Boys"), and, where the title names nobody, description phrases ("my guest
+  is", "joined by", "sits down with", "X joins Theo"). Title slots that also
+  carry topics only count when the name appears in the description. Hosts and
+  listed regulars are never guests. Names are as printed and unverified; a
+  human-checked random sample is still needed before analysis. (4) Output:
+  one row per episode with a `guests` column, plus one row per episode-guest
+  pair with the rule and source text
+  (`data/derived/guest_dataset/<frame>/`). First build on frame
+  20261003T092332Z: 18,266 episodes, 9,444 with at least one guest, 11,465
+  episode-guest rows (after the self-audit fixes below). Coverage is near complete where the title always names
+  the guest (JRE 98%, WTF 97%, Good Hang 94%) and low where shows rarely name
+  guests in the feed or have none (Small Town Murder, ShxtsNGigs, LOL
+  Podcast, Basement Yard, Ear Biscuits, H3 at 0-10%). Self-audit by Claude
+  the same day (not a substitute for human checking): 40 random rows match
+  the raw RSS; Edison columns correct in 300 random rows; the transcribed top
+  10 of four early releases matches the release-page text. On 100 random
+  episodes, 83 were fully right, 6 partly right, 10 missed a guest and 1 named
+  a place; five rule bugs found there were fixed. On a fresh 60-episode sample
+  after the fixes, 52 were fully right, 3 missed a second guest, 4 missed the
+  only guest, 1 was ambiguous, and no extracted name was wrong. Main
+  weakness: guests named only in mid-description (Mel Robbins, Jay Shetty,
+  second Carolla guests) are missed.
+- On 2026-10-03 the researcher asked, for each guest row, whether the guest
+  talks about science or health in that episode, again without spending
+  money. Implemented as a free dictionary screen of the RSS text
+  (`code/19_flag_guest_topics.py`, `config/rss_topic_terms.json`), reusing the
+  `health_related` / `science_related` definitions of
+  `config/content_classification.json`. Before matching, ad sentences and
+  sentences repeated across a show's episodes (plugs, recurring ads) are
+  removed. Guest-level flags use only the title segment naming the guest and
+  the description sentences naming the guest plus the sentence after each;
+  episode-level flags (`episode_*`) use the whole cleaned text. This measures
+  what the feed says the episode covers, not what is said in the audio, and
+  any mention counts (e.g. a comedian's sobriety). Result: 11,465 guest rows,
+  1,803 health, 844 science, 2,257 either. Self-audit by Claude (not a
+  substitute for human checking): on 60 random guest rows about 51 were
+  right before the last fixes; on 30 random flagged rows 24 were clearly
+  right, 3 borderline, 3 wrong (e.g. an album title "Khali Sober"). Episodes
+  whose RSS text is empty or only a name (some JRE, Kill Tony) can never be
+  flagged.
+- On 2026-10-03 the researcher asked to add YouTube views, likes, comments
+  and other engagement measures to the guest dataset, still at no cost.
+  Per-episode audience numbers exist publicly only on YouTube; Apple and
+  Spotify publish show-level ratings only. Steps: official channels chosen
+  by Claude from YouTube channel search (`config/youtube_channels.csv`; none
+  found for Small Town Murder and WTF); channel uploads listed with yt-dlp
+  (`20_`, ~18,000 videos); RSS episodes matched to videos by episode number,
+  guest name, title words, length and printed dates (`21_`, 12,034 of 18,266
+  episodes, 66%); per-video metadata fetched with yt-dlp (`22_`, views,
+  likes, comments (rounded by YouTube), upload date, duration, subscribers,
+  category, "most replayed" curve); Apple Podcasts star rating and rating
+  count per show (`23_`); merge with rates per day online and per 1,000 views
+  (`24_`). Each match is checked against the YouTube upload date:
+  `yt_match_check` = ok (within 7 days), reupload_likely (number or title
+  agrees, e.g. Armchair's back catalogue uploaded 2024-09-01), or
+  date_gap_check (possibly another visit by a recurring guest; verify).
+  Counts are cumulative at the snapshot time, so older videos have had longer
+  to accumulate views. Members-only and age-restricted videos have no
+  metrics. Collecting public YouTube metadata at this scale with yt-dlp may
+  conflict with YouTube's terms of service; the researcher should confirm
+  this is acceptable for publication.
+  Rebuilding the frame with the 2019 window (feed snapshot 20261003T092332Z,
+  frame `data/derived/popular_frame/20261003T092332Z/`) gives 30 shows and
+  18,266 episodes: Adam Carolla Show, Fake Doctors Real Friends and How Did
+  This Get Made? enter via the early rankings; Distractible (median 59.9 min)
+  and Dumb Blonde (58.0 min) fall below the 60-minute median over the longer
+  window. Several feeds do not reach back to 2019 although the show is older
+  (e.g. How Did This Get Made? starts 2022-12, Matt and Shane's Secret Podcast
+  2019-07, You Should Know has 6 and 3 episodes in 2020-2021), so 2019-2022
+  coverage is incomplete for those shows. Open: whether to keep the 60-minute
+  rule over the new window, and how to treat truncated feeds.
+
 ## Decisions still required from the researcher
 
 On 2026-09-16 the researcher requested classification of the remaining newly

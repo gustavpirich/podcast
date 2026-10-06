@@ -1,0 +1,1808 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_your_mom_s_house_with_christina_p_and_tom_segura_20261002T193807Z",
+  "show_id": "your_mom_s_house_with_christina_p_and_tom_segura",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/YMH5847489315",
+    "snapshot_relative_path": "data/raw/rss/your_mom_s_house_with_christina_p_and_tom_segura/your_mom_s_house_with_christina_p_and_tom_segura_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "d932fd4f29bd679b31c56244c6107ce82d4e0b6cb8b075192b10e9d37aaed323",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-97f4ade2a11f",
+      "rss_guid": "7e4a7f32-bc4e-11f1-bdc3-83ce06ac0d88",
+      "published_date": "2026-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4867.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-70e369a17c9e",
+      "rss_guid": "8e166eac-b6c8-11f1-bc4a-374cb39b30ad",
+      "published_date": "2026-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4448.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d8cef04162e5",
+      "rss_guid": "360574e8-b122-11f1-b5a7-b76c29db8611",
+      "published_date": "2026-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5288.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5d871ca363b5",
+      "rss_guid": "ed0867f2-abbb-11f1-9db5-c7c7308e7418",
+      "published_date": "2026-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4743.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-2e73bc3e1025",
+      "rss_guid": "53a7761c-a633-11f1-a181-abf281305a3c",
+      "published_date": "2026-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3472.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-10eefd884a40",
+      "rss_guid": "338516fa-a0ca-11f1-849f-ffa872645b12",
+      "published_date": "2026-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4848.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-9cea104173a8",
+      "rss_guid": "105fb2e4-9b47-11f1-927c-67f90cdd1f29",
+      "published_date": "2026-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7062.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5ec204782f87",
+      "rss_guid": "3719514a-95d6-11f1-9fba-c3b2be344128",
+      "published_date": "2026-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5194.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-483d24fad430",
+      "rss_guid": "fcec6f16-9062-11f1-95de-df782ba7b7bb",
+      "published_date": "2026-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 9704.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b2ac4e1f9227",
+      "rss_guid": "12619608-8a98-11f1-a2d4-4b9dbc88b8c6",
+      "published_date": "2026-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4732.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-87891ea770e7",
+      "rss_guid": "e183f4e4-8476-11f1-ac10-2b2304508d1a",
+      "published_date": "2026-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4301.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c08aa8183f08",
+      "rss_guid": "a2459380-7f3c-11f1-9297-eff80f43c472",
+      "published_date": "2026-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5327.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7912bb29e03e",
+      "rss_guid": "cee0ed48-7a16-11f1-8009-1fb436642fec",
+      "published_date": "2026-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4656.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d194f0fafbd0",
+      "rss_guid": "6094f1a0-7498-11f1-a3bb-77e02bbc3116",
+      "published_date": "2026-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4767.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-2000f22b3069",
+      "rss_guid": "8376f330-6f16-11f1-9901-4fe2d4a1988b",
+      "published_date": "2026-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6079.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d0308c705748",
+      "rss_guid": "a83ae14a-69c6-11f1-9ab0-67afc65bc19d",
+      "published_date": "2026-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4473.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-ba7b907bbcb9",
+      "rss_guid": "aa666e7c-638a-11f1-8b26-2ffa35964637",
+      "published_date": "2026-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4991.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-32337d7e6b78",
+      "rss_guid": "b96e7ed0-5ed7-11f1-9e01-033f5624e1f9",
+      "published_date": "2026-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7599.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-44f683bb8d53",
+      "rss_guid": "09ce2602-594f-11f1-a65c-bf16a8929d31",
+      "published_date": "2026-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4872.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-61193c4322e1",
+      "rss_guid": "23f54436-53ad-11f1-9def-ffdc3be0a5df",
+      "published_date": "2026-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4628.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f19e65d4404d",
+      "rss_guid": "4889f900-4e25-11f1-b6d0-03ccc05c797f",
+      "published_date": "2026-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5860.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b2b85388f210",
+      "rss_guid": "9f0db5cc-489f-11f1-a84e-4f17b8e4118c",
+      "published_date": "2026-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5366.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-6dc62810c0b9",
+      "rss_guid": "461bdbae-431f-11f1-81a8-4b27a575d57f",
+      "published_date": "2026-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5051.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-503de44f9a5e",
+      "rss_guid": "1d25846a-3dc6-11f1-ad5b-1bcf22b7d610",
+      "published_date": "2026-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6224.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-fcb426198ac7",
+      "rss_guid": "3585f5c6-384e-11f1-b420-1f0cd5323660",
+      "published_date": "2026-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5979.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-86e5381031b9",
+      "rss_guid": "035785e6-2ecc-11f1-8ac9-33f729d6ef8f",
+      "published_date": "2026-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4877.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-95a3d5db1f25",
+      "rss_guid": "9f0652b6-2d18-11f1-ace4-73faacc7c08c",
+      "published_date": "2026-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4339.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b4f1d3c3809a",
+      "rss_guid": "8537968e-26fa-11f1-b8a9-3757e0ad001c",
+      "published_date": "2026-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4792.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1d5c64c7afad",
+      "rss_guid": "e962ee68-2184-11f1-8a82-63173774ef2e",
+      "published_date": "2026-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6893.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1099c054b9fb",
+      "rss_guid": "829ef600-1bed-11f1-89c7-972f5088c6e2",
+      "published_date": "2026-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4228.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-32617a63db83",
+      "rss_guid": "86aad71c-171c-11f1-a7cc-b7ab9dacaee5",
+      "published_date": "2026-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4187.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-42ab8d9fa6b3",
+      "rss_guid": "b881f98c-544a-11ef-b1ea-2b041a654aa9",
+      "published_date": "2026-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4016.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-19c8780465bf",
+      "rss_guid": "b864a800-544a-11ef-b1ea-13792e7b0741",
+      "published_date": "2026-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4813.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a95e152b9b7a",
+      "rss_guid": "b8476cae-544a-11ef-b1ea-c7489fda9546",
+      "published_date": "2026-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5078.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7c15aee6ca34",
+      "rss_guid": "b829c244-544a-11ef-b1ea-bfca3aaa5cff",
+      "published_date": "2026-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4671.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-61af2225981b",
+      "rss_guid": "b80c1c3a-544a-11ef-b1ea-e3a0611f68f1",
+      "published_date": "2026-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4322.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d8868d1758de",
+      "rss_guid": "b7ee6316-544a-11ef-b1ea-df2f824c088a",
+      "published_date": "2026-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4095.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-dbbe19e38b61",
+      "rss_guid": "b7d10ce4-544a-11ef-b1ea-2f26fb16cb12",
+      "published_date": "2026-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4615.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1074990e8cee",
+      "rss_guid": "b778f630-544a-11ef-b1ea-0b511ef9b8ba",
+      "published_date": "2025-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4076.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-53d3dfc05285",
+      "rss_guid": "b75c8d4c-544a-11ef-b1ea-cb7bee5fc68d",
+      "published_date": "2025-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5042.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1f5fa490544d",
+      "rss_guid": "b73fdcec-544a-11ef-b1ea-1b0eaef682a8",
+      "published_date": "2025-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5807.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-56e209e7aa91",
+      "rss_guid": "fa9009a6-cfb2-11f0-8802-23b52ba1e306",
+      "published_date": "2025-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4894.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-478b5284e2e3",
+      "rss_guid": "b6e9fc3c-544a-11ef-b1ea-6ffe792b07a8",
+      "published_date": "2025-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4690.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1b1d2339e014",
+      "rss_guid": "b6cc946c-544a-11ef-b1ea-a3acfc4bdfdb",
+      "published_date": "2025-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4887.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-54584434a898",
+      "rss_guid": "b6afef88-544a-11ef-b1ea-67c8b9032157",
+      "published_date": "2025-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4490.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d1a30301dba8",
+      "rss_guid": "b691cfe4-544a-11ef-b1ea-9b02a08a85a4",
+      "published_date": "2025-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6573.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e08204dc8568",
+      "rss_guid": "b6739c22-544a-11ef-b1ea-37d8b8832ed8",
+      "published_date": "2025-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5571.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-93e3dbbf175a",
+      "rss_guid": "b6567048-544a-11ef-b1ea-bf4e98463051",
+      "published_date": "2025-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6164.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-66f4ae453e80",
+      "rss_guid": "b639e1a8-544a-11ef-b1ea-9b53482de1e6",
+      "published_date": "2025-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4975.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-78614cfe44cb",
+      "rss_guid": "b61d9688-544a-11ef-b1ea-0bc9299057f9",
+      "published_date": "2025-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4049.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a619cf3cebac",
+      "rss_guid": "b600b8b0-544a-11ef-b1ea-e322fba0d3f6",
+      "published_date": "2025-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7157.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-17ba3224f26b",
+      "rss_guid": "b5e3c5b6-544a-11ef-b1ea-87c86799fde5",
+      "published_date": "2025-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6198.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b65632d30b23",
+      "rss_guid": "b5c7841e-544a-11ef-b1ea-e7a60493ae67",
+      "published_date": "2025-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6921.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-bac8d423f6f9",
+      "rss_guid": "b5aaa1e6-544a-11ef-b1ea-47f46843d3d6",
+      "published_date": "2025-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4218.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4b08629844f8",
+      "rss_guid": "b58d98ee-544a-11ef-b1ea-f78698965723",
+      "published_date": "2025-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4721.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7af777e423ef",
+      "rss_guid": "b570676a-544a-11ef-b1ea-b7150ebfd1b0",
+      "published_date": "2025-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5470.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-53e5569f18b6",
+      "rss_guid": "b552f644-544a-11ef-b1ea-2bf370b1d93c",
+      "published_date": "2025-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4561.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-54cf22c26915",
+      "rss_guid": "b535187c-544a-11ef-b1ea-6f1992e25b0d",
+      "published_date": "2025-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4622.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-376d848a5266",
+      "rss_guid": "b517090e-544a-11ef-b1ea-4b648c041d6f",
+      "published_date": "2025-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4859.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-0b908d3c6fd1",
+      "rss_guid": "b4f8d68c-544a-11ef-b1ea-83ae27c4b55b",
+      "published_date": "2025-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6228.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-92816dcccee2",
+      "rss_guid": "b4dbc7c2-544a-11ef-b1ea-7fa6f4b4ebbc",
+      "published_date": "2025-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7331.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4f68c34c996f",
+      "rss_guid": "b4be5746-544a-11ef-b1ea-333c333116fd",
+      "published_date": "2025-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5158.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-18c30168e59f",
+      "rss_guid": "b4a11f6e-544a-11ef-b1ea-cf2637e1fa9d",
+      "published_date": "2025-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4029.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-ff87bc4893a7",
+      "rss_guid": "b4830b50-544a-11ef-b1ea-bfb7eb0ae932",
+      "published_date": "2025-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4439.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f48104010633",
+      "rss_guid": "b4662a30-544a-11ef-b1ea-43f461952102",
+      "published_date": "2025-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5333.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-fdac5052e081",
+      "rss_guid": "b44935a6-544a-11ef-b1ea-a7c7cfdc7979",
+      "published_date": "2025-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5468.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5400ce848754",
+      "rss_guid": "b42b8d80-544a-11ef-b1ea-53c610b1a177",
+      "published_date": "2025-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3688.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d10d8e4b71b6",
+      "rss_guid": "b40e83f2-544a-11ef-b1ea-c79160b22c5e",
+      "published_date": "2025-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6136.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-400ccc8bb1df",
+      "rss_guid": "b3f1a6b0-544a-11ef-b1ea-ab11108012ad",
+      "published_date": "2025-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6346.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3746e96471b5",
+      "rss_guid": "b3d409f2-544a-11ef-b1ea-1730f69a34dc",
+      "published_date": "2025-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6707.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b42cc57b37a8",
+      "rss_guid": "b3b67ce8-544a-11ef-b1ea-c361ab3235a7",
+      "published_date": "2025-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4630.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3a53047a4a3f",
+      "rss_guid": "b39bf4f4-544a-11ef-b1ea-cbc75e337b4c",
+      "published_date": "2025-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4628.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1c1089aa4984",
+      "rss_guid": "b380ea38-544a-11ef-b1ea-17cd079c9f13",
+      "published_date": "2025-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6296.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a4617aad542c",
+      "rss_guid": "b365bbfa-544a-11ef-b1ea-b7da9da8360d",
+      "published_date": "2025-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4587.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-6c64e8f29853",
+      "rss_guid": "b34a9da2-544a-11ef-b1ea-13401c45cc85",
+      "published_date": "2025-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4661.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-61da6399a5c7",
+      "rss_guid": "b32fa1c8-544a-11ef-b1ea-7b38efb93e8a",
+      "published_date": "2025-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5977.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-8443bd3a0bee",
+      "rss_guid": "b3141566-544a-11ef-b1ea-2b37bec156fb",
+      "published_date": "2025-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6835.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4414a0bede9d",
+      "rss_guid": "b2f8ba96-544a-11ef-b1ea-bbec1d92a576",
+      "published_date": "2025-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7129.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e18314765768",
+      "rss_guid": "b2de27d0-544a-11ef-b1ea-c3f90ee6bcb0",
+      "published_date": "2025-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7605.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-792ea0a62202",
+      "rss_guid": "b2c33394-544a-11ef-b1ea-63e7ecad70b7",
+      "published_date": "2025-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4836.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7f4aa4ef92d4",
+      "rss_guid": "4bb597b6-f42f-11ef-a4e7-4fdbaffa8528",
+      "published_date": "2025-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5688.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-cbb4b3ae92c1",
+      "rss_guid": "b28c6e18-544a-11ef-b1ea-f3f68c43c9db",
+      "published_date": "2025-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5908.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-623e2694914d",
+      "rss_guid": "b2436880-544a-11ef-b1ea-2b3cf195b805",
+      "published_date": "2025-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5087.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-15688a39d21e",
+      "rss_guid": "e5fe7986-c51f-11ee-b34c-3bf67ee005c1",
+      "published_date": "2025-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4686.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d60c3838d7cb",
+      "rss_guid": "e5c4263c-c51f-11ee-b34c-e3c2d36d5d57",
+      "published_date": "2025-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5571.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-af32aa4395c3",
+      "rss_guid": "e589a728-c51f-11ee-b34c-3790313def07",
+      "published_date": "2025-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6751.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f35be914d801",
+      "rss_guid": "e54ff4d8-c51f-11ee-b34c-6b52d1b48ac0",
+      "published_date": "2025-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7337.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-68e4fe5bf116",
+      "rss_guid": "e5159cc0-c51f-11ee-b34c-2716b5f49e09",
+      "published_date": "2025-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5821.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d2e51f775948",
+      "rss_guid": "e4ab51e4-c51f-11ee-b34c-af8800344f7d",
+      "published_date": "2025-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5559.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e669c9ae0919",
+      "rss_guid": "1880478e-ac27-11ee-aadf-27ecb08690a5",
+      "published_date": "2024-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7873.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1053599f7c68",
+      "rss_guid": "185003ee-ac27-11ee-aadf-93f986947fc0",
+      "published_date": "2024-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4955.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-fe1a3ba28d1a",
+      "rss_guid": "181f2918-ac27-11ee-aadf-c3bc9377989c",
+      "published_date": "2024-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4956.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-05a9e3aeeae8",
+      "rss_guid": "17ee626a-ac27-11ee-aadf-03be67b34155",
+      "published_date": "2024-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4199.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1b33fd5d1dbe",
+      "rss_guid": "17bd6458-ac27-11ee-aadf-970f87c1cd1b",
+      "published_date": "2024-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4912.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-fb74f16658b2",
+      "rss_guid": "178c526e-ac27-11ee-aadf-1b1b2808a96c",
+      "published_date": "2024-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5440.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5fd3ebbdf0ca",
+      "rss_guid": "175bac2c-ac27-11ee-aadf-f7d0bc86a615",
+      "published_date": "2024-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5946.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3833f207aba8",
+      "rss_guid": "172ba02c-ac27-11ee-aadf-475bb4a503ff",
+      "published_date": "2024-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5570.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-23e997a12561",
+      "rss_guid": "16fb5426-ac27-11ee-aadf-43df6bec2115",
+      "published_date": "2024-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4184.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-0c75d62b03e5",
+      "rss_guid": "16cb1c7a-ac27-11ee-aadf-0bebfd147537",
+      "published_date": "2024-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5520.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-80c30c800d45",
+      "rss_guid": "169a8b3c-ac27-11ee-aadf-db566e51fd22",
+      "published_date": "2024-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8305.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-22d94c338a64",
+      "rss_guid": "166a53b8-ac27-11ee-aadf-eb666d960b7e",
+      "published_date": "2024-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6638.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a0ceab718570",
+      "rss_guid": "16390a92-ac27-11ee-aadf-f3376167a8ad",
+      "published_date": "2024-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7844.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-ed1b684be95a",
+      "rss_guid": "1607b97e-ac27-11ee-aadf-43c3002bd60f",
+      "published_date": "2024-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4587.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4f68b3358c1a",
+      "rss_guid": "15d6e204-ac27-11ee-aadf-db26878b35d7",
+      "published_date": "2024-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4241.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7fdc89de7e08",
+      "rss_guid": "15a58b5a-ac27-11ee-aadf-83ec115ced07",
+      "published_date": "2024-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6343.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3ce9359084b0",
+      "rss_guid": "15741052-ac27-11ee-aadf-fbb800e1fa04",
+      "published_date": "2024-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4334.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-90518e362495",
+      "rss_guid": "15439e54-ac27-11ee-aadf-6f297dda2f97",
+      "published_date": "2024-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5148.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-acad7000099c",
+      "rss_guid": "15127464-ac27-11ee-aadf-eb1cc61e3f8d",
+      "published_date": "2024-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5037.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-fb910ecc4b60",
+      "rss_guid": "14e1af5a-ac27-11ee-aadf-fb1206dd7644",
+      "published_date": "2024-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6257.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-80203cb19ce5",
+      "rss_guid": "14b0cbd8-ac27-11ee-aadf-afb5364d791f",
+      "published_date": "2024-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6191.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-16e931b14ad1",
+      "rss_guid": "147f9900-ac27-11ee-aadf-dbfedb3dbc19",
+      "published_date": "2024-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4269.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-9c42356615bf",
+      "rss_guid": "144d6b06-ac27-11ee-aadf-bf2fd3dd8c6a",
+      "published_date": "2024-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5468.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-8c204da43e8a",
+      "rss_guid": "141bf60c-ac27-11ee-aadf-0b4efa3de560",
+      "published_date": "2024-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5550.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d953dbf66da2",
+      "rss_guid": "13eae0f8-ac27-11ee-aadf-930d0ac86b80",
+      "published_date": "2024-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5722.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4eb438d8f71f",
+      "rss_guid": "13bab32e-ac27-11ee-aadf-b757950e19a4",
+      "published_date": "2024-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6420.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c35d93829be5",
+      "rss_guid": "138a3e92-ac27-11ee-aadf-1b5d6ac3ce6b",
+      "published_date": "2024-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4753.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-aedddc492f80",
+      "rss_guid": "1359af52-ac27-11ee-aadf-6708903b1cd6",
+      "published_date": "2024-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6719.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e8a374a82b13",
+      "rss_guid": "132941aa-ac27-11ee-aadf-575284388d60",
+      "published_date": "2024-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5580.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-671fb1a5a055",
+      "rss_guid": "12f904a4-ac27-11ee-aadf-43782f05940a",
+      "published_date": "2024-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4963.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5cf78fc8cf2a",
+      "rss_guid": "12c79f36-ac27-11ee-aadf-c3134667cf9c",
+      "published_date": "2024-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5189.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d80b122c5311",
+      "rss_guid": "1296cf0a-ac27-11ee-aadf-3f28c8d6ce10",
+      "published_date": "2024-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5789.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-fc9583af68f2",
+      "rss_guid": "1266ab2c-ac27-11ee-aadf-27ecca96b376",
+      "published_date": "2024-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5522.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-8ee6467ddf01",
+      "rss_guid": "1236425c-ac27-11ee-aadf-73e29da408b1",
+      "published_date": "2024-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5518.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-ab6906de11e1",
+      "rss_guid": "1205f32c-ac27-11ee-aadf-93f6adaaecbd",
+      "published_date": "2024-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6127.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a4a7a4619195",
+      "rss_guid": "11d532e6-ac27-11ee-aadf-1fcae52da0c5",
+      "published_date": "2024-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5491.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b2bdaffb76a8",
+      "rss_guid": "11a47aac-ac27-11ee-aadf-d37c21ec4d78",
+      "published_date": "2024-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5978.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c9e65d88e675",
+      "rss_guid": "11712fda-ac27-11ee-aadf-afdab3648fbb",
+      "published_date": "2024-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6504.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5d4bff59eb9e",
+      "rss_guid": "0d5d068e-a430-11ee-a559-a3bdc5a8ac14",
+      "published_date": "2024-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6690.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-dc234e6f6057",
+      "rss_guid": "0d2f8844-a430-11ee-a559-83c791044231",
+      "published_date": "2024-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7820.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a8197bea42c0",
+      "rss_guid": "0d01f302-a430-11ee-a559-2fcea8217657",
+      "published_date": "2024-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7264.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-19dc63890738",
+      "rss_guid": "0cd4a76c-a430-11ee-a559-8f11a3e4488e",
+      "published_date": "2024-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6547.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-68190fc35822",
+      "rss_guid": "0ca7c3a0-a430-11ee-a559-73920721bcd0",
+      "published_date": "2024-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7109.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1c3da46338ea",
+      "rss_guid": "0c79cd56-a430-11ee-a559-03a1d81552c7",
+      "published_date": "2024-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8475.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-6b473e590e95",
+      "rss_guid": "0c4cb06e-a430-11ee-a559-6374504d122b",
+      "published_date": "2024-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 8511.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-06d95b521e3f",
+      "rss_guid": "0c1f4bc4-a430-11ee-a559-6fc5e6e0698e",
+      "published_date": "2024-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7676.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-0417e5dda3f9",
+      "rss_guid": "0bf194d6-a430-11ee-a559-c3e4235b8587",
+      "published_date": "2024-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5426.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4b5b2a615a91",
+      "rss_guid": "0bc4c032-a430-11ee-a559-dbb840583898",
+      "published_date": "2024-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6737.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b10be8af56df",
+      "rss_guid": "0b97733e-a430-11ee-a559-cf5a9786e180",
+      "published_date": "2024-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4909.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c4aa2e3a3912",
+      "rss_guid": "0b69d9c4-a430-11ee-a559-bb7506c8426c",
+      "published_date": "2024-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5885.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-404a9fcf7116",
+      "rss_guid": "0b3be370-a430-11ee-a559-37e984713bbe",
+      "published_date": "2024-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5715.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-55188f4885a4",
+      "rss_guid": "693a7a1f-aacd-420a-9365-3ce1e1d8fd79",
+      "published_date": "2023-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6110.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-dc3da742f795",
+      "rss_guid": "e8417a3e-a3f7-4f73-a639-fdc8eb8e93bc",
+      "published_date": "2023-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6140.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c720c4f58302",
+      "rss_guid": "59142df4-6da5-43fb-9648-c1a5eab523ca",
+      "published_date": "2023-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6293.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-77f1391423ca",
+      "rss_guid": "9fd28357-2c9e-47f4-ae44-5b622d1bed45",
+      "published_date": "2023-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5631.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e891588a6c11",
+      "rss_guid": "6c84b282-c894-42b5-b24a-432a71d4ebbd",
+      "published_date": "2023-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6360.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-234c6e03ed41",
+      "rss_guid": "7a3fe518-bf52-4c9d-a083-3d8e519897f0",
+      "published_date": "2023-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6348.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-8d6886d33445",
+      "rss_guid": "f0e98211-368b-4419-b7d3-a69c1f212b8f",
+      "published_date": "2023-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6010.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-8cb83d76278a",
+      "rss_guid": "b4c3e7cf-496a-4cb0-bc23-4d31604c9032",
+      "published_date": "2023-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5872.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-8515d58319ad",
+      "rss_guid": "f26c82e5-9f97-4762-b696-6bcabe348eba",
+      "published_date": "2023-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5280.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e337b4ad3b97",
+      "rss_guid": "6e3d36c9-f56a-4114-81b7-c5aa79fa58c6",
+      "published_date": "2023-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6067.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-725e12c45af1",
+      "rss_guid": "1dd44271-dc07-4c4a-a055-1c0fdfb1a6a9",
+      "published_date": "2023-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6648.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d31c7397e21b",
+      "rss_guid": "3402937f-c504-41fb-ae7c-c1e3929000d8",
+      "published_date": "2023-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6324.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-882db127771c",
+      "rss_guid": "669ba3ba-60c6-44f2-8417-dacdc38041fc",
+      "published_date": "2023-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6102.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-56f43db06a5d",
+      "rss_guid": "3f981c23-f3ac-4a0a-a76e-06d099639fc1",
+      "published_date": "2023-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5046.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1f4bce9602d2",
+      "rss_guid": "4ff13949-3b0a-4b97-bfe2-b6739d41f54d",
+      "published_date": "2023-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5845.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d97d3b88c22c",
+      "rss_guid": "f60113e6-4f57-4826-b0bf-e3338fa93697",
+      "published_date": "2023-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5390.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e055720c5cdc",
+      "rss_guid": "f1160312-a6d8-4a4c-acaf-62b9b9ac683c",
+      "published_date": "2023-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6617.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-0a88bc4a61e7",
+      "rss_guid": "65fbcede-ddff-423a-9e0c-fd6ac4c67651",
+      "published_date": "2023-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6273.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b3ef933772ab",
+      "rss_guid": "c7b52e8a-3576-4899-b610-cf314810b67c",
+      "published_date": "2023-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6428.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-553c751dd6cc",
+      "rss_guid": "df2a1e35-7ae1-4d66-8f31-cbc17b26374a",
+      "published_date": "2023-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5555.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-e9fd22d4b011",
+      "rss_guid": "5f3110a8-c34b-451a-a5e7-40d8c3a054a0",
+      "published_date": "2023-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5036.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-42215c343010",
+      "rss_guid": "0d6845f0-d29c-42a5-9b8a-63053b055748",
+      "published_date": "2023-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6395.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-de5beeca4ad3",
+      "rss_guid": "cca4b32c-d23c-416c-ade5-c7a0f3ba29b8",
+      "published_date": "2023-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6885.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-be3bcd0e2162",
+      "rss_guid": "966f4938-c3ca-4fd7-bb74-a42fa2f3ccc3",
+      "published_date": "2023-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6195.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-baa11c432b0c",
+      "rss_guid": "82232058-bb0a-4533-b72c-cd15fd333f78",
+      "published_date": "2023-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8041.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d80b495d2f14",
+      "rss_guid": "89eadfe8-afed-4bce-997b-7a4d874a079d",
+      "published_date": "2023-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5995.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-18ef8bf517ee",
+      "rss_guid": "2e5fbc44-4bf0-4ac6-a539-2b5b1970ed42",
+      "published_date": "2023-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5447.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7609738310bf",
+      "rss_guid": "8af445b1-856e-4c64-965e-db78af541b7c",
+      "published_date": "2023-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5927.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-81e90b9554c6",
+      "rss_guid": "56c91eb7-cedc-476b-af65-9b1f34fbfdd5",
+      "published_date": "2023-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6245.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a75554fcf31c",
+      "rss_guid": "94c666aa-611f-473f-b49e-3fd1e8c036ef",
+      "published_date": "2023-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7567.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1e0e79ab736a",
+      "rss_guid": "8195f119-4eaf-451c-8912-d2c3d57a2e88",
+      "published_date": "2023-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4794.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b5bd18594c2e",
+      "rss_guid": "5f36f232-c50f-4af9-9784-0fc8d49e91de",
+      "published_date": "2023-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7530.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-77bb61cd819b",
+      "rss_guid": "11bab9bf-ed23-4236-aa03-26a38bf6f6d2",
+      "published_date": "2023-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8484.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-68595612c257",
+      "rss_guid": "548e5750-ee29-4bfb-9aed-5cd203d16431",
+      "published_date": "2023-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6726.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7494dd400947",
+      "rss_guid": "f90257f6-1d87-4c3c-8356-89d72d45a80e",
+      "published_date": "2023-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7064.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c8a9a31d99e5",
+      "rss_guid": "69df2813-89c3-4b18-92ea-8de6383e0a0a",
+      "published_date": "2023-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7011.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f6ec3ee6dd7d",
+      "rss_guid": "eb8583fc-0a0d-4729-8880-0a704794bf58",
+      "published_date": "2023-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7199.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-770c24a5ed86",
+      "rss_guid": "05037347-2165-4283-8878-c32f22145618",
+      "published_date": "2023-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6996.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-aea7710f770b",
+      "rss_guid": "7686bb3e-2fb3-4db3-9c78-9bea1465ee5e",
+      "published_date": "2023-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6044.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-bb3274ff3c29",
+      "rss_guid": "f4c786d3-507d-40d2-93be-a299d5e61e5b",
+      "published_date": "2023-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6027.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-2ec08a91e7c6",
+      "rss_guid": "8b57c9fa-c6f1-4947-8c9f-e6ff0f1dfce7",
+      "published_date": "2023-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6344.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-8e580c110e1d",
+      "rss_guid": "f3c864bd-0c54-4428-afa4-5f5722139056",
+      "published_date": "2023-03-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5164.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-110eb2815da9",
+      "rss_guid": "1eabee96-9087-461f-9a98-03f71551b11f",
+      "published_date": "2023-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6440.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-67d53868f865",
+      "rss_guid": "cb908141-b0d0-42b5-97ae-7af8684088ca",
+      "published_date": "2023-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5760.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f4f1bbbe92a8",
+      "rss_guid": "59a76d3d-bde6-4726-aa77-6845514514d7",
+      "published_date": "2023-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5436.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-798132f0766c",
+      "rss_guid": "02f09150-dd19-4733-8b1d-ee4e70dcc3e0",
+      "published_date": "2023-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6687.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-765f9d8a67f5",
+      "rss_guid": "a827d1e5-121f-4ce8-be98-3e6e6446271f",
+      "published_date": "2023-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6105.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-997102551ad1",
+      "rss_guid": "c771d6d2-3b6e-4c45-a92d-f0914665c44d",
+      "published_date": "2023-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6274.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-66ee41d30a21",
+      "rss_guid": "be8d0aa3-bdd1-40db-8746-7299b1cadb81",
+      "published_date": "2023-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7143.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-557b75579cdc",
+      "rss_guid": "78d68e96-be88-40da-9984-fcf49ffa5513",
+      "published_date": "2023-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7571.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c9c60a16e4d2",
+      "rss_guid": "a3faae8c-7815-45af-9c00-d57f8dcdccc6",
+      "published_date": "2023-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5620.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-84e11cf5025a",
+      "rss_guid": "2b541c84-4aa3-43eb-b8d8-01ed5de45703",
+      "published_date": "2022-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6295.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-902d12579d68",
+      "rss_guid": "9b900eb7-bf42-4cb2-9e35-84e66e2e0ffd",
+      "published_date": "2022-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7657.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a3828b1fd314",
+      "rss_guid": "8f24a0c3-b499-4809-858f-a6cdf0f649ad",
+      "published_date": "2022-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5683.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-970a98b18209",
+      "rss_guid": "810d06e9-04e0-46cc-8839-b35b5df633e7",
+      "published_date": "2022-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6691.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4d6e907c9de1",
+      "rss_guid": "5e3fec30-d438-431d-87ff-bcacf03cef5d",
+      "published_date": "2022-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6512.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-db2e4dd0a8d4",
+      "rss_guid": "cc460650-cf24-4fad-9c52-beb37322212b",
+      "published_date": "2022-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6484.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3448dce0d50b",
+      "rss_guid": "17162d53-9f45-4811-bc75-6e74510c0e5a",
+      "published_date": "2022-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7626.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f5b3a051761c",
+      "rss_guid": "69ab9630-f44a-4f06-9a7d-b38241afff64",
+      "published_date": "2022-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5853.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5a3d62ee34be",
+      "rss_guid": "03d88066-3d40-4c48-a7b4-b3e895b43431",
+      "published_date": "2022-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6333.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b17556ac92d9",
+      "rss_guid": "d9447d73-245f-4d17-b08e-e9b95f3ce2ba",
+      "published_date": "2022-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5739.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-cf5f5f8c3f46",
+      "rss_guid": "44386b86-5143-47c2-b01b-c8109ac4a27b",
+      "published_date": "2022-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7313.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5c87bdaa299f",
+      "rss_guid": "2f40f313-6a2b-4e7b-991e-323e4c0f6324",
+      "published_date": "2022-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5575.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4db39440ef49",
+      "rss_guid": "0bc5bd94-271f-49b1-a263-3a207b8f5048",
+      "published_date": "2022-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7690.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3c0a0b012278",
+      "rss_guid": "21dadb60-dd25-499d-88de-112b2ba8bfb1",
+      "published_date": "2022-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5652.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-2e38fd034289",
+      "rss_guid": "6cce2aef-27bd-4c51-96b5-e4497984f22d",
+      "published_date": "2022-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8848.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-28434d42779c",
+      "rss_guid": "6c8c3710-ff38-40bc-8828-c6c8a388ed65",
+      "published_date": "2022-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6958.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d31de5d9f488",
+      "rss_guid": "d09e06af-07fa-481a-af6c-75fd47ec225c",
+      "published_date": "2022-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7162.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3c5c39739ba7",
+      "rss_guid": "74618441-cd62-41cf-ba52-86e225b70395",
+      "published_date": "2022-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6241.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1f6f52194250",
+      "rss_guid": "a72f20ab-0c7b-4b88-8fa3-dead6a1ceabf",
+      "published_date": "2022-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7274.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-9509b0a97fd7",
+      "rss_guid": "91fc3cbd-ff20-4791-8424-2892650b75c9",
+      "published_date": "2022-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5391.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-2fc7ce20c8a2",
+      "rss_guid": "36b2875a-784a-466d-aafa-88a3c091c12b",
+      "published_date": "2022-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6626.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-2dc25afe311c",
+      "rss_guid": "59e2d4f8-79d9-49cc-ab08-c0b479793eeb",
+      "published_date": "2022-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7299.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-9c90cec1fb33",
+      "rss_guid": "146559d4-5318-4d64-8c92-677b9c49d744",
+      "published_date": "2022-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6153.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-6c384e92d92e",
+      "rss_guid": "0766c57e-2180-40ef-b3d9-152689c587b6",
+      "published_date": "2022-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6004.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3aa6abf4e6b2",
+      "rss_guid": "66699501-fb1b-4077-bdb6-fbbc8d8b1bc2",
+      "published_date": "2022-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5681.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a75e4e2c7e37",
+      "rss_guid": "f4eef578-49b4-46c4-abc0-fd8da9862797",
+      "published_date": "2022-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5846.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-a89b34d598d8",
+      "rss_guid": "1fda56eb-fc37-47dc-ab98-5cbe91259698",
+      "published_date": "2022-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6172.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-acd98b0d3410",
+      "rss_guid": "cbad611b-75f8-461a-b8b2-cb029e392e8e",
+      "published_date": "2022-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7766.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-08287135c516",
+      "rss_guid": "da955d96-6fe9-4645-83a2-ddf72f7c70a7",
+      "published_date": "2022-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5699.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-51fc91db0aae",
+      "rss_guid": "455d6314-4b9e-4ab4-a54b-9d962b4d8046",
+      "published_date": "2022-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7037.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-9d08b70cfd27",
+      "rss_guid": "7b258bc0-b3f8-4b49-9c3e-970c499893ba",
+      "published_date": "2022-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5462.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-18089b7e58b1",
+      "rss_guid": "def83fdf-39eb-4ebf-839a-7babee724361",
+      "published_date": "2022-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7187.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3dcad598388a",
+      "rss_guid": "d7756ae2-cf91-4e78-9645-afcfbbadd5c4",
+      "published_date": "2022-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6985.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-96e2f620ba93",
+      "rss_guid": "98f6e9da-d87a-4501-9766-ea169a4100dd",
+      "published_date": "2022-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7691.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-da2d675e658b",
+      "rss_guid": "48c09a02-ce8e-437c-a906-70961beef1f0",
+      "published_date": "2022-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5160.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-b9244dd43d17",
+      "rss_guid": "38bd3834-8a49-4d7f-9b4d-8c34cdc48f02",
+      "published_date": "2022-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5541.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-35ea21678083",
+      "rss_guid": "d1b7c940-953c-4678-a785-c3c3cdb5512b",
+      "published_date": "2022-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5685.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-0ad1831b425d",
+      "rss_guid": "15bab502-3711-42f6-adaa-7df7255b5c84",
+      "published_date": "2022-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5708.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-684336b7f1b2",
+      "rss_guid": "a2c71b17-922f-4e08-9a99-63d9922cc260",
+      "published_date": "2022-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7041.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f2aff80f133f",
+      "rss_guid": "c3497736-8272-41d9-ae13-5e64eabd8c25",
+      "published_date": "2022-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5686.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-0f2c17ca4444",
+      "rss_guid": "f4fbf400-b691-41ad-a409-1f8084c9d66d",
+      "published_date": "2022-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5227.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-d1cd0fbf0d4d",
+      "rss_guid": "dd903aa1-a15d-402c-adc2-f532e9d9c1a6",
+      "published_date": "2022-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 45.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f0a6d5908b7b",
+      "rss_guid": "8dd44a05-a3de-466d-98fb-f5d887a4253a",
+      "published_date": "2022-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6307.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-242d9889af2f",
+      "rss_guid": "9167ed38-2c8a-4190-9d45-e87447d81a98",
+      "published_date": "2022-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6214.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-dd71a72fc713",
+      "rss_guid": "571430e2-ebb3-4265-a63f-7c46fe800ea9",
+      "published_date": "2022-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8006.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-cd64fab78064",
+      "rss_guid": "0482e443-fc63-4be4-99a4-30e28bc9beae",
+      "published_date": "2022-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5523.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-7efa540a7db3",
+      "rss_guid": "32e0a62a-c4cb-4f15-bb55-f7ddbbb21085",
+      "published_date": "2022-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6954.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-6edcf60beff8",
+      "rss_guid": "ff34bf8f-aa82-4158-b8f0-4c3838ea266c",
+      "published_date": "2022-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7568.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-442afe2f92be",
+      "rss_guid": "a6de4100-70ce-465c-89ae-b1c53f6a1c71",
+      "published_date": "2022-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5585.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-247d7dc7df92",
+      "rss_guid": "b6ee300d-0f50-462a-8331-5bf2f3f3c074",
+      "published_date": "2022-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6537.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-5284dcc6ca11",
+      "rss_guid": "e74467c3-7964-4ad5-a53a-1b9fdc98630a",
+      "published_date": "2022-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5645.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c4681889e824",
+      "rss_guid": "310749b1-df4d-42d6-98df-54b76b97f229",
+      "published_date": "2022-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6366.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-0b3c4518513d",
+      "rss_guid": "4fc2c15b-2084-45f1-aba2-2a988f6a99af",
+      "published_date": "2021-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 9516.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-1105d4b0197f",
+      "rss_guid": "d9d41315-b449-4de2-880c-a6e3811e0bfc",
+      "published_date": "2021-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6471.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-106b35478bc4",
+      "rss_guid": "84064c6c-73bf-47fc-87e3-d1f82fd4e5d5",
+      "published_date": "2021-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6043.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-577c07ba012f",
+      "rss_guid": "a5c61337-482d-42aa-aa2f-aa3089e50881",
+      "published_date": "2021-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5820.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c93e010add3c",
+      "rss_guid": "bf599c75-835a-4c81-9cbf-7f63394b1f32",
+      "published_date": "2021-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5991.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-c9ffe8a49479",
+      "rss_guid": "ac005fb0-0701-4479-a88a-a6bb5cf6cc57",
+      "published_date": "2021-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5954.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-3e90c32096dd",
+      "rss_guid": "b1adc8f2-b40c-4f80-9fb9-bbcc080e4855",
+      "published_date": "2021-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6022.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-532767f20f91",
+      "rss_guid": "784a3ff5-21ba-4478-bfad-c6ae252de315",
+      "published_date": "2021-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6066.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-4e52297deda0",
+      "rss_guid": "ea13ca18-50d0-45eb-bdff-598155e44a8d",
+      "published_date": "2021-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5789.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-30e33d50d675",
+      "rss_guid": "58e0b2d7-cc07-491d-a461-f1ed653ae471",
+      "published_date": "2021-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7928.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-f51d577d1b63",
+      "rss_guid": "692a24b2-dc91-446e-9ac4-e293bcf64551",
+      "published_date": "2021-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7567.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-eb776cca2f56",
+      "rss_guid": "dacc3db2-fcce-4524-8897-06a8d1dc4017",
+      "published_date": "2021-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6917.0
+    },
+    {
+      "episode_id": "your_mom_s_house_with_christina_p_and_tom_segura-73e0862ae9e1",
+      "rss_guid": "fb82d76e-a03a-4b99-a4a2-bd73ffe81cf6",
+      "published_date": "2021-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6401.0
+    }
+  ]
+}

@@ -1,0 +1,1836 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_the_basement_yard_20261002T193807Z",
+  "show_id": "the_basement_yard",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/TPC9330816620",
+    "snapshot_relative_path": "data/raw/rss/the_basement_yard/the_basement_yard_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "2bbdbfadcaec43c4b88c134198af0e0c6e2134dbd14a11e695453853ca4eab72",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "the_basement_yard-1a44fe7d1b44",
+      "rss_guid": "baed3ba2-bacb-11f1-a7bc-0fcad92e5711",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4987.0
+    },
+    {
+      "episode_id": "the_basement_yard-a81d4d981035",
+      "rss_guid": "1f17f7a8-b567-11f1-8da7-e3f269ba06c7",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5017.0
+    },
+    {
+      "episode_id": "the_basement_yard-8337c526a584",
+      "rss_guid": "0dd2c0a4-b003-11f1-ad52-eb5c60dce120",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5003.0
+    },
+    {
+      "episode_id": "the_basement_yard-f737ed537186",
+      "rss_guid": "66e448c4-aa78-11f1-bc6b-9b452576bda9",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4940.0
+    },
+    {
+      "episode_id": "the_basement_yard-b0eeb2d0e7ca",
+      "rss_guid": "97eda28a-a49c-11f1-b9d4-93caf90514da",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5099.0
+    },
+    {
+      "episode_id": "the_basement_yard-86c8fc4becf8",
+      "rss_guid": "d90e817e-9f3f-11f1-ac50-970eafecb47d",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5196.0
+    },
+    {
+      "episode_id": "the_basement_yard-5282cd8db49a",
+      "rss_guid": "04efa7fc-99e4-11f1-afde-8b6e140edbc8",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5340.0
+    },
+    {
+      "episode_id": "the_basement_yard-d631da8c80a3",
+      "rss_guid": "c4e1af62-9424-11f1-bbe5-4ba643536699",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5508.0
+    },
+    {
+      "episode_id": "the_basement_yard-6974e39384fe",
+      "rss_guid": "623aef84-8ec7-11f1-84fa-fb6badf0e6b6",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5089.0
+    },
+    {
+      "episode_id": "the_basement_yard-e045404383cc",
+      "rss_guid": "ba5f6822-8952-11f1-8d28-0f235e8c425b",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4977.0
+    },
+    {
+      "episode_id": "the_basement_yard-cd4a62178d5d",
+      "rss_guid": "5726f7de-83fd-11f1-b3ec-bf3e608e2400",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5060.0
+    },
+    {
+      "episode_id": "the_basement_yard-813a7a1fc022",
+      "rss_guid": "dd6a6bf6-7e7f-11f1-a8c8-d304523e3269",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4857.0
+    },
+    {
+      "episode_id": "the_basement_yard-ddfa6d5e1d28",
+      "rss_guid": "c95e74ee-7903-11f1-8fd1-b7d4b902493f",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4807.0
+    },
+    {
+      "episode_id": "the_basement_yard-0e305dd9c0c4",
+      "rss_guid": "6985225e-716d-11f1-bab5-b34a32496d05",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4974.0
+    },
+    {
+      "episode_id": "the_basement_yard-898c574c3361",
+      "rss_guid": "05783280-6df6-11f1-8a63-471ce7cfe5a1",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4790.0
+    },
+    {
+      "episode_id": "the_basement_yard-21f4fb929a6c",
+      "rss_guid": "7bf00268-685a-11f1-a081-53c24c413307",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4814.0
+    },
+    {
+      "episode_id": "the_basement_yard-887c3dba6e93",
+      "rss_guid": "dd1556e4-62ef-11f1-b35c-fb2442eec2de",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5222.0
+    },
+    {
+      "episode_id": "the_basement_yard-01c2c086d0d6",
+      "rss_guid": "24070c46-5d55-11f1-9321-4b548195a599",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4838.0
+    },
+    {
+      "episode_id": "the_basement_yard-035fda6ea6da",
+      "rss_guid": "a303447c-5785-11f1-973c-cb793c2bdb4f",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4625.0
+    },
+    {
+      "episode_id": "the_basement_yard-03e9b2aa1f4e",
+      "rss_guid": "8e03fa88-5264-11f1-9ae4-af8999fdb998",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4749.0
+    },
+    {
+      "episode_id": "the_basement_yard-95ade1cfe6db",
+      "rss_guid": "145ff7e0-4ce7-11f1-8ee9-a74c089e4959",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5217.0
+    },
+    {
+      "episode_id": "the_basement_yard-59b114ca9080",
+      "rss_guid": "42b71eb2-4750-11f1-a127-6b83581ae99b",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5314.0
+    },
+    {
+      "episode_id": "the_basement_yard-405d32e31840",
+      "rss_guid": "dcfb45a2-41dd-11f1-8a5b-0b060556e521",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4706.0
+    },
+    {
+      "episode_id": "the_basement_yard-19425dd5da33",
+      "rss_guid": "b18e4828-3c66-11f1-9e8e-2fbbe68163ee",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5336.0
+    },
+    {
+      "episode_id": "the_basement_yard-4b19883bc4a0",
+      "rss_guid": "7c70be38-36de-11f1-b02f-d32c6a10f745",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5283.0
+    },
+    {
+      "episode_id": "the_basement_yard-d1f308cae6c2",
+      "rss_guid": "45d733da-3174-11f1-b676-8b0397d181b5",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5567.0
+    },
+    {
+      "episode_id": "the_basement_yard-0094ef8f314a",
+      "rss_guid": "69b898a2-2be3-11f1-9da4-93c7f1f2e9e2",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5343.0
+    },
+    {
+      "episode_id": "the_basement_yard-ff743ac4166b",
+      "rss_guid": "44e02bec-2668-11f1-9a82-7fcdbd7cd078",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6504.0
+    },
+    {
+      "episode_id": "the_basement_yard-36ad5ff7ad1b",
+      "rss_guid": "827623b8-1f0a-11f1-9460-37857a905219",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5221.0
+    },
+    {
+      "episode_id": "the_basement_yard-8da72d062ad6",
+      "rss_guid": "a0d41cca-1b13-11f1-900e-6f0c7164a940",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6769.0
+    },
+    {
+      "episode_id": "the_basement_yard-75656626da7d",
+      "rss_guid": "4232a8fe-1603-11f1-b027-6712b14977c2",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5019.0
+    },
+    {
+      "episode_id": "the_basement_yard-653867aff2b9",
+      "rss_guid": "3de94f50-1077-11f1-aec6-83571d530493",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5399.0
+    },
+    {
+      "episode_id": "the_basement_yard-cbe3042ef54f",
+      "rss_guid": "88a42ed8-0af1-11f1-b476-d3111f535515",
+      "published_date": "2026-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5338.0
+    },
+    {
+      "episode_id": "the_basement_yard-44d61979e544",
+      "rss_guid": "46356eac-0571-11f1-8649-9f84b0b4fb91",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3848.0
+    },
+    {
+      "episode_id": "the_basement_yard-35db66c3011e",
+      "rss_guid": "a146bb34-ffea-11f0-a5fa-cbc1911b9cef",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4928.0
+    },
+    {
+      "episode_id": "the_basement_yard-b3f4d8801a93",
+      "rss_guid": "b13476c4-fa65-11f0-9944-73389fe1c8f9",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4873.0
+    },
+    {
+      "episode_id": "the_basement_yard-413aaf2c0a37",
+      "rss_guid": "2a2574d4-f4ee-11f0-807c-47af49113514",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5668.0
+    },
+    {
+      "episode_id": "the_basement_yard-c67eaccba667",
+      "rss_guid": "3b45ce40-ef70-11f0-b0a2-7b610163f712",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5216.0
+    },
+    {
+      "episode_id": "the_basement_yard-091b0585f0a8",
+      "rss_guid": "aa0380f0-e9ff-11f0-abbe-6720f82bbeca",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4846.0
+    },
+    {
+      "episode_id": "the_basement_yard-3af5bf68d007",
+      "rss_guid": "324b4a74-e46a-11f0-a898-fbea8e9484e6",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4993.0
+    },
+    {
+      "episode_id": "the_basement_yard-0990c4beacf6",
+      "rss_guid": "c8adcf4e-def9-11f0-8430-ef3de6c955c3",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5678.0
+    },
+    {
+      "episode_id": "the_basement_yard-b5c853eb8983",
+      "rss_guid": "81dfd29e-d9a7-11f0-ac98-138c047aaffc",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5667.0
+    },
+    {
+      "episode_id": "the_basement_yard-b0a8dd97eb1a",
+      "rss_guid": "87b1b7e6-d3f3-11f0-88c1-579f7eb8989c",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4859.0
+    },
+    {
+      "episode_id": "the_basement_yard-16d68e464c0d",
+      "rss_guid": "4ed35080-ce74-11f0-9669-63def411e0d1",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5265.0
+    },
+    {
+      "episode_id": "the_basement_yard-5a713d9bcd6d",
+      "rss_guid": "82a7229c-c8f7-11f0-8f5f-83133363981f",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4871.0
+    },
+    {
+      "episode_id": "the_basement_yard-26545f3203fc",
+      "rss_guid": "487cc49c-c379-11f0-bd68-bbe67408fb94",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4584.0
+    },
+    {
+      "episode_id": "the_basement_yard-99864c3fcfed",
+      "rss_guid": "2c02da3c-bdfb-11f0-84e8-47e7740d637c",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4681.0
+    },
+    {
+      "episode_id": "the_basement_yard-cf809940c548",
+      "rss_guid": "e3e20860-b858-11f0-b25f-3b42fcfa7cb4",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4355.0
+    },
+    {
+      "episode_id": "the_basement_yard-b4d9c76caf6a",
+      "rss_guid": "f77ac76e-b2f3-11f0-af17-c336262b50e1",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4725.0
+    },
+    {
+      "episode_id": "the_basement_yard-cc9d269104c1",
+      "rss_guid": "7ab97ee0-ad72-11f0-8d41-2fe74eff7a52",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4994.0
+    },
+    {
+      "episode_id": "the_basement_yard-e2816ae64309",
+      "rss_guid": "2ccfad3e-a7f6-11f0-8197-b35da6311d40",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5590.0
+    },
+    {
+      "episode_id": "the_basement_yard-536025a895fc",
+      "rss_guid": "c5d835cc-a266-11f0-96eb-e3cb48a93c8f",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4349.0
+    },
+    {
+      "episode_id": "the_basement_yard-9ed3a18e1d7c",
+      "rss_guid": "a1119046-9ce2-11f0-8129-27cb25eac22b",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5273.0
+    },
+    {
+      "episode_id": "the_basement_yard-51c30345a09f",
+      "rss_guid": "a836feec-976a-11f0-b4fe-1f72f06af4b3",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4458.0
+    },
+    {
+      "episode_id": "the_basement_yard-36aecfbc32f1",
+      "rss_guid": "b9fb7db8-91e0-11f0-9c17-dfd55c765f08",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4952.0
+    },
+    {
+      "episode_id": "the_basement_yard-5cca802782c6",
+      "rss_guid": "961354d0-8c67-11f0-8687-b7d584f501d7",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4555.0
+    },
+    {
+      "episode_id": "the_basement_yard-9eb0a985a191",
+      "rss_guid": "47453010-86e7-11f0-a30d-1bc362fd252b",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4650.0
+    },
+    {
+      "episode_id": "the_basement_yard-39a38af7a558",
+      "rss_guid": "90c589d2-815c-11f0-a6c5-2355cb70dfb4",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4938.0
+    },
+    {
+      "episode_id": "the_basement_yard-99aecda340a2",
+      "rss_guid": "64e888e8-7bba-11f0-b172-0f242c6a3c4b",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4545.0
+    },
+    {
+      "episode_id": "the_basement_yard-70e6a7200de7",
+      "rss_guid": "7dd39c3c-7668-11f0-bdf0-7f4199456be3",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4491.0
+    },
+    {
+      "episode_id": "the_basement_yard-9c93396c98fa",
+      "rss_guid": "5a41f9b6-70dd-11f0-9973-1ffd81f1eb18",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4295.0
+    },
+    {
+      "episode_id": "the_basement_yard-d644eaf956d5",
+      "rss_guid": "1df0e570-6b70-11f0-b12a-7b84ed7060d8",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5707.0
+    },
+    {
+      "episode_id": "the_basement_yard-a66ca34324e3",
+      "rss_guid": "cffa0b78-65e6-11f0-8a87-8baf3ca31c0a",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4645.0
+    },
+    {
+      "episode_id": "the_basement_yard-a9a24d2ab7f9",
+      "rss_guid": "c8c4fb9e-606c-11f0-888b-a72e458630c9",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5499.0
+    },
+    {
+      "episode_id": "the_basement_yard-c4d0e3eff545",
+      "rss_guid": "0461ef56-581e-11f0-acf7-0b0c920cefeb",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4838.0
+    },
+    {
+      "episode_id": "the_basement_yard-74a7bc36eefd",
+      "rss_guid": "9f05f862-554f-11f0-8fa2-f7dff4205011",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5099.0
+    },
+    {
+      "episode_id": "the_basement_yard-8ba95a5e6ba9",
+      "rss_guid": "08eda1f8-4fe2-11f0-8396-7300bd3aef13",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4872.0
+    },
+    {
+      "episode_id": "the_basement_yard-bcff3894b9dd",
+      "rss_guid": "babef6e6-4a4e-11f0-bde2-e32edf69ffca",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4455.0
+    },
+    {
+      "episode_id": "the_basement_yard-a564cd4f860a",
+      "rss_guid": "b18b68bc-44e9-11f0-b786-2f2efd9498de",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4355.0
+    },
+    {
+      "episode_id": "the_basement_yard-b61973a54192",
+      "rss_guid": "07f10fc6-3f5f-11f0-9867-574eb066123b",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4561.0
+    },
+    {
+      "episode_id": "the_basement_yard-8d8e068d8ea6",
+      "rss_guid": "368ec93c-39e1-11f0-a511-af90203dde49",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4547.0
+    },
+    {
+      "episode_id": "the_basement_yard-70d2419189d2",
+      "rss_guid": "bf442756-2edb-11f0-8ded-8b03b8e15f24",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4780.0
+    },
+    {
+      "episode_id": "the_basement_yard-54b9e17d5d6a",
+      "rss_guid": "bfff2d86-2eda-11f0-9c8c-03015c974a29",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5410.0
+    },
+    {
+      "episode_id": "the_basement_yard-6b89777f8180",
+      "rss_guid": "76aa7ffa-23ef-11f0-afdd-fb71c62f703b",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4370.0
+    },
+    {
+      "episode_id": "the_basement_yard-6bbe9a8a3758",
+      "rss_guid": "53403442-23ef-11f0-aa97-93f158c1f733",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5012.0
+    },
+    {
+      "episode_id": "the_basement_yard-771d47053e0f",
+      "rss_guid": "b9cdc098-18ec-11f0-81ca-577719901186",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4537.0
+    },
+    {
+      "episode_id": "the_basement_yard-972e551919a5",
+      "rss_guid": "a338c030-18ec-11f0-95db-9722ec835e66",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4596.0
+    },
+    {
+      "episode_id": "the_basement_yard-7b95ef495a94",
+      "rss_guid": "ddf33040-085f-11f0-aacc-cf239410b328",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4744.0
+    },
+    {
+      "episode_id": "the_basement_yard-765f8753f0e6",
+      "rss_guid": "d8acd1d2-133f-11f0-944f-ef927a9ad4e6",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4401.0
+    },
+    {
+      "episode_id": "the_basement_yard-a7599877df0f",
+      "rss_guid": "a579c5bc-085f-11f0-a44e-1775bf105c2b",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4584.0
+    },
+    {
+      "episode_id": "the_basement_yard-7f538659bee6",
+      "rss_guid": "59326d62-02e7-11f0-90bd-37b5fe0c7390",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4575.0
+    },
+    {
+      "episode_id": "the_basement_yard-ab97ffb058c9",
+      "rss_guid": "0096a73c-fdaa-11ef-b477-3732351fe4f7",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4738.0
+    },
+    {
+      "episode_id": "the_basement_yard-c71c62c9be6e",
+      "rss_guid": "e1fc964e-f25d-11ef-949a-5b3322af4d4f",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4353.0
+    },
+    {
+      "episode_id": "the_basement_yard-571913b45d4a",
+      "rss_guid": "d91f098e-f25e-11ef-aeab-db8990fa5d96",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4451.0
+    },
+    {
+      "episode_id": "the_basement_yard-cdbff0bb0dd9",
+      "rss_guid": "f1f48a24-ecc8-11ef-bf72-f7e53a025185",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4751.0
+    },
+    {
+      "episode_id": "the_basement_yard-3d244ab77c03",
+      "rss_guid": "0f894e8a-e1de-11ef-aa0a-17a5ecd5614f",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4646.0
+    },
+    {
+      "episode_id": "the_basement_yard-2cb300b66409",
+      "rss_guid": "c4874ae6-e231-11ef-82a4-bf7dacf4871c",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4502.0
+    },
+    {
+      "episode_id": "the_basement_yard-ff7ce7620964",
+      "rss_guid": "04b9a6b2-dc7a-11ef-8a3a-5feae161c5d5",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4191.0
+    },
+    {
+      "episode_id": "the_basement_yard-d7475a547251",
+      "rss_guid": "820ca336-d364-11ef-9fd0-979f12085a81",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4225.0
+    },
+    {
+      "episode_id": "the_basement_yard-3a3b6b4c1e21",
+      "rss_guid": "19824ed6-cbf0-11ef-b0ca-aba7823f0957",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3941.0
+    },
+    {
+      "episode_id": "the_basement_yard-3f571bdbe2ce",
+      "rss_guid": "94cd142a-c67a-11ef-9bde-c32cabbcf20a",
+      "published_date": "2025-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4459.0
+    },
+    {
+      "episode_id": "the_basement_yard-729725917b02",
+      "rss_guid": "60d79cc0-c67b-11ef-beb5-ab23d90d0797",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3919.0
+    },
+    {
+      "episode_id": "the_basement_yard-49460603e8ac",
+      "rss_guid": "a8e26070-bb60-11ef-b1eb-37aa5578605f",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4649.0
+    },
+    {
+      "episode_id": "the_basement_yard-2328e2027061",
+      "rss_guid": "4fcbf83a-b5e7-11ef-8d31-fb3e96b997f0",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4462.0
+    },
+    {
+      "episode_id": "the_basement_yard-2f6847f256bd",
+      "rss_guid": "0d4772cc-b066-11ef-9be1-c78cbb771dfa",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3785.0
+    },
+    {
+      "episode_id": "the_basement_yard-0861727bab13",
+      "rss_guid": "84cc7796-aafa-11ef-8cb6-230454249497",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4483.0
+    },
+    {
+      "episode_id": "the_basement_yard-8b3c9777aeab",
+      "rss_guid": "13e32058-a572-11ef-9e7f-efecc9e7d29b",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4127.0
+    },
+    {
+      "episode_id": "the_basement_yard-5820e7626ed4",
+      "rss_guid": "f36041da-a571-11ef-a961-7f350bf88034",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4442.0
+    },
+    {
+      "episode_id": "the_basement_yard-719570727f76",
+      "rss_guid": "579bbd46-9da7-11ef-86d3-d7fc71766782",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3369.0
+    },
+    {
+      "episode_id": "the_basement_yard-3f12895a63ed",
+      "rss_guid": "8fbe53b8-94cf-11ef-8670-efcb2c402c52",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3846.0
+    },
+    {
+      "episode_id": "the_basement_yard-6964c33c35e5",
+      "rss_guid": "b59e20aa-8f6a-11ef-ae56-031b6e49fa2e",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3876.0
+    },
+    {
+      "episode_id": "the_basement_yard-f0447a222d32",
+      "rss_guid": "7f713b12-89dd-11ef-9f03-9f1946a6674c",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3617.0
+    },
+    {
+      "episode_id": "the_basement_yard-4cc3f84e5725",
+      "rss_guid": "cc9cf3c0-86a1-11ef-8ecd-9be37c64918d",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3902.0
+    },
+    {
+      "episode_id": "the_basement_yard-b7872fa0d03e",
+      "rss_guid": "e3adf78e-7ee6-11ef-bab3-9b117a2aaa1a",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4017.0
+    },
+    {
+      "episode_id": "the_basement_yard-d860f3c1e8e3",
+      "rss_guid": "9d2ffbea-7ee6-11ef-a269-776927e023d1",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3686.0
+    },
+    {
+      "episode_id": "the_basement_yard-988b19befc1d",
+      "rss_guid": "3bcde24e-73e8-11ef-951b-db03d8965aa5",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3814.0
+    },
+    {
+      "episode_id": "the_basement_yard-463500071751",
+      "rss_guid": "9af844e6-6e5f-11ef-bd85-6b4768d7a3a8",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3709.0
+    },
+    {
+      "episode_id": "the_basement_yard-b5461a37f695",
+      "rss_guid": "cbf394ce-6e5f-11ef-adc1-a35a9eed04e5",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3815.0
+    },
+    {
+      "episode_id": "the_basement_yard-15925293332c",
+      "rss_guid": "2d0b9114-6369-11ef-be76-373c506898db",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3815.0
+    },
+    {
+      "episode_id": "the_basement_yard-b8b6ec4fdcc6",
+      "rss_guid": "ae83dab0-5e02-11ef-8a75-ab107a39fec4",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2819.0
+    },
+    {
+      "episode_id": "the_basement_yard-c9d82a3301f6",
+      "rss_guid": "c5e8b844-586a-11ef-b3d3-1ffd36091d32",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3791.0
+    },
+    {
+      "episode_id": "the_basement_yard-b11a10200b92",
+      "rss_guid": "af7c8d42-5522-11ef-9ffd-ff2dc9b3358e",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3927.0
+    },
+    {
+      "episode_id": "the_basement_yard-92ef0064a775",
+      "rss_guid": "847070c2-4d6c-11ef-a297-975d2b08a56b",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3916.0
+    },
+    {
+      "episode_id": "the_basement_yard-a094acc3f052",
+      "rss_guid": "06c1a3b2-47db-11ef-8844-ff347a261ac7",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3991.0
+    },
+    {
+      "episode_id": "the_basement_yard-4f8978bac2d0",
+      "rss_guid": "8fab9cf8-425b-11ef-8fa6-1b01bd0c992b",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3844.0
+    },
+    {
+      "episode_id": "the_basement_yard-dbeb040e67b8",
+      "rss_guid": "f96cbd1a-3c9e-11ef-abb0-e320c0b4613a",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3951.0
+    },
+    {
+      "episode_id": "the_basement_yard-a45882d5bddc",
+      "rss_guid": "9b8684f4-375f-11ef-9625-bbfb0bd8d059",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4065.0
+    },
+    {
+      "episode_id": "the_basement_yard-aebf146a5ed3",
+      "rss_guid": "7b868082-375f-11ef-9360-13ea83b54e91",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4142.0
+    },
+    {
+      "episode_id": "the_basement_yard-833823eed39b",
+      "rss_guid": "b14c0bbe-2c57-11ef-b986-db86cba8a1f1",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4085.0
+    },
+    {
+      "episode_id": "the_basement_yard-566ad4a00476",
+      "rss_guid": "a4d4c4ba-26d6-11ef-af97-27f944ea130b",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4103.0
+    },
+    {
+      "episode_id": "the_basement_yard-68cf0d4c90eb",
+      "rss_guid": "18df0962-214e-11ef-9a7c-a34334f23aac",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3988.0
+    },
+    {
+      "episode_id": "the_basement_yard-8fb37ef6a9de",
+      "rss_guid": "67e592a8-1bd4-11ef-9637-db089252572e",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3851.0
+    },
+    {
+      "episode_id": "the_basement_yard-2f763c55f46c",
+      "rss_guid": "edfa60b0-1654-11ef-a960-1babf433f42f",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4053.0
+    },
+    {
+      "episode_id": "the_basement_yard-a16cfa423303",
+      "rss_guid": "b205cac0-10d9-11ef-965f-8b31a4956eef",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3934.0
+    },
+    {
+      "episode_id": "the_basement_yard-b433ca9cc39c",
+      "rss_guid": "42ba5486-0b68-11ef-ad59-3b7ee7319d13",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4007.0
+    },
+    {
+      "episode_id": "the_basement_yard-50ad4381f455",
+      "rss_guid": "22b47516-05d9-11ef-bc21-c37193476d14",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3833.0
+    },
+    {
+      "episode_id": "the_basement_yard-e7ba505ad8cb",
+      "rss_guid": "cceab7ec-004e-11ef-8d50-6fd5a7de1dea",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4037.0
+    },
+    {
+      "episode_id": "the_basement_yard-d0d2ea067522",
+      "rss_guid": "df850ba2-fddb-11ee-868f-277da9d48818",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4164.0
+    },
+    {
+      "episode_id": "the_basement_yard-47b9c05bbc3e",
+      "rss_guid": "0c3c30c8-f55b-11ee-b00d-e3ddba18d212",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4072.0
+    },
+    {
+      "episode_id": "the_basement_yard-a602dd627a30",
+      "rss_guid": "347cf418-efd0-11ee-9351-376591cf2780",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4030.0
+    },
+    {
+      "episode_id": "the_basement_yard-8b3c21f7c160",
+      "rss_guid": "11b78da0-ef74-11ee-84b4-6b297c7505e7",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4086.0
+    },
+    {
+      "episode_id": "the_basement_yard-0559f3a62d6d",
+      "rss_guid": "0dc20f0c-e4db-11ee-a522-57c4798663e9",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4202.0
+    },
+    {
+      "episode_id": "the_basement_yard-42661dd1e684",
+      "rss_guid": "6177b7c8-df6d-11ee-8755-83d715cb1b8a",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3906.0
+    },
+    {
+      "episode_id": "the_basement_yard-77d18273cfde",
+      "rss_guid": "8788e256-d9e2-11ee-a859-df9dcd6f282d",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4089.0
+    },
+    {
+      "episode_id": "the_basement_yard-0b4535ff6b1c",
+      "rss_guid": "cccfe670-d474-11ee-891e-c788a3a39f2e",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4221.0
+    },
+    {
+      "episode_id": "the_basement_yard-9b308197e5fb",
+      "rss_guid": "65a78bfa-cee4-11ee-a09f-fbb0a99879ec",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3767.0
+    },
+    {
+      "episode_id": "the_basement_yard-ee46fe017a13",
+      "rss_guid": "32fa0342-c960-11ee-b4e4-13916500a634",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3960.0
+    },
+    {
+      "episode_id": "the_basement_yard-755190db0f92",
+      "rss_guid": "ea9002e6-c95f-11ee-8247-a72bbaf78513",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4256.0
+    },
+    {
+      "episode_id": "the_basement_yard-f72c408b50f3",
+      "rss_guid": "5f796056-be58-11ee-854b-6bd802f8ba3a",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4117.0
+    },
+    {
+      "episode_id": "the_basement_yard-b140e9ebb684",
+      "rss_guid": "81cf5ca4-b8d7-11ee-aec1-d3672422ccd2",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3798.0
+    },
+    {
+      "episode_id": "the_basement_yard-fb3761d34590",
+      "rss_guid": "9b7a44d4-b364-11ee-9663-67b572957284",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4144.0
+    },
+    {
+      "episode_id": "the_basement_yard-f236cef3bd5e",
+      "rss_guid": "f396dfca-ade6-11ee-8139-7f1e9e0f3913",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3914.0
+    },
+    {
+      "episode_id": "the_basement_yard-8867a8b927df",
+      "rss_guid": "d33d07de-a7fd-11ee-ae30-33626f762d6e",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4129.0
+    },
+    {
+      "episode_id": "the_basement_yard-2baedf600e0c",
+      "rss_guid": "8eb6c9a6-a276-11ee-a2e4-4bcd77d29aa1",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3831.0
+    },
+    {
+      "episode_id": "the_basement_yard-629815a085c4",
+      "rss_guid": "6de952fe-9d83-11ee-a38a-b7721895a28d",
+      "published_date": "2023-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4325.0
+    },
+    {
+      "episode_id": "the_basement_yard-b41d33c57214",
+      "rss_guid": "ccc0eac0-97d0-11ee-8ac9-3fbef762e3bc",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4064.0
+    },
+    {
+      "episode_id": "the_basement_yard-7b5331043ab7",
+      "rss_guid": "feb5caa8-96d3-11ee-a62a-137b51897932",
+      "published_date": "2023-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4404.0
+    },
+    {
+      "episode_id": "the_basement_yard-a1be25952c12",
+      "rss_guid": "804f1650-8cd4-11ee-af16-3ff7b71352ee",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4420.0
+    },
+    {
+      "episode_id": "the_basement_yard-6d782c5941e9",
+      "rss_guid": "9c21a3b4-8763-11ee-a55f-977945d15b86",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3963.0
+    },
+    {
+      "episode_id": "the_basement_yard-193359a5af18",
+      "rss_guid": "1383077c-81e7-11ee-9d4f-cf2e2dc7e903",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4249.0
+    },
+    {
+      "episode_id": "the_basement_yard-9252c96b8e3b",
+      "rss_guid": "d4db98f8-7c47-11ee-a272-07c1c85c6f7c",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3950.0
+    },
+    {
+      "episode_id": "the_basement_yard-91013981cc8b",
+      "rss_guid": "aa2de812-76b2-11ee-b38a-f34551299559",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3873.0
+    },
+    {
+      "episode_id": "the_basement_yard-a53b5778d5a0",
+      "rss_guid": "700d0c22-716b-11ee-9cfb-8bfe375d950b",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3743.0
+    },
+    {
+      "episode_id": "the_basement_yard-95f4c3e5d5a5",
+      "rss_guid": "5e74c70e-6bd8-11ee-8773-a3e9ffed8114",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4096.0
+    },
+    {
+      "episode_id": "the_basement_yard-1790b40da1b5",
+      "rss_guid": "08f9d8a4-6670-11ee-b7c1-13f5a112927f",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4219.0
+    },
+    {
+      "episode_id": "the_basement_yard-77688070a68c",
+      "rss_guid": "06bbb594-60bc-11ee-b4e4-6b86184fa59f",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4251.0
+    },
+    {
+      "episode_id": "the_basement_yard-10b1f05ccfcd",
+      "rss_guid": "08a95c3a-5b67-11ee-b36d-57cccc821adb",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4001.0
+    },
+    {
+      "episode_id": "the_basement_yard-9c6edcd957c3",
+      "rss_guid": "1759c372-55c8-11ee-8527-7f73a9423e19",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4031.0
+    },
+    {
+      "episode_id": "the_basement_yard-aa5f9c6ea942",
+      "rss_guid": "b6a05546-5045-11ee-9f7c-9bd4f37daee1",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3917.0
+    },
+    {
+      "episode_id": "the_basement_yard-d288ec152d0b",
+      "rss_guid": "97a4db96-4ac6-11ee-af37-df37eace7125",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3958.0
+    },
+    {
+      "episode_id": "the_basement_yard-fc1ef5b05a05",
+      "rss_guid": "ceae36d0-4541-11ee-9967-afd376df39d0",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3950.0
+    },
+    {
+      "episode_id": "the_basement_yard-77231f677262",
+      "rss_guid": "c4fd9ff8-3fac-11ee-84c9-b399c58e2dc0",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4430.0
+    },
+    {
+      "episode_id": "the_basement_yard-29e221a81dd3",
+      "rss_guid": "b7cbaf84-3a32-11ee-a84e-b3513349c421",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3946.0
+    },
+    {
+      "episode_id": "the_basement_yard-46e530aa92d9",
+      "rss_guid": "b439b590-34e3-11ee-9248-7fd8c1e63207",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4064.0
+    },
+    {
+      "episode_id": "the_basement_yard-52742e426cb8",
+      "rss_guid": "cd59b8f0-2f3d-11ee-85de-d787b271e85a",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4381.0
+    },
+    {
+      "episode_id": "the_basement_yard-21e8353489c8",
+      "rss_guid": "1d4eab8c-29fc-11ee-9d2b-930b167258de",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4203.0
+    },
+    {
+      "episode_id": "the_basement_yard-ffdc6dd03722",
+      "rss_guid": "5467cd34-243d-11ee-9ec6-17b72e113c3a",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4372.0
+    },
+    {
+      "episode_id": "the_basement_yard-4fadfc8a6678",
+      "rss_guid": "f3a1cbb6-1ede-11ee-964b-43e754976e23",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4046.0
+    },
+    {
+      "episode_id": "the_basement_yard-8552d6f6b43e",
+      "rss_guid": "cb27d7e2-1944-11ee-b71a-e74603ef6e38",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4386.0
+    },
+    {
+      "episode_id": "the_basement_yard-d0b02bb6ed71",
+      "rss_guid": "24ed8f60-13c8-11ee-97a0-176290e3c888",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4360.0
+    },
+    {
+      "episode_id": "the_basement_yard-b12a2654d990",
+      "rss_guid": "f46cca70-0e60-11ee-8fa4-b7bc4193c3b7",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4355.0
+    },
+    {
+      "episode_id": "the_basement_yard-90a03192624b",
+      "rss_guid": "d933d1fe-0e60-11ee-bc8a-3b8b16e04a4c",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4106.0
+    },
+    {
+      "episode_id": "the_basement_yard-be6fc3957729",
+      "rss_guid": "be3a3cae-0671-11ee-b132-ffd43ae99789",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4219.0
+    },
+    {
+      "episode_id": "the_basement_yard-bc4b0061b935",
+      "rss_guid": "dc4eb4f8-fd7b-11ed-b41a-736f54128544",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4246.0
+    },
+    {
+      "episode_id": "the_basement_yard-dd50f116381d",
+      "rss_guid": "b9db6d28-f84c-11ed-9c65-7f05277f721c",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4243.0
+    },
+    {
+      "episode_id": "the_basement_yard-08102d3abb1b",
+      "rss_guid": "c771524e-f2c6-11ed-bf45-7f7f209cc327",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4132.0
+    },
+    {
+      "episode_id": "the_basement_yard-65b8ed3fc9da",
+      "rss_guid": "02849916-ed47-11ed-b68b-7bfd6c6d4ec4",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4397.0
+    },
+    {
+      "episode_id": "the_basement_yard-bc7a5aee2718",
+      "rss_guid": "b33683d6-e244-11ed-b7a5-7f52e98ed7c9",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4081.0
+    },
+    {
+      "episode_id": "the_basement_yard-c0706c017f78",
+      "rss_guid": "aa91b09a-dcc0-11ed-88d5-479482253e63",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3995.0
+    },
+    {
+      "episode_id": "the_basement_yard-19dee84bfa64",
+      "rss_guid": "428f2596-d74c-11ed-936e-3b785c827442",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4140.0
+    },
+    {
+      "episode_id": "the_basement_yard-d0b7f7bb45c5",
+      "rss_guid": "0f524e56-d1bb-11ed-8f9a-33c332543a49",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4089.0
+    },
+    {
+      "episode_id": "the_basement_yard-c9362660c091",
+      "rss_guid": "46577600-cc4e-11ed-b2f6-d37fd220314e",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3949.0
+    },
+    {
+      "episode_id": "the_basement_yard-6a7b9795e0fc",
+      "rss_guid": "46e4103e-c6d0-11ed-b739-6f2223724535",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4234.0
+    },
+    {
+      "episode_id": "the_basement_yard-d4604d920746",
+      "rss_guid": "6ce0da70-c157-11ed-a8d5-f7466b0ade21",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4084.0
+    },
+    {
+      "episode_id": "the_basement_yard-59bc4d61e846",
+      "rss_guid": "2029d19c-bbde-11ed-aba1-07e8e34c1561",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4097.0
+    },
+    {
+      "episode_id": "the_basement_yard-7c787e2ebd61",
+      "rss_guid": "7d7300aa-b65f-11ed-b312-df0ae8041562",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3790.0
+    },
+    {
+      "episode_id": "the_basement_yard-17eb123fb3d9",
+      "rss_guid": "8523c910-b0b0-11ed-90e5-0f6238346e49",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3855.0
+    },
+    {
+      "episode_id": "the_basement_yard-234cea2e2e75",
+      "rss_guid": "adccec44-ab6e-11ed-9990-3b30ef48d8a1",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3798.0
+    },
+    {
+      "episode_id": "the_basement_yard-e6f49c125e04",
+      "rss_guid": "410eabc0-a5cd-11ed-a900-9fe612b16de9",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3803.0
+    },
+    {
+      "episode_id": "the_basement_yard-3e372ea28835",
+      "rss_guid": "6d49cc78-a03d-11ed-8133-0b90f5ec9dd4",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3471.0
+    },
+    {
+      "episode_id": "the_basement_yard-eacc11dcfecf",
+      "rss_guid": "bf5c97f6-9ad0-11ed-98dc-131261f8a64a",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3713.0
+    },
+    {
+      "episode_id": "the_basement_yard-94bb05f3145f",
+      "rss_guid": "c1d76844-9acb-11ed-8289-93c1eac2c353",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3973.0
+    },
+    {
+      "episode_id": "the_basement_yard-0bedc95fab5c",
+      "rss_guid": "590bc036-8fc6-11ed-941f-3b54bd2c8796",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3774.0
+    },
+    {
+      "episode_id": "the_basement_yard-d9ad9b22d397",
+      "rss_guid": "f3e25f82-8ab9-11ed-9cc4-efceb5a7d2d8",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4121.0
+    },
+    {
+      "episode_id": "the_basement_yard-f786dd688385",
+      "rss_guid": "bd141c00-84d0-11ed-ba5a-7ff5ca4a972c",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3875.0
+    },
+    {
+      "episode_id": "the_basement_yard-15f2f1a7f902",
+      "rss_guid": "f2a68d3a-84d0-11ed-aad6-675c7e7714b5",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3672.0
+    },
+    {
+      "episode_id": "the_basement_yard-93f204a56ca7",
+      "rss_guid": "965533cc-79c4-11ed-8eeb-2bf85ae1bb43",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3869.0
+    },
+    {
+      "episode_id": "the_basement_yard-fb6e0e045401",
+      "rss_guid": "0bca8714-7421-11ed-bb19-c7e8e006b14e",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3643.0
+    },
+    {
+      "episode_id": "the_basement_yard-da988f66db25",
+      "rss_guid": "9140b464-6ed0-11ed-8eff-5be2807013c3",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3777.0
+    },
+    {
+      "episode_id": "the_basement_yard-d1b238f6fde8",
+      "rss_guid": "19a46ace-6906-11ed-9356-4f5c6bc6148e",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4358.0
+    },
+    {
+      "episode_id": "the_basement_yard-d7afc9aab2c3",
+      "rss_guid": "6300bb82-63c0-11ed-aad3-3fe4e93c4fbb",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3769.0
+    },
+    {
+      "episode_id": "the_basement_yard-b7b4f332f4c3",
+      "rss_guid": "31d64a68-63c0-11ed-97c2-d7484ba11031",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4222.0
+    },
+    {
+      "episode_id": "the_basement_yard-7093e8050927",
+      "rss_guid": "0c666300-58a1-11ed-990c-27c8e4db9155",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3908.0
+    },
+    {
+      "episode_id": "the_basement_yard-619de3a54d4a",
+      "rss_guid": "f9cfbc8a-5924-11ed-a810-d7841f78a6e2",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4022.0
+    },
+    {
+      "episode_id": "the_basement_yard-881b528fcb9f",
+      "rss_guid": "39eb3050-52eb-11ed-82e2-6f98976d0d63",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3732.0
+    },
+    {
+      "episode_id": "the_basement_yard-46ce7e9a26aa",
+      "rss_guid": "f2adbe6c-4802-11ed-bc9f-970142604d20",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3984.0
+    },
+    {
+      "episode_id": "the_basement_yard-28f65aae2b27",
+      "rss_guid": "d907204e-42a2-11ed-931e-ebfa36b5ebeb",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4019.0
+    },
+    {
+      "episode_id": "the_basement_yard-9d8055f3de50",
+      "rss_guid": "e11f30f2-3d41-11ed-8ada-a714d0683a27",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4008.0
+    },
+    {
+      "episode_id": "the_basement_yard-33513ec41823",
+      "rss_guid": "20f77c92-3703-11ed-acb5-1ffbc9288b5e",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3935.0
+    },
+    {
+      "episode_id": "the_basement_yard-9a1316828358",
+      "rss_guid": "66b75b78-3215-11ed-80e1-372b9d74ef17",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4069.0
+    },
+    {
+      "episode_id": "the_basement_yard-d8372315ae9f",
+      "rss_guid": "60c8c458-2c76-11ed-bf04-2b2e3c4a1b8d",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3885.0
+    },
+    {
+      "episode_id": "the_basement_yard-40b073fd28de",
+      "rss_guid": "f5712620-2719-11ed-835e-43a85b81e153",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4112.0
+    },
+    {
+      "episode_id": "the_basement_yard-c4f50d522d9d",
+      "rss_guid": "aae1f5c2-2146-11ed-940d-072cd682d621",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3930.0
+    },
+    {
+      "episode_id": "the_basement_yard-e6b622b28b67",
+      "rss_guid": "bcfc0e74-1c59-11ed-8d51-1f6f49c3d083",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3613.0
+    },
+    {
+      "episode_id": "the_basement_yard-7c4c578afe33",
+      "rss_guid": "5b9c5ef4-16c3-11ed-9a27-3b352fcc5390",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4163.0
+    },
+    {
+      "episode_id": "the_basement_yard-79a95d75b81b",
+      "rss_guid": "e536656a-1137-11ed-ab00-dfe1fdb1ef4d",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4200.0
+    },
+    {
+      "episode_id": "the_basement_yard-34bd43d05916",
+      "rss_guid": "ba98f4e4-1137-11ed-a38f-7baca91c3d42",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4732.0
+    },
+    {
+      "episode_id": "the_basement_yard-f5ea82a0f13d",
+      "rss_guid": "3b85e97e-051a-11ed-8955-a34623938a5a",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4161.0
+    },
+    {
+      "episode_id": "the_basement_yard-0224dc98da7f",
+      "rss_guid": "845ac764-03a8-11ed-9bb4-4716a870db86",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3964.0
+    },
+    {
+      "episode_id": "the_basement_yard-e5d787a88442",
+      "rss_guid": "d678e5e2-fad1-11ec-abc4-d7af6cf00365",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3958.0
+    },
+    {
+      "episode_id": "the_basement_yard-d324032616de",
+      "rss_guid": "f3ef2a08-f55b-11ec-93c4-7bebffa6ac10",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4070.0
+    },
+    {
+      "episode_id": "the_basement_yard-5028288c4f4c",
+      "rss_guid": "6e796c04-eff6-11ec-8503-5bba06c86861",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4258.0
+    },
+    {
+      "episode_id": "the_basement_yard-65ee75cbbe19",
+      "rss_guid": "4de93742-ea94-11ec-9d01-739806a816aa",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4282.0
+    },
+    {
+      "episode_id": "the_basement_yard-e8659c579127",
+      "rss_guid": "598bd2da-e4f9-11ec-ae6b-bf17aa5a46b1",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3967.0
+    },
+    {
+      "episode_id": "the_basement_yard-678dcbafe259",
+      "rss_guid": "15e7d578-dec9-11ec-accb-1f15ebd1c8a0",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4185.0
+    },
+    {
+      "episode_id": "the_basement_yard-f4d189cbb390",
+      "rss_guid": "b453e460-d9db-11ec-b336-131f2d326e57",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4103.0
+    },
+    {
+      "episode_id": "the_basement_yard-884c0caf1b16",
+      "rss_guid": "ac8c82ea-d45f-11ec-9430-d717624df6ec",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4275.0
+    },
+    {
+      "episode_id": "the_basement_yard-55425b3ee169",
+      "rss_guid": "729af8f8-ced0-11ec-86c8-035182895684",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4107.0
+    },
+    {
+      "episode_id": "the_basement_yard-ce40d3bd2b7e",
+      "rss_guid": "b254fe48-c9b8-11ec-a423-ff225dd73846",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4176.0
+    },
+    {
+      "episode_id": "the_basement_yard-d3b32c36f4a9",
+      "rss_guid": "34a613da-c362-11ec-88f4-f37e45deffe0",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4039.0
+    },
+    {
+      "episode_id": "the_basement_yard-3e75ba6c4f65",
+      "rss_guid": "6c547f8c-be6d-11ec-a5d2-8753adcbe627",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4330.0
+    },
+    {
+      "episode_id": "the_basement_yard-fa856d4cbfb1",
+      "rss_guid": "f997961a-b920-11ec-8dbf-df8a355fe040",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4425.0
+    },
+    {
+      "episode_id": "the_basement_yard-407bebed8777",
+      "rss_guid": "16f12c38-b3fb-11ec-8678-5b64bcc57e9a",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4213.0
+    },
+    {
+      "episode_id": "the_basement_yard-7f282fd164ce",
+      "rss_guid": "581e7158-b3fa-11ec-be00-1b57ceb3da5f",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3956.0
+    },
+    {
+      "episode_id": "the_basement_yard-c3cca5604f2e",
+      "rss_guid": "89db46d0-ae14-11ec-9567-bf093d308241",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4395.0
+    },
+    {
+      "episode_id": "the_basement_yard-6b98b1235062",
+      "rss_guid": "8b70e618-a32d-11ec-b47c-f78c180d57df",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4539.0
+    },
+    {
+      "episode_id": "the_basement_yard-5935dd878118",
+      "rss_guid": "fcd58824-9dd1-11ec-bcc6-db9891e545ba",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4202.0
+    },
+    {
+      "episode_id": "the_basement_yard-85de7de1fe45",
+      "rss_guid": "bda38440-9835-11ec-a58e-fb7f59fb0c21",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3902.0
+    },
+    {
+      "episode_id": "the_basement_yard-5662aa34c6d7",
+      "rss_guid": "3e83fef8-9298-11ec-9f8f-274f34873e76",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4120.0
+    },
+    {
+      "episode_id": "the_basement_yard-a1adefb9f045",
+      "rss_guid": "aaf6ddda-8d4d-11ec-9626-2b714e380ee2",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4468.0
+    },
+    {
+      "episode_id": "the_basement_yard-28095325362f",
+      "rss_guid": "3a32171c-87d1-11ec-aad7-b77a98c170cb",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4268.0
+    },
+    {
+      "episode_id": "the_basement_yard-05711b30dbc7",
+      "rss_guid": "fcedba32-87d0-11ec-b8a6-93744f0679bb",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4071.0
+    },
+    {
+      "episode_id": "the_basement_yard-086791d6728a",
+      "rss_guid": "6ed272e4-8247-11ec-81e1-5f91a24b95da",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3823.0
+    },
+    {
+      "episode_id": "the_basement_yard-a7b904525899",
+      "rss_guid": "2b12cb2c-772e-11ec-83f8-b78f3badccc9",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3998.0
+    },
+    {
+      "episode_id": "the_basement_yard-5900cb5e8918",
+      "rss_guid": "00f29f7e-71b7-11ec-8a2e-9be804f2246e",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3831.0
+    },
+    {
+      "episode_id": "the_basement_yard-ea7b54ef5737",
+      "rss_guid": "9fd2b31e-71b6-11ec-b832-cb09e718f22b",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4033.0
+    },
+    {
+      "episode_id": "the_basement_yard-652fee89b15e",
+      "rss_guid": "d052639e-6c3a-11ec-8908-6b42a89a5ebb",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3996.0
+    },
+    {
+      "episode_id": "the_basement_yard-d3f50893d6bd",
+      "rss_guid": "59c78074-60e6-11ec-9629-d745ff7f5e1c",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4033.0
+    },
+    {
+      "episode_id": "the_basement_yard-5ef219d5cedf",
+      "rss_guid": "1592c686-5bd5-11ec-a52b-97d6aed0a7bc",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4395.0
+    },
+    {
+      "episode_id": "the_basement_yard-d1b13087b458",
+      "rss_guid": "094093de-5646-11ec-ab8c-df48cd99415b",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4235.0
+    },
+    {
+      "episode_id": "the_basement_yard-c5351110f360",
+      "rss_guid": "c4d0ab1c-50b4-11ec-93e0-274fb28a1262",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4185.0
+    },
+    {
+      "episode_id": "the_basement_yard-fef724a61d6d",
+      "rss_guid": "0743c8bc-4b33-11ec-9400-9b5cc1acd7de",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4135.0
+    },
+    {
+      "episode_id": "the_basement_yard-8dfec93c6e1f",
+      "rss_guid": "a10d531a-45ba-11ec-92aa-ff1ce9497bf0",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4164.0
+    },
+    {
+      "episode_id": "the_basement_yard-ec8bb3f71eef",
+      "rss_guid": "ac9f8d50-402f-11ec-a358-0ffd75cc889d",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4058.0
+    },
+    {
+      "episode_id": "the_basement_yard-550f01b03e73",
+      "rss_guid": "f1c11fda-3aac-11ec-b405-8f79faf3fbe3",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4316.0
+    },
+    {
+      "episode_id": "the_basement_yard-4246937441e6",
+      "rss_guid": "d4ec9054-3545-11ec-aadb-bbfcb94ce225",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4453.0
+    },
+    {
+      "episode_id": "the_basement_yard-e8a006930071",
+      "rss_guid": "56814d98-2fa7-11ec-a676-b3064f0beb88",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3818.0
+    },
+    {
+      "episode_id": "the_basement_yard-de03e5f8d417",
+      "rss_guid": "3911499e-2a29-11ec-881f-87791d017a1a",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3979.0
+    },
+    {
+      "episode_id": "the_basement_yard-434b6d49fd83",
+      "rss_guid": "134c944c-24a8-11ec-8e49-5b3d811a42c7",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4274.0
+    },
+    {
+      "episode_id": "the_basement_yard-f852f7e94e27",
+      "rss_guid": "6f4445c8-1f2c-11ec-907b-0fa6f723c017",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4120.0
+    }
+  ]
+}

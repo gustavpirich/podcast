@@ -1,0 +1,107 @@
+{
+  "schema_version": "0.1",
+  "purpose": "Edison Research / SSRS 'Top 50 Podcasts in the U.S.' releases defining the popularity frame (researcher decision 2026-10-02: Edison Top 50; Health & Fitness, Self-Improvement and Comedy; all episodes in the past five years).",
+  "compiled_at": "2026-10-02",
+  "compiled_from": "SSRS site search for 'top 50 podcasts' and web searches on 2026-10-02",
+  "notes": [
+    "Releases up to Q3-Q4 2022 rank shows on rolling survey data of listeners aged 18+ ('Podcast Consumer Tracking Report'); from Q2 2023 each list covers one quarter of listeners aged 13+ and later includes watching. Rankings are therefore not strictly comparable over time.",
+    "The full 50-show lists are published as images; only the top 10 appear as page text.",
+    "No release covers Q1 2023 alone: the Q3-Q4 2022 list is followed by Q2 2023.",
+    "Snapshots 20261002T191005Z and 20261002T191202Z are superseded because of the 2023Q3 source problems above; they are kept unchanged for provenance.",
+    "On 2026-10-03 the researcher extended the frame to 2019, so the five releases before Q4 2021 were added (2019 Top 10, Q3 2019 - Q2 2020 Top 30, 2020 Top 50, Q2 2021 and Q3 2021 Top 50; found via SSRS pages and web search on 2026-10-03). No separate Q1 2021 release was found."
+  ],
+  "releases": [
+    {
+      "release": "2019Q3-Q4",
+      "url": "https://ssrs.com/news/edison-research-releases-podcast-industrys-first-all-inclusive-u-s-top-10-podcast-ranker/",
+      "note": "First Edison ranking; Top 10 only."
+    },
+    {
+      "release": "2020Q2",
+      "url": "https://ssrs.com/news/the-top-30-u-s-podcasts-according-to-edison-podcast-metrics/",
+      "note": "Top 30 only; survey period Q3 2019 - Q2 2020."
+    },
+    {
+      "release": "2020",
+      "url": "https://ssrs.com/news/the-top-50-most-listened-to-u-s-podcasts-of-2020/",
+      "note": "Full-year 2020 list, published February 2021."
+    },
+    {
+      "release": "2021Q2",
+      "url": "https://ssrs.com/news/the-top-50-most-listened-to-podcasts-in-the-u-s-q2-2021/"
+    },
+    {
+      "release": "2021Q3",
+      "url": "https://ssrs.com/news/the-top-50-most-listened-to-podcasts-in-the-u-s-q3-2021/"
+    },
+    {
+      "release": "2021Q4",
+      "url": "https://ssrs.com/news/the-top-50-most-listened-to-podcasts-in-the-u-s-q4-2021/"
+    },
+    {
+      "release": "2022Q1",
+      "url": "https://ssrs.com/news/top-50-most-listened-to-podcasts-in-the-u-s-q1-2022/"
+    },
+    {
+      "release": "2022Q2",
+      "url": "https://ssrs.com/news/top-50-most-listened-to-podcasts-in-the-u-s-q2-2022/"
+    },
+    {
+      "release": "2022Q3-Q4",
+      "url": "https://ssrs.com/news/top-50-most-listened-to-podcasts-in-the-u-s-q3-q4-2022/"
+    },
+    {
+      "release": "2023Q2",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-q2-2023/"
+    },
+    {
+      "release": "2023Q3",
+      "url": "http://web.archive.org/web/20231130114513/https://www.edisonresearch.com/the-top-50-podcasts-in-the-u-s-q3-2023-from-edison-podcast-metrics/",
+      "note": "The live Q3 2023 page now redirects to the Q1 2026 page (snapshot 20261002T191005Z), and Edison's file 'Top-50-Podcasts-in-the-US-Q3-2023.pdf' actually contains the Q2 2023 press release (snapshot 20261002T191202Z). The Internet Archive copy of the original page (captured 2023-11-30) is used instead."
+    },
+    {
+      "release": "2023Q4",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-q4-2023/"
+    },
+    {
+      "release": "2024Q1",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q1-2024/"
+    },
+    {
+      "release": "2024Q2",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q2-2024/"
+    },
+    {
+      "release": "2024Q3",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q3-2024/"
+    },
+    {
+      "release": "2024Q4",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q4-2024/"
+    },
+    {
+      "release": "2025Q1",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q1-2025/"
+    },
+    {
+      "release": "2025Q2",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q2-2025/"
+    },
+    {
+      "release": "2025Q3",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q3-2025/"
+    },
+    {
+      "release": "2025Q4",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-for-q4-2025/"
+    },
+    {
+      "release": "2026Q1",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-q1-2026/"
+    },
+    {
+      "release": "2026Q2",
+      "url": "https://ssrs.com/news/the-top-50-podcasts-in-the-u-s-q2-2026/"
+    }
+  ]
+}

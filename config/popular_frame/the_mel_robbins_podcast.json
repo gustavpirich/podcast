@@ -1,0 +1,3089 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_the_mel_robbins_podcast_20261002T193807Z",
+  "show_id": "the_mel_robbins_podcast",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.simplecast.com/UCwaTX1J",
+    "snapshot_relative_path": "data/raw/rss/the_mel_robbins_podcast/the_mel_robbins_podcast_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "e49c05067a0d6238d8c3d632972773b0540bf4f88f1dffe65334960a87dac6c8",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "the_mel_robbins_podcast-b624fa78939b",
+      "rss_guid": "327dc387-ec6a-4e57-8290-4dacdd495f19",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4112.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-19766a3b27cb",
+      "rss_guid": "1b717967-9cb6-4581-ade5-68c25448335b",
+      "published_date": "2026-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4952.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d02a85656aae",
+      "rss_guid": "c6056494-80c8-4c98-a98e-4998feabca4e",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5211.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e7ad742e7bcf",
+      "rss_guid": "d20b9dc3-f44a-405e-8da2-0edf01ac1790",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2837.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f74512708a11",
+      "rss_guid": "8562df69-03e2-422c-8ba7-2a6cc9bc55f2",
+      "published_date": "2026-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4746.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-900a03b68852",
+      "rss_guid": "ab2e8755-3963-4c04-ae2a-5c6c52e71178",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3550.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4f8798c0997e",
+      "rss_guid": "a0fbbadc-a8e0-4a30-9e7c-8b16a72cf88c",
+      "published_date": "2026-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4534.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5c937effbf63",
+      "rss_guid": "4a1bc2e7-b2cb-45c5-afe8-05cdc28a7278",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4589.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-db211d42e16f",
+      "rss_guid": "6e39a729-3ff6-4ce4-9f31-94cc375ce8e4",
+      "published_date": "2026-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3675.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-63c73b48ce9f",
+      "rss_guid": "f2f114d7-9b3d-4652-a76e-72d2e235b13d",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4211.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1a3cdd246cf0",
+      "rss_guid": "5cdc273e-bfef-48f8-b5bc-29c544106f7b",
+      "published_date": "2026-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4197.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d7d28e058564",
+      "rss_guid": "82cb285e-cf55-4f27-b006-159637888e51",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3865.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-65df5666b65a",
+      "rss_guid": "809c2774-9038-40cd-bea0-47207130b314",
+      "published_date": "2026-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4117.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-92512da7a990",
+      "rss_guid": "ac9dfbd5-45b3-4187-801d-15d9a145dd24",
+      "published_date": "2026-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4417.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1e1fb54503d8",
+      "rss_guid": "345b9bdd-8cd3-4327-9aa3-642d77f2dfbf",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4151.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3b10f7211b8d",
+      "rss_guid": "6b38e6d7-5cb4-4562-81ae-46365ecdbc37",
+      "published_date": "2026-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4202.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a46ae3b66466",
+      "rss_guid": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4714.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9b25c7442b1d",
+      "rss_guid": "9c567eb6-8f68-4985-b2a8-15e6df77e499",
+      "published_date": "2026-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3819.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d23f1928c606",
+      "rss_guid": "6d9330a4-33b8-4447-8e3f-46434d74efab",
+      "published_date": "2026-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4290.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-07eb3af740ab",
+      "rss_guid": "0a1964e6-adf5-4a87-827c-d825fcea2c15",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5661.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c5d873233a39",
+      "rss_guid": "23a00afb-806e-40bc-b5f3-bdd7775f82e6",
+      "published_date": "2026-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4946.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4edcc6907799",
+      "rss_guid": "f8883ca5-f220-4faa-987f-633d58aa7361",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2624.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-25945fceac0c",
+      "rss_guid": "1d53d36f-93f5-412d-abef-fb08a512f862",
+      "published_date": "2026-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4755.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e9927ac1d7e5",
+      "rss_guid": "8dcfe3bf-cded-4b36-a968-c3c9340f1a77",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3836.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-86f6e6c6ae32",
+      "rss_guid": "2981365c-6519-4dd2-9df4-72d47e58652a",
+      "published_date": "2026-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4100.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1b5351dc44ee",
+      "rss_guid": "629aaf3b-71cd-4e9d-9569-615818a9d634",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3989.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5eab5df57465",
+      "rss_guid": "22fb17c0-af06-42fd-9a38-993470785b83",
+      "published_date": "2026-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3881.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-95028ba62271",
+      "rss_guid": "0e72a689-8996-4c1b-ab6e-9b53730160f7",
+      "published_date": "2026-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3650.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-96ced75f1f0f",
+      "rss_guid": "1315609b-cd6a-4652-889f-4e05c8fc9ec5",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4124.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d624bd6275dd",
+      "rss_guid": "c9d737f7-9004-4e2e-a0c8-0366ab191fff",
+      "published_date": "2026-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3881.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-906960ae80ee",
+      "rss_guid": "b6f39b45-67b3-4552-84e4-d23d099470c7",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4250.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e4b4425f1cea",
+      "rss_guid": "5e9b1f22-a1ab-4753-a9ac-57006668a3d7",
+      "published_date": "2026-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4481.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-670367b5578e",
+      "rss_guid": "34ea66a4-fa65-4c79-a7ab-ceb055e8b706",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4424.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6421924a6190",
+      "rss_guid": "7208890a-88df-4fde-88db-912b4713f1b3",
+      "published_date": "2026-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5106.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7616698590e6",
+      "rss_guid": "f1903797-c140-45c1-a3fd-97e740e144f3",
+      "published_date": "2026-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5264.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d914bad598e3",
+      "rss_guid": "a88d865e-4955-4f6d-943e-2c24941ead35",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3760.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-07d7075cf1cf",
+      "rss_guid": "46c7b205-c154-47a6-b0a6-1586a578332f",
+      "published_date": "2026-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5655.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c600b9313ca0",
+      "rss_guid": "5d71b41c-1dd8-4bf3-8140-db8031ecccda",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3506.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-afc8ef663cc8",
+      "rss_guid": "418b2cb2-80e3-443f-bf1d-9027841d69a2",
+      "published_date": "2026-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3822.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3642dc10d3d9",
+      "rss_guid": "67ba9bed-be2d-4077-8787-e05793268b45",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4812.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bf4d578b777d",
+      "rss_guid": "ebe59790-47ab-40e6-8e03-a27b9fdfb191",
+      "published_date": "2026-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3817.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7bf78a624dc2",
+      "rss_guid": "e8088944-e778-4925-8303-b78d22eb35f2",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4186.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-057d32a2ab8a",
+      "rss_guid": "4c8d06a3-054f-438c-bb3b-162ede6f066c",
+      "published_date": "2026-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4340.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f37c3002f982",
+      "rss_guid": "008ac670-56b0-43e3-92b0-9413ede1331b",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4853.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5d72abfe0b7e",
+      "rss_guid": "c1eb44e1-c73b-43b7-8961-8ad48afcdf7a",
+      "published_date": "2026-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3022.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c7da5605431c",
+      "rss_guid": "c15f7e73-445c-4c68-95c2-0f14a16d0677",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4742.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6d4ba84de48a",
+      "rss_guid": "dba88a76-b901-45e3-a66d-fc373b5176e1",
+      "published_date": "2026-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4753.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-351c73a79a54",
+      "rss_guid": "22fac414-c385-4e86-b876-f780f1de24ac",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3945.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-42bd1d38c28c",
+      "rss_guid": "a04916e5-1c06-4474-b767-446f8e585d7b",
+      "published_date": "2026-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4088.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5d716f791493",
+      "rss_guid": "e46a420d-6d45-4c2f-bce3-3b288642f155",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4479.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5dd2173ccb32",
+      "rss_guid": "a0279623-11bd-428b-b67d-5a4ccb9933e5",
+      "published_date": "2026-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4170.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f7f0f09b03bf",
+      "rss_guid": "751417dc-85f9-423d-acfc-64309506bc23",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3876.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d3c5ead28540",
+      "rss_guid": "83900e31-8539-4ca0-aaaf-5889eb4b3ba6",
+      "published_date": "2026-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5384.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-116671cc4cb7",
+      "rss_guid": "38c75080-85b7-4b97-8b1a-f9c0c11b1a1a",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4056.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f53164c2d60b",
+      "rss_guid": "06cd30ac-033a-41e2-8fcb-2ecc9eb69a4d",
+      "published_date": "2026-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5352.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fe0e3b3c5621",
+      "rss_guid": "5d7370cd-a590-4f14-ad68-46938aa0327e",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4370.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-450bee770f44",
+      "rss_guid": "35a33b2c-e21e-43da-a89d-56510c660f48",
+      "published_date": "2026-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5881.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f5740a8b83dc",
+      "rss_guid": "be6efec7-878d-486a-809e-e05a31e4e33d",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5800.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3d7cf8354c69",
+      "rss_guid": "6cb24bdf-1eb1-4013-8909-cb13ddbefb5c",
+      "published_date": "2026-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3540.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-00d50c0c301e",
+      "rss_guid": "beb8ebd2-b58b-4790-851c-c7ecb908c3c3",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8067.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-68906ae686fb",
+      "rss_guid": "f576dac0-cf43-45db-a233-bf940b50c6fa",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4800.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f6bdfc12d823",
+      "rss_guid": "649398a6-0c20-4d53-a65b-9c8981a2d18c",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3863.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a140de440584",
+      "rss_guid": "2bddba27-0d37-4095-9b40-47c6a6e94e68",
+      "published_date": "2026-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4007.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-73ad00d1d497",
+      "rss_guid": "70b3383a-7000-4f0a-993b-198b7bf4828a",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4904.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d0266012e875",
+      "rss_guid": "0f97a46c-8900-4ede-8c62-35c32a202a7a",
+      "published_date": "2026-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5782.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5aa03b77bdb6",
+      "rss_guid": "1032b202-534e-48f1-91ac-c23dabf7746c",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3665.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3ae3649b28d4",
+      "rss_guid": "42896553-5e05-4320-ac9c-837747dbaee8",
+      "published_date": "2026-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4869.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a312dbb31e6b",
+      "rss_guid": "bbc5573a-7521-4c28-af6f-199d5164002f",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4035.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bd75919721fd",
+      "rss_guid": "5def807a-cb14-4785-9ab6-21c42423c995",
+      "published_date": "2026-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4741.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-11f5c0a8d506",
+      "rss_guid": "7953f67c-b342-4dfc-952d-dc1f793416f7",
+      "published_date": "2026-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3770.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6b26b2397213",
+      "rss_guid": "82223fb6-4166-49de-92c3-800925d23107",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6133.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-64ebff359731",
+      "rss_guid": "318e5bfd-defb-4b72-bfa5-4331b03118ba",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3774.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8ce7bfe404c8",
+      "rss_guid": "83404959-581c-4620-9d2c-f3e8c344b55f",
+      "published_date": "2026-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4884.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f5d98e8f09c2",
+      "rss_guid": "fd0aad3d-bb11-4e72-9c58-3254f7f80071",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5139.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8447b8f3295d",
+      "rss_guid": "7719233e-8fa3-4c56-a081-9176a0407645",
+      "published_date": "2026-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5647.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8b12a7c77ea0",
+      "rss_guid": "05c94f02-0fcd-4633-be33-53cb03548fd8",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5298.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-370ae67a1c53",
+      "rss_guid": "6f7d3159-773a-401f-b4d7-8fe17a825b06",
+      "published_date": "2026-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4974.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c054fc3409ae",
+      "rss_guid": "b7132648-1c0c-49fa-9c33-91110713116b",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4445.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-84ac9e22761a",
+      "rss_guid": "99f9619d-49a4-4ab4-8a40-896f2600a780",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4298.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c8cbc4f3abb5",
+      "rss_guid": "09b0524b-3a11-4fe1-9f54-aa5f6ff78a67",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5993.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e598d630ed4a",
+      "rss_guid": "0ce66a99-2cd7-44ef-a97d-4177752fee79",
+      "published_date": "2026-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5433.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e47e5ef64ac4",
+      "rss_guid": "c41590e8-79b9-445d-ad13-1028d7b1d86e",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3987.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-58476ead7f9c",
+      "rss_guid": "c1046dba-6fbc-4f93-87ec-24a6105a262b",
+      "published_date": "2026-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5235.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-309f5e4aeff2",
+      "rss_guid": "7863c965-74af-451c-aa76-93844867f622",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4832.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4da69c6d6d5a",
+      "rss_guid": "73707b24-21b6-4dc6-9cd4-88864cd537c9",
+      "published_date": "2025-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5552.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a731d00b7355",
+      "rss_guid": "9a408081-4dbb-4fa3-b50b-62f5c6cc2aac",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4605.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ebc2b1885936",
+      "rss_guid": "34fa99d9-e7a8-4feb-8bf5-142151641fc2",
+      "published_date": "2025-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5406.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-746d5ff35cee",
+      "rss_guid": "29ace9d1-6fa4-4491-a354-c98b89bf358a",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5433.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b2f893e86463",
+      "rss_guid": "df518a3b-c448-4326-8e47-da6118b7511f",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4793.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d36a11ce1a9b",
+      "rss_guid": "fbf8959e-4647-4fe1-bf21-ab916d3c8194",
+      "published_date": "2025-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3232.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b206e537961e",
+      "rss_guid": "95dea1b4-7edc-4ea0-bc96-094165677a64",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5607.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-70de1ca0a3bf",
+      "rss_guid": "eb5b1a2e-85bc-4911-9a65-b45d3467a3a7",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4829.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cf39b24b1a0e",
+      "rss_guid": "42deba6d-5b0f-48bd-b362-69d3379f2877",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4510.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-775faca13601",
+      "rss_guid": "5a8cf78d-9679-439e-8c9f-4343004587c7",
+      "published_date": "2025-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2788.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-503c380c4cd4",
+      "rss_guid": "124d9a7c-290f-4fdd-8984-809b415f5b68",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5467.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1d6dc4d30678",
+      "rss_guid": "e922e609-be9c-41b3-8521-08118b6efb6d",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5190.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e1abdda76bf7",
+      "rss_guid": "2bb63fde-caaf-4a02-990d-f06a316c1093",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4493.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4408f6208615",
+      "rss_guid": "d52f5d54-deb8-4877-b995-aad79bf9b60e",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4748.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-125726d64c81",
+      "rss_guid": "0cc2c046-6eb3-4320-b79a-96bd1dbb539e",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4946.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-759a9bc9c17b",
+      "rss_guid": "c2c6cd20-3870-43e8-9d08-30a1b741bfbc",
+      "published_date": "2025-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4831.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-077c9fd01fce",
+      "rss_guid": "d2b86bd0-585f-4c9a-ba74-397fe7e3c60b",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4011.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f00265fb8452",
+      "rss_guid": "2059c3a9-88dc-4d63-8916-3cab50f6bea8",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4598.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d178c4425e61",
+      "rss_guid": "b2c5b963-c4dd-40c9-a7c2-7e808ed82dc1",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5121.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d83c18db6e5c",
+      "rss_guid": "c41adac2-d86f-41ea-9337-b4ae0421b291",
+      "published_date": "2025-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6511.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-af4c8cfa962b",
+      "rss_guid": "531b20cb-2270-4971-bb24-23f1a9c6b4c3",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3090.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fc7109afc6d2",
+      "rss_guid": "f5b0028a-cbd7-4a08-a78a-a194106ecaa2",
+      "published_date": "2025-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4359.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fdfb7eca42ee",
+      "rss_guid": "1df83e2b-ac65-4b5e-8c4c-0740cc94bf39",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5748.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-40b05802f07b",
+      "rss_guid": "06e8ba18-f6f6-473a-9693-f9305e4623d5",
+      "published_date": "2025-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4714.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-85c830f4139a",
+      "rss_guid": "3999795d-1617-4475-8b9c-267a63e52b06",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2955.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b6ab5242f6df",
+      "rss_guid": "d0c1aa65-ad55-4627-9cae-b7a2856d4a31",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4727.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9e54bd702c12",
+      "rss_guid": "f64ff03e-0c2d-4b65-bc47-11c2e4057f5f",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5424.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b16c6a0f7cb6",
+      "rss_guid": "c21318a6-824a-423b-bca8-b83c3691dcfd",
+      "published_date": "2025-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4306.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4c07b3a113d0",
+      "rss_guid": "966433a3-e683-4aa2-8f4b-2c00d81fa215",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5029.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-eae7e574c42f",
+      "rss_guid": "38c43f66-b37e-4a0e-8ce2-3f3e9091a703",
+      "published_date": "2025-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3608.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8e14b4ddec39",
+      "rss_guid": "dad58943-b364-48d9-bb7c-c16a64df25a1",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2956.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fd98a272af4b",
+      "rss_guid": "08eb1b1d-6a6b-4167-963c-1ad236e19558",
+      "published_date": "2025-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4011.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-eda680d1d0bc",
+      "rss_guid": "80d2c9f7-904b-4d4a-872c-14c0838c8a9b",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4340.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8398aff7dc8d",
+      "rss_guid": "6edcda52-55b3-4fde-9610-408643b87ee6",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4613.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4646957ad17d",
+      "rss_guid": "5ca5d93b-5116-48e1-a672-c818659f3ef7",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5535.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e1975915b8b4",
+      "rss_guid": "c43b1f5a-807f-4e5f-bcde-513d8a047d9d",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3538.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1f838e429350",
+      "rss_guid": "210b6a75-8be2-4e1d-a652-bef0cef20e8b",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3120.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-857adfdc365a",
+      "rss_guid": "2ec886a9-13b2-4a6c-a32d-5f8fd2ae9144",
+      "published_date": "2025-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3010.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f36ab47408a8",
+      "rss_guid": "c6d1b5eb-28f6-4250-8977-2e2029f80e22",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4764.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8c8c27b94b03",
+      "rss_guid": "9e409691-bc08-45ca-b8f8-b0113c21a0dd",
+      "published_date": "2025-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3572.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8cd0c92ee3b0",
+      "rss_guid": "4a7cd4d1-541f-4539-b001-2ded02550531",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5080.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-daae0d1b7457",
+      "rss_guid": "430608ea-fb94-4cff-b70b-a1088e692630",
+      "published_date": "2025-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4567.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e9f0eb78f448",
+      "rss_guid": "45e2a3ab-8eac-4103-a277-46dd7be2b2b7",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5005.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-50504cc3d6d5",
+      "rss_guid": "197334e5-001f-4b8d-af87-d9123c1510ea",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4808.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-408011f82457",
+      "rss_guid": "29c15682-7d45-4fa6-b211-29d7bf63bb25",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5213.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b466e50ae581",
+      "rss_guid": "28b10016-8382-4e9e-8296-192b14fc4ac7",
+      "published_date": "2025-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3936.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-18a804231e83",
+      "rss_guid": "61116df6-96d4-476d-8ad4-6c1f1d912131",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4376.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-33dbf31c98c7",
+      "rss_guid": "0f0a0d49-e6b3-4e1a-ac66-4832fa1c1b6f",
+      "published_date": "2025-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5368.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-2bba8af7970c",
+      "rss_guid": "8740d934-d1f8-49bf-966e-924084abeb9f",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4347.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-aec693e8c954",
+      "rss_guid": "5448fe85-b5ba-4bf2-9291-018ce930ee0a",
+      "published_date": "2025-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4433.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cb8e0195158c",
+      "rss_guid": "62b168b7-9d54-4eb7-9ebc-dce3c554208e",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4427.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d6a8f3a3fbb8",
+      "rss_guid": "6b9ae7e0-7c59-4fbc-b0a4-c5b9e7125ca2",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4277.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-57f11655c819",
+      "rss_guid": "58c5f54a-df23-4c9e-949d-0c674c8cf09f",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3449.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-865a21958fbe",
+      "rss_guid": "2165e597-13b4-4540-8a86-a2ea672c2c78",
+      "published_date": "2025-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4635.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-435c080aefd3",
+      "rss_guid": "923821be-a65d-4a66-a325-ba51b5f81e35",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3213.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c88a4e0dabbf",
+      "rss_guid": "994b0146-7dfb-4fdd-9379-3846399d31fe",
+      "published_date": "2025-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4441.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7178827ffcf5",
+      "rss_guid": "53b50bd9-b38f-49ef-9aaf-5e26992be696",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4123.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-92137195213b",
+      "rss_guid": "ffc4866a-5224-4431-9200-a909854d8133",
+      "published_date": "2025-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3822.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-542bdb678c4a",
+      "rss_guid": "93117f0a-fd20-4232-a8d0-6e611d9fb268",
+      "published_date": "2025-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4055.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3a1df1a93339",
+      "rss_guid": "8899ba48-8d61-4679-b826-ce491d372ec5",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4335.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-32a7ed625212",
+      "rss_guid": "92319569-004c-4a6e-b348-5f12758cd2e0",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5680.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-06f46bfe8fc8",
+      "rss_guid": "b566539e-4916-4d5c-8f6a-45b54d386ba2",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4780.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9d27ada74cae",
+      "rss_guid": "5932048c-fb51-4881-9325-9b5830ab5fbd",
+      "published_date": "2025-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6314.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fdbeb167f43c",
+      "rss_guid": "d3f2378e-4b7c-44cc-86ea-e5da6ab73548",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4255.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fbebde5fdfb3",
+      "rss_guid": "1c8a5949-e13e-4aab-ba0d-e21d470300cb",
+      "published_date": "2025-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5042.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5af6ab4f5227",
+      "rss_guid": "15ceacfc-3d4d-4a22-9442-b731a93342bf",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4860.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bb222bc3ed44",
+      "rss_guid": "3f81a986-7944-44d2-a2e7-6da9a8a45f99",
+      "published_date": "2025-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4260.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-271f0b7e6a53",
+      "rss_guid": "74539183-8786-4032-9cd0-164b9e61095e",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4396.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ba4f195d5148",
+      "rss_guid": "16d5c719-689b-4d18-93a2-28c1a4bad627",
+      "published_date": "2025-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4894.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a7633b2c30af",
+      "rss_guid": "0a4eed36-8f8b-4423-bc23-a9785cac99c4",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3708.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d92e5a7165c8",
+      "rss_guid": "81c455bf-9782-4fc1-b11a-e93b8d0467ca",
+      "published_date": "2025-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4040.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7626f5ba4184",
+      "rss_guid": "3bbddf54-89fe-4db1-b7ec-39a37aaae256",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3074.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6ad7f1dba965",
+      "rss_guid": "1570051d-5c3b-4789-88e3-e3d9a227c60d",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5467.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ceb5372392e0",
+      "rss_guid": "e1357f2d-042a-4c8e-b905-264f89938f17",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6282.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7ab6206eceaa",
+      "rss_guid": "2f2e7033-c4a7-4bf3-aa39-5406e77bf7a5",
+      "published_date": "2025-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4713.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fcac357bbd21",
+      "rss_guid": "33bee50b-303b-446d-8410-b3d3e438327f",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5068.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-60896a28330c",
+      "rss_guid": "361661cb-9921-4e94-b689-99a8ade1494f",
+      "published_date": "2025-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5755.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-17b5443053fd",
+      "rss_guid": "2a26d92e-5e8a-41de-b4c1-e3712cec26ce",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5070.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-dd1c54fcd0db",
+      "rss_guid": "905cbef1-5dd2-4d35-867e-76ebbf6cbcd8",
+      "published_date": "2025-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4168.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-60ae81a994b7",
+      "rss_guid": "3b123fb4-54e6-4bc8-a292-ffd9b143d151",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3746.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-05c39a6d6bac",
+      "rss_guid": "31225b04-5dc4-4efa-9669-fecacb59d4d4",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5888.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-515a1847a030",
+      "rss_guid": "76ea3845-4ac8-47c9-b219-07834af73a1c",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4655.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a2680e829f0a",
+      "rss_guid": "606834fc-3d2e-46d4-afed-3b7527b856f4",
+      "published_date": "2025-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4821.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ee92f4036185",
+      "rss_guid": "06ea5df5-aef2-4190-b103-b2e4427c5c95",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4139.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-11fc630c2f23",
+      "rss_guid": "a0b9e9ab-c508-4389-8158-b5b115db8606",
+      "published_date": "2025-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4888.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f7e19ee3f84f",
+      "rss_guid": "2c859519-b584-4e9e-87ed-8d6fc4b5c1b3",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4227.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-544c280e99f0",
+      "rss_guid": "7aa318c7-85a8-4d96-bdb5-33af0bc19c02",
+      "published_date": "2025-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5018.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0b201fbf4ee2",
+      "rss_guid": "fc07ea62-6ea7-47c5-9157-0094f41039c9",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4420.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f4de24ad44cc",
+      "rss_guid": "c47fd700-5a3c-41ab-85eb-ef73a7bad423",
+      "published_date": "2025-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3021.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e31dd4ba5d3d",
+      "rss_guid": "8c82fde6-d7af-4625-a3fd-048ae8b15bcc",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4296.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4e94f01fd5eb",
+      "rss_guid": "66c1aee4-214a-412a-b873-426040b5cf52",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6271.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0351784f7b1d",
+      "rss_guid": "af21bde1-96f6-44b0-945e-bd5b6ceaeda9",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4234.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a0ae1a73205e",
+      "rss_guid": "71642a2d-b7b5-48e6-8dd8-6efee089ac14",
+      "published_date": "2025-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3022.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-56b209688918",
+      "rss_guid": "438e6b83-7508-4f4b-aa12-5e4ea40e9507",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4622.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1d2571f16f72",
+      "rss_guid": "30fdff17-0819-403a-8afd-9453c0b0de86",
+      "published_date": "2025-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4318.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-327b08dbd601",
+      "rss_guid": "1f212e0f-f622-42c4-9de4-71cc58d45821",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5053.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c09b23626ead",
+      "rss_guid": "46d1bdc7-1340-46c9-aadb-d72aee05b1da",
+      "published_date": "2025-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2324.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5fcafac29f37",
+      "rss_guid": "6beff523-fa9a-4f50-a65a-2e0419ed3648",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3533.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-59effc89f55a",
+      "rss_guid": "ac099036-cb4d-4498-909c-15f5f0513239",
+      "published_date": "2025-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2403.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-dc22ad159051",
+      "rss_guid": "e005904a-c27e-4701-ad70-1230486d0978",
+      "published_date": "2025-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5612.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-afeab77897c4",
+      "rss_guid": "a5fd0358-0493-4066-b455-f9fcafd012dd",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4192.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b4b9a64463e9",
+      "rss_guid": "72172b82-e1b7-4664-bbf5-be6626b05ff6",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3214.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5b264ad7ee31",
+      "rss_guid": "aabf2657-466d-4a6b-9d2e-843b93cee506",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3494.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7b9d4680fb41",
+      "rss_guid": "a9e6c2d3-dbf9-48f7-b7d1-039cb9057cf3",
+      "published_date": "2025-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3079.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-67ad33de8cd6",
+      "rss_guid": "cb07f99b-9727-487e-bc5b-735cb7faaaa2",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4097.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-227fc9186f6f",
+      "rss_guid": "b299a325-5095-4fb4-9dbb-da023905ad41",
+      "published_date": "2025-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5593.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f6e61ee5e9c6",
+      "rss_guid": "fa8dd352-4f57-4092-93e4-faae106cbb68",
+      "published_date": "2025-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 433.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-2799538ead01",
+      "rss_guid": "6dd0e0f0-d627-44ec-a3ca-853effaa4818",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5373.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-99b26f06fc01",
+      "rss_guid": "30ac842a-952e-42f1-857b-91f6eac924d2",
+      "published_date": "2024-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3123.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-55c84a5e8df6",
+      "rss_guid": "23adb24b-b284-4fcf-8422-6e56e859eb49",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5929.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9c45404c526d",
+      "rss_guid": "c19006cd-28cb-4396-bd01-ffbdd4bc0aec",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4870.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e68567c24918",
+      "rss_guid": "82a8342f-824b-4e85-8d6c-90425436c8d3",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5598.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ee1ad17fefee",
+      "rss_guid": "617f317e-33bd-4367-aa45-6e6f8e8a6170",
+      "published_date": "2024-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3433.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d5e38c895e4e",
+      "rss_guid": "aaad802e-a373-4ca0-8836-c6777d19bccf",
+      "published_date": "2024-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5293.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-208d7469f890",
+      "rss_guid": "151f61ce-a435-47ec-968e-11a9ccae79d6",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5261.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fefc761ced76",
+      "rss_guid": "6e5455e4-73e6-491e-ba3d-2186077580ee",
+      "published_date": "2024-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5129.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bea2364cb36e",
+      "rss_guid": "b7fbdcad-4123-4219-992d-f80d96d0be17",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4938.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-af5d9570a20e",
+      "rss_guid": "b3d59002-d8b3-490a-8730-e1d0f978a920",
+      "published_date": "2024-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4262.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e0f3e41ccf53",
+      "rss_guid": "c724f7a0-2ebf-4793-a475-3d0f343960f5",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3515.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8059394c11b9",
+      "rss_guid": "4803d13c-6d07-433a-a8d0-d1d4106af791",
+      "published_date": "2024-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3837.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-28f2aabf5724",
+      "rss_guid": "27686f4b-b567-4bb7-aef1-75c8b0bb059b",
+      "published_date": "2024-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3891.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c33a20ec209d",
+      "rss_guid": "e04c7405-153a-4d53-8207-169bcb7c547f",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3954.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5bd05c635d78",
+      "rss_guid": "59b4f4d7-8897-4298-b676-dafb419f33f6",
+      "published_date": "2024-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2518.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-16c0972b586f",
+      "rss_guid": "0b14f56d-cb5f-41e5-a2bc-5f0b06d30b57",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3827.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d99fc71bf0ba",
+      "rss_guid": "ba1cb54a-5f84-4fba-82db-b540ce7716a5",
+      "published_date": "2024-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4016.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b08427b273b7",
+      "rss_guid": "4a6acde8-43b9-4ecc-85f0-db8c4782b2f2",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4333.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8e42998a3f27",
+      "rss_guid": "dad68346-6313-448a-bd07-10f32c2ea251",
+      "published_date": "2024-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4253.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3dff2247513f",
+      "rss_guid": "64596d2f-2254-4e9d-b937-29e493f8ac58",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4918.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5f64fe73935a",
+      "rss_guid": "9c6ad82c-dd8e-4293-ba30-71373f368935",
+      "published_date": "2024-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4765.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-74586bbd0e09",
+      "rss_guid": "db4de8cf-4adc-4139-8ff1-2bcd943ab496",
+      "published_date": "2024-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 628.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8fbdcc268f02",
+      "rss_guid": "44e1babe-6d73-4a95-884b-8dbe666c573b",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2952.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4387c241c3c4",
+      "rss_guid": "1e9718c6-5aa0-4686-90d3-319e3632cfca",
+      "published_date": "2024-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2722.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-595692d86b57",
+      "rss_guid": "f519002d-60d2-4c67-bfa3-a7ce681ddf94",
+      "published_date": "2024-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4232.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1a70e76519d9",
+      "rss_guid": "3ae4dab5-0927-4ebe-b906-4dce8fe3ba0e",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3209.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ec45e769f544",
+      "rss_guid": "34689b42-ea5b-4f4f-b594-790999cf1808",
+      "published_date": "2024-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3378.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6111bd5b37c5",
+      "rss_guid": "a378bc05-79fe-41ba-a660-0b020aaba84f",
+      "published_date": "2024-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3179.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3ab8d2ccb5b4",
+      "rss_guid": "177f6536-2706-492a-b7d6-53bc1a4aba2d",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3426.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-be5510d223c5",
+      "rss_guid": "6c40891b-6d18-4da3-8add-2c9279ee374f",
+      "published_date": "2024-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3964.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e1a4d6b99b1e",
+      "rss_guid": "6a597d5c-6f7e-429b-abea-fb92dbc57d9e",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2917.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c2184b2a28a6",
+      "rss_guid": "2a86fa63-4dd0-403b-9486-ca8b23edd133",
+      "published_date": "2024-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3746.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-83888c97829a",
+      "rss_guid": "d732263b-b932-43e6-ab2b-116d0fdc1b7d",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2742.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-109d54dd8e74",
+      "rss_guid": "f97148d6-d982-4ae3-8d2d-89b10214fcf5",
+      "published_date": "2024-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3530.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-dc5589fa4578",
+      "rss_guid": "85e32a0f-12bc-415f-ad5f-fd8261040a4e",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3980.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5a4ab901da10",
+      "rss_guid": "805b8551-86f4-47f8-a087-ed902806cf13",
+      "published_date": "2024-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2577.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9c5137bcfebc",
+      "rss_guid": "193c1313-0ef7-4f41-8041-1c485b1a411c",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4422.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7406be00e657",
+      "rss_guid": "b03b79b2-ba92-4ecb-9b7d-6fbb153047b3",
+      "published_date": "2024-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3215.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7daab10b3671",
+      "rss_guid": "abe436a0-dfa6-4d51-a13e-04138013cbc7",
+      "published_date": "2024-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2831.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-020990c07922",
+      "rss_guid": "13d22cde-a045-458c-8139-096bafa8479a",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4012.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6da6b77e268e",
+      "rss_guid": "3c075224-85b5-425a-8c7b-5368961a7173",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2844.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-aea3711e1d98",
+      "rss_guid": "7625a376-4a8f-4c1c-a79e-a1a0ebb440e6",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2911.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a0cdaa64e05a",
+      "rss_guid": "57191b85-9df8-44b7-a78a-740747e4aec0",
+      "published_date": "2024-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3944.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-dff9e1e86e7a",
+      "rss_guid": "ad852dfe-9ab1-46b8-95db-82cb138440cc",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3938.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4caa23c8685f",
+      "rss_guid": "74b82140-b8f9-4137-b269-d177ec99ad69",
+      "published_date": "2024-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2929.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ab1e149b2446",
+      "rss_guid": "4c901c76-15e4-48e4-a052-e6e881dd0695",
+      "published_date": "2024-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2763.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ec46d889e7db",
+      "rss_guid": "d8847f29-163f-4976-8a61-72a786962f65",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3583.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c423e7f2c3ea",
+      "rss_guid": "83fd1a20-03dd-4c53-a3a7-28d1f4f4150e",
+      "published_date": "2024-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3474.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f590bc9d9fda",
+      "rss_guid": "1afb856d-4081-4f20-960a-8de6d017b00e",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3788.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c5e529bd0d29",
+      "rss_guid": "ffed610a-69d5-425a-b834-28f3787f93f5",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3674.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e7f778e80f48",
+      "rss_guid": "8a03bd31-5d3e-4351-a9b6-a97c6d39827f",
+      "published_date": "2024-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2778.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f2edde48cfff",
+      "rss_guid": "ca75bc08-3005-4e6e-bdb2-5c994704614f",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3841.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8cbf0ad7d762",
+      "rss_guid": "1cdac331-57a2-4ab6-b5fc-9604e0fce59c",
+      "published_date": "2024-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5134.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7bd78bb5359c",
+      "rss_guid": "e527fd12-5a7e-4c0a-8e0b-97603640a54e",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3441.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-eea35bcb574f",
+      "rss_guid": "8fb19750-5476-42bb-8f84-302a76b5ab3c",
+      "published_date": "2024-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2724.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c0b7813b05d0",
+      "rss_guid": "9b254e72-fb00-402f-b1fe-4e04946a3258",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2624.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f70f9f2a0a4f",
+      "rss_guid": "8216297a-4d52-4563-9e9c-bb91fbba9101",
+      "published_date": "2024-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3325.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fc2cd4075208",
+      "rss_guid": "5b2cae22-82b9-47c6-85cb-c8b2d866b0dc",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4088.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9681955257e3",
+      "rss_guid": "391d6849-1bb8-49b8-a020-056b644cd8f0",
+      "published_date": "2024-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4777.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ada6dae8de16",
+      "rss_guid": "76f64557-ef25-4a1e-910e-a95ece8871d2",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2668.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6c69cb1f337a",
+      "rss_guid": "feeedf4d-06fc-4966-b36d-d8515f1ccb5f",
+      "published_date": "2024-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3049.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-2ca73459eecf",
+      "rss_guid": "920e74e1-0e56-4615-b4d6-b7d8e8f0d62f",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3275.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-33129895e393",
+      "rss_guid": "9cf9fe99-6291-4f17-ac30-4c8f7b96bbe2",
+      "published_date": "2024-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5782.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e04e78ccee98",
+      "rss_guid": "a0dfa05b-a4ad-44b4-9338-753a48b8f441",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3622.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c10485a905fc",
+      "rss_guid": "5dc6ba6d-9350-43aa-bac7-6a47766fe896",
+      "published_date": "2024-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4985.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0c488f4debf4",
+      "rss_guid": "94d259d4-9c81-406b-a966-776856b4deb3",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4944.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cb7f23217691",
+      "rss_guid": "55a8e8df-5330-4261-937f-1b07164540bb",
+      "published_date": "2024-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5216.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-27a259723616",
+      "rss_guid": "aeb02b0b-7486-4079-a4d7-96209686fd9d",
+      "published_date": "2024-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4453.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bfb1e8770de4",
+      "rss_guid": "c3f54757-bd53-46e2-a4ca-6eb053439b77",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3742.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-46f2ed8503bf",
+      "rss_guid": "98c0d2e6-ad89-4951-93d1-24cae873816e",
+      "published_date": "2024-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3650.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6d5ddf24770d",
+      "rss_guid": "f3c1b840-cd38-4dd9-a8b4-2c3f78aa603b",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2940.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ea6a4944457c",
+      "rss_guid": "12b41173-9dae-49c2-9924-b2f282df99d9",
+      "published_date": "2024-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4811.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cb19b9e25bd0",
+      "rss_guid": "f24a5399-dd5c-4130-9f19-b0572ec9daf1",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3413.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bc9ce8bb4f83",
+      "rss_guid": "e73af795-3eb3-474f-bde9-0919c46e8254",
+      "published_date": "2024-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5523.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-57550d9c1f97",
+      "rss_guid": "b91b23be-2ec1-4705-96f7-07911d49d51f",
+      "published_date": "2024-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3542.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0b30ec572a10",
+      "rss_guid": "87fccb99-7b7a-4c2c-a392-67baae6e382a",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3552.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-77f21d647f84",
+      "rss_guid": "076d2c67-f5b4-4bc6-9f0f-a74c1947afa3",
+      "published_date": "2024-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3941.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d7965d250c64",
+      "rss_guid": "b593e0fa-f472-41de-8db1-4b2ac0d27277",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3130.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-96772cddcc3c",
+      "rss_guid": "89fc4c2b-d074-4534-b590-b35b42476cbc",
+      "published_date": "2024-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3120.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5b213feaa7b6",
+      "rss_guid": "5b5e99e8-a9eb-4230-bb6f-40fa396aaefc",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3729.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-704c9b1f9727",
+      "rss_guid": "f4b6d475-6676-4f50-9fef-2ad8e21998af",
+      "published_date": "2024-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4922.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b7b6811ee026",
+      "rss_guid": "3b303f13-0f8c-472f-af0c-efb3a3b127c2",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2584.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fb02294b052b",
+      "rss_guid": "03dd75d8-9246-4a51-8ac5-9595b4fbd2c2",
+      "published_date": "2024-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4462.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cc901fcbd5c6",
+      "rss_guid": "c00eccd9-68e3-4c83-9965-ed9a7c847dbd",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2144.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-88264d8a5894",
+      "rss_guid": "2828fdbb-8dc7-45b0-93f4-26577cb19a52",
+      "published_date": "2024-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5343.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8f589d17ae9b",
+      "rss_guid": "150e212c-14b5-4696-bbd2-36eee52d909a",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2470.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-98f0088cc853",
+      "rss_guid": "ceea34e4-2cfa-4371-91c4-bbffddddaa67",
+      "published_date": "2024-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5876.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6a307db4fb18",
+      "rss_guid": "8f565ef9-3705-4d19-aa95-b17432727bee",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3621.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bb26cb557cb6",
+      "rss_guid": "6526092f-f2d9-4da8-a8e5-640ab23c73ff",
+      "published_date": "2024-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5325.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3cb6891731f8",
+      "rss_guid": "d1ad0d05-00c3-4128-9883-d07ed8dbd246",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3220.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b71b419cc43d",
+      "rss_guid": "57b25f21-fdda-406a-b9f3-67483c808c7b",
+      "published_date": "2024-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4485.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d0d246e0fc25",
+      "rss_guid": "57738773-d495-43ee-b43a-39609114f1ae",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3531.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cae26f7cb670",
+      "rss_guid": "64cd4233-add9-4dc4-8294-a633cf0c6bb4",
+      "published_date": "2024-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3318.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1f68c426499a",
+      "rss_guid": "4987e484-db87-40c2-9a4c-89ffdf2be850",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3867.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-57f8b5bf361d",
+      "rss_guid": "94f38f1e-9fb4-48b6-bc05-eccc70d8294c",
+      "published_date": "2024-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5380.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-69e753eaa99b",
+      "rss_guid": "9e622f59-860a-4436-b506-5156b8ab2dc9",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2135.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-78ef532ababe",
+      "rss_guid": "56be954d-6d4e-4644-8772-36922b23e101",
+      "published_date": "2024-02-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4978.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fa12cc541e28",
+      "rss_guid": "e0b106ef-79c3-4c1f-956b-1769cecc4ac3",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3007.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b1823c720f47",
+      "rss_guid": "abdc3f1b-b0ff-4b7d-86e2-dbfb906e2bb3",
+      "published_date": "2024-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4434.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-70be505c7d05",
+      "rss_guid": "e28db2ae-fa76-491b-9bf4-b0be51711342",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2566.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3823d80b9626",
+      "rss_guid": "99cc2c12-119d-44cd-ab35-096cf9466707",
+      "published_date": "2024-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5220.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-43700e8a7166",
+      "rss_guid": "e5a5588e-f0b9-4c50-bf84-db71fef45c71",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3325.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b44aec0dc700",
+      "rss_guid": "03b44a22-a4cb-4ed6-8295-3edb1d33d575",
+      "published_date": "2024-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3399.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e96bbcc1f91d",
+      "rss_guid": "6005752c-495c-4166-9eee-c28b3c3c5441",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2925.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e0e926fd706d",
+      "rss_guid": "ded1eecc-63ea-4322-bfaa-8e1ef5192706",
+      "published_date": "2024-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4181.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5c9d73511919",
+      "rss_guid": "63841cd8-487e-4ed6-bffe-7336f55a3be6",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3241.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-00945263edc8",
+      "rss_guid": "fea35c6e-404a-46c2-9d0f-8aa4af7eea4d",
+      "published_date": "2024-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4032.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-2d4aabdcbbfb",
+      "rss_guid": "0a8bf00b-abae-4dc5-b63f-892b92cc868f",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5436.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-294a679cd847",
+      "rss_guid": "ec31cbe6-b6ea-4379-866b-5e3ca3d0b29f",
+      "published_date": "2024-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2456.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-37322bbc3d8a",
+      "rss_guid": "51f2ce8f-64ea-477d-81d3-9475472878d5",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3078.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-615317102f0b",
+      "rss_guid": "8f591ce6-8dd0-4e8c-b5d2-326940cb036f",
+      "published_date": "2024-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2886.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c9da75a3ba88",
+      "rss_guid": "47dac1b1-58a8-44a8-8c3b-7b801e374f97",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3017.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3497b94c57c2",
+      "rss_guid": "8ae1d6e8-fe78-4d5e-8e5d-5a0bcdf37354",
+      "published_date": "2024-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3816.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-dbde424fc204",
+      "rss_guid": "ba0bbb47-7d72-4800-b673-907699c7ccd6",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4035.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d02108bd2d74",
+      "rss_guid": "7dcc0be9-1e65-4229-a081-4d542cb53432",
+      "published_date": "2023-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2570.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c38bf6f0f166",
+      "rss_guid": "9fa87408-acef-442d-9ca8-f73804101c25",
+      "published_date": "2023-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2344.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fd8d384b8f77",
+      "rss_guid": "b8949603-7748-4317-8a76-26b21fa86916",
+      "published_date": "2023-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2761.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-aaea814b9c13",
+      "rss_guid": "fd9c28ce-6582-47a9-b3ac-a27c0f0e0ca9",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4513.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0c4c15a220a0",
+      "rss_guid": "8b808f41-da1c-4553-be09-965926ea448d",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 897.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-389fcdbd2992",
+      "rss_guid": "666cd8d4-b78c-4d11-93fa-793aef210ab1",
+      "published_date": "2023-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3725.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-fcb1bcb5eb5c",
+      "rss_guid": "71a77df3-0c7e-48c0-8a06-b3fade3899fa",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3140.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b2e6c911699c",
+      "rss_guid": "8eee85fe-aaed-46c1-bea4-91c4b42aee90",
+      "published_date": "2023-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3155.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5550f4d35f23",
+      "rss_guid": "3ab862cf-93dc-41e9-b791-4af75d4d5278",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4894.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c30bcfc0bbdc",
+      "rss_guid": "af8fd82b-3e60-4965-9ff7-c52e93caf89a",
+      "published_date": "2023-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2708.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ed09f06a7f3a",
+      "rss_guid": "ad03f9f4-6976-4a9e-a9b6-8cca6eecbf1d",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3203.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f70d9585df51",
+      "rss_guid": "83036cde-6415-40bc-8861-5ca2c35e6dce",
+      "published_date": "2023-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2789.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-256aef151b23",
+      "rss_guid": "ce114599-3e27-45ba-b700-7beaf76db183",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5567.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-94b3847f7b19",
+      "rss_guid": "0b5c0658-49ed-49e2-be94-fcb48c0e024e",
+      "published_date": "2023-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3404.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f49b6b5f9f71",
+      "rss_guid": "bb5c60b4-7d57-4c41-9504-aa4d044b14f0",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3596.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-feaef054d0bc",
+      "rss_guid": "84091598-2f04-4292-bf81-cb7a01b351e1",
+      "published_date": "2023-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3344.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5e5045e0cfe3",
+      "rss_guid": "688ae5e7-bf7b-40cf-9775-bed0f1edb889",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3262.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-52fe7d281e4c",
+      "rss_guid": "1260a7f7-0c46-4aa0-b3b1-32134d9f6f14",
+      "published_date": "2023-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2670.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cdac78052bb2",
+      "rss_guid": "2d624427-73fc-4033-9d7b-b59f03ec936d",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4367.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4564045ed6d8",
+      "rss_guid": "43be3e40-a685-45bd-87fa-78e60ec929db",
+      "published_date": "2023-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4226.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-953e63cea458",
+      "rss_guid": "744dd4b7-2739-48b4-be5e-64209efc6aef",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2535.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-2ff126d599a4",
+      "rss_guid": "61258ad5-10d4-437a-8cab-aa5b9f1236e0",
+      "published_date": "2023-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5151.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a5cba5f98b7e",
+      "rss_guid": "8ccab6e1-0646-465e-8023-5febfc324444",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2132.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3bb009aac168",
+      "rss_guid": "8436261f-18dd-4d79-b8de-18839d676a3a",
+      "published_date": "2023-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3083.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-283824794355",
+      "rss_guid": "927be7a0-a514-4289-b1e7-4c09e1fc60cc",
+      "published_date": "2023-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1741.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6a78c79f5eaa",
+      "rss_guid": "0eb7b86c-d6d6-4b7f-b2a5-b8d1288e215a",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3289.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f57c15495af0",
+      "rss_guid": "b08b4d4c-0786-414a-82c0-6e3ddffe8cbb",
+      "published_date": "2023-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4689.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-dcdb61424334",
+      "rss_guid": "e7f884b2-e33c-4bec-b357-c0e8754f6fa9",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4667.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c939fcffad73",
+      "rss_guid": "0eeaf545-ce82-49a4-bbd7-405db9bd5335",
+      "published_date": "2023-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2270.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-26ecae84f64a",
+      "rss_guid": "a3adddcf-64c9-4b96-bf54-ef30a401dfc7",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2238.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-644dd509de27",
+      "rss_guid": "a8d5eed7-e2d6-479d-bcfd-65b88bf863e5",
+      "published_date": "2023-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3169.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d83575acf724",
+      "rss_guid": "085effbb-5a4c-4db3-b212-00e4b49ec7b8",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4024.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-768ee6ec2f06",
+      "rss_guid": "bf5a9acf-4830-4a42-a537-eeb50ca5bede",
+      "published_date": "2023-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3284.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-453df80a3108",
+      "rss_guid": "35dfd35a-d17d-48e1-bc1a-b1692d7b67cd",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3114.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-45079e8ad5fe",
+      "rss_guid": "4dfba079-5a12-45d6-8a3e-b44073348b39",
+      "published_date": "2023-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3749.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9f95283e0fb0",
+      "rss_guid": "26cf0d21-14bb-495e-8af3-81c4530e022c",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2271.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d39b445df3a9",
+      "rss_guid": "4c948205-b35d-469a-848d-cf4a821c72a3",
+      "published_date": "2023-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3816.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-59379a793fc3",
+      "rss_guid": "d4c7db35-e93d-4340-9fc2-5a701ceda1b3",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2638.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6c789bd34be5",
+      "rss_guid": "253202b4-0be2-48f6-8fbf-6635451137be",
+      "published_date": "2023-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3320.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a690b058a41c",
+      "rss_guid": "9a269c69-58b0-490f-b1e4-67cfcae334be",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2353.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-bee15d8c2295",
+      "rss_guid": "0739906c-733b-4d8e-bcd4-7603f401ed1d",
+      "published_date": "2023-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2642.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b79c4720d955",
+      "rss_guid": "6cdc977c-1322-41eb-b296-1a6c19e9427e",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3071.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7b3b3db91016",
+      "rss_guid": "ebcb14de-30a4-45e1-bf36-7b6a9a9cc6cb",
+      "published_date": "2023-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3187.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b5633e858c52",
+      "rss_guid": "5394c52c-2ad5-4e03-ae32-724aaca57923",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2968.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-80de58e349c3",
+      "rss_guid": "e0d1c401-d9b8-41ff-8fa1-2957035e4da6",
+      "published_date": "2023-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4478.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-27c36deff4f3",
+      "rss_guid": "cf958ec1-f97a-4591-aba3-5a2b4ea1b13f",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3498.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-35061257c837",
+      "rss_guid": "908ac4fb-345c-4ec6-a2c0-c97e13049a49",
+      "published_date": "2023-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3798.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-c52653944b37",
+      "rss_guid": "a6e956fd-7577-4ae6-906f-920f9bbff1c3",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3644.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e399b53a511b",
+      "rss_guid": "c34b5352-1041-413c-989f-664e201aad6a",
+      "published_date": "2023-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2829.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e116d3a2182c",
+      "rss_guid": "ddf47f99-1619-46be-889a-16acaea85fd2",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3636.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7ca7e6c6f14b",
+      "rss_guid": "47098edf-bb46-46c6-8354-5ad6738f6a4d",
+      "published_date": "2023-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3742.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f387550c527e",
+      "rss_guid": "5e62e113-084c-4084-926b-2a6ef096c805",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2811.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a6046a6c8527",
+      "rss_guid": "3931141a-c0d4-4726-9689-6ed291d91af6",
+      "published_date": "2023-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3824.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6840531ec3f5",
+      "rss_guid": "a69f1f22-ac4a-445e-816b-c17c1f67565f",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3223.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d4f8ec2536f1",
+      "rss_guid": "99d4664c-ca8b-4810-838a-5a5a7d6e9c20",
+      "published_date": "2023-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3253.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a406fdf8f51e",
+      "rss_guid": "f3c0026c-e1a4-4264-ab94-5b5b40d86d62",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2360.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d71ea819a1fa",
+      "rss_guid": "e1b742e7-e16e-40e1-909e-c8ef1104d4fd",
+      "published_date": "2023-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4531.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a23b6e9dca08",
+      "rss_guid": "0b23f439-1beb-4b26-8984-a69066a37bfe",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3003.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-611fc8fc0e0e",
+      "rss_guid": "79ddad6e-d39f-4800-9d71-afae759bee58",
+      "published_date": "2023-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3370.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-537bc03710ba",
+      "rss_guid": "15e540d0-68a7-4057-9dcc-b71c0264d383",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2931.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9a065ad3e68f",
+      "rss_guid": "1444e749-6fc1-420c-84f9-9e2716d296fd",
+      "published_date": "2023-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4177.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4a16900bee38",
+      "rss_guid": "d79cd7cb-e7c8-41fc-8972-8dbc108ce460",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3201.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e4c53c2495ab",
+      "rss_guid": "968f2eaf-b2e2-43a0-9152-6d5270652621",
+      "published_date": "2023-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2657.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0edde1031122",
+      "rss_guid": "a0b5891f-6ca3-468d-98f3-d7d909a60ac1",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2765.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-70a9855cd0a7",
+      "rss_guid": "fcb15194-e212-4e85-a6cf-f2dda75c41a8",
+      "published_date": "2023-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3081.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-09394781b3c3",
+      "rss_guid": "38892c8b-7739-4d28-afe5-87c4956e6626",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3506.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ea35472e4b22",
+      "rss_guid": "458b28de-f1f5-480e-a097-92ce2be02721",
+      "published_date": "2023-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4787.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-23ec7bab38f5",
+      "rss_guid": "5682a91e-f95d-40eb-b4f1-329abc196f9c",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3039.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f8f65024c8a5",
+      "rss_guid": "515fa27e-f8be-4479-a465-6d74ac268f51",
+      "published_date": "2023-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4310.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-4cf071797d4d",
+      "rss_guid": "bf14bcf4-fd2c-44ed-be21-6c108de6d5b7",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2661.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-63f7722d14c6",
+      "rss_guid": "5270189b-34e6-42d2-97d0-c14b09c34463",
+      "published_date": "2023-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2514.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-2182347d5860",
+      "rss_guid": "f75c2fac-0fb9-4a87-b58e-be1c98ca419e",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3024.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0946f520af8a",
+      "rss_guid": "7649ce9a-d700-4c0a-9c77-6add8218619f",
+      "published_date": "2023-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4652.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-7027107d13b6",
+      "rss_guid": "c0454bac-cf12-46e4-a07e-2fae41f03b58",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3222.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-361a15751ad5",
+      "rss_guid": "6913c43d-b160-4457-acba-e4105321a211",
+      "published_date": "2023-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2705.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-2dd04e538dd4",
+      "rss_guid": "02ab5c64-34f2-40dd-a9bf-5318778cf65d",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3175.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-56376da3b10e",
+      "rss_guid": "4428c5eb-77a9-429c-a999-f8f674f2019b",
+      "published_date": "2023-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3610.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-8040c495a145",
+      "rss_guid": "0858c152-5394-48bb-b393-a29de6521c18",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3104.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b6b3562afc82",
+      "rss_guid": "510f1421-4ebe-4cf1-b9f1-49f4b8aa1242",
+      "published_date": "2023-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4515.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f2a9ef93562c",
+      "rss_guid": "1416fc56-e8fa-4a71-9ba9-17141aa7d7bb",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2381.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-49cd4334d8bf",
+      "rss_guid": "e47e17de-000b-4037-9d52-c8826a1e2a78",
+      "published_date": "2023-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2908.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5498e529cd3d",
+      "rss_guid": "d4971feb-adec-411d-bb96-a5ccbbe01020",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3417.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e4e5d3d2a9b8",
+      "rss_guid": "0211ad1a-de51-4e2b-a874-04b9aa2319b0",
+      "published_date": "2023-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4065.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e7f2e79f608e",
+      "rss_guid": "d5287320-72c3-462d-ad09-8d9ccae0a032",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2554.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-25974ed00540",
+      "rss_guid": "558a8991-e37e-4182-a129-5e428e20944b",
+      "published_date": "2023-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2711.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9363c037b1d2",
+      "rss_guid": "c40386ec-d9e3-47bb-bd98-9a22c34699fa",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3254.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1e0c55ab96db",
+      "rss_guid": "446da7b8-479a-4fba-b3a4-4e2992c598f4",
+      "published_date": "2023-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2668.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d77a17abe975",
+      "rss_guid": "cd89c48d-1f39-4ce4-9df5-69cc83dede98",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3211.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-d2e14f573615",
+      "rss_guid": "c57c6b8c-a0d8-423f-8a21-2f7294474a6e",
+      "published_date": "2023-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3907.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-02d32a7950b1",
+      "rss_guid": "b041905b-22bf-4e55-b729-647bdc05d7fc",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3055.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9f61ff5342eb",
+      "rss_guid": "b052b601-c2df-4c1c-ae8c-e9bbf5620873",
+      "published_date": "2023-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3381.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-37ceb72d4a51",
+      "rss_guid": "71592cdb-f3a7-4191-ae0a-37fc18141ab6",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2432.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ede7c8f7b3e4",
+      "rss_guid": "7cba4827-1a87-4ef0-a415-cd0539763af7",
+      "published_date": "2023-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3298.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5458677541e2",
+      "rss_guid": "ee3bbb4e-842b-49f6-ab7d-22390af2d3b8",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2586.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3ba00b31ec88",
+      "rss_guid": "0175bc03-bc3b-4bcb-bb30-38fbf324fcc7",
+      "published_date": "2023-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4017.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-cf4dd713a882",
+      "rss_guid": "f4bbdea2-00ce-490e-a9fb-7d1e1597579b",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2569.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-22e9e562e59a",
+      "rss_guid": "6480d11d-b472-423b-b794-b07e972df142",
+      "published_date": "2023-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3720.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a2e113d92ac0",
+      "rss_guid": "bf9caa78-5913-4882-b14d-dfd292abce8a",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3399.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6b45082e3333",
+      "rss_guid": "444244c1-5f67-4e94-8904-67dca5438492",
+      "published_date": "2023-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3694.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-6e1c550616e3",
+      "rss_guid": "e7e3af12-8766-4d4b-852d-df7617612f0b",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4294.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3c9acc5293c4",
+      "rss_guid": "2695dcdd-4910-4776-bf1e-84d3d8abcf79",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3607.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b11b301ecce0",
+      "rss_guid": "be065918-0608-49ee-8dc1-4ffea9bb6b9d",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3938.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-50d60c6620f3",
+      "rss_guid": "037fb10e-99ad-4cfe-90fe-c18093d83b76",
+      "published_date": "2023-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4235.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-b91180ea23c4",
+      "rss_guid": "f1dd5ea1-892f-4451-85ed-9d55eb4c0220",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2517.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-58669536ff57",
+      "rss_guid": "7510100b-ee38-44c7-8f16-2e97fdbce69b",
+      "published_date": "2023-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3578.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-319868eca8dc",
+      "rss_guid": "b152978c-daea-46ab-a373-3742ee056d39",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3161.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a5bae132d6d0",
+      "rss_guid": "00d4bb96-f9eb-43b2-9748-c4c02846a255",
+      "published_date": "2022-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3383.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-910ef738c23d",
+      "rss_guid": "694e79f6-c586-4737-b294-1751653f41db",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2515.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-66ec7439dddc",
+      "rss_guid": "02beb2b1-0e41-4b08-a622-a810dd8a5065",
+      "published_date": "2022-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3975.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-ea598614763e",
+      "rss_guid": "a0c73219-9efc-4dba-abc1-d959c07e8ebe",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2248.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-01c699286120",
+      "rss_guid": "78113e4d-f3fa-4f3e-b779-23877ebeccf0",
+      "published_date": "2022-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 934.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-dc13455bb83f",
+      "rss_guid": "593e486a-0bef-4f92-87ea-f7b4e19777d6",
+      "published_date": "2022-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3180.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0bfb2eea0fd6",
+      "rss_guid": "45e28793-2508-484d-bc1f-fa949d6f3e41",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3073.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-05e7b5f1503c",
+      "rss_guid": "7a265812-80ea-45fe-9358-c129e1c871cc",
+      "published_date": "2022-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3161.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3c055be74400",
+      "rss_guid": "549cc3b8-f0af-476f-bf9d-d1d2b599cfc1",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3151.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-834de0377ab3",
+      "rss_guid": "01825165-2a9c-47c3-90ab-5a8a0ef8faa8",
+      "published_date": "2022-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3073.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-780b0ef47540",
+      "rss_guid": "980a220f-3337-4952-95de-b3f273e37f66",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2112.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-3ed0fa6428f0",
+      "rss_guid": "310bac12-9bb5-40e9-86f5-c272bde9563b",
+      "published_date": "2022-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1896.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9d2946a37c05",
+      "rss_guid": "de58ad34-9a4d-4185-aff3-dba7df5c7552",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3205.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-454e97a1ca4f",
+      "rss_guid": "7bcdd576-1756-4dee-a31b-ebda859f997c",
+      "published_date": "2022-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3740.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-284f0287260e",
+      "rss_guid": "f28e3ecc-3e85-4833-9689-0c1767ce1c5e",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2847.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1e9e0fc920ea",
+      "rss_guid": "39dc203e-9a85-475d-a34c-e043baee90ee",
+      "published_date": "2022-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3483.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f8447dba4a9d",
+      "rss_guid": "46533464-0c31-43df-95d5-3f71d7def1ae",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 428.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-26e6095c1f0b",
+      "rss_guid": "20ebd0de-c41c-4ec9-a5e6-92b1c63c9b33",
+      "published_date": "2022-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4154.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-279e95a21062",
+      "rss_guid": "c2c4fb7e-b3ca-47d9-9619-0018fb815ab1",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3646.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-e8cc94f2e1eb",
+      "rss_guid": "bf5d5eb0-3835-45c7-a2a1-0cb3fe989480",
+      "published_date": "2022-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3095.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5fbb189cacc3",
+      "rss_guid": "5f30eb8c-3cfc-4c27-8250-1586efd34349",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3723.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-9e04c7642848",
+      "rss_guid": "716b4913-86fb-4c6a-9b09-72b32e0794ed",
+      "published_date": "2022-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4074.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-0e6cf60f494c",
+      "rss_guid": "417588c1-322b-48e2-9ee1-3656ab0ddcff",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2891.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-a567ab462437",
+      "rss_guid": "7935fd3a-2cfc-4f0c-89fc-931ce4591bd4",
+      "published_date": "2022-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5553.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-5575af4a4e3e",
+      "rss_guid": "feb85d24-07d5-4d27-9379-7435f7970cac",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3119.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-f5d55c7ad11f",
+      "rss_guid": "55efb5b4-1ba9-4efa-93dd-75b3c97caf00",
+      "published_date": "2022-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3235.0
+    },
+    {
+      "episode_id": "the_mel_robbins_podcast-1dd25c4ba904",
+      "rss_guid": "ad389d60-a8ea-44a9-8395-7a23e255b19b",
+      "published_date": "2022-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3175.0
+    }
+  ]
+}

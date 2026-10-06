@@ -9,12 +9,15 @@ podcast or claim is inaccurate.
 
 1. Read [notes/PLAN.md](notes/PLAN.md). It separates the current setup from
    decisions that need your substantive judgment.
-2. Read [data/README.md](data/README.md) before adding transcripts.
-3. Put original, restricted, or re-downloadable inputs in `data/raw/`. They are
+2. Read [notes/PIPELINE.md](notes/PIPELINE.md) for how an episode moves from
+   feed to statement dataset, and run `python code/00_pipeline_status.py` to see
+   where every episode currently stands.
+3. Read [data/README.md](data/README.md) before adding transcripts.
+4. Put original, restricted, or re-downloadable inputs in `data/raw/`. They are
    ignored by Git and should be treated as read-only after ingestion.
-4. Put every transformation in `code/`; write its results only to
+5. Put every transformation in `code/`; write its results only to
    `data/derived/` or `output/`.
-5. Check `git status` and inspect `git diff` before each commit.
+6. Check `git status` and inspect `git diff` before each commit.
 
 ## Project map
 

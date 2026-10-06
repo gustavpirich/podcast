@@ -1,0 +1,3474 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_small_town_murder_20261002T193807Z",
+  "show_id": "small_town_murder",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://rss.libsyn.com/shows/580095/destinations/5028715.xml",
+    "snapshot_relative_path": "data/raw/rss/small_town_murder/small_town_murder_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "a01996857045f376dad6b533b57e7e49f73deb847e96f86b95493bcef1be1a46",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "small_town_murder-512c00a2871c",
+      "rss_guid": "0e8cfc29-3430-4462-8d2f-93093e09db39",
+      "published_date": "2026-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4439.0
+    },
+    {
+      "episode_id": "small_town_murder-0460741749f1",
+      "rss_guid": "2ff219b3-88d6-4a35-b301-79e103fdf240",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 11353.0
+    },
+    {
+      "episode_id": "small_town_murder-48188ae1e61d",
+      "rss_guid": "ef4350ee-5c9a-47e4-805a-2d205f9316c6",
+      "published_date": "2026-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4829.0
+    },
+    {
+      "episode_id": "small_town_murder-81455f54e19e",
+      "rss_guid": "7a4a0e88-812d-4156-a948-07064bfe288d",
+      "published_date": "2026-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 11005.0
+    },
+    {
+      "episode_id": "small_town_murder-706758084a3f",
+      "rss_guid": "90debc01-2726-4b8f-928a-e90e7e6add33",
+      "published_date": "2026-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4349.0
+    },
+    {
+      "episode_id": "small_town_murder-012ac3b6b455",
+      "rss_guid": "495c1e37-ade8-446e-9b6c-33e747389681",
+      "published_date": "2026-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10989.0
+    },
+    {
+      "episode_id": "small_town_murder-f4d8bcf154a9",
+      "rss_guid": "836594bd-bd96-4f03-8711-c551c4c6c223",
+      "published_date": "2026-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4391.0
+    },
+    {
+      "episode_id": "small_town_murder-6429c31cd24d",
+      "rss_guid": "7849591d-ddf4-4b42-8958-bd541ab50a8c",
+      "published_date": "2026-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10907.0
+    },
+    {
+      "episode_id": "small_town_murder-3f067c5e4d64",
+      "rss_guid": "dc9d15ac-20e3-4597-9c49-4be5991c3cd4",
+      "published_date": "2026-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4389.0
+    },
+    {
+      "episode_id": "small_town_murder-d5aec96503e3",
+      "rss_guid": "2eee2e3b-9659-4b4c-b563-35c62db0997f",
+      "published_date": "2026-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 11212.0
+    },
+    {
+      "episode_id": "small_town_murder-620c0888682a",
+      "rss_guid": "705aca07-0611-4371-9e45-a8e35c92b45d",
+      "published_date": "2026-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4467.0
+    },
+    {
+      "episode_id": "small_town_murder-d9340657d22e",
+      "rss_guid": "6d80e9b2-3832-4608-b3e2-ec50666a00b9",
+      "published_date": "2026-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10857.0
+    },
+    {
+      "episode_id": "small_town_murder-26aa83deb637",
+      "rss_guid": "b43c2150-7060-4a41-a1e1-689ae3f508c9",
+      "published_date": "2026-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4379.0
+    },
+    {
+      "episode_id": "small_town_murder-b157559ff371",
+      "rss_guid": "39a1a8a4-7fc3-4bc5-83b0-160d08a812aa",
+      "published_date": "2026-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 11001.0
+    },
+    {
+      "episode_id": "small_town_murder-5a37fac167fd",
+      "rss_guid": "c7d81d67-803d-408e-900d-6032aba9dbc4",
+      "published_date": "2026-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4516.0
+    },
+    {
+      "episode_id": "small_town_murder-7b49c70c6569",
+      "rss_guid": "633a308d-3474-464e-bc0d-ed248ad5c307",
+      "published_date": "2026-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 11131.0
+    },
+    {
+      "episode_id": "small_town_murder-d31f422de461",
+      "rss_guid": "b8d1ee8f-bba1-45f8-9dec-4b1a3d89ddbe",
+      "published_date": "2026-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4521.0
+    },
+    {
+      "episode_id": "small_town_murder-d9a7c0cd000a",
+      "rss_guid": "23c4c2d4-dbfb-4b4b-960c-dcf842f21713",
+      "published_date": "2026-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 11161.0
+    },
+    {
+      "episode_id": "small_town_murder-2baf282ba6a8",
+      "rss_guid": "9ba41d6e-14db-4ed5-915b-eb02a2ea3378",
+      "published_date": "2026-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4391.0
+    },
+    {
+      "episode_id": "small_town_murder-c80e6ab7ea52",
+      "rss_guid": "a49ab471-bc74-4b49-ad6b-b97be4f44402",
+      "published_date": "2026-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 11171.0
+    },
+    {
+      "episode_id": "small_town_murder-1d012a5e49dd",
+      "rss_guid": "1c96e462-f740-4d74-8d05-5bf61d32823b",
+      "published_date": "2026-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4436.0
+    },
+    {
+      "episode_id": "small_town_murder-66bf72021626",
+      "rss_guid": "b61559ac-9e5e-490a-8b0e-682ca9c2ee09",
+      "published_date": "2026-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 10985.0
+    },
+    {
+      "episode_id": "small_town_murder-a8104517c7dd",
+      "rss_guid": "fe2e9bec-64ae-47b7-bce7-3c02640b60e3",
+      "published_date": "2026-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4359.0
+    },
+    {
+      "episode_id": "small_town_murder-551492b5911f",
+      "rss_guid": "80c5aee6-68fb-4d7a-9ea9-ce0b21ce3262",
+      "published_date": "2026-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 11036.0
+    },
+    {
+      "episode_id": "small_town_murder-5104d1668b8f",
+      "rss_guid": "5f6a9aca-0acc-49b9-a1bc-b08ab4495d4c",
+      "published_date": "2026-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4316.0
+    },
+    {
+      "episode_id": "small_town_murder-4f408a57db2c",
+      "rss_guid": "33b2208a-13cf-45f4-9d2f-6a01240c90de",
+      "published_date": "2026-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 11010.0
+    },
+    {
+      "episode_id": "small_town_murder-c46e99883100",
+      "rss_guid": "600cacf3-9b97-4382-86ec-b8b70349eacb",
+      "published_date": "2026-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4601.0
+    },
+    {
+      "episode_id": "small_town_murder-8563941d889b",
+      "rss_guid": "d7c10b0a-82e9-40cf-acb1-2676d456515b",
+      "published_date": "2026-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 11161.0
+    },
+    {
+      "episode_id": "small_town_murder-901e2aa674f5",
+      "rss_guid": "016caa46-1fe8-4172-a8ce-119d309c5a10",
+      "published_date": "2026-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4326.0
+    },
+    {
+      "episode_id": "small_town_murder-e818a6f02cc8",
+      "rss_guid": "ca44b1ad-a2c0-40a7-a358-7364140bd52a",
+      "published_date": "2026-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 10677.0
+    },
+    {
+      "episode_id": "small_town_murder-9f592492141b",
+      "rss_guid": "e8c73322-56fa-4559-be5d-0ff037f2f535",
+      "published_date": "2026-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4446.0
+    },
+    {
+      "episode_id": "small_town_murder-47ca8284864d",
+      "rss_guid": "4dec978e-5225-4682-807d-6ca488d1b679",
+      "published_date": "2026-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 11054.0
+    },
+    {
+      "episode_id": "small_town_murder-f96b59d67452",
+      "rss_guid": "e5a1d5dc-52e0-4a67-9932-fb4bcdda8f63",
+      "published_date": "2026-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4534.0
+    },
+    {
+      "episode_id": "small_town_murder-62280137cc85",
+      "rss_guid": "9ab83b21-2ccf-480d-876a-f3b0d20c472a",
+      "published_date": "2026-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 10932.0
+    },
+    {
+      "episode_id": "small_town_murder-8ae5ab451a51",
+      "rss_guid": "506b509e-91f9-4361-8026-2dbd23813e2c",
+      "published_date": "2026-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4588.0
+    },
+    {
+      "episode_id": "small_town_murder-0ade0a1bc6c1",
+      "rss_guid": "1f1383c9-5ce6-48b6-9c56-eb381b4595c8",
+      "published_date": "2026-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 11253.0
+    },
+    {
+      "episode_id": "small_town_murder-5655f54e802e",
+      "rss_guid": "e4bb6590-8230-43b3-9c44-83dce61bbe05",
+      "published_date": "2026-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4262.0
+    },
+    {
+      "episode_id": "small_town_murder-ab6e2ca41876",
+      "rss_guid": "d3aef553-d927-488d-b329-009be1870bfa",
+      "published_date": "2026-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10955.0
+    },
+    {
+      "episode_id": "small_town_murder-d811d6ba3718",
+      "rss_guid": "314345e2-4935-4e6e-ad5d-0ee8bd71d7b8",
+      "published_date": "2026-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4403.0
+    },
+    {
+      "episode_id": "small_town_murder-158b11aa8c05",
+      "rss_guid": "744a79de-66a5-413c-870c-7ca2e4207d8d",
+      "published_date": "2026-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 10773.0
+    },
+    {
+      "episode_id": "small_town_murder-70f88e1446ef",
+      "rss_guid": "0fcd4eda-80b1-4c55-a482-5ae4e0f64a4b",
+      "published_date": "2026-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4356.0
+    },
+    {
+      "episode_id": "small_town_murder-0b434df0044e",
+      "rss_guid": "73ad8018-21eb-48a3-930a-5c1c6660c506",
+      "published_date": "2026-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 11116.0
+    },
+    {
+      "episode_id": "small_town_murder-75048f604767",
+      "rss_guid": "a447ea5c-aa92-4d1a-b14f-34e02fa2548c",
+      "published_date": "2026-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4334.0
+    },
+    {
+      "episode_id": "small_town_murder-b133978dd302",
+      "rss_guid": "7a7bfb50-ec13-46c2-b2f0-4963f28c9ec8",
+      "published_date": "2026-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 10865.0
+    },
+    {
+      "episode_id": "small_town_murder-dafd1b62b4ba",
+      "rss_guid": "90a8ec88-d6bb-4439-b825-09704d1ab72c",
+      "published_date": "2026-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4407.0
+    },
+    {
+      "episode_id": "small_town_murder-53aec2d161ca",
+      "rss_guid": "391c95cb-97de-4fbd-bbc7-fd689b974724",
+      "published_date": "2026-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 10676.0
+    },
+    {
+      "episode_id": "small_town_murder-1272f9cf53aa",
+      "rss_guid": "fbc10ea6-4d7a-4019-9f03-6c69548922f9",
+      "published_date": "2026-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4401.0
+    },
+    {
+      "episode_id": "small_town_murder-bc1603e01946",
+      "rss_guid": "f62a1fec-09fd-43c3-b533-cb5d13ac2e2b",
+      "published_date": "2026-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 10965.0
+    },
+    {
+      "episode_id": "small_town_murder-f8afda43e7c1",
+      "rss_guid": "aeae4b1c-df6f-47f8-8f3f-771cc8489479",
+      "published_date": "2026-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4337.0
+    },
+    {
+      "episode_id": "small_town_murder-cede8bdd674c",
+      "rss_guid": "efe83a06-9552-4add-8d5d-f8c08fc80896",
+      "published_date": "2026-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 10731.0
+    },
+    {
+      "episode_id": "small_town_murder-a63a11ea4aef",
+      "rss_guid": "16cff255-544a-4c4f-976b-4858e06ccf9e",
+      "published_date": "2026-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4344.0
+    },
+    {
+      "episode_id": "small_town_murder-7e954270d564",
+      "rss_guid": "ae3f9128-7a0f-45a9-bfb5-d86607363ce4",
+      "published_date": "2026-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10986.0
+    },
+    {
+      "episode_id": "small_town_murder-46b98d713228",
+      "rss_guid": "a6a828b2-57a2-452f-a81c-62999bd438da",
+      "published_date": "2026-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4461.0
+    },
+    {
+      "episode_id": "small_town_murder-11585e58ebef",
+      "rss_guid": "79abce00-0a74-45bb-b858-9de45efee5ce",
+      "published_date": "2026-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 10504.0
+    },
+    {
+      "episode_id": "small_town_murder-57270d039de3",
+      "rss_guid": "2ce9f6e5-eb82-4138-96be-726bb9c80376",
+      "published_date": "2026-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4591.0
+    },
+    {
+      "episode_id": "small_town_murder-de0a2b18fd7b",
+      "rss_guid": "76dc8765-ade0-4ed4-a1fe-8abe493b1d98",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10758.0
+    },
+    {
+      "episode_id": "small_town_murder-d7bd2dfb9ab4",
+      "rss_guid": "c146081d-fd69-49f1-ad3c-d0fcbe7e593e",
+      "published_date": "2026-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4313.0
+    },
+    {
+      "episode_id": "small_town_murder-a72e60f6bc16",
+      "rss_guid": "57cbda7b-d892-4500-9b6b-e38511e0a4cc",
+      "published_date": "2026-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 10739.0
+    },
+    {
+      "episode_id": "small_town_murder-5b314643c572",
+      "rss_guid": "2cd6fb4e-e87a-46eb-83ff-a070b451008e",
+      "published_date": "2026-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4458.0
+    },
+    {
+      "episode_id": "small_town_murder-3aea4983cc5a",
+      "rss_guid": "7917e07e-413e-49a3-ab08-be1470a27185",
+      "published_date": "2026-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10774.0
+    },
+    {
+      "episode_id": "small_town_murder-2e886bb8fefd",
+      "rss_guid": "f7783326-92be-4ccd-868d-5b1c0311d659",
+      "published_date": "2026-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4228.0
+    },
+    {
+      "episode_id": "small_town_murder-634f3de3d407",
+      "rss_guid": "c4133d39-f810-4f2c-85cf-f21242e6eb36",
+      "published_date": "2026-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 10804.0
+    },
+    {
+      "episode_id": "small_town_murder-813ece85008d",
+      "rss_guid": "92c6576d-9f50-4f7b-a50b-ce58f40b2e97",
+      "published_date": "2026-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4326.0
+    },
+    {
+      "episode_id": "small_town_murder-425f5ba72405",
+      "rss_guid": "cf2b52b4-3e5c-4198-adb3-151f942ea30d",
+      "published_date": "2026-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10848.0
+    },
+    {
+      "episode_id": "small_town_murder-724f2e30876e",
+      "rss_guid": "fffded05-8bd1-40b5-8182-f9e7b04ea83f",
+      "published_date": "2026-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4416.0
+    },
+    {
+      "episode_id": "small_town_murder-3134158a62ed",
+      "rss_guid": "3a5f39a9-f0e9-4820-999e-b45c1e8e9a3d",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 11081.0
+    },
+    {
+      "episode_id": "small_town_murder-16161c032a93",
+      "rss_guid": "02d16462-aef5-4aa1-ad32-033cf4afd223",
+      "published_date": "2026-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4282.0
+    },
+    {
+      "episode_id": "small_town_murder-1fc173840b43",
+      "rss_guid": "e9ceedee-5acc-4712-b683-47c37587e542",
+      "published_date": "2026-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10935.0
+    },
+    {
+      "episode_id": "small_town_murder-c1f3d6e60a6b",
+      "rss_guid": "a63d1168-5f6e-4fa7-8e5f-0c1d34c424a9",
+      "published_date": "2026-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4292.0
+    },
+    {
+      "episode_id": "small_town_murder-1f164bd22569",
+      "rss_guid": "f0f3346e-5bae-4454-8c64-c7fb96f8569e",
+      "published_date": "2026-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 11001.0
+    },
+    {
+      "episode_id": "small_town_murder-f007ce766eb3",
+      "rss_guid": "f6b9edf0-801e-4c83-aff3-3a9ea0ea938f",
+      "published_date": "2026-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4289.0
+    },
+    {
+      "episode_id": "small_town_murder-47381b68c38e",
+      "rss_guid": "f1941367-3a35-4390-93eb-5a8e8e6104b1",
+      "published_date": "2026-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 10949.0
+    },
+    {
+      "episode_id": "small_town_murder-51796a03687a",
+      "rss_guid": "62961dcd-b49b-4629-bf50-03ea01d2412a",
+      "published_date": "2026-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4199.0
+    },
+    {
+      "episode_id": "small_town_murder-ce60c26a17d0",
+      "rss_guid": "54593f2e-bed7-4b65-ab1b-75fb3be98eba",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10980.0
+    },
+    {
+      "episode_id": "small_town_murder-29a19e0d78a9",
+      "rss_guid": "a185c441-9558-4a75-b0bb-c22c2c448d42",
+      "published_date": "2026-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4297.0
+    },
+    {
+      "episode_id": "small_town_murder-4eefcbfede73",
+      "rss_guid": "0ca77f5f-1f90-4205-b826-81313bde2238",
+      "published_date": "2026-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 10922.0
+    },
+    {
+      "episode_id": "small_town_murder-3482866ffda7",
+      "rss_guid": "14b9f9e8-8e07-43f2-a285-639f9db6ca55",
+      "published_date": "2026-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4261.0
+    },
+    {
+      "episode_id": "small_town_murder-c63359e49d32",
+      "rss_guid": "dd0a5718-cf2a-42ee-b221-e820f2d0cdf5",
+      "published_date": "2026-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10764.0
+    },
+    {
+      "episode_id": "small_town_murder-d3fb6e58dd6f",
+      "rss_guid": "f327bef6-465d-4290-8389-fc8cbc455b1f",
+      "published_date": "2025-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4254.0
+    },
+    {
+      "episode_id": "small_town_murder-c24a358ea56f",
+      "rss_guid": "9f58984c-2a28-4ad2-8862-880b6cc01a0e",
+      "published_date": "2025-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 10826.0
+    },
+    {
+      "episode_id": "small_town_murder-fbb84726c990",
+      "rss_guid": "9610d53b-6365-48ec-97dc-280a0ac7ba8c",
+      "published_date": "2025-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4421.0
+    },
+    {
+      "episode_id": "small_town_murder-5ea64e4113d1",
+      "rss_guid": "d18ec98b-b22c-48b3-a485-de233f2cbee0",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 10923.0
+    },
+    {
+      "episode_id": "small_town_murder-71e1f6524924",
+      "rss_guid": "959daaa3-8616-406a-9f7e-948fdd14bbfd",
+      "published_date": "2025-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4350.0
+    },
+    {
+      "episode_id": "small_town_murder-96e6797903e7",
+      "rss_guid": "d8cc8c7a-6169-46dc-89de-65428e55cd64",
+      "published_date": "2025-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10811.0
+    },
+    {
+      "episode_id": "small_town_murder-50718e0d1ad0",
+      "rss_guid": "b0d2de85-3631-4217-b880-446660ac838c",
+      "published_date": "2025-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4243.0
+    },
+    {
+      "episode_id": "small_town_murder-5a2084f83387",
+      "rss_guid": "e726f0cc-74df-4c2c-86f5-ec72c485f03d",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 11110.0
+    },
+    {
+      "episode_id": "small_town_murder-d5345a1a86c9",
+      "rss_guid": "69c02a75-3283-4ae6-baf0-61ff9de31875",
+      "published_date": "2025-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4465.0
+    },
+    {
+      "episode_id": "small_town_murder-2d86ca89566b",
+      "rss_guid": "f6a9eeb7-84dc-4909-b680-ddcff4a710a9",
+      "published_date": "2025-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 11011.0
+    },
+    {
+      "episode_id": "small_town_murder-447d4b3040ea",
+      "rss_guid": "c9961608-87f1-4360-9ad1-9b45c69c57dc",
+      "published_date": "2025-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4315.0
+    },
+    {
+      "episode_id": "small_town_murder-d166aaac5f1b",
+      "rss_guid": "c0474473-8ef9-4789-a9f9-0d5023ed0717",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 11005.0
+    },
+    {
+      "episode_id": "small_town_murder-f36643a4c71f",
+      "rss_guid": "df90932b-bc28-4d55-ad41-58cb116e18ab",
+      "published_date": "2025-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4402.0
+    },
+    {
+      "episode_id": "small_town_murder-032e1537147e",
+      "rss_guid": "6fcac69a-430c-4878-83fb-ce320a3ded11",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 10805.0
+    },
+    {
+      "episode_id": "small_town_murder-e0beaa5d8a0f",
+      "rss_guid": "7e96666c-fe51-491d-9273-30cef617ea24",
+      "published_date": "2025-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4294.0
+    },
+    {
+      "episode_id": "small_town_murder-500066b57c12",
+      "rss_guid": "fca8b706-1ce1-4690-a731-fdb352b4aaa1",
+      "published_date": "2025-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10806.0
+    },
+    {
+      "episode_id": "small_town_murder-b3b67f1d6852",
+      "rss_guid": "d4a0624d-1d95-4eb2-a0dc-1300abee95b5",
+      "published_date": "2025-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4202.0
+    },
+    {
+      "episode_id": "small_town_murder-7e650a441ebf",
+      "rss_guid": "232ccbd3-116f-40c7-b3ef-27f1790a67df",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 11347.0
+    },
+    {
+      "episode_id": "small_town_murder-7895a1698dfe",
+      "rss_guid": "6a8cfe8f-529c-4b3e-a687-69afb341c000",
+      "published_date": "2025-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4420.0
+    },
+    {
+      "episode_id": "small_town_murder-96fd0578e03e",
+      "rss_guid": "6e9c7fc5-7fed-4c01-bbe5-70c4ca32a034",
+      "published_date": "2025-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 10676.0
+    },
+    {
+      "episode_id": "small_town_murder-b51418aa284d",
+      "rss_guid": "6a689c8f-b503-428b-bd66-f880d75844cf",
+      "published_date": "2025-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4124.0
+    },
+    {
+      "episode_id": "small_town_murder-711b1e6dfe0b",
+      "rss_guid": "b2e276a9-7dac-4436-be2e-4ad683717084",
+      "published_date": "2025-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 11007.0
+    },
+    {
+      "episode_id": "small_town_murder-a0ee061e1507",
+      "rss_guid": "be13c352-6b61-488e-a475-8978adbd28c0",
+      "published_date": "2025-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4354.0
+    },
+    {
+      "episode_id": "small_town_murder-cf0573f7741a",
+      "rss_guid": "48d51cb1-1008-4525-b797-548ad06a90e6",
+      "published_date": "2025-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 10821.0
+    },
+    {
+      "episode_id": "small_town_murder-cd69b26e6ddf",
+      "rss_guid": "ed3fad47-eb57-4583-86ee-8d307e942785",
+      "published_date": "2025-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4317.0
+    },
+    {
+      "episode_id": "small_town_murder-934afa4f90bc",
+      "rss_guid": "dc7ddea6-377a-49ef-b4c4-900923f5851b",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10637.0
+    },
+    {
+      "episode_id": "small_town_murder-9dac8094d668",
+      "rss_guid": "c9842b58-94af-426f-8cae-65b5779a8628",
+      "published_date": "2025-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4573.0
+    },
+    {
+      "episode_id": "small_town_murder-1f15a608ad9b",
+      "rss_guid": "d8353745-df9c-4474-90f0-a75c84140385",
+      "published_date": "2025-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 11361.0
+    },
+    {
+      "episode_id": "small_town_murder-b348480e829b",
+      "rss_guid": "2511e173-7b18-48ca-b3f2-f2a9cdf367ad",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4311.0
+    },
+    {
+      "episode_id": "small_town_murder-33ac73375806",
+      "rss_guid": "2e29719d-c49f-4af7-a6a4-a5c904e251fa",
+      "published_date": "2025-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 11025.0
+    },
+    {
+      "episode_id": "small_town_murder-afcd35c8a813",
+      "rss_guid": "d5b906f3-e2a5-4221-b01e-d08c2526cc52",
+      "published_date": "2025-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4354.0
+    },
+    {
+      "episode_id": "small_town_murder-2fc986df5afd",
+      "rss_guid": "82b3e10f-b611-4ca4-926e-91c965973cf1",
+      "published_date": "2025-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10782.0
+    },
+    {
+      "episode_id": "small_town_murder-b62153548214",
+      "rss_guid": "668c87fa-e34b-4fe9-9bd1-3d205beea522",
+      "published_date": "2025-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4078.0
+    },
+    {
+      "episode_id": "small_town_murder-25d18c796f19",
+      "rss_guid": "d52fe933-4a25-40e2-bd5d-a9945461901d",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 10802.0
+    },
+    {
+      "episode_id": "small_town_murder-2833eb6af091",
+      "rss_guid": "2c5b1c1e-6366-43b4-9866-a6ef72ed1075",
+      "published_date": "2025-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4317.0
+    },
+    {
+      "episode_id": "small_town_murder-5e438d270fc3",
+      "rss_guid": "13859dd7-30b0-4350-a66e-25bcbdaeb187",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 10797.0
+    },
+    {
+      "episode_id": "small_town_murder-14580f3cc67d",
+      "rss_guid": "d0b32094-8a30-4e15-8b59-460bbe300d02",
+      "published_date": "2025-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4383.0
+    },
+    {
+      "episode_id": "small_town_murder-0e95fb4e2e20",
+      "rss_guid": "d7541929-4364-410a-b51c-f9cf9c79ab14",
+      "published_date": "2025-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10982.0
+    },
+    {
+      "episode_id": "small_town_murder-4cddf1362df5",
+      "rss_guid": "1685a40c-bbb3-45c9-aba2-3656e78ad8a3",
+      "published_date": "2025-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4364.0
+    },
+    {
+      "episode_id": "small_town_murder-a668a0e88eae",
+      "rss_guid": "0eaa0e66-50b6-455d-9911-edd7843874bc",
+      "published_date": "2025-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 10760.0
+    },
+    {
+      "episode_id": "small_town_murder-d94efa3187ce",
+      "rss_guid": "0c983875-bb39-487f-a40d-653f3feb19d4",
+      "published_date": "2025-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4186.0
+    },
+    {
+      "episode_id": "small_town_murder-02e2681b9ebe",
+      "rss_guid": "6624e9c6-5ae7-422f-9cee-6200691c8b6f",
+      "published_date": "2025-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10833.0
+    },
+    {
+      "episode_id": "small_town_murder-050d88f6e3a3",
+      "rss_guid": "b247aed3-462b-4128-86d5-1e0f318356f4",
+      "published_date": "2025-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4469.0
+    },
+    {
+      "episode_id": "small_town_murder-3ae7b9b4b7b1",
+      "rss_guid": "4d8496b5-88d6-48b9-89e5-60dbfd6893ce",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 10559.0
+    },
+    {
+      "episode_id": "small_town_murder-5943f2619c99",
+      "rss_guid": "1ebb276a-d51a-428e-91b1-d77663d8b100",
+      "published_date": "2025-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4422.0
+    },
+    {
+      "episode_id": "small_town_murder-ed14ac654962",
+      "rss_guid": "7451c3d7-ffd0-47fc-95b6-4eaf4e83bda1",
+      "published_date": "2025-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 10471.0
+    },
+    {
+      "episode_id": "small_town_murder-8ac14681c0eb",
+      "rss_guid": "2e4c01b2-699b-4324-bbe9-7ab927f12b83",
+      "published_date": "2025-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4458.0
+    },
+    {
+      "episode_id": "small_town_murder-85736e3c5362",
+      "rss_guid": "9ba56956-0fc8-4de5-a866-777d55d15f50",
+      "published_date": "2025-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 10688.0
+    },
+    {
+      "episode_id": "small_town_murder-ffc53fa869f1",
+      "rss_guid": "3f6ef012-bf14-4a02-abf7-13e177566944",
+      "published_date": "2025-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4366.0
+    },
+    {
+      "episode_id": "small_town_murder-aeb80f5626cc",
+      "rss_guid": "cd728d2e-d191-4c1c-b17e-1cad935fa537",
+      "published_date": "2025-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10701.0
+    },
+    {
+      "episode_id": "small_town_murder-ed51bb9c81d1",
+      "rss_guid": "a7ea3a42-c212-4a96-b618-294fb2d2d23b",
+      "published_date": "2025-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4241.0
+    },
+    {
+      "episode_id": "small_town_murder-5bf135bdfd77",
+      "rss_guid": "323968e0-1b26-4a96-990a-143400127f9f",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10045.0
+    },
+    {
+      "episode_id": "small_town_murder-f897ddc84675",
+      "rss_guid": "8e68f990-e2e1-4d66-8556-1102911a101f",
+      "published_date": "2025-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4374.0
+    },
+    {
+      "episode_id": "small_town_murder-eefbc67f65f5",
+      "rss_guid": "1734d516-49b9-4cba-b87b-2faf586da679",
+      "published_date": "2025-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 10688.0
+    },
+    {
+      "episode_id": "small_town_murder-1589ba870082",
+      "rss_guid": "840bdb5d-1efe-4a56-9d67-94f4b0ff2109",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4405.0
+    },
+    {
+      "episode_id": "small_town_murder-0ff20c2f6232",
+      "rss_guid": "b58c45da-6594-47be-b4a8-99af432fe6c0",
+      "published_date": "2025-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10775.0
+    },
+    {
+      "episode_id": "small_town_murder-249fca588b9a",
+      "rss_guid": "c1e78810-e1ff-4552-97f5-d5b2f8e097cd",
+      "published_date": "2025-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4332.0
+    },
+    {
+      "episode_id": "small_town_murder-3c842438f3cd",
+      "rss_guid": "7939e27f-b6b9-497a-ac77-31da4b7d0019",
+      "published_date": "2025-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 10769.0
+    },
+    {
+      "episode_id": "small_town_murder-7c93210851d4",
+      "rss_guid": "aeaf2794-7b64-4bec-b740-91502bf7e988",
+      "published_date": "2025-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4769.0
+    },
+    {
+      "episode_id": "small_town_murder-fd8aba03e4ac",
+      "rss_guid": "6300c5e6-399f-43c2-b1fc-63458f330d29",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10762.0
+    },
+    {
+      "episode_id": "small_town_murder-04099a222077",
+      "rss_guid": "df917608-44d4-487e-9f99-ec10ff221178",
+      "published_date": "2025-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4485.0
+    },
+    {
+      "episode_id": "small_town_murder-be079695790a",
+      "rss_guid": "gid://art19-episode-locator/V0/rOwjrt5BKcTqTVvBXPXCPjIIG0YK8xdw5CJOq3EZVS0",
+      "published_date": "2025-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 11034.0
+    },
+    {
+      "episode_id": "small_town_murder-f6f8301efb28",
+      "rss_guid": "gid://art19-episode-locator/V0/dUf_zDq3z4AfgasXLftbEeLktDaj7iZ4GT_rWjxpvZM",
+      "published_date": "2025-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4244.0
+    },
+    {
+      "episode_id": "small_town_murder-436c9b3c5d48",
+      "rss_guid": "gid://art19-episode-locator/V0/dRCDtnpoiKQkq1BZKQTKvk1TPeyTjYu9frVS-E2EQ0U",
+      "published_date": "2025-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10756.0
+    },
+    {
+      "episode_id": "small_town_murder-a54e54bbdb7e",
+      "rss_guid": "gid://art19-episode-locator/V0/KEmOMNcv3CnO7zdwQSe_WjMqm1s6lLtRs_4I7BjFGXQ",
+      "published_date": "2025-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4364.0
+    },
+    {
+      "episode_id": "small_town_murder-c61e7bb6fedc",
+      "rss_guid": "gid://art19-episode-locator/V0/gt-SS1jP74YRYKfLd92sUFLdpNjkn35aBDeHQsYN5vA",
+      "published_date": "2025-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 10696.0
+    },
+    {
+      "episode_id": "small_town_murder-80bd77ea020d",
+      "rss_guid": "gid://art19-episode-locator/V0/q2SwaBLcybPTQ1s8KczBeQImRlm45qtYuGZ0vvdK1Ok",
+      "published_date": "2025-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "small_town_murder-b64145c07b92",
+      "rss_guid": "gid://art19-episode-locator/V0/57V_N462Hz7EwdK0nozmWMXmVmnBWDhjX09rO3POQVk",
+      "published_date": "2025-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10445.0
+    },
+    {
+      "episode_id": "small_town_murder-1d3db2781e4a",
+      "rss_guid": "gid://art19-episode-locator/V0/TTrM7vNyWDRTZQbpD1Y2r1i7r0GrulgTWXjbe2FEkUo",
+      "published_date": "2025-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4379.0
+    },
+    {
+      "episode_id": "small_town_murder-04b2f1dd8903",
+      "rss_guid": "gid://art19-episode-locator/V0/p3Ps02locoEQbkXmLud_4SYWAkp45KvgWp9TT492s5k",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 10729.0
+    },
+    {
+      "episode_id": "small_town_murder-197655fb6f12",
+      "rss_guid": "gid://art19-episode-locator/V0/2eHB2HDlEqT9E5na99b4rqjTdoq35RPAABCOHR0nAII",
+      "published_date": "2025-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4245.0
+    },
+    {
+      "episode_id": "small_town_murder-58a8aaaff623",
+      "rss_guid": "gid://art19-episode-locator/V0/PWsB1Y6Wj4kFMi-G7yn1FEN91UBkwNauJeZHWNvZfCg",
+      "published_date": "2025-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 10547.0
+    },
+    {
+      "episode_id": "small_town_murder-bc1a85986420",
+      "rss_guid": "gid://art19-episode-locator/V0/B3NYb1CFLXnnFBgBu6z1MiTOLTSLBF-uiFxgNskBiKQ",
+      "published_date": "2025-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4354.0
+    },
+    {
+      "episode_id": "small_town_murder-f6710c5447ac",
+      "rss_guid": "gid://art19-episode-locator/V0/tT__ycx_TCGfAtLMCOf3AOTHTDXtWvzhJuPYTbA_BLs",
+      "published_date": "2025-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10916.0
+    },
+    {
+      "episode_id": "small_town_murder-57556c68d36d",
+      "rss_guid": "gid://art19-episode-locator/V0/m0tcG_CMv4CcTSxdvbwfdqKgj0UED9nle0-P-Zlt3OM",
+      "published_date": "2025-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4256.0
+    },
+    {
+      "episode_id": "small_town_murder-2fa2f661e3d3",
+      "rss_guid": "gid://art19-episode-locator/V0/NraD7zxGa6zHHjqRi7P9tbIJ80uR4eGtuJffpzb4uSM",
+      "published_date": "2025-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10726.0
+    },
+    {
+      "episode_id": "small_town_murder-478d6b2bfcd0",
+      "rss_guid": "gid://art19-episode-locator/V0/tvsBCOoVCTh_PBwY-5akCiWaTKyUNMIyD5c3s15PDq4",
+      "published_date": "2025-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4316.0
+    },
+    {
+      "episode_id": "small_town_murder-af28909dd404",
+      "rss_guid": "gid://art19-episode-locator/V0/0xaKEz2s7FQHtY8NurJ5t87z6PzcLnDhGzBBo0XRkGk",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 10639.0
+    },
+    {
+      "episode_id": "small_town_murder-88978a42d7ce",
+      "rss_guid": "gid://art19-episode-locator/V0/Fm7Y6iql7wlPJKoyNoyzxBYazGx3Vbi2WxMo8x-zXSM",
+      "published_date": "2025-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4391.0
+    },
+    {
+      "episode_id": "small_town_murder-2b2aaafea152",
+      "rss_guid": "gid://art19-episode-locator/V0/AlBMV-eeicxRGb2BK-er1gF17ekojNpp2vcgv7UhSBs",
+      "published_date": "2025-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10761.0
+    },
+    {
+      "episode_id": "small_town_murder-1a2a13484971",
+      "rss_guid": "gid://art19-episode-locator/V0/MDFnwrKt7b2arc_7CuJAK8DKu4GWKAA_1EkbNFOLaPQ",
+      "published_date": "2025-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4321.0
+    },
+    {
+      "episode_id": "small_town_murder-2ea461af2136",
+      "rss_guid": "gid://art19-episode-locator/V0/Ds2tdO8ooyueTdMpTOyzA3PLeTRNTwMuZ9LjPZ6Xdys",
+      "published_date": "2025-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 10646.0
+    },
+    {
+      "episode_id": "small_town_murder-84659479863e",
+      "rss_guid": "gid://art19-episode-locator/V0/QU_PuZ5DDO6kTtAfkWjdElFg19F1Q3JJ9DESbzkYJBc",
+      "published_date": "2025-03-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4336.0
+    },
+    {
+      "episode_id": "small_town_murder-aafb0660ca9f",
+      "rss_guid": "gid://art19-episode-locator/V0/QJalVjHa9kSkO-yhHTtAp7XmvPwpWKv57ZQUgGlEqjg",
+      "published_date": "2025-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10732.0
+    },
+    {
+      "episode_id": "small_town_murder-3cb41e2430dc",
+      "rss_guid": "gid://art19-episode-locator/V0/5Xp4U3XwPFGXUFInpQgcINHu5yi6XLzIYaBs4Xo_rZo",
+      "published_date": "2025-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4425.0
+    },
+    {
+      "episode_id": "small_town_murder-774b40e834a9",
+      "rss_guid": "gid://art19-episode-locator/V0/7tHkzj-x42ysAz9FP473WSk8J2UhIk4QFzCTgvzbuRM",
+      "published_date": "2025-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 10413.0
+    },
+    {
+      "episode_id": "small_town_murder-d16d5a44bcf7",
+      "rss_guid": "gid://art19-episode-locator/V0/odONHKf3lmWsmkTmrGcOTqAZ7oHPXz9a8YynlgxKztk",
+      "published_date": "2025-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4438.0
+    },
+    {
+      "episode_id": "small_town_murder-647aa0c739c3",
+      "rss_guid": "gid://art19-episode-locator/V0/qhDa1Qhze1i-ZN2FoLp--9rHKEFhH05OBK1Gppb-lvA",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10701.0
+    },
+    {
+      "episode_id": "small_town_murder-bdfc8a03206b",
+      "rss_guid": "gid://art19-episode-locator/V0/xb6S73aBG0WiCrLJChGwhSio_b4DDR-zpyC0M5A3yXw",
+      "published_date": "2025-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4330.0
+    },
+    {
+      "episode_id": "small_town_murder-905bf7a59cc4",
+      "rss_guid": "gid://art19-episode-locator/V0/SbwZ82-odrzUb12q7Z940dODP-wRM-f5Rl5QZ25MKXc",
+      "published_date": "2025-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 10439.0
+    },
+    {
+      "episode_id": "small_town_murder-65e6f6652bd7",
+      "rss_guid": "gid://art19-episode-locator/V0/KpEm17g3n3193USU3kpOKwUnUY-L6Y40EVNHPLjBVFs",
+      "published_date": "2025-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4272.0
+    },
+    {
+      "episode_id": "small_town_murder-1b5c5a2815fd",
+      "rss_guid": "gid://art19-episode-locator/V0/HnfbY6yg4g2Bd8CYxhrotFb-A5wamnGiLcIwcZLVezQ",
+      "published_date": "2025-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10235.0
+    },
+    {
+      "episode_id": "small_town_murder-b4e853b4931c",
+      "rss_guid": "gid://art19-episode-locator/V0/7OMuXjiz7R4AiFc4tdBC5ryTj_C7WWCTqJoLGB8TZhk",
+      "published_date": "2025-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4338.0
+    },
+    {
+      "episode_id": "small_town_murder-c1cf93b57e66",
+      "rss_guid": "gid://art19-episode-locator/V0/J3vVWFrtTG4ZwgXjIybsfPHTU76RWZ1mh1DdXHMx8AY",
+      "published_date": "2025-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 10313.0
+    },
+    {
+      "episode_id": "small_town_murder-a1a3d673c032",
+      "rss_guid": "gid://art19-episode-locator/V0/YzJgkfTJLUFNSG9BgNbT_Fldq2SIE0gR5dwH6ukNemk",
+      "published_date": "2025-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4187.0
+    },
+    {
+      "episode_id": "small_town_murder-d91a90aea98e",
+      "rss_guid": "gid://art19-episode-locator/V0/wy3tjLa6gYr1EETU_wzay1iSbjgkmNtNLAlTKph2v_8",
+      "published_date": "2025-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 9739.0
+    },
+    {
+      "episode_id": "small_town_murder-c37141d67430",
+      "rss_guid": "gid://art19-episode-locator/V0/MP75mRd7rmiwAIjku9IOYRftNZOLdM-gH892SSibvpo",
+      "published_date": "2025-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4323.0
+    },
+    {
+      "episode_id": "small_town_murder-d3b26afb36ba",
+      "rss_guid": "gid://art19-episode-locator/V0/H9qrtM-VHw7WMbzmN0fr0ROwiPuihm4zH4s6yG1Z3GQ",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 10607.0
+    },
+    {
+      "episode_id": "small_town_murder-a41c34006e4e",
+      "rss_guid": "gid://art19-episode-locator/V0/ZboZScEh5wMsq-fJw93u5XFVnBeuyeYhvvcoboSPzYs",
+      "published_date": "2025-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4387.0
+    },
+    {
+      "episode_id": "small_town_murder-54067ddbc3a0",
+      "rss_guid": "gid://art19-episode-locator/V0/mJ425v8k-eJ3Y4i2GxRip8DfP8Oo_9HUuMUkD2Q0Ww8",
+      "published_date": "2025-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 10447.0
+    },
+    {
+      "episode_id": "small_town_murder-5d967f083baf",
+      "rss_guid": "gid://art19-episode-locator/V0/0oNGfN11s-L8roNECu6LGGe_2oNg-5pHs3HIkbLT3Hw",
+      "published_date": "2025-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4359.0
+    },
+    {
+      "episode_id": "small_town_murder-51c569064561",
+      "rss_guid": "gid://art19-episode-locator/V0/P_l9-8su-0LX9_yktfpqk0KqAADzVozOc1XkL83vTLc",
+      "published_date": "2025-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9928.0
+    },
+    {
+      "episode_id": "small_town_murder-3e8e68d6c94d",
+      "rss_guid": "gid://art19-episode-locator/V0/VbDwC4RkuXnaqMboJKjf1QNrqVzo-C9zGOR4PtR0srY",
+      "published_date": "2024-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4194.0
+    },
+    {
+      "episode_id": "small_town_murder-0064756e2aed",
+      "rss_guid": "gid://art19-episode-locator/V0/6t3DdFuTH_55Oj3EdQXu3p_tiLz7N1SVVhjMBAGVYIg",
+      "published_date": "2024-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 10022.0
+    },
+    {
+      "episode_id": "small_town_murder-213c53cef0e4",
+      "rss_guid": "gid://art19-episode-locator/V0/U34LyVsN1o_rVDqDilqY3rxss3CJjTe2GUsooqf_lpU",
+      "published_date": "2024-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4407.0
+    },
+    {
+      "episode_id": "small_town_murder-ce73eb8ab0ed",
+      "rss_guid": "gid://art19-episode-locator/V0/ESnNvIbZ8-bbMbsLM8FZBlfmHzB4A4OW_XtTZeTrvC8",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9796.0
+    },
+    {
+      "episode_id": "small_town_murder-4f639ed5d3f7",
+      "rss_guid": "gid://art19-episode-locator/V0/0qXH5ZIbQ8fuzqfOa5NG7bWFEjvnPVQ1g-qSfQ1LzAI",
+      "published_date": "2024-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4300.0
+    },
+    {
+      "episode_id": "small_town_murder-7a487e604b3c",
+      "rss_guid": "gid://art19-episode-locator/V0/Ian2EzY_tAMnylF-3grlOYVxMZaCOi9HseIWe02y_Xc",
+      "published_date": "2024-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 10414.0
+    },
+    {
+      "episode_id": "small_town_murder-396c5f0821c8",
+      "rss_guid": "gid://art19-episode-locator/V0/m2r6qWN08mrMqk9PEpGbDMzpGJhMrvDXm74I2FlVAtU",
+      "published_date": "2024-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4335.0
+    },
+    {
+      "episode_id": "small_town_murder-812acfbbb329",
+      "rss_guid": "gid://art19-episode-locator/V0/NYZTvNKJUnbdAun6A4d0ydc8Fj_GxIXwl_5xbkIpvAk",
+      "published_date": "2024-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 9573.0
+    },
+    {
+      "episode_id": "small_town_murder-f1a20a46a355",
+      "rss_guid": "gid://art19-episode-locator/V0/a7LYR47ZaPLLflzbqpiuzwbeVbJu5tj6wqdVoojV80E",
+      "published_date": "2024-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4352.0
+    },
+    {
+      "episode_id": "small_town_murder-7ecb9cf9569a",
+      "rss_guid": "gid://art19-episode-locator/V0/_XxNkFHUD_P1uhDbCCP1n7JuzrYkMoKtO8hyp5IyV60",
+      "published_date": "2024-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 10602.0
+    },
+    {
+      "episode_id": "small_town_murder-7372f73292f2",
+      "rss_guid": "gid://art19-episode-locator/V0/bl6G1P4DPfvv5MuztdDl4wFBh__YNnrLjQKmpPPuv1U",
+      "published_date": "2024-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4278.0
+    },
+    {
+      "episode_id": "small_town_murder-fc3aa102e461",
+      "rss_guid": "gid://art19-episode-locator/V0/dYc1wgYzZdcwIX139T3Xeh1a0BuP4fH_jZOfdHjzcXY",
+      "published_date": "2024-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10444.0
+    },
+    {
+      "episode_id": "small_town_murder-10d976adb5db",
+      "rss_guid": "gid://art19-episode-locator/V0/GLDKB0vhQ9Txsz3wt_KpjmgZlPS7wfwtYG5yq6UE4W0",
+      "published_date": "2024-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4264.0
+    },
+    {
+      "episode_id": "small_town_murder-43650fabca21",
+      "rss_guid": "gid://art19-episode-locator/V0/Cxx0k_mPGAEcbeK2Xiff68RbEpHNv5gq-c4Z-1cpfpg",
+      "published_date": "2024-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 10434.0
+    },
+    {
+      "episode_id": "small_town_murder-f65e4f655b0e",
+      "rss_guid": "gid://art19-episode-locator/V0/C_sUc-iXqDznP01pMjqU7Px9WTSltEbyDAEvlXx7D0s",
+      "published_date": "2024-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4302.0
+    },
+    {
+      "episode_id": "small_town_murder-bf4b3fd94684",
+      "rss_guid": "gid://art19-episode-locator/V0/xrmLyIknXRwr_IysNc6jLHbWDLs-aEh6JyACizPiJzU",
+      "published_date": "2024-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10085.0
+    },
+    {
+      "episode_id": "small_town_murder-8ee4d611ad6f",
+      "rss_guid": "gid://art19-episode-locator/V0/gPNePVLgC_AUqghDP9gWxVnVmGRSOvCQZzzMax0lC5c",
+      "published_date": "2024-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4237.0
+    },
+    {
+      "episode_id": "small_town_murder-662f978add0c",
+      "rss_guid": "gid://art19-episode-locator/V0/X1-4v-5uIUfCNqySzjvNc5FFW-QwVM252TylB2HvG3U",
+      "published_date": "2024-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 10258.0
+    },
+    {
+      "episode_id": "small_town_murder-462bdc222901",
+      "rss_guid": "gid://art19-episode-locator/V0/bx_yBtA4VKjTAwn8kKiQQzv5ktsYhqbVpP9zimtBOBA",
+      "published_date": "2024-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4303.0
+    },
+    {
+      "episode_id": "small_town_murder-cc721265960a",
+      "rss_guid": "gid://art19-episode-locator/V0/Hc8QQBQDB-BJT909Hvap102Vb-NjRvCRvjeVqxRY2Eo",
+      "published_date": "2024-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 10468.0
+    },
+    {
+      "episode_id": "small_town_murder-d43a13967ab2",
+      "rss_guid": "gid://art19-episode-locator/V0/bBYaY1kVpvuxAyvOe9KWUZSgQHK_d8i-T7cqF7G2lrc",
+      "published_date": "2024-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4256.0
+    },
+    {
+      "episode_id": "small_town_murder-f4b321b4ce03",
+      "rss_guid": "gid://art19-episode-locator/V0/mVTgSRUC9iXzo7OQlFRGWr7tp3RFUlF9tgzc5nRWqGI",
+      "published_date": "2024-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 9614.0
+    },
+    {
+      "episode_id": "small_town_murder-4f9b3b350922",
+      "rss_guid": "gid://art19-episode-locator/V0/ERcEfHXUS2JehTTizVN0NnapdsM6b-qoVDxIoh7R9JU",
+      "published_date": "2024-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4303.0
+    },
+    {
+      "episode_id": "small_town_murder-7f2b382c81f6",
+      "rss_guid": "gid://art19-episode-locator/V0/Yg1HAzSzAQWrTKqtt7YFCE0F87l-Fj8EzgYrmRtHalc",
+      "published_date": "2024-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10069.0
+    },
+    {
+      "episode_id": "small_town_murder-7326af68fbb9",
+      "rss_guid": "gid://art19-episode-locator/V0/XV_6DjI-DOLEdVVwDpAVN327uu3mECX3EzHJFFAilH0",
+      "published_date": "2024-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4346.0
+    },
+    {
+      "episode_id": "small_town_murder-23f56f7f755e",
+      "rss_guid": "gid://art19-episode-locator/V0/r5empQuZZcBRqp-r1Cd2lMHBatGG_Qi9OMaDzntWhIA",
+      "published_date": "2024-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10402.0
+    },
+    {
+      "episode_id": "small_town_murder-0a47592d0f96",
+      "rss_guid": "gid://art19-episode-locator/V0/zffTRj4psSCIHj7vy1HM-h1z1U1aiCRasktBp88uIB4",
+      "published_date": "2024-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4209.0
+    },
+    {
+      "episode_id": "small_town_murder-86edea5c3e81",
+      "rss_guid": "gid://art19-episode-locator/V0/9GENM-AmBQ1dnUxKP-4qZnX9BNUgQwFxLdqsO88Boy4",
+      "published_date": "2024-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 10188.0
+    },
+    {
+      "episode_id": "small_town_murder-303402522f90",
+      "rss_guid": "gid://art19-episode-locator/V0/gBjQzBmKlewWfIPUq-gpZSnio7VB827yJV_sw6j8Mks",
+      "published_date": "2024-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4378.0
+    },
+    {
+      "episode_id": "small_town_murder-fb73f6d0c744",
+      "rss_guid": "gid://art19-episode-locator/V0/HbXn6zO0bU53WBKW7BbTRM1Uzk4lio-ulMxouJm51Js",
+      "published_date": "2024-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10017.0
+    },
+    {
+      "episode_id": "small_town_murder-cb08a6c4ddad",
+      "rss_guid": "gid://art19-episode-locator/V0/kiyKIWmUALU3iRaDUDcPKpkG5Ks7POpcxk7DOFRY0DI",
+      "published_date": "2024-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4326.0
+    },
+    {
+      "episode_id": "small_town_murder-4d77dd555736",
+      "rss_guid": "gid://art19-episode-locator/V0/tvGSNVO7TsTRxgqGbTxQYGFuYIFPe2a80b4Ch6PhajQ",
+      "published_date": "2024-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 10463.0
+    },
+    {
+      "episode_id": "small_town_murder-fec1a4d884b6",
+      "rss_guid": "gid://art19-episode-locator/V0/ZSony2SYfDmn9fl254BRU6osF_kBj146PONQ8Wbzo8g",
+      "published_date": "2024-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4493.0
+    },
+    {
+      "episode_id": "small_town_murder-9fee8323a78b",
+      "rss_guid": "gid://art19-episode-locator/V0/nnu0Xz9SOWOEkc5LfzNbr5_uU40DiktwdrR9X_q8KRE",
+      "published_date": "2024-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10237.0
+    },
+    {
+      "episode_id": "small_town_murder-eae096b4b09e",
+      "rss_guid": "gid://art19-episode-locator/V0/7dtMIr8m_4N56-zdR-O7s-agd9mpOjbUcwfa9-WkUM4",
+      "published_date": "2024-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4240.0
+    },
+    {
+      "episode_id": "small_town_murder-3e95ec582cd6",
+      "rss_guid": "gid://art19-episode-locator/V0/6wMkoaiJppd7awlqvlQe-stSxSkJORostbeI8h-et5I",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 9909.0
+    },
+    {
+      "episode_id": "small_town_murder-1948cf7379d6",
+      "rss_guid": "gid://art19-episode-locator/V0/ufjAf2zFsJsE6wN-KifLTTiZPuJ8e7hN5CK88EvIEaY",
+      "published_date": "2024-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4257.0
+    },
+    {
+      "episode_id": "small_town_murder-3747be5d5038",
+      "rss_guid": "gid://art19-episode-locator/V0/mlnbd0QwUhlrgUQUPE2XFp3z4XvY_c0-cVRx5dHCBwc",
+      "published_date": "2024-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 9987.0
+    },
+    {
+      "episode_id": "small_town_murder-0365608f838c",
+      "rss_guid": "gid://art19-episode-locator/V0/DrjrZs7h83MqBKB11l2NrtocwNr9PQ3oOcfNuDX8lcU",
+      "published_date": "2024-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4416.0
+    },
+    {
+      "episode_id": "small_town_murder-7a7048dc4f37",
+      "rss_guid": "gid://art19-episode-locator/V0/KiqZWRPFOZ473F7R33abWHM3Jv-ZYrCQax_uckJsxuA",
+      "published_date": "2024-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10357.0
+    },
+    {
+      "episode_id": "small_town_murder-173889cf7d19",
+      "rss_guid": "gid://art19-episode-locator/V0/NaW9d62C-Mk69RbVIrtnj9tkVbuGZn8li4Y9qsUHr00",
+      "published_date": "2024-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4471.0
+    },
+    {
+      "episode_id": "small_town_murder-006a96e17d08",
+      "rss_guid": "gid://art19-episode-locator/V0/YE4Otrtglgo8YV1OxeKQC3rU7buvMlIU3BvISL285Dg",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 10286.0
+    },
+    {
+      "episode_id": "small_town_murder-0be0c5d13ada",
+      "rss_guid": "gid://art19-episode-locator/V0/eq_cOFY3irRVhdMXepTCNKwF6Y1QV9Vc8t2qMSyFYpI",
+      "published_date": "2024-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4373.0
+    },
+    {
+      "episode_id": "small_town_murder-240992fd1f41",
+      "rss_guid": "gid://art19-episode-locator/V0/KVW-NO8Ek2YSpvOd1CY2VNdo_G2zuis_0Sy6LMaZcmQ",
+      "published_date": "2024-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10234.0
+    },
+    {
+      "episode_id": "small_town_murder-07d35f84cd4b",
+      "rss_guid": "gid://art19-episode-locator/V0/UxQ_mDUcwoG2P2o7Jma3DdSxSZmyofs_uAsYiaYWhQY",
+      "published_date": "2024-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4322.0
+    },
+    {
+      "episode_id": "small_town_murder-da66192545af",
+      "rss_guid": "gid://art19-episode-locator/V0/psVy_Vgcf0spmkrgPj-oZx2GdlAxpyplXJ9znjkrR-g",
+      "published_date": "2024-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 10338.0
+    },
+    {
+      "episode_id": "small_town_murder-4f3bd07bca5f",
+      "rss_guid": "gid://art19-episode-locator/V0/2S1UyqMYcGnX07-h5PnCEDAxij2NSJGy2cGJlflvji0",
+      "published_date": "2024-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4431.0
+    },
+    {
+      "episode_id": "small_town_murder-db0e8669c33c",
+      "rss_guid": "gid://art19-episode-locator/V0/_twtFgIVzNUfVDRNq5y8KZL01E5yVit_jMBj6IAI9Uc",
+      "published_date": "2024-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 10222.0
+    },
+    {
+      "episode_id": "small_town_murder-8ef49d3c4b27",
+      "rss_guid": "gid://art19-episode-locator/V0/ZGv8uN4u3wWa--dtsGxudnKHwRwhJ_PvcZhO22Je8UU",
+      "published_date": "2024-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4078.0
+    },
+    {
+      "episode_id": "small_town_murder-08b762dd8e93",
+      "rss_guid": "gid://art19-episode-locator/V0/7saAz0VL3jri8HiGUO2YTYKYwlQsdl0UnkYqInM03KQ",
+      "published_date": "2024-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10308.0
+    },
+    {
+      "episode_id": "small_town_murder-03bd65354a16",
+      "rss_guid": "gid://art19-episode-locator/V0/NsGRHiX1CX_9NNAsTcYChpbcICapwHfV-wkAv57WFC0",
+      "published_date": "2024-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4347.0
+    },
+    {
+      "episode_id": "small_town_murder-c0dd642f3ae2",
+      "rss_guid": "gid://art19-episode-locator/V0/zBYJ0xa2_xoKT6FqhJxzhlBQnM1r8LO2sf1bBCXZbW8",
+      "published_date": "2024-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 10435.0
+    },
+    {
+      "episode_id": "small_town_murder-3a811767d02d",
+      "rss_guid": "gid://art19-episode-locator/V0/Bkp4XvBW_4505p2ZYDQWnnSXAOomywX-LwE4oafyO3k",
+      "published_date": "2024-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4272.0
+    },
+    {
+      "episode_id": "small_town_murder-83c0ba6f8623",
+      "rss_guid": "gid://art19-episode-locator/V0/Mi8LlksvX_6Ycqubju2it3mR5Q0r6ffJOn8Q6zYUxAU",
+      "published_date": "2024-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9954.0
+    },
+    {
+      "episode_id": "small_town_murder-4f1c2748e26f",
+      "rss_guid": "gid://art19-episode-locator/V0/L0Lbv2AdG3TtNpi39CekwJ_O0bAZ2r_oUd3u2Gq94PE",
+      "published_date": "2024-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4350.0
+    },
+    {
+      "episode_id": "small_town_murder-6496da8c5dd2",
+      "rss_guid": "gid://art19-episode-locator/V0/qEHsAjLPVm51J17je6YratfC4UK_6hn5AkHKU9lx_Uo",
+      "published_date": "2024-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 9951.0
+    },
+    {
+      "episode_id": "small_town_murder-e7aa2ef8eed0",
+      "rss_guid": "gid://art19-episode-locator/V0/Oaxn1kwn0yo9sfz_G_GUsnD0xs3ukVr6BXvqmZJfBKU",
+      "published_date": "2024-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4267.0
+    },
+    {
+      "episode_id": "small_town_murder-c646173dfb8f",
+      "rss_guid": "gid://art19-episode-locator/V0/iG6YAtg2--QlS9sNkIJC1moZpSLs7NKpsSAg4npMhRo",
+      "published_date": "2024-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 10331.0
+    },
+    {
+      "episode_id": "small_town_murder-a18f364e4c53",
+      "rss_guid": "gid://art19-episode-locator/V0/mM6WNYw1SUNpo_C90OC9KxraH9b_-AbxxmOiRfXpYnE",
+      "published_date": "2024-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4598.0
+    },
+    {
+      "episode_id": "small_town_murder-3ed692bad3bb",
+      "rss_guid": "gid://art19-episode-locator/V0/x0wQplfz0czDIlaY6bnpDWFmOY3OU7ow-inPMYSCWo0",
+      "published_date": "2024-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 9773.0
+    },
+    {
+      "episode_id": "small_town_murder-1e0df7fbb717",
+      "rss_guid": "gid://art19-episode-locator/V0/JYQzyYj3TWLCApzImmrkC0c0P7sPNBxKTDQtrpOHzlw",
+      "published_date": "2024-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4328.0
+    },
+    {
+      "episode_id": "small_town_murder-91142ab5362e",
+      "rss_guid": "gid://art19-episode-locator/V0/_45BWPUe5ixB_KK5ILXAGkXgWnZ1Mxaj8RJ2PvmSyy8",
+      "published_date": "2024-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9864.0
+    },
+    {
+      "episode_id": "small_town_murder-84fced4eb798",
+      "rss_guid": "gid://art19-episode-locator/V0/W5i0ruxtGFESX2vrgGAYRrcim0FPAtq_QtGIqjUTVuc",
+      "published_date": "2024-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4278.0
+    },
+    {
+      "episode_id": "small_town_murder-d77367d39278",
+      "rss_guid": "gid://art19-episode-locator/V0/c7Yvm5BR9fi2UOTGa_Bi2HfCHA0PQFiFcZGZaQ0qRqc",
+      "published_date": "2024-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 10008.0
+    },
+    {
+      "episode_id": "small_town_murder-ebdf5e71296d",
+      "rss_guid": "gid://art19-episode-locator/V0/JlduyiXA_Mk0EerWM4ztm9dkFa195_jfaDM8YlqmEjg",
+      "published_date": "2024-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4408.0
+    },
+    {
+      "episode_id": "small_town_murder-dbb8501d8b4f",
+      "rss_guid": "gid://art19-episode-locator/V0/6yHD41IdJPqYhqJh-aOOlk_YronI4-WFIJHhmfFS-zs",
+      "published_date": "2024-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9736.0
+    },
+    {
+      "episode_id": "small_town_murder-f70ffb3544a0",
+      "rss_guid": "gid://art19-episode-locator/V0/F2ChaxjpwLTJdYd6ZmYp19R1QfZdWFO6neYFfM5fgfs",
+      "published_date": "2024-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "small_town_murder-a054efa2669b",
+      "rss_guid": "gid://art19-episode-locator/V0/7YS0b_zCw_mHYWJU_zMO4Lm9JF5mnDACcQmhgRTjd0U",
+      "published_date": "2024-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 10343.0
+    },
+    {
+      "episode_id": "small_town_murder-042b3afdc31d",
+      "rss_guid": "gid://art19-episode-locator/V0/dQwAWdgcPkz9K6_BcKm5ICRPNZj7_o1-l2HGwSBzNs0",
+      "published_date": "2024-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4220.0
+    },
+    {
+      "episode_id": "small_town_murder-d91087d5b2a3",
+      "rss_guid": "gid://art19-episode-locator/V0/jTdtq2Qv9lNu8Lxb07D_VVV5FpuBHwI9Uq4WWDlNu_U",
+      "published_date": "2024-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10105.0
+    },
+    {
+      "episode_id": "small_town_murder-a6ad97bb751e",
+      "rss_guid": "gid://art19-episode-locator/V0/IdbMwZ24xhaBnAE-eJz3IMuG4gOoLbKG6UP66LJPi9o",
+      "published_date": "2024-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4277.0
+    },
+    {
+      "episode_id": "small_town_murder-dcf62a28e062",
+      "rss_guid": "gid://art19-episode-locator/V0/VesqT3Xi10F_BCZpG53UWRsaos_ybzSYtloxND2BFgA",
+      "published_date": "2024-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 10154.0
+    },
+    {
+      "episode_id": "small_town_murder-e5d458234fb4",
+      "rss_guid": "gid://art19-episode-locator/V0/1YEBrbD95fl4VpdEQJ-d41DUgAwprkjPqsO5wtVJU2o",
+      "published_date": "2024-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4238.0
+    },
+    {
+      "episode_id": "small_town_murder-a989de4db9fe",
+      "rss_guid": "gid://art19-episode-locator/V0/hgFZmpONtoJAMommNQU0dKRiTkamK-LQFz9LZ4I79f0",
+      "published_date": "2024-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 10106.0
+    },
+    {
+      "episode_id": "small_town_murder-0ced52a47015",
+      "rss_guid": "gid://art19-episode-locator/V0/o3299v7_vyMeeNjA9Vqf2lQdbYlskt_GFhk_an80Kbc",
+      "published_date": "2024-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4248.0
+    },
+    {
+      "episode_id": "small_town_murder-1cd47edcefc9",
+      "rss_guid": "gid://art19-episode-locator/V0/HWJ8GMQH6-1zIkmSn2F8Y6ljiDvnTLBwXJgC4bdtRpg",
+      "published_date": "2024-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10055.0
+    },
+    {
+      "episode_id": "small_town_murder-4a5540204622",
+      "rss_guid": "gid://art19-episode-locator/V0/1tiUFURww6p20ozlcGj3DqmWLd0vk4p5ndiqKWJsC7E",
+      "published_date": "2024-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4209.0
+    },
+    {
+      "episode_id": "small_town_murder-caf4b313ad59",
+      "rss_guid": "gid://art19-episode-locator/V0/E4tPpwZS0Aiw60Xm-_gFn7WSMJI-rpLX35Vu8CmouSk",
+      "published_date": "2024-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 10347.0
+    },
+    {
+      "episode_id": "small_town_murder-461cd94ba891",
+      "rss_guid": "gid://art19-episode-locator/V0/b98AiDgn3iESFoTlLFhQ26iNVV1-2z-WudpSZjy8nZY",
+      "published_date": "2024-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4264.0
+    },
+    {
+      "episode_id": "small_town_murder-5eef4ada2e2b",
+      "rss_guid": "gid://art19-episode-locator/V0/_HOARaLz-oVuE-ADN5AGo_Zw6Z9F36O1pmHMRCKUZFE",
+      "published_date": "2024-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 9476.0
+    },
+    {
+      "episode_id": "small_town_murder-2f8ca7f53a7c",
+      "rss_guid": "gid://art19-episode-locator/V0/5pfscYK5K5zEkGOZppUMDbdzFSh_CBVf5opfxYN7o6I",
+      "published_date": "2024-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4324.0
+    },
+    {
+      "episode_id": "small_town_murder-76661d98a668",
+      "rss_guid": "gid://art19-episode-locator/V0/mO8nZRnSv_xcZ1sdSp-YSEmjkhJy20hH8r6Fu_McrnM",
+      "published_date": "2024-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10520.0
+    },
+    {
+      "episode_id": "small_town_murder-95f2a4a50e30",
+      "rss_guid": "gid://art19-episode-locator/V0/8sZ5Jh68eNNrrNWQHcmvworwlawvLv5wNJBQO94ZRGY",
+      "published_date": "2024-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4265.0
+    },
+    {
+      "episode_id": "small_town_murder-966a4d83ee96",
+      "rss_guid": "gid://art19-episode-locator/V0/_B-qvTuYqGgU3V7jd8Aa9ILy8LBJIEhzJXOoSAaJGhk",
+      "published_date": "2024-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 10482.0
+    },
+    {
+      "episode_id": "small_town_murder-0418e3d8ec0c",
+      "rss_guid": "gid://art19-episode-locator/V0/kQnCXjzeoYMinN-kgegvlMu2Li0Bpm-0zOjkwSLaaKg",
+      "published_date": "2024-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4288.0
+    },
+    {
+      "episode_id": "small_town_murder-b3bbae82ef47",
+      "rss_guid": "gid://art19-episode-locator/V0/8AeLew4C9ueTZvT_WMM4q5Djg1zS0OwbbLAusNoDOI8",
+      "published_date": "2024-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10251.0
+    },
+    {
+      "episode_id": "small_town_murder-0e1fddd481a8",
+      "rss_guid": "gid://art19-episode-locator/V0/Grh_4QDHh94DzcDdNJ5EXQPFjy22w6f-riK_Tzc4FnE",
+      "published_date": "2024-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4336.0
+    },
+    {
+      "episode_id": "small_town_murder-cac399df734e",
+      "rss_guid": "gid://art19-episode-locator/V0/pUH6DPsF-h4n_BhjpMoVjqi4KHPKDupO9NT1Y0RM86U",
+      "published_date": "2024-02-29",
+      "guest_name": "Guest",
+      "duration_seconds": 10353.0
+    },
+    {
+      "episode_id": "small_town_murder-a55ea881f781",
+      "rss_guid": "gid://art19-episode-locator/V0/-fUv8bpwlQlutxLprHHWZcDZdP3oZ0L_WjN_rgL5JrY",
+      "published_date": "2024-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4197.0
+    },
+    {
+      "episode_id": "small_town_murder-d23e7a74e973",
+      "rss_guid": "gid://art19-episode-locator/V0/fm4X3_JLF8FDCrdGtFIt-AsPH0eNrhpEkHSqKDWAXZw",
+      "published_date": "2024-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 10364.0
+    },
+    {
+      "episode_id": "small_town_murder-4210ab99c200",
+      "rss_guid": "gid://art19-episode-locator/V0/v2JONugkHoseDggXhSkcfZv8AJAbttAzx0Vbmz1nDQM",
+      "published_date": "2024-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4292.0
+    },
+    {
+      "episode_id": "small_town_murder-55da20fa6cea",
+      "rss_guid": "gid://art19-episode-locator/V0/X06D6Len1G0Xb9Q4PyCHUoEwKPTz_NaT_h7WwYOrcGw",
+      "published_date": "2024-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10502.0
+    },
+    {
+      "episode_id": "small_town_murder-07f4c78ec534",
+      "rss_guid": "gid://art19-episode-locator/V0/JpiaPKdXfhx84conuitc3E8NX1j0YsTVX2ZjWlfon6k",
+      "published_date": "2024-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4212.0
+    },
+    {
+      "episode_id": "small_town_murder-e8c4adeb127c",
+      "rss_guid": "gid://art19-episode-locator/V0/AAUvn8MnJZnUdX2Qkbxi_OfHHVw7EUi9-_ICbHX1y7U",
+      "published_date": "2024-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 10118.0
+    },
+    {
+      "episode_id": "small_town_murder-6df49c01d4de",
+      "rss_guid": "gid://art19-episode-locator/V0/ufUML4TrhdqVTmHboOFmR1LKcm0brIdvQGSdl9Yt-U4",
+      "published_date": "2024-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4073.0
+    },
+    {
+      "episode_id": "small_town_murder-1c075b4e0e79",
+      "rss_guid": "gid://art19-episode-locator/V0/vDzG3wzBTr9q1je3TIYg1gk6b9rv-BQhCe8PaPIxfcU",
+      "published_date": "2024-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10024.0
+    },
+    {
+      "episode_id": "small_town_murder-b0ed784253c7",
+      "rss_guid": "gid://art19-episode-locator/V0/n3LRu3CCjxG6aoWzoJkGuayAwgBgQry0QiNYpYEXXoA",
+      "published_date": "2024-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4290.0
+    },
+    {
+      "episode_id": "small_town_murder-2b8a8c6a101e",
+      "rss_guid": "gid://art19-episode-locator/V0/y-hhwHT9EsI7j350e861yS3SvoINkqG2GAN39ImpKOA",
+      "published_date": "2024-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 10086.0
+    },
+    {
+      "episode_id": "small_town_murder-949b2a70bf97",
+      "rss_guid": "gid://art19-episode-locator/V0/rNDHp7P9Ij4_F-4BWneMi3acyzW2CdQW7eRPy-ORii0",
+      "published_date": "2024-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4230.0
+    },
+    {
+      "episode_id": "small_town_murder-07798ae69643",
+      "rss_guid": "gid://art19-episode-locator/V0/V5JaYj5yxrJCICDREUtcX24ZFWtcujQJQYJq-JacT04",
+      "published_date": "2024-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 10804.0
+    },
+    {
+      "episode_id": "small_town_murder-339f4850dda2",
+      "rss_guid": "gid://art19-episode-locator/V0/cwoPjCWkdEYJzMIlgBX6k2u61ePcZuwQDF24bsZ0bbY",
+      "published_date": "2024-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4203.0
+    },
+    {
+      "episode_id": "small_town_murder-c57f6d9c4881",
+      "rss_guid": "gid://art19-episode-locator/V0/iJRUi7dMdzcM4gs6LNeHYVPUWQac0_w2csvwzgTNzDw",
+      "published_date": "2024-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10306.0
+    },
+    {
+      "episode_id": "small_town_murder-6e6d20148b0e",
+      "rss_guid": "gid://art19-episode-locator/V0/ago-67Ay06Y-bvqyD-DNg5Fw5PB2h1RH2dGGc9ZxHqU",
+      "published_date": "2024-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4166.0
+    },
+    {
+      "episode_id": "small_town_murder-272ccb4fb68b",
+      "rss_guid": "gid://art19-episode-locator/V0/5dTrP5iq8FrWaXeMJzVt42hGlOHSI98Os5kToK7LNvM",
+      "published_date": "2024-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 10245.0
+    },
+    {
+      "episode_id": "small_town_murder-cf19050e7d41",
+      "rss_guid": "gid://art19-episode-locator/V0/FX1Z152NYt4pEsXAEIro3ewj0VKJyJMIIhAx753j0VA",
+      "published_date": "2023-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4260.0
+    },
+    {
+      "episode_id": "small_town_murder-4104c6c50e0d",
+      "rss_guid": "gid://art19-episode-locator/V0/YfdrIEk9rxqnv5qnyP3M9rmqvWFi-EGcrYNNjGxThCk",
+      "published_date": "2023-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 10398.0
+    },
+    {
+      "episode_id": "small_town_murder-52e61a5db9e5",
+      "rss_guid": "gid://art19-episode-locator/V0/tRuVTDMFh8C_4kTB5pTCqABvvWwetWEPypn63r6YrYY",
+      "published_date": "2023-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4250.0
+    },
+    {
+      "episode_id": "small_town_murder-f8c1f6fb793d",
+      "rss_guid": "gid://art19-episode-locator/V0/h-LbhHr5je4VzGgfXaLD3WDCtnqNMyRr2pm7S1z8TN0",
+      "published_date": "2023-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10168.0
+    },
+    {
+      "episode_id": "small_town_murder-1a059a274807",
+      "rss_guid": "gid://art19-episode-locator/V0/SRAgIxv0Po1jgASyaS5EWfA2vCloRWGcFcNNPNVysXI",
+      "published_date": "2023-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4338.0
+    },
+    {
+      "episode_id": "small_town_murder-61578593d4c1",
+      "rss_guid": "gid://art19-episode-locator/V0/ob5SeH11syvdx0rwlRpVNwXO3WH5JCw87gI7QfiUkAs",
+      "published_date": "2023-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9987.0
+    },
+    {
+      "episode_id": "small_town_murder-5b048bee3170",
+      "rss_guid": "gid://art19-episode-locator/V0/TQNkHcuw_yJYgomwzNOqB7X_082Jl_6iDT0isoWCFS8",
+      "published_date": "2023-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4330.0
+    },
+    {
+      "episode_id": "small_town_murder-9ee3d9c1a005",
+      "rss_guid": "gid://art19-episode-locator/V0/Lbz68SUywAjvg8QBunLCt80l0RL1Jnh_qIr-HpU3Uu0",
+      "published_date": "2023-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10674.0
+    },
+    {
+      "episode_id": "small_town_murder-6d2051cc1bc7",
+      "rss_guid": "gid://art19-episode-locator/V0/pQEv-lHYD_9s26nyoqM_SjMEnxUG1HIWnPFxI4JlvVE",
+      "published_date": "2023-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4187.0
+    },
+    {
+      "episode_id": "small_town_murder-37971152866d",
+      "rss_guid": "gid://art19-episode-locator/V0/M9Qxr7k-kRFdEhleD6s80aUX7HAoNl6zAVJFXI4EYPw",
+      "published_date": "2023-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 10239.0
+    },
+    {
+      "episode_id": "small_town_murder-53022d0de03f",
+      "rss_guid": "gid://art19-episode-locator/V0/KeXAY9xSyJwDr-Q7uZ88djONz3cCBW7RKrLUmcSLivA",
+      "published_date": "2023-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4209.0
+    },
+    {
+      "episode_id": "small_town_murder-18fa3677ddaa",
+      "rss_guid": "gid://art19-episode-locator/V0/gTfDyJV1ZofSbgiPVi3Q_VfryJW5TvU682yCceX3QqU",
+      "published_date": "2023-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 10653.0
+    },
+    {
+      "episode_id": "small_town_murder-75163dc62c31",
+      "rss_guid": "gid://art19-episode-locator/V0/8Jcueb1sgMdNwkVw2Bgr0V9UbL-hzqw13TNYtb6gUPg",
+      "published_date": "2023-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4331.0
+    },
+    {
+      "episode_id": "small_town_murder-e283ed682f6a",
+      "rss_guid": "gid://art19-episode-locator/V0/OIV5qTRwiHcfilm32TH5NLgKlhweYNtNPZyRHeY-lI0",
+      "published_date": "2023-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9732.0
+    },
+    {
+      "episode_id": "small_town_murder-9a5d1f5fc478",
+      "rss_guid": "gid://art19-episode-locator/V0/P2c3rqu0BO_aNsDFl0d5IWuUEHKfbjsbLfxJvXWIeaM",
+      "published_date": "2023-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4201.0
+    },
+    {
+      "episode_id": "small_town_murder-894618cd72fe",
+      "rss_guid": "gid://art19-episode-locator/V0/DfIbj35PbIzGG0c7LTMssBmITu8JXe35_hr9Cqz3E_Q",
+      "published_date": "2023-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9653.0
+    },
+    {
+      "episode_id": "small_town_murder-714bc6245f4b",
+      "rss_guid": "gid://art19-episode-locator/V0/7BJncWwrjipiVkm-H_Z4kkXMhgb5PnYpmoH2Vy0NgOE",
+      "published_date": "2023-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4183.0
+    },
+    {
+      "episode_id": "small_town_murder-2c5264ca5afd",
+      "rss_guid": "gid://art19-episode-locator/V0/89caW-vCPtImoUDXh1Twt5_9rEoA2JgNOBPFN2S9Idw",
+      "published_date": "2023-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10681.0
+    },
+    {
+      "episode_id": "small_town_murder-f5da9ba17f1a",
+      "rss_guid": "gid://art19-episode-locator/V0/IKCG9niWQZ9yl-Qdm4_B9NG3uzBie8cQXHHAv-tAK9I",
+      "published_date": "2023-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4318.0
+    },
+    {
+      "episode_id": "small_town_murder-82af04b8162a",
+      "rss_guid": "gid://art19-episode-locator/V0/9-q05XIHfKdwb_nx_CzZaZyjUOelbzYPm68_QlYhyAk",
+      "published_date": "2023-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 9771.0
+    },
+    {
+      "episode_id": "small_town_murder-c9d0644ea7b3",
+      "rss_guid": "gid://art19-episode-locator/V0/JIrv2wr_ebWG4uNu8sW_KV_dqLkZhjUW9ozJPTF3fcU",
+      "published_date": "2023-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4199.0
+    },
+    {
+      "episode_id": "small_town_murder-cacf1acddfd1",
+      "rss_guid": "gid://art19-episode-locator/V0/Zg44ubPAr9pD2G7dwN0CiB0NoywYa52IY9kdGJ_Z8wY",
+      "published_date": "2023-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10196.0
+    },
+    {
+      "episode_id": "small_town_murder-033231b78d34",
+      "rss_guid": "gid://art19-episode-locator/V0/yOck_Z0YI-eCC3gNwyXVrFF67Zb9dhGbZoN2vQtYm8U",
+      "published_date": "2023-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4276.0
+    },
+    {
+      "episode_id": "small_town_murder-569eb82afa18",
+      "rss_guid": "gid://art19-episode-locator/V0/H6L3A81iId56YoICkUjUPPZiSGVWJTZ2kdhKnoIgRmI",
+      "published_date": "2023-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 10393.0
+    },
+    {
+      "episode_id": "small_town_murder-bdf6ffa20c70",
+      "rss_guid": "gid://art19-episode-locator/V0/iQ69abFJtpqVGdMfp1TY8-2hKAi8hVdjPc0NHsRiOBY",
+      "published_date": "2023-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4178.0
+    },
+    {
+      "episode_id": "small_town_murder-bb415b4a3a7b",
+      "rss_guid": "gid://art19-episode-locator/V0/6tu8TRX_cAoVBY7KzvSO0_9UtQ3Dc-y5-KLUr8AYMJ0",
+      "published_date": "2023-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10711.0
+    },
+    {
+      "episode_id": "small_town_murder-4e196a441e0b",
+      "rss_guid": "gid://art19-episode-locator/V0/W_TKffZIlp1AjG2N3q5j7f1Xvh55-RB34mab7ZBenmg",
+      "published_date": "2023-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4231.0
+    },
+    {
+      "episode_id": "small_town_murder-dc2b45707a2d",
+      "rss_guid": "gid://art19-episode-locator/V0/iSM2exrwfaBeR7umtwtTDsmdXbGrZiahSXDAdg4oWI8",
+      "published_date": "2023-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 10170.0
+    },
+    {
+      "episode_id": "small_town_murder-83a99f3bea29",
+      "rss_guid": "gid://art19-episode-locator/V0/yB5NWK-N9Jz7WhDOlTS0dP9z40St0xz6enKCJD7X-iM",
+      "published_date": "2023-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4315.0
+    },
+    {
+      "episode_id": "small_town_murder-d299b78bd3a9",
+      "rss_guid": "gid://art19-episode-locator/V0/Q695Am_JNgbhbp3kJdBnORQW_JsJnLeN6Uw1wCKwpGs",
+      "published_date": "2023-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10602.0
+    },
+    {
+      "episode_id": "small_town_murder-05880dac4103",
+      "rss_guid": "gid://art19-episode-locator/V0/hS0NbRVP49Vn66ceAXLrI9BSlNccO3OgwFj9FLLKUTM",
+      "published_date": "2023-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4237.0
+    },
+    {
+      "episode_id": "small_town_murder-f2a8032bd240",
+      "rss_guid": "gid://art19-episode-locator/V0/glptqOhrxgqfd18u-3GRzMiNVb7fLWzoUjLzJqtJYe8",
+      "published_date": "2023-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9869.0
+    },
+    {
+      "episode_id": "small_town_murder-091142e4bade",
+      "rss_guid": "gid://art19-episode-locator/V0/cJGhUv5mQ0W26Xg46Rye4o7sWKF6XdViWvL8MZQY9Bs",
+      "published_date": "2023-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4143.0
+    },
+    {
+      "episode_id": "small_town_murder-a3300b6ccedc",
+      "rss_guid": "gid://art19-episode-locator/V0/aObToDqKz6p4wyk83BnSS5DErHMUu4yc0XTPfdQWeKA",
+      "published_date": "2023-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10590.0
+    },
+    {
+      "episode_id": "small_town_murder-c143ab67bc8f",
+      "rss_guid": "gid://art19-episode-locator/V0/CRH3IOBgteglBIUOZxVFrn0_0mym_cs9iyViY3ZDqwM",
+      "published_date": "2023-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4264.0
+    },
+    {
+      "episode_id": "small_town_murder-0cbaf4c30508",
+      "rss_guid": "gid://art19-episode-locator/V0/L-EPYq1YseqGcXCFhR_rWzpCGzcv79CyI_ePvbdV_EA",
+      "published_date": "2023-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 10408.0
+    },
+    {
+      "episode_id": "small_town_murder-d9c22ba25b29",
+      "rss_guid": "gid://art19-episode-locator/V0/-CmqpIUBIILQiIxK3vmfmavtQYczgucEbmt56pm8bp8",
+      "published_date": "2023-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4289.0
+    },
+    {
+      "episode_id": "small_town_murder-991b8070a005",
+      "rss_guid": "gid://art19-episode-locator/V0/KjLBrXCHPGJLErZ1daxUesVnoCCNUlx_f53sfVpW_eM",
+      "published_date": "2023-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 10174.0
+    },
+    {
+      "episode_id": "small_town_murder-447dd0fab3f2",
+      "rss_guid": "gid://art19-episode-locator/V0/6mzpP-C4d94jlpao4_tgWmt3-ILmPq34TuujyGVK2Kg",
+      "published_date": "2023-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4164.0
+    },
+    {
+      "episode_id": "small_town_murder-0d433d2f6d37",
+      "rss_guid": "gid://art19-episode-locator/V0/zTW2uVLN03ohfnL4_fi6GP_L5BmP1nSB4Q6RZsHBuIo",
+      "published_date": "2023-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 10710.0
+    },
+    {
+      "episode_id": "small_town_murder-9f1e7fdc16b6",
+      "rss_guid": "gid://art19-episode-locator/V0/t9ob_2_ogRphbC4uXLO8wuaHpTh-OUaXhKuxhUQKng8",
+      "published_date": "2023-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4213.0
+    },
+    {
+      "episode_id": "small_town_murder-e817fd881987",
+      "rss_guid": "gid://art19-episode-locator/V0/QwCm1jXZdSBkuXFVu6WcW582hjKzv1PdxL3ydkput64",
+      "published_date": "2023-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10539.0
+    },
+    {
+      "episode_id": "small_town_murder-53b6b9b6bf49",
+      "rss_guid": "gid://art19-episode-locator/V0/n4g2Zbp_idMVIYoZMu1khBsE1tEWsdY_XX9ech_HK8g",
+      "published_date": "2023-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4274.0
+    },
+    {
+      "episode_id": "small_town_murder-7073ec15ef30",
+      "rss_guid": "gid://art19-episode-locator/V0/0hFeUev4WXKVziit_RRIn3Q6CnB7VFG6r4acJHQ9bSA",
+      "published_date": "2023-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10664.0
+    },
+    {
+      "episode_id": "small_town_murder-9b4673d87b44",
+      "rss_guid": "gid://art19-episode-locator/V0/GSuOc_Jhi15zIxmhD5LXYr_kLGR_6rrTNLrGGkyMpAQ",
+      "published_date": "2023-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4140.0
+    },
+    {
+      "episode_id": "small_town_murder-d65bd15049f3",
+      "rss_guid": "gid://art19-episode-locator/V0/O6DhRa_hWSLIt8vVklt_MYdOghUMu25X0DFugzYlElk",
+      "published_date": "2023-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 10520.0
+    },
+    {
+      "episode_id": "small_town_murder-119e66ed8adb",
+      "rss_guid": "gid://art19-episode-locator/V0/hrm5Kcako7GkHZUkyWGNj6rF09-8I7FOmAc2yHwZhMU",
+      "published_date": "2023-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4367.0
+    },
+    {
+      "episode_id": "small_town_murder-142e95ca9495",
+      "rss_guid": "gid://art19-episode-locator/V0/3rp3m4yL7WsGX4eO1Vjp9CrgPm3tFsnV1B5iYAy0TLU",
+      "published_date": "2023-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10577.0
+    },
+    {
+      "episode_id": "small_town_murder-8aacd2d5948f",
+      "rss_guid": "gid://art19-episode-locator/V0/Of_ux1TrCdV6TkG227scLgvYyS_ngJt2kVs499sWvIE",
+      "published_date": "2023-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4108.0
+    },
+    {
+      "episode_id": "small_town_murder-1327488f54d5",
+      "rss_guid": "gid://art19-episode-locator/V0/FuGXluLPpSTCnqlJpWP3WHOyHT4uqLv_RISeTA9CLCU",
+      "published_date": "2023-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 10692.0
+    },
+    {
+      "episode_id": "small_town_murder-e4b154aff97c",
+      "rss_guid": "gid://art19-episode-locator/V0/JPNmLPsA1Jq6jqdbOgYLY1rWmi7oKTvaLJwTgAM7954",
+      "published_date": "2023-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4140.0
+    },
+    {
+      "episode_id": "small_town_murder-bb5f9d1a5ac2",
+      "rss_guid": "gid://art19-episode-locator/V0/Thlb-6X94NMNsp4r2l3e0_k93iKiQctPGFUpJJ75Zr4",
+      "published_date": "2023-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10464.0
+    },
+    {
+      "episode_id": "small_town_murder-d6dba4668ac2",
+      "rss_guid": "gid://art19-episode-locator/V0/EhnCPHWnbqIWSWpSkUwB4NqDqSyc7ntiJzNZKddq_cs",
+      "published_date": "2023-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4119.0
+    },
+    {
+      "episode_id": "small_town_murder-775a294ba939",
+      "rss_guid": "gid://art19-episode-locator/V0/As3hJJ9k31u3Nu553lMB9_olyXKsQS3ve8pzwhO_ae4",
+      "published_date": "2023-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 10511.0
+    },
+    {
+      "episode_id": "small_town_murder-608fb3faef1c",
+      "rss_guid": "gid://art19-episode-locator/V0/yc9bG4Z-PRe5DPyaQ4FTKo0FeZgXPz3ZhJCrpr7boiA",
+      "published_date": "2023-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4406.0
+    },
+    {
+      "episode_id": "small_town_murder-dc65d557a22e",
+      "rss_guid": "gid://art19-episode-locator/V0/pAUeQ8hbks0Yzk2Eygw9rpiA1stl1hM-v2Dq9Q7U0aE",
+      "published_date": "2023-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 10172.0
+    },
+    {
+      "episode_id": "small_town_murder-c0e3548dc089",
+      "rss_guid": "gid://art19-episode-locator/V0/yd57M6pPbGWjS9-xuTUx_9ogU2LV2pvL1diOkR6euk8",
+      "published_date": "2023-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4201.0
+    },
+    {
+      "episode_id": "small_town_murder-087cfb566225",
+      "rss_guid": "gid://art19-episode-locator/V0/63xBAeW9HXieqXKmOrEqGSBIUXFClXiYeKkqjf9TXkU",
+      "published_date": "2023-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 9898.0
+    },
+    {
+      "episode_id": "small_town_murder-5fc2c3761ae1",
+      "rss_guid": "gid://art19-episode-locator/V0/SmWrlb2ExJ6xMaFxAaIOIAawWWAA0DRrW3V4l5ffoXo",
+      "published_date": "2023-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4343.0
+    },
+    {
+      "episode_id": "small_town_murder-4cbd80d57a41",
+      "rss_guid": "gid://art19-episode-locator/V0/GF5nOR0c_JQE8dpxE2laeReHmLE7jhdYwTHquBJ47_Q",
+      "published_date": "2023-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 10334.0
+    },
+    {
+      "episode_id": "small_town_murder-4d47225eba14",
+      "rss_guid": "gid://art19-episode-locator/V0/xY1BkiGk-kj88xrt4Sk2YlHfEhPCIMFs2rXR9wl02fg",
+      "published_date": "2023-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4242.0
+    },
+    {
+      "episode_id": "small_town_murder-550405b6f730",
+      "rss_guid": "gid://art19-episode-locator/V0/7zgYVyka_HlO6Nir9rT-8vBBOtlv5JcLZQHqc-Ow1-k",
+      "published_date": "2023-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10032.0
+    },
+    {
+      "episode_id": "small_town_murder-77e361555b77",
+      "rss_guid": "gid://art19-episode-locator/V0/dxP_qZx97BmgqBLCIX9i-KeJrLm7WDed5J0NEHBAIIg",
+      "published_date": "2023-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4152.0
+    },
+    {
+      "episode_id": "small_town_murder-5d9e9f9a720a",
+      "rss_guid": "gid://art19-episode-locator/V0/65aJPaKfD27j1tSNOXLtE3dcM2q1n4jt90oqJMV7Vi4",
+      "published_date": "2023-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 10178.0
+    },
+    {
+      "episode_id": "small_town_murder-cb7edc50222c",
+      "rss_guid": "gid://art19-episode-locator/V0/BBFgEZDUa-DjrgqiRKFGq6Fwsafe1lQOe2cNy6J7LSM",
+      "published_date": "2023-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4172.0
+    },
+    {
+      "episode_id": "small_town_murder-cddd647051c9",
+      "rss_guid": "gid://art19-episode-locator/V0/cWHf3Ybo5D7e0RdxOE9GQFbOXWLADLhXQzYZEDR-TW0",
+      "published_date": "2023-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 9663.0
+    },
+    {
+      "episode_id": "small_town_murder-86c0afd38dd9",
+      "rss_guid": "gid://art19-episode-locator/V0/_c27pTDpstB1ICjSaSjX51YCq75bY9tlZEMrWnYYXlI",
+      "published_date": "2023-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4101.0
+    },
+    {
+      "episode_id": "small_town_murder-5fc1ad82c532",
+      "rss_guid": "gid://art19-episode-locator/V0/K39uMawh-7u1_tW_yd4MVBfHG-CyC_8NLWrdsrJMp0s",
+      "published_date": "2023-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 9883.0
+    },
+    {
+      "episode_id": "small_town_murder-26a220e9e609",
+      "rss_guid": "gid://art19-episode-locator/V0/_7Hi_w5widHYjq1vF2DW0u5fcCqkjVm6_IcQgniG2Xo",
+      "published_date": "2023-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4303.0
+    },
+    {
+      "episode_id": "small_town_murder-b338d1aa2c1b",
+      "rss_guid": "gid://art19-episode-locator/V0/-Kjuljvs9zVPv4-e1N8Zed-GFTAjgOspj6TwEmtlNas",
+      "published_date": "2023-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9585.0
+    },
+    {
+      "episode_id": "small_town_murder-e6245204485e",
+      "rss_guid": "gid://art19-episode-locator/V0/_F8cDimwl0lSgAzTZ6wBZdrpvJy0198qJ9RhaOLl-aI",
+      "published_date": "2023-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4144.0
+    },
+    {
+      "episode_id": "small_town_murder-dcf9267fbcf2",
+      "rss_guid": "gid://art19-episode-locator/V0/_HSTs7YK5MOFZ7OHMA9GElrLOQM-AvfyfipZcdCOFAM",
+      "published_date": "2023-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9519.0
+    },
+    {
+      "episode_id": "small_town_murder-43b8450e9a6d",
+      "rss_guid": "gid://art19-episode-locator/V0/CxjIH_dpyCJxiV1qeBOz8b2a8KR8j4SzBjXXE9IMBfI",
+      "published_date": "2023-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4291.0
+    },
+    {
+      "episode_id": "small_town_murder-e55f969f1321",
+      "rss_guid": "gid://art19-episode-locator/V0/8lE5wER8mEMcnC0sWAnaQe33R9PM9wwNwGGu7mcw4Ag",
+      "published_date": "2023-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10188.0
+    },
+    {
+      "episode_id": "small_town_murder-7019a1bb3b36",
+      "rss_guid": "gid://art19-episode-locator/V0/KTMV3B8m_e8YUC3yHYae1p_BzUXQv4aAuJD8mMIGvfM",
+      "published_date": "2023-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3937.0
+    },
+    {
+      "episode_id": "small_town_murder-0693e41de892",
+      "rss_guid": "gid://art19-episode-locator/V0/_zU68CYMTj8suXzR9yJdbbKKDZhidlgLzKna6EDVC-Q",
+      "published_date": "2023-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 9671.0
+    },
+    {
+      "episode_id": "small_town_murder-b4c674e5263e",
+      "rss_guid": "gid://art19-episode-locator/V0/PpeKDxxMXIhChIgqMdIIwvHH6P9QJuaL_eXOiJPTE5M",
+      "published_date": "2023-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4180.0
+    },
+    {
+      "episode_id": "small_town_murder-a7509b6cc2b0",
+      "rss_guid": "gid://art19-episode-locator/V0/nPDdiLR49nSk3LYgh10BjKGJXmpgXT6naHmZnQEK9rM",
+      "published_date": "2023-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10679.0
+    },
+    {
+      "episode_id": "small_town_murder-4e5c9dc5661b",
+      "rss_guid": "gid://art19-episode-locator/V0/8zUeairwAy26mID-gqylCMggQZfQEz2L7mVDDcDrIRQ",
+      "published_date": "2023-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4137.0
+    },
+    {
+      "episode_id": "small_town_murder-65e6e553549c",
+      "rss_guid": "gid://art19-episode-locator/V0/Q4lKtjluZzsEr5uIe31Bw4prDsS0nVJXkpkQbv2Zr18",
+      "published_date": "2023-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9745.0
+    },
+    {
+      "episode_id": "small_town_murder-16ed7b2ed008",
+      "rss_guid": "gid://art19-episode-locator/V0/7Uop5VtSdaTrqVIu93aVNm5R8d8rfBbq7htNvTiMzSY",
+      "published_date": "2023-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4141.0
+    },
+    {
+      "episode_id": "small_town_murder-c1ded5308a10",
+      "rss_guid": "gid://art19-episode-locator/V0/kxamMrJ8bkCcalvIkca_t2sTy1RiR1nAUzBtXFPvxYc",
+      "published_date": "2023-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 9764.0
+    },
+    {
+      "episode_id": "small_town_murder-ad16bf5b43aa",
+      "rss_guid": "gid://art19-episode-locator/V0/-BzJ0R54QlWv8JeQYwHRGZ-iMiubYvTgR0y-GtQW1lg",
+      "published_date": "2023-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4094.0
+    },
+    {
+      "episode_id": "small_town_murder-4a5c9fb54da3",
+      "rss_guid": "gid://art19-episode-locator/V0/QOU9V35B8iLv3bmMB-Y_PyHYLfkVK1rd5pZOEK4gx2E",
+      "published_date": "2023-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9968.0
+    },
+    {
+      "episode_id": "small_town_murder-1441923e701c",
+      "rss_guid": "gid://art19-episode-locator/V0/_amd7ZbHH5CGPWJsO4319i1Doe2zwHUHlbY9CVlDl4U",
+      "published_date": "2023-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4169.0
+    },
+    {
+      "episode_id": "small_town_murder-6163f58e1ec6",
+      "rss_guid": "gid://art19-episode-locator/V0/f7A9MuV-Z02wfs9LezudfWajL-xMaplB5cASdIccCu4",
+      "published_date": "2023-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9672.0
+    },
+    {
+      "episode_id": "small_town_murder-2663a941ac9e",
+      "rss_guid": "gid://art19-episode-locator/V0/LxyFY-VUo9bCpqWBPix97pt3XKloWJ70VU9nhFqZkjI",
+      "published_date": "2023-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4036.0
+    },
+    {
+      "episode_id": "small_town_murder-0d6973b62eb9",
+      "rss_guid": "gid://art19-episode-locator/V0/254CpUKn52IpOeDMvmG01XuBBxuZ4lW7d2Js1g9jZVg",
+      "published_date": "2023-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10163.0
+    },
+    {
+      "episode_id": "small_town_murder-e0fe12b59d00",
+      "rss_guid": "gid://art19-episode-locator/V0/1kLYqSAjOm7098TlfSkN8scZVyZu6M2-3ebArnlmMyE",
+      "published_date": "2023-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4070.0
+    },
+    {
+      "episode_id": "small_town_murder-04fe66a58b95",
+      "rss_guid": "gid://art19-episode-locator/V0/QYqQw6oRE86PiqTe_R36sfJ0_fBXY59h-8hQFXw7Rnk",
+      "published_date": "2023-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 10035.0
+    },
+    {
+      "episode_id": "small_town_murder-476aaa1115b7",
+      "rss_guid": "gid://art19-episode-locator/V0/Ka9eq033zVfjhthm39uijceNJneBLVUy31zSGgNxOEA",
+      "published_date": "2023-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4131.0
+    },
+    {
+      "episode_id": "small_town_murder-09f9ea8ce62b",
+      "rss_guid": "gid://art19-episode-locator/V0/XlJ4oWmWHlCqbWMvGDNvgmNQGsfWkiDfp72rARNTjhQ",
+      "published_date": "2023-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 10264.0
+    },
+    {
+      "episode_id": "small_town_murder-26aeb64a0bff",
+      "rss_guid": "gid://art19-episode-locator/V0/ltpJ8nBdagdhptjnCeHo9mZAK0OpTPLsRi7PjBGY1AI",
+      "published_date": "2023-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4194.0
+    },
+    {
+      "episode_id": "small_town_murder-4d61bcb7992a",
+      "rss_guid": "gid://art19-episode-locator/V0/krLg6LfqnrDLnJAYjVIIxoEj70qxfSU4BHDWrU3U5dc",
+      "published_date": "2023-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9794.0
+    },
+    {
+      "episode_id": "small_town_murder-a741dd204c25",
+      "rss_guid": "gid://art19-episode-locator/V0/-FYPkbjYbTnxUVfjFSi_rWgQ_W0eb778CV3Ua-9IRvY",
+      "published_date": "2023-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4154.0
+    },
+    {
+      "episode_id": "small_town_murder-0eeefda4e72e",
+      "rss_guid": "gid://art19-episode-locator/V0/GTdQlf4KuQmM0iVBgUIfZbv7fy6CP0wSlh-5RBUezUM",
+      "published_date": "2023-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10186.0
+    },
+    {
+      "episode_id": "small_town_murder-9527f378df2d",
+      "rss_guid": "gid://art19-episode-locator/V0/voiwVBKQOCijdQBelVnxwJYfcKFj9JKrlcbIahq_cvE",
+      "published_date": "2023-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4151.0
+    },
+    {
+      "episode_id": "small_town_murder-5743fd59b990",
+      "rss_guid": "gid://art19-episode-locator/V0/MqFDkfFpWVE1JzB_RKeT4pWL2EduZVVpuVwOxnTTWG8",
+      "published_date": "2023-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 10203.0
+    },
+    {
+      "episode_id": "small_town_murder-ed1b5ce584b8",
+      "rss_guid": "gid://art19-episode-locator/V0/UmFEbeC9K7vdw0KwRJCSyAinQWWg5T4BAde_b7_O9cY",
+      "published_date": "2023-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4148.0
+    },
+    {
+      "episode_id": "small_town_murder-b8c8d0f18b0d",
+      "rss_guid": "gid://art19-episode-locator/V0/kXtf4UZle2AqFcWDUjmTBLwxiJH8nyAahrDDYSy5zDA",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9331.0
+    },
+    {
+      "episode_id": "small_town_murder-bb1b7644f61b",
+      "rss_guid": "gid://art19-episode-locator/V0/Y6NYQOn8PdCEdQv7gZxoJISwzNcMbU-D3QlfkKMSrGk",
+      "published_date": "2023-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4141.0
+    },
+    {
+      "episode_id": "small_town_murder-8302fee75c49",
+      "rss_guid": "gid://art19-episode-locator/V0/pGccuy0_DKKKOaB_o7pfYwxhdeNzQI_u0pLX3EP2K2U",
+      "published_date": "2023-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 9753.0
+    },
+    {
+      "episode_id": "small_town_murder-bb5c7a430077",
+      "rss_guid": "gid://art19-episode-locator/V0/0vu34Uq0eii-K8M0tJhxBRenddWMUku4CeU8ZovXZFo",
+      "published_date": "2023-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4167.0
+    },
+    {
+      "episode_id": "small_town_murder-bdd1c8a7660f",
+      "rss_guid": "gid://art19-episode-locator/V0/qGkAYzB3o6ShzR7A-hfwuLzHbcpx2xfpV4fFf2nz2nY",
+      "published_date": "2023-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 9777.0
+    },
+    {
+      "episode_id": "small_town_murder-331111e938be",
+      "rss_guid": "gid://art19-episode-locator/V0/QiRKQS42j9pNU67JAo_Of43GzYaLvwlpX7UinoJFLf0",
+      "published_date": "2022-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4127.0
+    },
+    {
+      "episode_id": "small_town_murder-753a3d320ab3",
+      "rss_guid": "gid://art19-episode-locator/V0/CzvAWm_xj2R0kfuUFPBdAmafJ4xjNAvg7kP86-v6xB4",
+      "published_date": "2022-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 9897.0
+    },
+    {
+      "episode_id": "small_town_murder-3e65d97d066d",
+      "rss_guid": "gid://art19-episode-locator/V0/iFFiEMcaobEny72uhvNz-3ElCZ66uU6j2qUY2cIcrEQ",
+      "published_date": "2022-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4136.0
+    },
+    {
+      "episode_id": "small_town_murder-dee158946713",
+      "rss_guid": "gid://art19-episode-locator/V0/-qf-mMDUoLyyRcARNAQR0VxbLc-KiEj4No_oXD8S6jQ",
+      "published_date": "2022-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 10487.0
+    },
+    {
+      "episode_id": "small_town_murder-c2e7f054763a",
+      "rss_guid": "gid://art19-episode-locator/V0/i8OAxC6z9SnpowYAk-IUddmI78JVA9SJHV-40l43ExY",
+      "published_date": "2022-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4062.0
+    },
+    {
+      "episode_id": "small_town_murder-c2046debcf60",
+      "rss_guid": "gid://art19-episode-locator/V0/IT5P6gVtLamjPyygJplAZjjNwgXAvj5O0cMWCedbEqs",
+      "published_date": "2022-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 9638.0
+    },
+    {
+      "episode_id": "small_town_murder-4008780dd77f",
+      "rss_guid": "gid://art19-episode-locator/V0/VmJAUUfEnT-6p1W_VZt1hVjS2k7Rihx6WovbCTu5Pj4",
+      "published_date": "2022-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4272.0
+    },
+    {
+      "episode_id": "small_town_murder-00b984ca5b84",
+      "rss_guid": "gid://art19-episode-locator/V0/kBxB4YnoEL5uAe_VHmT0XFkWpGmzHEJ3-5-iuNKMJoE",
+      "published_date": "2022-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 9858.0
+    },
+    {
+      "episode_id": "small_town_murder-704bc9c47178",
+      "rss_guid": "gid://art19-episode-locator/V0/rK4EpaVQGC8wa_rkT2n6Mp3Ddt9yyZRG0zkVHR8VWlo",
+      "published_date": "2022-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4143.0
+    },
+    {
+      "episode_id": "small_town_murder-2ad274205635",
+      "rss_guid": "gid://art19-episode-locator/V0/mHE9-DG_4zHWE5ZZG01r9m1iAqczBHaz-7vNVNMFnAQ",
+      "published_date": "2022-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10022.0
+    },
+    {
+      "episode_id": "small_town_murder-6d6cb80d0156",
+      "rss_guid": "gid://art19-episode-locator/V0/tXvf0D59LBiTcnaH0wjxpWcEBZ08p29SVbhSFyigMyI",
+      "published_date": "2022-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4103.0
+    },
+    {
+      "episode_id": "small_town_murder-650756ee80c1",
+      "rss_guid": "gid://art19-episode-locator/V0/7wW6yAKQ6HYdBOEMt4qCzpgTImKqGz1I3nIkYPtHOXE",
+      "published_date": "2022-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 10272.0
+    },
+    {
+      "episode_id": "small_town_murder-7bbd1a9750ee",
+      "rss_guid": "gid://art19-episode-locator/V0/AC_zL5zaqUIPQzTzKjYISaZVTCL2WKOS1nrNZlBB2MQ",
+      "published_date": "2022-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4133.0
+    },
+    {
+      "episode_id": "small_town_murder-1d2b1e42a29d",
+      "rss_guid": "gid://art19-episode-locator/V0/cA7TOSCChnK1ygpPtDF9jUbEeG5_H2lWcN1Tp0-UJYA",
+      "published_date": "2022-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 10265.0
+    },
+    {
+      "episode_id": "small_town_murder-64a03f5c02b9",
+      "rss_guid": "gid://art19-episode-locator/V0/T9zn-Pe6J9B0lW-mO9yacuHmNSvljXFx0HVOOeaCyEQ",
+      "published_date": "2022-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3977.0
+    },
+    {
+      "episode_id": "small_town_murder-06a774f8ecf0",
+      "rss_guid": "gid://art19-episode-locator/V0/S9l9tfN4zj8bf_z72DEDnHH3paElPlmNJuW4OLje9DE",
+      "published_date": "2022-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10485.0
+    },
+    {
+      "episode_id": "small_town_murder-82e18e8c3e1e",
+      "rss_guid": "gid://art19-episode-locator/V0/SNEAhjs5lZQBAAzxTL1lRB00m6aE3inEtaGebt189-k",
+      "published_date": "2022-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3950.0
+    },
+    {
+      "episode_id": "small_town_murder-bbf0f6ed7f47",
+      "rss_guid": "gid://art19-episode-locator/V0/IUevYJnfvBqQtk8v6uEajB3uq1k3fRZxXcPVlzCHx78",
+      "published_date": "2022-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 9941.0
+    },
+    {
+      "episode_id": "small_town_murder-2166669c37b4",
+      "rss_guid": "gid://art19-episode-locator/V0/0UeOFW6SWbbcb8sobdB8-HMVCm25UTMrBCr7pRNN-LE",
+      "published_date": "2022-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4077.0
+    },
+    {
+      "episode_id": "small_town_murder-67636f7a811b",
+      "rss_guid": "gid://art19-episode-locator/V0/eB7ejMYucM7Pq_OD1vTqXMPHJtymWkdRXATw4jjmB0k",
+      "published_date": "2022-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9524.0
+    },
+    {
+      "episode_id": "small_town_murder-8a3a95d41092",
+      "rss_guid": "gid://art19-episode-locator/V0/yKR-ItBkqd0eoLFF0hLteEJOEXwYC5c7oYgYFV5WxFM",
+      "published_date": "2022-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4161.0
+    },
+    {
+      "episode_id": "small_town_murder-0e56d7043fae",
+      "rss_guid": "gid://art19-episode-locator/V0/2utGpa6pDlSbiDRpXRDGakHGFFP9qp5rQT0z9sZZXUc",
+      "published_date": "2022-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10587.0
+    },
+    {
+      "episode_id": "small_town_murder-84c9b620e70f",
+      "rss_guid": "gid://art19-episode-locator/V0/C7V3Gd-Ah-Ml0iXWMy96y-CjvyU1S52hWOLKaoDR-ZA",
+      "published_date": "2022-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4018.0
+    },
+    {
+      "episode_id": "small_town_murder-cddce6db3162",
+      "rss_guid": "gid://art19-episode-locator/V0/yH9QXhnWkqEwdf2vw33epeloYRnfKoMBzHmGlPXIhG0",
+      "published_date": "2022-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 10657.0
+    },
+    {
+      "episode_id": "small_town_murder-0084b3ddac89",
+      "rss_guid": "gid://art19-episode-locator/V0/a7NsDEQvTplFtSW5Ac6u5E6bkSxnIsz2ZRaTRSMIyjg",
+      "published_date": "2022-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3974.0
+    },
+    {
+      "episode_id": "small_town_murder-f5a7a918deb4",
+      "rss_guid": "gid://art19-episode-locator/V0/KLQQMXkNzwvBG8koXJgW0km2ghfg24d3jtKmFtKt6dQ",
+      "published_date": "2022-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 9798.0
+    },
+    {
+      "episode_id": "small_town_murder-f29c02d00bcd",
+      "rss_guid": "gid://art19-episode-locator/V0/ybdfja3nS8PIxcW-MYNzIc6hpZpbPw9GUFBgjParFVM",
+      "published_date": "2022-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4043.0
+    },
+    {
+      "episode_id": "small_town_murder-1ac5351c8aa3",
+      "rss_guid": "gid://art19-episode-locator/V0/_E5gKCI5A6fUS3rMERh-yOkDLOjTbM16KRES0hAwUUo",
+      "published_date": "2022-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 9882.0
+    },
+    {
+      "episode_id": "small_town_murder-0d544c719467",
+      "rss_guid": "gid://art19-episode-locator/V0/dbOY6Gj1IQCqvGVh0Eg_Y73OR06QQfZZ94mISzDUtlM",
+      "published_date": "2022-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4075.0
+    },
+    {
+      "episode_id": "small_town_murder-1471318af3d4",
+      "rss_guid": "gid://art19-episode-locator/V0/dz_kWKi0tDa8Zqa7ChZ6kE4Bw2W94jvl6Kl8oJM-utE",
+      "published_date": "2022-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 10094.0
+    },
+    {
+      "episode_id": "small_town_murder-4c561205370b",
+      "rss_guid": "gid://art19-episode-locator/V0/0LO5KMFydOm--LrUO10NORLAyhCAdf0OuTViA7L7Yvg",
+      "published_date": "2022-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3986.0
+    },
+    {
+      "episode_id": "small_town_murder-14bbb28c2986",
+      "rss_guid": "gid://art19-episode-locator/V0/QOT9bTYPBEagNFW_H8h5pjfy7sseVGTC3cJkNaIOzSc",
+      "published_date": "2022-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10751.0
+    },
+    {
+      "episode_id": "small_town_murder-cacda747e660",
+      "rss_guid": "gid://art19-episode-locator/V0/WzRi_khWgmv6cjOUxx3ZQf2VNat0zhiODEmCvA3poeY",
+      "published_date": "2022-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3961.0
+    },
+    {
+      "episode_id": "small_town_murder-3011ed174023",
+      "rss_guid": "gid://art19-episode-locator/V0/CsmJYaHjpJl3sGJJpmJvi2hS9Wd555V9-Hutsh3teIA",
+      "published_date": "2022-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 9792.0
+    },
+    {
+      "episode_id": "small_town_murder-c2ba02f966c2",
+      "rss_guid": "gid://art19-episode-locator/V0/NqglZexFij7pbvhuv-n2bX1Sz-EGS3yTYBGltZ_nCv8",
+      "published_date": "2022-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4057.0
+    },
+    {
+      "episode_id": "small_town_murder-c564a55b22d8",
+      "rss_guid": "gid://art19-episode-locator/V0/2SHjnpAAKwxtO1w8P8H3Pv7GJ0QzIEzFwBiPOqPOtO0",
+      "published_date": "2022-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 10305.0
+    },
+    {
+      "episode_id": "small_town_murder-610ea587d1be",
+      "rss_guid": "gid://art19-episode-locator/V0/Cms1bJRmwiGDF0u6wS7eb7i9NsIasbluXzQTeZ8hqx0",
+      "published_date": "2022-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3949.0
+    },
+    {
+      "episode_id": "small_town_murder-f8855826fca2",
+      "rss_guid": "gid://art19-episode-locator/V0/07Yf_WhR0nnxwO5i_fWNEfG5YSUWpc6O_M9WV-s-mFs",
+      "published_date": "2022-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 9689.0
+    },
+    {
+      "episode_id": "small_town_murder-a7f5287e8852",
+      "rss_guid": "gid://art19-episode-locator/V0/Yz-a8F2332_MToPnJfAqWFYx2HgA3dNtwFvOMNRGlIM",
+      "published_date": "2022-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3883.0
+    },
+    {
+      "episode_id": "small_town_murder-e92a6f6ac4af",
+      "rss_guid": "gid://art19-episode-locator/V0/62LypB2ENc4dOid6VYtjH-Xjty1MdPtwrj2S3HFZQLw",
+      "published_date": "2022-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 10383.0
+    },
+    {
+      "episode_id": "small_town_murder-9513d3a98acc",
+      "rss_guid": "gid://art19-episode-locator/V0/85JS5Mo3xPTc5eezUZdNzm-sWO29soK-4VIYDBbOcJo",
+      "published_date": "2022-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3935.0
+    },
+    {
+      "episode_id": "small_town_murder-cce97a5590de",
+      "rss_guid": "gid://art19-episode-locator/V0/V5snZxs_g49vD5ntHGHzhZt2Rlah19yeKbWrF5nELOk",
+      "published_date": "2022-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10223.0
+    },
+    {
+      "episode_id": "small_town_murder-36374fd7ce79",
+      "rss_guid": "gid://art19-episode-locator/V0/TXXjkOOFbat_lLYAhRGmE-Y3PORsZWLPV5b00Q1xg0k",
+      "published_date": "2022-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4064.0
+    },
+    {
+      "episode_id": "small_town_murder-c94b16267310",
+      "rss_guid": "gid://art19-episode-locator/V0/iYJAQhtM0ShrIy-Gp0dkIGr8HBXIQuZlHBcYQvPO8cQ",
+      "published_date": "2022-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9468.0
+    },
+    {
+      "episode_id": "small_town_murder-c3ea18414966",
+      "rss_guid": "gid://art19-episode-locator/V0/iZKryIdOLTxgTDt-5rDqKlP19ih8RxIaqshSn1Ut5BY",
+      "published_date": "2022-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4051.0
+    },
+    {
+      "episode_id": "small_town_murder-8adc8ad4e3bd",
+      "rss_guid": "gid://art19-episode-locator/V0/sdVyRulxUBlmkEzPy7W5mgQHlrMaLmz-fRp0WS_QD94",
+      "published_date": "2022-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 9396.0
+    },
+    {
+      "episode_id": "small_town_murder-428bca371d19",
+      "rss_guid": "gid://art19-episode-locator/V0/gmdpptW3agUZVAMtie2D9vyvD01zkDhkl4wMdTthHUM",
+      "published_date": "2022-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3872.0
+    },
+    {
+      "episode_id": "small_town_murder-6d033821a0e7",
+      "rss_guid": "gid://art19-episode-locator/V0/2AZdx7Jz8ust-lqvsSwh3jHenXqjGONhUc8feEfOez4",
+      "published_date": "2022-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10617.0
+    },
+    {
+      "episode_id": "small_town_murder-3c4d82c18030",
+      "rss_guid": "gid://art19-episode-locator/V0/AOC0XkO_SOZ2jgSbXegkCwVCb93byi84GuMhRvx7Tf8",
+      "published_date": "2022-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3858.0
+    },
+    {
+      "episode_id": "small_town_murder-88d895f758e8",
+      "rss_guid": "gid://art19-episode-locator/V0/FIdSyqnIBLUrBxfSEKwSfOp-lTycUBUW71PpVmHejjQ",
+      "published_date": "2022-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9944.0
+    },
+    {
+      "episode_id": "small_town_murder-d9cf1dad76fe",
+      "rss_guid": "gid://art19-episode-locator/V0/ovpRFpAGHraTLEhWCOAM9D8LXUHECC8faVxakZtwMyE",
+      "published_date": "2022-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3908.0
+    },
+    {
+      "episode_id": "small_town_murder-8e6c0f442828",
+      "rss_guid": "gid://art19-episode-locator/V0/L1rpumlJEGEFpJUdLkbHODfP8fIQvAyBWhirwxImoyQ",
+      "published_date": "2022-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10301.0
+    },
+    {
+      "episode_id": "small_town_murder-f0adbefadfb0",
+      "rss_guid": "gid://art19-episode-locator/V0/LNlG-Tjtkv9AA5GDmc7zYSejbDj-wRWhVqp7yvkP4Ek",
+      "published_date": "2022-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3907.0
+    },
+    {
+      "episode_id": "small_town_murder-9e7f9d8f5139",
+      "rss_guid": "gid://art19-episode-locator/V0/pV6ZhUH9agP8mZNSswJpx5c8FJ51Kh5iVUmOW15bv7g",
+      "published_date": "2022-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9968.0
+    },
+    {
+      "episode_id": "small_town_murder-983baed70a2f",
+      "rss_guid": "gid://art19-episode-locator/V0/o5kXqXnZy28schZEJJEJNQxmHnrfC-L58aF9b_nQIug",
+      "published_date": "2022-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3759.0
+    },
+    {
+      "episode_id": "small_town_murder-dcd7b7e3ff18",
+      "rss_guid": "gid://art19-episode-locator/V0/INHEoQc3dTszSmCUMxt_ZV4r7Hy6AUP7ciCGdM9S-H4",
+      "published_date": "2022-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 10738.0
+    },
+    {
+      "episode_id": "small_town_murder-5bb9b5266e5b",
+      "rss_guid": "gid://art19-episode-locator/V0/b2b-flThDrPGMD-hmj4krOEsKmdQRsCqDXL29-_tKGg",
+      "published_date": "2022-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3912.0
+    },
+    {
+      "episode_id": "small_town_murder-ddeeec399956",
+      "rss_guid": "gid://art19-episode-locator/V0/V-o4eg3TY99-QylJLr6ie-i7aoZCpMUIFe8HwhJU5wI",
+      "published_date": "2022-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 10187.0
+    },
+    {
+      "episode_id": "small_town_murder-9e2a2423ffc7",
+      "rss_guid": "gid://art19-episode-locator/V0/5YRs4hp_rGf-i84evay4hXfUE5y3YFIgRirEpfnBjHs",
+      "published_date": "2022-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3752.0
+    },
+    {
+      "episode_id": "small_town_murder-6563e1d4bbbb",
+      "rss_guid": "gid://art19-episode-locator/V0/82kNzgWeOul5bqsXPISRUlnsavbPhxgFkGVIQaWEHwU",
+      "published_date": "2022-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9939.0
+    },
+    {
+      "episode_id": "small_town_murder-471467228e79",
+      "rss_guid": "gid://art19-episode-locator/V0/cndqqhSZOYnxbqtZBpqt4LfUrFprkjl8FyLsZEs06fw",
+      "published_date": "2022-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3854.0
+    },
+    {
+      "episode_id": "small_town_murder-1c662f73001e",
+      "rss_guid": "gid://art19-episode-locator/V0/3J8E-3AOsy2e0sVddKH4N8IpQyQAnTEENfIFIMH6ae4",
+      "published_date": "2022-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 10187.0
+    },
+    {
+      "episode_id": "small_town_murder-fad42257944b",
+      "rss_guid": "gid://art19-episode-locator/V0/EQC5VYcjXtkCacg4D_Ym-aRh32AxraJ0vAO9pv-Yc-8",
+      "published_date": "2022-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3886.0
+    },
+    {
+      "episode_id": "small_town_murder-b24f1dc258a8",
+      "rss_guid": "gid://art19-episode-locator/V0/C0h3L8Swg1KoFq02UsmiFS03Tvs9aQ5wCm4jbuRhYes",
+      "published_date": "2022-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 9915.0
+    },
+    {
+      "episode_id": "small_town_murder-a260259aff7c",
+      "rss_guid": "gid://art19-episode-locator/V0/ac_a-EOVQ1ZAw--6vpkiMHsq_gQACcuv4-hHfzMhV4M",
+      "published_date": "2022-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3827.0
+    },
+    {
+      "episode_id": "small_town_murder-a6301b0ee447",
+      "rss_guid": "gid://art19-episode-locator/V0/Oq-ZvFVOTYVvwojEd7e__LWQyj8p3FuOfSIYrV_76Ys",
+      "published_date": "2022-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10116.0
+    },
+    {
+      "episode_id": "small_town_murder-cdd23add026d",
+      "rss_guid": "gid://art19-episode-locator/V0/hIrkVBBMBrEqrF84np51vi3FTWypzkdX5AGH0zBE1Cg",
+      "published_date": "2022-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3809.0
+    },
+    {
+      "episode_id": "small_town_murder-ff3d6d742457",
+      "rss_guid": "gid://art19-episode-locator/V0/t1Sz9YCN7UrMoyDYXZOvCTasZw_xsGLA4uYRJI1TQnw",
+      "published_date": "2022-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 10197.0
+    },
+    {
+      "episode_id": "small_town_murder-3fd271d90d0c",
+      "rss_guid": "gid://art19-episode-locator/V0/F4gHlUAradA0PzvfihUFUI_jE4i5HC1wdaLYtRvSzWo",
+      "published_date": "2022-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3737.0
+    },
+    {
+      "episode_id": "small_town_murder-8b6c137f4e1c",
+      "rss_guid": "gid://art19-episode-locator/V0/xz4MxczGe_6LmUV2ZQLfT1hSSO3BVFzqStAt4RqzO_8",
+      "published_date": "2022-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10057.0
+    },
+    {
+      "episode_id": "small_town_murder-3b6b4f100a35",
+      "rss_guid": "gid://art19-episode-locator/V0/K-MfbYY3nBqLC6K6M-j4S47JGOkgbWu60qOkrcSQA-s",
+      "published_date": "2022-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3752.0
+    },
+    {
+      "episode_id": "small_town_murder-dc0042171489",
+      "rss_guid": "gid://art19-episode-locator/V0/_R3gfEgpVjQyTA4fGt6ujBIQNPlONce-VfIi3SDe73E",
+      "published_date": "2022-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3680.0
+    },
+    {
+      "episode_id": "small_town_murder-1bbdd42b5cfe",
+      "rss_guid": "gid://art19-episode-locator/V0/CeGQb3VBlyD20wQA-xLNyddm5_eNZ7mk0qqZLiIowcs",
+      "published_date": "2022-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 10004.0
+    },
+    {
+      "episode_id": "small_town_murder-f6f72fcb94d9",
+      "rss_guid": "gid://art19-episode-locator/V0/YUf_qgqaJK2LcUtmbJnHVaFRRf_0aT355zT0tzQ9glM",
+      "published_date": "2022-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3794.0
+    },
+    {
+      "episode_id": "small_town_murder-2a7fd7d34d98",
+      "rss_guid": "gid://art19-episode-locator/V0/qNaCO1wAgyE4nhA6X_dMyizsW04qJSm76OGh9QsjRPA",
+      "published_date": "2022-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 10414.0
+    },
+    {
+      "episode_id": "small_town_murder-2a83627572e7",
+      "rss_guid": "gid://art19-episode-locator/V0/NTeZHebDxHneLrXF9tgaZgbpgiZiV83VCGKN4LuJuJE",
+      "published_date": "2022-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3598.0
+    },
+    {
+      "episode_id": "small_town_murder-c6bff1d96184",
+      "rss_guid": "gid://art19-episode-locator/V0/M7DJlc_JYOfxHOgHPKXtqLhzSD1cNVcd1CnSWQb0YaM",
+      "published_date": "2022-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9924.0
+    },
+    {
+      "episode_id": "small_town_murder-003bd7d3dec9",
+      "rss_guid": "gid://art19-episode-locator/V0/VxRMUAhDqLHMmI2v8QUC4lBdwUx-Iin_c42ILExCrqk",
+      "published_date": "2022-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3639.0
+    },
+    {
+      "episode_id": "small_town_murder-5123ae59ad1b",
+      "rss_guid": "gid://art19-episode-locator/V0/3C5Qm4R5oWWVXPsKIB_NJdim8t_4BpuUmDimQYL-dg0",
+      "published_date": "2022-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9328.0
+    },
+    {
+      "episode_id": "small_town_murder-88a7fa7af230",
+      "rss_guid": "gid://art19-episode-locator/V0/5_LT6Wr44oCbABBxgYjmqiPJIejx_qNAoPNDXLzc1fw",
+      "published_date": "2022-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9895.0
+    },
+    {
+      "episode_id": "small_town_murder-eda683c85f6c",
+      "rss_guid": "1a7e1419-6289-4aaa-8127-65cba67c3847",
+      "published_date": "2022-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 9801.0
+    },
+    {
+      "episode_id": "small_town_murder-42d7de338500",
+      "rss_guid": "3a99084e-8db4-41d3-94d7-ed3801b8ba4d",
+      "published_date": "2022-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9931.0
+    },
+    {
+      "episode_id": "small_town_murder-ed6cc6bd2fbd",
+      "rss_guid": "98079fe6-ac1d-425a-8615-08838e469016",
+      "published_date": "2022-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 9915.0
+    },
+    {
+      "episode_id": "small_town_murder-cc40e4d61c37",
+      "rss_guid": "e9de5b10-7aa6-4f9d-907b-84dcc705dafb",
+      "published_date": "2022-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10080.0
+    },
+    {
+      "episode_id": "small_town_murder-aced770309a9",
+      "rss_guid": "bd232c1a-3f81-4265-bc44-6b3fffd41b5d",
+      "published_date": "2022-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10194.0
+    },
+    {
+      "episode_id": "small_town_murder-91f421c996d3",
+      "rss_guid": "08d106bd-a304-4394-9ad2-d8475c5b0cb4",
+      "published_date": "2022-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9943.0
+    },
+    {
+      "episode_id": "small_town_murder-54946c35fb07",
+      "rss_guid": "26f84699-4754-4802-9bd2-513637c8dbb5",
+      "published_date": "2022-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 10032.0
+    },
+    {
+      "episode_id": "small_town_murder-1183bca164d7",
+      "rss_guid": "c7607ab7-25af-4dec-aab0-fee3d6f5f569",
+      "published_date": "2022-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10024.0
+    },
+    {
+      "episode_id": "small_town_murder-507fd9f86826",
+      "rss_guid": "15b79830-cf26-4497-87e9-f2ad69630d28",
+      "published_date": "2022-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 9763.0
+    },
+    {
+      "episode_id": "small_town_murder-7a38dab0be17",
+      "rss_guid": "4815f39a-2bc2-4052-ad06-b1d41a5f168f",
+      "published_date": "2022-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9951.0
+    },
+    {
+      "episode_id": "small_town_murder-5ae4fdfc375c",
+      "rss_guid": "78043224-ec9b-4077-aad4-95bd1c020ce9",
+      "published_date": "2022-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 9676.0
+    },
+    {
+      "episode_id": "small_town_murder-f6668b0ba461",
+      "rss_guid": "ec61acf6-e283-476e-927e-d59d43ff260a",
+      "published_date": "2022-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 10483.0
+    },
+    {
+      "episode_id": "small_town_murder-753e7d506cab",
+      "rss_guid": "e85b78db-dbea-44bf-85b2-28ed576add71",
+      "published_date": "2022-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10584.0
+    },
+    {
+      "episode_id": "small_town_murder-3d5f5523945a",
+      "rss_guid": "b96dbde7-6bf8-48b4-89c8-a3a664bd366d",
+      "published_date": "2021-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9690.0
+    },
+    {
+      "episode_id": "small_town_murder-d224a378be26",
+      "rss_guid": "3ba7286d-5378-4014-b17d-c741891c2ac0",
+      "published_date": "2021-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 9830.0
+    },
+    {
+      "episode_id": "small_town_murder-e49493675a40",
+      "rss_guid": "a6ffa22a-f171-444e-b4d5-d0bc7dd21a59",
+      "published_date": "2021-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9815.0
+    },
+    {
+      "episode_id": "small_town_murder-575d85a31c5a",
+      "rss_guid": "db67d982-2cf1-4358-8542-04b9de800eb2",
+      "published_date": "2021-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9874.0
+    },
+    {
+      "episode_id": "small_town_murder-9e411ac07604",
+      "rss_guid": "24994ca9-f246-4100-9e11-fd3a253d0429",
+      "published_date": "2021-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9796.0
+    },
+    {
+      "episode_id": "small_town_murder-abd33f5a9b56",
+      "rss_guid": "55dd8bfc-aea5-41c8-b825-f286d8382a77",
+      "published_date": "2021-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 9874.0
+    },
+    {
+      "episode_id": "small_town_murder-0b966e41ce77",
+      "rss_guid": "f2bf1f42-c673-4f9b-904e-fa75618e1af8",
+      "published_date": "2021-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 9829.0
+    },
+    {
+      "episode_id": "small_town_murder-6b479f4182f5",
+      "rss_guid": "77a19315-7f80-476c-bebd-52f1247ba382",
+      "published_date": "2021-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10436.0
+    },
+    {
+      "episode_id": "small_town_murder-a388006c1a73",
+      "rss_guid": "16c70b30-b8fb-4891-9b7a-dcdac2567e4a",
+      "published_date": "2021-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9777.0
+    },
+    {
+      "episode_id": "small_town_murder-4a022bed5fe9",
+      "rss_guid": "8206daea-3182-43b6-b51c-595f8b517d5a",
+      "published_date": "2021-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 10225.0
+    },
+    {
+      "episode_id": "small_town_murder-0d4915aa7206",
+      "rss_guid": "e514b898-f6c3-4f82-8c11-0f0d9f5d471c",
+      "published_date": "2021-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 9730.0
+    },
+    {
+      "episode_id": "small_town_murder-fda03ebb6127",
+      "rss_guid": "45579256-1dad-40ab-8a91-8639c2ca746b",
+      "published_date": "2021-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 10547.0
+    },
+    {
+      "episode_id": "small_town_murder-d02948dc2ff7",
+      "rss_guid": "4a72e0ba-98f5-497d-89da-d3082750aeff",
+      "published_date": "2021-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10003.0
+    }
+  ]
+}

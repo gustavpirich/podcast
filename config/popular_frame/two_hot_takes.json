@@ -1,0 +1,1815 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_two_hot_takes_20261002T193807Z",
+  "show_id": "two_hot_takes",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/GLT3561373177",
+    "snapshot_relative_path": "data/raw/rss/two_hot_takes/two_hot_takes_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "2a2e41d6f23c42ce87c18d031eba1a1235248eab124c98897c9bd64e1266961f",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "two_hot_takes-1ccefffd4586",
+      "rss_guid": "3c5e4bb4-b7e7-11f1-9931-abb7b102f8a7",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5753.0
+    },
+    {
+      "episode_id": "two_hot_takes-c18b3b44fa58",
+      "rss_guid": "7960d3a0-b26b-11f1-a841-13a5468a99ba",
+      "published_date": "2026-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5777.0
+    },
+    {
+      "episode_id": "two_hot_takes-4c1dfabe54cb",
+      "rss_guid": "8852570c-ace5-11f1-878a-a3a82f383947",
+      "published_date": "2026-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7307.0
+    },
+    {
+      "episode_id": "two_hot_takes-76338236561d",
+      "rss_guid": "e0267ebc-a764-11f1-af4b-7b7464394fbc",
+      "published_date": "2026-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6880.0
+    },
+    {
+      "episode_id": "two_hot_takes-5817b58241de",
+      "rss_guid": "f79612e8-a1d2-11f1-bca3-fbba5df72fce",
+      "published_date": "2026-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6012.0
+    },
+    {
+      "episode_id": "two_hot_takes-b2d2c94c9b56",
+      "rss_guid": "fc8d95a0-9c69-11f1-ad66-5f72b28e8a9e",
+      "published_date": "2026-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 11400.0
+    },
+    {
+      "episode_id": "two_hot_takes-da77970a7e82",
+      "rss_guid": "37abb964-96f2-11f1-b65a-eb102e002406",
+      "published_date": "2026-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8133.0
+    },
+    {
+      "episode_id": "two_hot_takes-b47daaf746b7",
+      "rss_guid": "1b0d69bc-9173-11f1-b6b2-779d9188c4c8",
+      "published_date": "2026-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6780.0
+    },
+    {
+      "episode_id": "two_hot_takes-bc5d29e4992f",
+      "rss_guid": "e3308168-8be7-11f1-a1e7-cf4cf0090a75",
+      "published_date": "2026-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6645.0
+    },
+    {
+      "episode_id": "two_hot_takes-bb1b5dd13a70",
+      "rss_guid": "675ad078-8671-11f1-9223-c7a798b0ee8b",
+      "published_date": "2026-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5734.0
+    },
+    {
+      "episode_id": "two_hot_takes-af59142103f6",
+      "rss_guid": "f35093ae-80ec-11f1-ba02-87d06e8d0dd1",
+      "published_date": "2026-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6776.0
+    },
+    {
+      "episode_id": "two_hot_takes-160e0d8e90d1",
+      "rss_guid": "6b2ca60a-7b62-11f1-b1c7-6fd49eda2277",
+      "published_date": "2026-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8201.0
+    },
+    {
+      "episode_id": "two_hot_takes-c95285aa7f11",
+      "rss_guid": "2f09500a-7591-11f1-b663-6b58007f72ad",
+      "published_date": "2026-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5143.0
+    },
+    {
+      "episode_id": "two_hot_takes-453f9e2d9cab",
+      "rss_guid": "b1bd93b0-6fe9-11f1-b3c1-8789cfff076f",
+      "published_date": "2026-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6775.0
+    },
+    {
+      "episode_id": "two_hot_takes-acfd6128ee81",
+      "rss_guid": "b404d0de-6ad0-11f1-8050-6f29363b05a5",
+      "published_date": "2026-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6888.0
+    },
+    {
+      "episode_id": "two_hot_takes-e542cdb1d3ee",
+      "rss_guid": "0a4b879a-6567-11f1-8afd-378b5ffe0cf4",
+      "published_date": "2026-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "two_hot_takes-df6e9bc0c606",
+      "rss_guid": "4f711e8c-6564-11f1-8a0e-f3727d755933",
+      "published_date": "2026-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4394.0
+    },
+    {
+      "episode_id": "two_hot_takes-ef8474d8e245",
+      "rss_guid": "8f095f4c-5fe6-11f1-ada3-abfdd657a8a0",
+      "published_date": "2026-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6002.0
+    },
+    {
+      "episode_id": "two_hot_takes-16d7ad1498e2",
+      "rss_guid": "26754afa-5a5e-11f1-8e4b-233fa272f04d",
+      "published_date": "2026-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5209.0
+    },
+    {
+      "episode_id": "two_hot_takes-b6261754b9c9",
+      "rss_guid": "d5f34cca-54e6-11f1-91b9-3bc601231893",
+      "published_date": "2026-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6860.0
+    },
+    {
+      "episode_id": "two_hot_takes-198aaa158e14",
+      "rss_guid": "4bd51746-4f6c-11f1-a0bb-6347ca1018d0",
+      "published_date": "2026-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6276.0
+    },
+    {
+      "episode_id": "two_hot_takes-4e669e76f505",
+      "rss_guid": "08a0c666-49de-11f1-a109-c38eea5c5418",
+      "published_date": "2026-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6864.0
+    },
+    {
+      "episode_id": "two_hot_takes-6fdd184291a4",
+      "rss_guid": "a967d23e-4528-11f1-88c5-cb7576ccb413",
+      "published_date": "2026-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7832.0
+    },
+    {
+      "episode_id": "two_hot_takes-49ef083f54bb",
+      "rss_guid": "48bfa58a-3efa-11f1-b6ff-4f231a290b76",
+      "published_date": "2026-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7219.0
+    },
+    {
+      "episode_id": "two_hot_takes-c6d1fd066528",
+      "rss_guid": "64920628-396d-11f1-8675-23fef8684cd9",
+      "published_date": "2026-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7378.0
+    },
+    {
+      "episode_id": "two_hot_takes-1baddeef0720",
+      "rss_guid": "41a15c0e-33e1-11f1-b9bb-777fa0efa670",
+      "published_date": "2026-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5122.0
+    },
+    {
+      "episode_id": "two_hot_takes-37375b2450f2",
+      "rss_guid": "4041250e-2e6b-11f1-b130-775d5d5d0e19",
+      "published_date": "2026-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7640.0
+    },
+    {
+      "episode_id": "two_hot_takes-aae7cf23986d",
+      "rss_guid": "9ae29f0a-28d6-11f1-926f-936ad37a2f91",
+      "published_date": "2026-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5680.0
+    },
+    {
+      "episode_id": "two_hot_takes-a3981d27c56e",
+      "rss_guid": "692616b0-2366-11f1-97cf-073a45570bb6",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6077.0
+    },
+    {
+      "episode_id": "two_hot_takes-ffb0c9091856",
+      "rss_guid": "48badc3a-1de4-11f1-ac15-ab67318ce715",
+      "published_date": "2026-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6840.0
+    },
+    {
+      "episode_id": "two_hot_takes-d33c8eb9189d",
+      "rss_guid": "6e7a80fa-1917-11f1-8cf0-6f502c1568f2",
+      "published_date": "2026-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 9543.0
+    },
+    {
+      "episode_id": "two_hot_takes-05755053280b",
+      "rss_guid": "0a7ea256-12a6-11f1-99ae-0723b00dd31f",
+      "published_date": "2026-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7190.0
+    },
+    {
+      "episode_id": "two_hot_takes-6bd308b4910c",
+      "rss_guid": "32965f4a-0d65-11f1-9a3a-0f96e4b04cef",
+      "published_date": "2026-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5890.0
+    },
+    {
+      "episode_id": "two_hot_takes-0453ff94489d",
+      "rss_guid": "0a164014-07e6-11f1-86fd-a7b53aae112a",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6744.0
+    },
+    {
+      "episode_id": "two_hot_takes-98a2ce1cda8e",
+      "rss_guid": "e54646b6-0273-11f1-8a1f-373e7dbe40e3",
+      "published_date": "2026-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7808.0
+    },
+    {
+      "episode_id": "two_hot_takes-cbd0cdccb7a7",
+      "rss_guid": "f959b482-fcef-11f0-8afd-4fc41fb0726e",
+      "published_date": "2026-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7353.0
+    },
+    {
+      "episode_id": "two_hot_takes-2d75b78c250f",
+      "rss_guid": "6e85ac98-f737-11f0-9ed1-179d068a24fb",
+      "published_date": "2026-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6030.0
+    },
+    {
+      "episode_id": "two_hot_takes-fde75b4d5e49",
+      "rss_guid": "ddd6aa86-f1ea-11f0-adac-8bc408d32b97",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7748.0
+    },
+    {
+      "episode_id": "two_hot_takes-231160a63290",
+      "rss_guid": "32416562-ec72-11f0-9e5f-177ffadc02bf",
+      "published_date": "2026-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6202.0
+    },
+    {
+      "episode_id": "two_hot_takes-843cac4a5953",
+      "rss_guid": "773d0116-e7aa-11f0-963f-272a29795072",
+      "published_date": "2026-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4547.0
+    },
+    {
+      "episode_id": "two_hot_takes-f6f32cbac489",
+      "rss_guid": "cbe64730-e134-11f0-988f-63305d572278",
+      "published_date": "2025-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 9805.0
+    },
+    {
+      "episode_id": "two_hot_takes-88da7d6120ae",
+      "rss_guid": "b0958bd6-dbe8-11f0-a6ac-ff911dcced58",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6948.0
+    },
+    {
+      "episode_id": "two_hot_takes-3b430b11085b",
+      "rss_guid": "e1905f60-d67d-11f0-9f08-7b835420336c",
+      "published_date": "2025-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7583.0
+    },
+    {
+      "episode_id": "two_hot_takes-ea5f438840ec",
+      "rss_guid": "fa356830-d0b5-11f0-b641-1b07009d6a81",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6992.0
+    },
+    {
+      "episode_id": "two_hot_takes-b7c6bc17fae7",
+      "rss_guid": "9ed01fa2-cb20-11f0-a1b8-53114cbb0e9d",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5322.0
+    },
+    {
+      "episode_id": "two_hot_takes-e7e29f2baf7b",
+      "rss_guid": "c92702a4-c5e7-11f0-8c37-df2b3d898de2",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7268.0
+    },
+    {
+      "episode_id": "two_hot_takes-857eeb3118a4",
+      "rss_guid": "0ecfff3e-c06d-11f0-b1fa-23d0ab3cd3db",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6812.0
+    },
+    {
+      "episode_id": "two_hot_takes-257344ce3ef5",
+      "rss_guid": "8a2d6986-baec-11f0-a3c1-bf7faa986f23",
+      "published_date": "2025-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5877.0
+    },
+    {
+      "episode_id": "two_hot_takes-44dd9b6cbbb1",
+      "rss_guid": "328e242c-b560-11f0-8708-abff39eb0a4f",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6758.0
+    },
+    {
+      "episode_id": "two_hot_takes-58fbc9c3e67c",
+      "rss_guid": "be1d6dee-afe9-11f0-b439-3b9bdc44b66f",
+      "published_date": "2025-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8025.0
+    },
+    {
+      "episode_id": "two_hot_takes-8151da238466",
+      "rss_guid": "f0d1d888-aa5d-11f0-ba97-6b7cab089b2b",
+      "published_date": "2025-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8006.0
+    },
+    {
+      "episode_id": "two_hot_takes-46c88def628f",
+      "rss_guid": "c24a95e4-a57c-11f0-89d6-e3b4c796329b",
+      "published_date": "2025-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6105.0
+    },
+    {
+      "episode_id": "two_hot_takes-f8b589e9e224",
+      "rss_guid": "8e2c88a6-a10a-11f0-8224-a309805987cf",
+      "published_date": "2025-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7132.0
+    },
+    {
+      "episode_id": "two_hot_takes-ad217dbfe2e6",
+      "rss_guid": "e912d8d8-9a16-11f0-8705-4b224e9528d0",
+      "published_date": "2025-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5443.0
+    },
+    {
+      "episode_id": "two_hot_takes-85c996303785",
+      "rss_guid": "84a01518-9454-11f0-871a-3f919801f24c",
+      "published_date": "2025-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5280.0
+    },
+    {
+      "episode_id": "two_hot_takes-5019c0dfe5b6",
+      "rss_guid": "7aad751e-8ee1-11f0-bc20-6ff7b7dbd425",
+      "published_date": "2025-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6840.0
+    },
+    {
+      "episode_id": "two_hot_takes-62a9286e1441",
+      "rss_guid": "a44a0116-8960-11f0-a2c3-7346ea949c78",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5652.0
+    },
+    {
+      "episode_id": "two_hot_takes-9b8d5c8b9320",
+      "rss_guid": "9310e722-83d7-11f0-a940-87a13c587d76",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6089.0
+    },
+    {
+      "episode_id": "two_hot_takes-12aa81cd9bdc",
+      "rss_guid": "5b5e0762-7f3e-11f0-8306-a743d893fe17",
+      "published_date": "2025-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6924.0
+    },
+    {
+      "episode_id": "two_hot_takes-c6f16164791b",
+      "rss_guid": "a8d4345a-78e3-11f0-8c30-13c08c46c30a",
+      "published_date": "2025-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6725.0
+    },
+    {
+      "episode_id": "two_hot_takes-b009608dc5ba",
+      "rss_guid": "85795b08-7324-11f0-a7f3-4b3f98cb2589",
+      "published_date": "2025-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5056.0
+    },
+    {
+      "episode_id": "two_hot_takes-ed311063a632",
+      "rss_guid": "72e067be-6de0-11f0-845a-a741eb5d7beb",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7075.0
+    },
+    {
+      "episode_id": "two_hot_takes-05caead74941",
+      "rss_guid": "4a2cc9ba-6850-11f0-95c1-eff69024bef6",
+      "published_date": "2025-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7080.0
+    },
+    {
+      "episode_id": "two_hot_takes-ac21a439853b",
+      "rss_guid": "d4206102-62e9-11f0-ad6f-9b21e8d5ab69",
+      "published_date": "2025-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6746.0
+    },
+    {
+      "episode_id": "two_hot_takes-5019458fcd44",
+      "rss_guid": "a766e0b6-5d65-11f0-b10a-8713dacf84d4",
+      "published_date": "2025-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6773.0
+    },
+    {
+      "episode_id": "two_hot_takes-5107c8684633",
+      "rss_guid": "e691ac46-57dc-11f0-bbd2-53a87f36a0ed",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7557.0
+    },
+    {
+      "episode_id": "two_hot_takes-4e4f5388ad15",
+      "rss_guid": "8b597252-51ae-11f0-ac18-8fe892a210f1",
+      "published_date": "2025-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6313.0
+    },
+    {
+      "episode_id": "two_hot_takes-7c3fa00a2cfc",
+      "rss_guid": "61d7fc4c-4d9d-11f0-b793-6be552c4ee5f",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6022.0
+    },
+    {
+      "episode_id": "two_hot_takes-caa638562192",
+      "rss_guid": "56ab5bba-4777-11f0-9f6f-9f4fc4ab260d",
+      "published_date": "2025-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5653.0
+    },
+    {
+      "episode_id": "two_hot_takes-32bc7c2e95a6",
+      "rss_guid": "3b1987f0-41f5-11f0-8097-f758f96f73a9",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5777.0
+    },
+    {
+      "episode_id": "two_hot_takes-3281f012203d",
+      "rss_guid": "5e21e4ba-3c58-11f0-9e10-17b093f56d5e",
+      "published_date": "2025-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6721.0
+    },
+    {
+      "episode_id": "two_hot_takes-82bac690b6bc",
+      "rss_guid": "4375024c-3725-11f0-9ff7-5bb3901541f3",
+      "published_date": "2025-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6274.0
+    },
+    {
+      "episode_id": "two_hot_takes-510dcd9dfa38",
+      "rss_guid": "b4afdab2-315e-11f0-857e-7b857545129d",
+      "published_date": "2025-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7531.0
+    },
+    {
+      "episode_id": "two_hot_takes-70e714958a39",
+      "rss_guid": "27e95c3e-2be6-11f0-a46a-b747aa482d43",
+      "published_date": "2025-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7570.0
+    },
+    {
+      "episode_id": "two_hot_takes-4c73c889fd35",
+      "rss_guid": "185c7d1c-2657-11f0-a776-6bc915f2470d",
+      "published_date": "2025-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7137.0
+    },
+    {
+      "episode_id": "two_hot_takes-8ab469d2d854",
+      "rss_guid": "ab40b5b4-20e2-11f0-9553-af406fae0c73",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7457.0
+    },
+    {
+      "episode_id": "two_hot_takes-dc854e719969",
+      "rss_guid": "76edd1ba-20a2-11f0-bb2f-9b490cd74f50",
+      "published_date": "2025-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 124.0
+    },
+    {
+      "episode_id": "two_hot_takes-dde791e7b5ea",
+      "rss_guid": "4d5077ac-1b63-11f0-a6b5-474f47b7d8bd",
+      "published_date": "2025-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7631.0
+    },
+    {
+      "episode_id": "two_hot_takes-782cdd5c27ef",
+      "rss_guid": "430d1966-15ce-11f0-9940-df48fd02cac6",
+      "published_date": "2025-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7119.0
+    },
+    {
+      "episode_id": "two_hot_takes-387959f2dcbe",
+      "rss_guid": "f5e1ea46-1059-11f0-8370-cfa6a02bc5b3",
+      "published_date": "2025-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6703.0
+    },
+    {
+      "episode_id": "two_hot_takes-5e334378b7dc",
+      "rss_guid": "90de7272-0ad7-11f0-bd61-57fbb8ca8728",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7347.0
+    },
+    {
+      "episode_id": "two_hot_takes-ed717bb695f9",
+      "rss_guid": "2bfaea82-0557-11f0-ad3e-c716d27eb27d",
+      "published_date": "2025-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6805.0
+    },
+    {
+      "episode_id": "two_hot_takes-9c15b87a58d2",
+      "rss_guid": "1ef83854-ffd9-11ef-b711-d3f01e1450c3",
+      "published_date": "2025-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6865.0
+    },
+    {
+      "episode_id": "two_hot_takes-b8f67b58e97f",
+      "rss_guid": "b305ecb6-fa76-11ef-bf57-d3d79590d6d3",
+      "published_date": "2025-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 10350.0
+    },
+    {
+      "episode_id": "two_hot_takes-83c09d742d8b",
+      "rss_guid": "9e25cfde-f556-11ef-a8ff-23e23454d22e",
+      "published_date": "2025-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7409.0
+    },
+    {
+      "episode_id": "two_hot_takes-1505bf92752e",
+      "rss_guid": "tag:audioboom.com,2025-02-20:/posts/8656465",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7508.0
+    },
+    {
+      "episode_id": "two_hot_takes-288c00b3db62",
+      "rss_guid": "tag:audioboom.com,2025-02-13:/posts/8653380",
+      "published_date": "2025-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7709.0
+    },
+    {
+      "episode_id": "two_hot_takes-aeff4ae68330",
+      "rss_guid": "tag:audioboom.com,2025-02-06:/posts/8649471",
+      "published_date": "2025-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7282.0
+    },
+    {
+      "episode_id": "two_hot_takes-a6f7ed0f4483",
+      "rss_guid": "tag:audioboom.com,2025-01-30:/posts/8645240",
+      "published_date": "2025-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5997.0
+    },
+    {
+      "episode_id": "two_hot_takes-2d888bb394a2",
+      "rss_guid": "tag:audioboom.com,2025-01-23:/posts/8641815",
+      "published_date": "2025-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7106.0
+    },
+    {
+      "episode_id": "two_hot_takes-028a0bd272a9",
+      "rss_guid": "tag:audioboom.com,2025-01-16:/posts/8638326",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7097.0
+    },
+    {
+      "episode_id": "two_hot_takes-8ebbb19e4a2a",
+      "rss_guid": "tag:audioboom.com,2025-01-09:/posts/8634769",
+      "published_date": "2025-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7905.0
+    },
+    {
+      "episode_id": "two_hot_takes-4c21dd2e595c",
+      "rss_guid": "tag:audioboom.com,2024-12-26:/posts/8629259",
+      "published_date": "2024-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 8022.0
+    },
+    {
+      "episode_id": "two_hot_takes-abacc0bf0c1b",
+      "rss_guid": "tag:audioboom.com,2024-12-19:/posts/8626421",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8071.0
+    },
+    {
+      "episode_id": "two_hot_takes-9f0e3c79126e",
+      "rss_guid": "tag:audioboom.com,2024-12-12:/posts/8622803",
+      "published_date": "2024-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6824.0
+    },
+    {
+      "episode_id": "two_hot_takes-7440583657ea",
+      "rss_guid": "tag:audioboom.com,2024-12-05:/posts/8619509",
+      "published_date": "2024-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6157.0
+    },
+    {
+      "episode_id": "two_hot_takes-1ff27d905388",
+      "rss_guid": "tag:audioboom.com,2024-11-28:/posts/8615614",
+      "published_date": "2024-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7902.0
+    },
+    {
+      "episode_id": "two_hot_takes-240af980dc8c",
+      "rss_guid": "tag:audioboom.com,2024-11-21:/posts/8611738",
+      "published_date": "2024-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6378.0
+    },
+    {
+      "episode_id": "two_hot_takes-99e554351345",
+      "rss_guid": "tag:audioboom.com,2024-11-14:/posts/8608269",
+      "published_date": "2024-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6284.0
+    },
+    {
+      "episode_id": "two_hot_takes-d34c916a67f6",
+      "rss_guid": "tag:audioboom.com,2024-11-07:/posts/8604336",
+      "published_date": "2024-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7429.0
+    },
+    {
+      "episode_id": "two_hot_takes-9427eb5fdcde",
+      "rss_guid": "tag:audioboom.com,2024-10-31:/posts/8599379",
+      "published_date": "2024-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6778.0
+    },
+    {
+      "episode_id": "two_hot_takes-2657964beef1",
+      "rss_guid": "tag:audioboom.com,2024-10-24:/posts/8594667",
+      "published_date": "2024-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6839.0
+    },
+    {
+      "episode_id": "two_hot_takes-eda9a1ad94fc",
+      "rss_guid": "tag:audioboom.com,2024-10-17:/posts/8591064",
+      "published_date": "2024-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7486.0
+    },
+    {
+      "episode_id": "two_hot_takes-4ca6ad2b7e48",
+      "rss_guid": "tag:audioboom.com,2024-10-10:/posts/8587659",
+      "published_date": "2024-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6740.0
+    },
+    {
+      "episode_id": "two_hot_takes-c7fe6ffbe339",
+      "rss_guid": "tag:audioboom.com,2024-10-03:/posts/8581671",
+      "published_date": "2024-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6357.0
+    },
+    {
+      "episode_id": "two_hot_takes-975de021c3e5",
+      "rss_guid": "tag:audioboom.com,2024-09-26:/posts/8577402",
+      "published_date": "2024-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7239.0
+    },
+    {
+      "episode_id": "two_hot_takes-0180292ac7e8",
+      "rss_guid": "tag:audioboom.com,2024-09-19:/posts/8573461",
+      "published_date": "2024-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7895.0
+    },
+    {
+      "episode_id": "two_hot_takes-d72545786148",
+      "rss_guid": "tag:audioboom.com,2024-09-12:/posts/8569722",
+      "published_date": "2024-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7641.0
+    },
+    {
+      "episode_id": "two_hot_takes-fd899ee2797d",
+      "rss_guid": "tag:audioboom.com,2024-09-02:/posts/8564746",
+      "published_date": "2024-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6224.0
+    },
+    {
+      "episode_id": "two_hot_takes-37ee06314790",
+      "rss_guid": "tag:audioboom.com,2024-08-29:/posts/8563030",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7964.0
+    },
+    {
+      "episode_id": "two_hot_takes-9cb899013e45",
+      "rss_guid": "tag:audioboom.com,2024-08-22:/posts/8559692",
+      "published_date": "2024-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3560.0
+    },
+    {
+      "episode_id": "two_hot_takes-740ec5dd36bc",
+      "rss_guid": "tag:audioboom.com,2024-08-15:/posts/8556304",
+      "published_date": "2024-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7691.0
+    },
+    {
+      "episode_id": "two_hot_takes-af4f1070d240",
+      "rss_guid": "tag:audioboom.com,2024-08-08:/posts/8553143",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7468.0
+    },
+    {
+      "episode_id": "two_hot_takes-478f40c42825",
+      "rss_guid": "tag:audioboom.com,2024-08-01:/posts/8550081",
+      "published_date": "2024-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6060.0
+    },
+    {
+      "episode_id": "two_hot_takes-58ff625e5c70",
+      "rss_guid": "tag:audioboom.com,2024-07-25:/posts/8546507",
+      "published_date": "2024-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6692.0
+    },
+    {
+      "episode_id": "two_hot_takes-085551ca2ea8",
+      "rss_guid": "tag:audioboom.com,2024-07-18:/posts/8543343",
+      "published_date": "2024-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6631.0
+    },
+    {
+      "episode_id": "two_hot_takes-4c435ce026a7",
+      "rss_guid": "tag:audioboom.com,2024-07-11:/posts/8539812",
+      "published_date": "2024-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7285.0
+    },
+    {
+      "episode_id": "two_hot_takes-8d03109256af",
+      "rss_guid": "tag:audioboom.com,2024-07-05:/posts/8534927",
+      "published_date": "2024-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7831.0
+    },
+    {
+      "episode_id": "two_hot_takes-84af2d680aca",
+      "rss_guid": "tag:audioboom.com,2024-06-27:/posts/8530557",
+      "published_date": "2024-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7395.0
+    },
+    {
+      "episode_id": "two_hot_takes-d45846ec6dc4",
+      "rss_guid": "tag:audioboom.com,2024-06-20:/posts/8527236",
+      "published_date": "2024-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6023.0
+    },
+    {
+      "episode_id": "two_hot_takes-b85126f5d94f",
+      "rss_guid": "tag:audioboom.com,2024-06-13:/posts/8522908",
+      "published_date": "2024-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6971.0
+    },
+    {
+      "episode_id": "two_hot_takes-d3ad1052ff10",
+      "rss_guid": "tag:audioboom.com,2024-06-06:/posts/8519285",
+      "published_date": "2024-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6718.0
+    },
+    {
+      "episode_id": "two_hot_takes-6de87ad43a23",
+      "rss_guid": "tag:audioboom.com,2024-05-30:/posts/8513434",
+      "published_date": "2024-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6453.0
+    },
+    {
+      "episode_id": "two_hot_takes-e0715bbd0177",
+      "rss_guid": "tag:audioboom.com,2024-05-23:/posts/8510187",
+      "published_date": "2024-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7093.0
+    },
+    {
+      "episode_id": "two_hot_takes-f92efe94be5e",
+      "rss_guid": "tag:audioboom.com,2024-05-19:/posts/8507777",
+      "published_date": "2024-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5956.0
+    },
+    {
+      "episode_id": "two_hot_takes-03a26ca3bbd6",
+      "rss_guid": "tag:audioboom.com,2024-05-09:/posts/8502557",
+      "published_date": "2024-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6410.0
+    },
+    {
+      "episode_id": "two_hot_takes-60363153c516",
+      "rss_guid": "tag:audioboom.com,2024-05-02:/posts/8499225",
+      "published_date": "2024-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5881.0
+    },
+    {
+      "episode_id": "two_hot_takes-01e2e8bbc3bb",
+      "rss_guid": "tag:audioboom.com,2024-04-25:/posts/8495733",
+      "published_date": "2024-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7367.0
+    },
+    {
+      "episode_id": "two_hot_takes-21cc315674de",
+      "rss_guid": "tag:audioboom.com,2024-04-18:/posts/8492291",
+      "published_date": "2024-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6443.0
+    },
+    {
+      "episode_id": "two_hot_takes-7461094dacc6",
+      "rss_guid": "tag:audioboom.com,2024-04-11:/posts/8489399",
+      "published_date": "2024-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6743.0
+    },
+    {
+      "episode_id": "two_hot_takes-f7f85585cc3f",
+      "rss_guid": "tag:audioboom.com,2024-04-04:/posts/8483535",
+      "published_date": "2024-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5597.0
+    },
+    {
+      "episode_id": "two_hot_takes-40bb33a7a910",
+      "rss_guid": "tag:audioboom.com,2024-03-28:/posts/8480118",
+      "published_date": "2024-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6376.0
+    },
+    {
+      "episode_id": "two_hot_takes-527e3b87ac3d",
+      "rss_guid": "tag:audioboom.com,2024-03-21:/posts/8476712",
+      "published_date": "2024-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6442.0
+    },
+    {
+      "episode_id": "two_hot_takes-3d7b4b23ad84",
+      "rss_guid": "tag:audioboom.com,2024-03-14:/posts/8473223",
+      "published_date": "2024-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5553.0
+    },
+    {
+      "episode_id": "two_hot_takes-24abafa3c0b8",
+      "rss_guid": "tag:audioboom.com,2024-03-07:/posts/8469679",
+      "published_date": "2024-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6457.0
+    },
+    {
+      "episode_id": "two_hot_takes-06d6bb9a8489",
+      "rss_guid": "tag:audioboom.com,2024-02-29:/posts/8466087",
+      "published_date": "2024-02-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6769.0
+    },
+    {
+      "episode_id": "two_hot_takes-3f40286910c2",
+      "rss_guid": "tag:audioboom.com,2024-02-22:/posts/8461977",
+      "published_date": "2024-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7010.0
+    },
+    {
+      "episode_id": "two_hot_takes-dae9a1069944",
+      "rss_guid": "tag:audioboom.com,2024-02-15:/posts/8458265",
+      "published_date": "2024-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6402.0
+    },
+    {
+      "episode_id": "two_hot_takes-e727f4d4d5b8",
+      "rss_guid": "tag:audioboom.com,2024-02-08:/posts/8454743",
+      "published_date": "2024-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5323.0
+    },
+    {
+      "episode_id": "two_hot_takes-426974b25a7f",
+      "rss_guid": "tag:audioboom.com,2024-02-01:/posts/8450461",
+      "published_date": "2024-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6607.0
+    },
+    {
+      "episode_id": "two_hot_takes-dff0a600a033",
+      "rss_guid": "tag:audioboom.com,2024-01-25:/posts/8445247",
+      "published_date": "2024-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5393.0
+    },
+    {
+      "episode_id": "two_hot_takes-697592824527",
+      "rss_guid": "tag:audioboom.com,2024-01-18:/posts/8434285",
+      "published_date": "2024-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6058.0
+    },
+    {
+      "episode_id": "two_hot_takes-ff8fc878f7f1",
+      "rss_guid": "tag:audioboom.com,2024-01-11:/posts/8428331",
+      "published_date": "2024-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6017.0
+    },
+    {
+      "episode_id": "two_hot_takes-5bbf242d79da",
+      "rss_guid": "tag:audioboom.com,2024-01-04:/posts/8425050",
+      "published_date": "2024-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6554.0
+    },
+    {
+      "episode_id": "two_hot_takes-d5f5871e1fcd",
+      "rss_guid": "tag:audioboom.com,2023-12-28:/posts/8422601",
+      "published_date": "2023-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7984.0
+    },
+    {
+      "episode_id": "two_hot_takes-ec270d269e03",
+      "rss_guid": "tag:audioboom.com,2023-12-21:/posts/8420222",
+      "published_date": "2023-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5971.0
+    },
+    {
+      "episode_id": "two_hot_takes-1f149c47b65c",
+      "rss_guid": "tag:audioboom.com,2023-12-14:/posts/8416302",
+      "published_date": "2023-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5830.0
+    },
+    {
+      "episode_id": "two_hot_takes-01cc1d9ffe10",
+      "rss_guid": "tag:audioboom.com,2023-12-07:/posts/8412472",
+      "published_date": "2023-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7187.0
+    },
+    {
+      "episode_id": "two_hot_takes-ce7209b29170",
+      "rss_guid": "tag:audioboom.com,2023-11-30:/posts/8408887",
+      "published_date": "2023-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5529.0
+    },
+    {
+      "episode_id": "two_hot_takes-0e190ed20c50",
+      "rss_guid": "tag:audioboom.com,2023-11-22:/posts/8404733",
+      "published_date": "2023-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5954.0
+    },
+    {
+      "episode_id": "two_hot_takes-a4a81af02bc2",
+      "rss_guid": "tag:audioboom.com,2023-11-16:/posts/8401687",
+      "published_date": "2023-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7147.0
+    },
+    {
+      "episode_id": "two_hot_takes-4d88a7c8073c",
+      "rss_guid": "tag:audioboom.com,2023-11-09:/posts/8397862",
+      "published_date": "2023-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6669.0
+    },
+    {
+      "episode_id": "two_hot_takes-69e8123abbba",
+      "rss_guid": "tag:audioboom.com,2023-11-02:/posts/8394194",
+      "published_date": "2023-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7190.0
+    },
+    {
+      "episode_id": "two_hot_takes-59a1b39c3b05",
+      "rss_guid": "tag:audioboom.com,2023-10-26:/posts/8390551",
+      "published_date": "2023-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6273.0
+    },
+    {
+      "episode_id": "two_hot_takes-abca86621901",
+      "rss_guid": "tag:audioboom.com,2023-10-19:/posts/8386793",
+      "published_date": "2023-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6623.0
+    },
+    {
+      "episode_id": "two_hot_takes-a627e03a5459",
+      "rss_guid": "tag:audioboom.com,2023-10-12:/posts/8383272",
+      "published_date": "2023-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5938.0
+    },
+    {
+      "episode_id": "two_hot_takes-a6927acd4e80",
+      "rss_guid": "tag:audioboom.com,2023-10-05:/posts/8378876",
+      "published_date": "2023-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5636.0
+    },
+    {
+      "episode_id": "two_hot_takes-6adbb8176f83",
+      "rss_guid": "tag:audioboom.com,2023-09-28:/posts/8375179",
+      "published_date": "2023-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5678.0
+    },
+    {
+      "episode_id": "two_hot_takes-546c33486cb1",
+      "rss_guid": "tag:audioboom.com,2023-09-20:/posts/8371129",
+      "published_date": "2023-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7521.0
+    },
+    {
+      "episode_id": "two_hot_takes-eb50f13b377c",
+      "rss_guid": "tag:audioboom.com,2023-09-14:/posts/8367048",
+      "published_date": "2023-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7214.0
+    },
+    {
+      "episode_id": "two_hot_takes-a1a13e2c2945",
+      "rss_guid": "tag:audioboom.com,2023-09-07:/posts/8363588",
+      "published_date": "2023-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7770.0
+    },
+    {
+      "episode_id": "two_hot_takes-c7b2c285a1fb",
+      "rss_guid": "tag:audioboom.com,2023-08-31:/posts/8359541",
+      "published_date": "2023-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5862.0
+    },
+    {
+      "episode_id": "two_hot_takes-229f194dd211",
+      "rss_guid": "tag:audioboom.com,2023-08-24:/posts/8355939",
+      "published_date": "2023-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6262.0
+    },
+    {
+      "episode_id": "two_hot_takes-eb2ff8886793",
+      "rss_guid": "tag:audioboom.com,2023-08-17:/posts/8351227",
+      "published_date": "2023-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6496.0
+    },
+    {
+      "episode_id": "two_hot_takes-c777aaf1fd67",
+      "rss_guid": "tag:audioboom.com,2023-08-09:/posts/8347502",
+      "published_date": "2023-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6980.0
+    },
+    {
+      "episode_id": "two_hot_takes-f5ebce064e52",
+      "rss_guid": "tag:audioboom.com,2023-08-03:/posts/8344471",
+      "published_date": "2023-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6177.0
+    },
+    {
+      "episode_id": "two_hot_takes-fb0a260ed4c2",
+      "rss_guid": "tag:audioboom.com,2023-07-27:/posts/8341114",
+      "published_date": "2023-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6673.0
+    },
+    {
+      "episode_id": "two_hot_takes-715d2e4cf758",
+      "rss_guid": "tag:audioboom.com,2023-07-20:/posts/8337638",
+      "published_date": "2023-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5623.0
+    },
+    {
+      "episode_id": "two_hot_takes-0d52ae1734e3",
+      "rss_guid": "tag:audioboom.com,2023-07-13:/posts/8334237",
+      "published_date": "2023-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6554.0
+    },
+    {
+      "episode_id": "two_hot_takes-11a52be19081",
+      "rss_guid": "tag:audioboom.com,2023-07-06:/posts/8329691",
+      "published_date": "2023-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6656.0
+    },
+    {
+      "episode_id": "two_hot_takes-2bf09a73f1a1",
+      "rss_guid": "tag:audioboom.com,2023-06-29:/posts/8325423",
+      "published_date": "2023-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8824.0
+    },
+    {
+      "episode_id": "two_hot_takes-149a45939fad",
+      "rss_guid": "tag:audioboom.com,2023-06-22:/posts/8321838",
+      "published_date": "2023-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5549.0
+    },
+    {
+      "episode_id": "two_hot_takes-069d35539217",
+      "rss_guid": "tag:audioboom.com,2023-06-15:/posts/8317762",
+      "published_date": "2023-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7333.0
+    },
+    {
+      "episode_id": "two_hot_takes-25ed951059f4",
+      "rss_guid": "tag:audioboom.com,2023-06-08:/posts/8314141",
+      "published_date": "2023-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6688.0
+    },
+    {
+      "episode_id": "two_hot_takes-de734d579fe7",
+      "rss_guid": "tag:audioboom.com,2023-06-01:/posts/8310257",
+      "published_date": "2023-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5420.0
+    },
+    {
+      "episode_id": "two_hot_takes-e9b89e9db17b",
+      "rss_guid": "tag:audioboom.com,2023-05-25:/posts/8306890",
+      "published_date": "2023-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6703.0
+    },
+    {
+      "episode_id": "two_hot_takes-204909d0dbb1",
+      "rss_guid": "tag:audioboom.com,2023-05-18:/posts/8302859",
+      "published_date": "2023-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6512.0
+    },
+    {
+      "episode_id": "two_hot_takes-34dc26591fdf",
+      "rss_guid": "tag:audioboom.com,2023-05-11:/posts/8298952",
+      "published_date": "2023-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6351.0
+    },
+    {
+      "episode_id": "two_hot_takes-eecdf03a780d",
+      "rss_guid": "tag:audioboom.com,2023-05-04:/posts/8295153",
+      "published_date": "2023-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6150.0
+    },
+    {
+      "episode_id": "two_hot_takes-5cd4f34ed08f",
+      "rss_guid": "tag:audioboom.com,2023-04-27:/posts/8289143",
+      "published_date": "2023-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7667.0
+    },
+    {
+      "episode_id": "two_hot_takes-1077740a4ffd",
+      "rss_guid": "tag:audioboom.com,2023-04-20:/posts/8284659",
+      "published_date": "2023-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6507.0
+    },
+    {
+      "episode_id": "two_hot_takes-4c2cc5834e1a",
+      "rss_guid": "tag:audioboom.com,2023-04-13:/posts/8280633",
+      "published_date": "2023-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6715.0
+    },
+    {
+      "episode_id": "two_hot_takes-dc2dc21452ad",
+      "rss_guid": "tag:audioboom.com,2023-04-06:/posts/8276501",
+      "published_date": "2023-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6188.0
+    },
+    {
+      "episode_id": "two_hot_takes-4db3aef49782",
+      "rss_guid": "tag:audioboom.com,2023-03-30:/posts/8272531",
+      "published_date": "2023-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6581.0
+    },
+    {
+      "episode_id": "two_hot_takes-37478571ed99",
+      "rss_guid": "tag:audioboom.com,2023-03-23:/posts/8268684",
+      "published_date": "2023-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7836.0
+    },
+    {
+      "episode_id": "two_hot_takes-22f9ea708a0e",
+      "rss_guid": "tag:audioboom.com,2023-03-16:/posts/8264879",
+      "published_date": "2023-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7672.0
+    },
+    {
+      "episode_id": "two_hot_takes-74ac59df1b31",
+      "rss_guid": "tag:audioboom.com,2023-03-09:/posts/8260355",
+      "published_date": "2023-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6165.0
+    },
+    {
+      "episode_id": "two_hot_takes-87e350e450a6",
+      "rss_guid": "tag:audioboom.com,2023-03-02:/posts/8256556",
+      "published_date": "2023-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5895.0
+    },
+    {
+      "episode_id": "two_hot_takes-5512e09c1ee0",
+      "rss_guid": "tag:audioboom.com,2023-02-22:/posts/8251897",
+      "published_date": "2023-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6266.0
+    },
+    {
+      "episode_id": "two_hot_takes-96c29a3cf165",
+      "rss_guid": "tag:audioboom.com,2023-02-16:/posts/8248307",
+      "published_date": "2023-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6061.0
+    },
+    {
+      "episode_id": "two_hot_takes-01f9e469561b",
+      "rss_guid": "tag:audioboom.com,2023-02-09:/posts/8244565",
+      "published_date": "2023-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6632.0
+    },
+    {
+      "episode_id": "two_hot_takes-59c37dd6a0d4",
+      "rss_guid": "tag:audioboom.com,2023-02-02:/posts/8240556",
+      "published_date": "2023-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9099.0
+    },
+    {
+      "episode_id": "two_hot_takes-7761ad95f8d8",
+      "rss_guid": "tag:audioboom.com,2023-01-26:/posts/8236451",
+      "published_date": "2023-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6461.0
+    },
+    {
+      "episode_id": "two_hot_takes-481a8a691e25",
+      "rss_guid": "tag:audioboom.com,2023-01-19:/posts/8232549",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5940.0
+    },
+    {
+      "episode_id": "two_hot_takes-5cd9fe73d7ad",
+      "rss_guid": "tag:audioboom.com,2023-01-12:/posts/8228219",
+      "published_date": "2023-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5842.0
+    },
+    {
+      "episode_id": "two_hot_takes-a85926740cfa",
+      "rss_guid": "tag:audioboom.com,2023-01-04:/posts/8224105",
+      "published_date": "2023-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6172.0
+    },
+    {
+      "episode_id": "two_hot_takes-04577fe20c56",
+      "rss_guid": "tag:audioboom.com,2022-12-22:/posts/8219437",
+      "published_date": "2022-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6200.0
+    },
+    {
+      "episode_id": "two_hot_takes-e3ffbc120d45",
+      "rss_guid": "tag:audioboom.com,2022-12-15:/posts/8215030",
+      "published_date": "2022-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6040.0
+    },
+    {
+      "episode_id": "two_hot_takes-59fe42b8a903",
+      "rss_guid": "tag:audioboom.com,2022-12-08:/posts/8210366",
+      "published_date": "2022-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5826.0
+    },
+    {
+      "episode_id": "two_hot_takes-1673766c770c",
+      "rss_guid": "tag:audioboom.com,2022-12-01:/posts/8205724",
+      "published_date": "2022-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6457.0
+    },
+    {
+      "episode_id": "two_hot_takes-5c1d2c5d3ff0",
+      "rss_guid": "tag:audioboom.com,2022-11-24:/posts/8201876",
+      "published_date": "2022-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7421.0
+    },
+    {
+      "episode_id": "two_hot_takes-cc5b3e88d7c0",
+      "rss_guid": "tag:audioboom.com,2022-11-17:/posts/8198298",
+      "published_date": "2022-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6182.0
+    },
+    {
+      "episode_id": "two_hot_takes-b58c30234f06",
+      "rss_guid": "tag:audioboom.com,2022-11-10:/posts/8194175",
+      "published_date": "2022-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6984.0
+    },
+    {
+      "episode_id": "two_hot_takes-f70e16da9304",
+      "rss_guid": "tag:audioboom.com,2022-11-03:/posts/8187844",
+      "published_date": "2022-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6758.0
+    },
+    {
+      "episode_id": "two_hot_takes-19863d28226e",
+      "rss_guid": "tag:audioboom.com,2022-10-27:/posts/8182730",
+      "published_date": "2022-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8163.0
+    },
+    {
+      "episode_id": "two_hot_takes-9957f4129e9f",
+      "rss_guid": "tag:audioboom.com,2022-10-20:/posts/8177888",
+      "published_date": "2022-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6092.0
+    },
+    {
+      "episode_id": "two_hot_takes-ae9d7b5b5f46",
+      "rss_guid": "tag:audioboom.com,2022-10-13:/posts/8173893",
+      "published_date": "2022-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6962.0
+    },
+    {
+      "episode_id": "two_hot_takes-f42426773555",
+      "rss_guid": "tag:audioboom.com,2022-10-06:/posts/8169961",
+      "published_date": "2022-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6638.0
+    },
+    {
+      "episode_id": "two_hot_takes-ef290e35999a",
+      "rss_guid": "tag:audioboom.com,2022-09-29:/posts/8165731",
+      "published_date": "2022-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6053.0
+    },
+    {
+      "episode_id": "two_hot_takes-8af718794398",
+      "rss_guid": "tag:audioboom.com,2022-09-22:/posts/8161791",
+      "published_date": "2022-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6968.0
+    },
+    {
+      "episode_id": "two_hot_takes-3b8774a5f532",
+      "rss_guid": "tag:audioboom.com,2022-09-15:/posts/8158122",
+      "published_date": "2022-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7047.0
+    },
+    {
+      "episode_id": "two_hot_takes-a0dbf87ab951",
+      "rss_guid": "tag:audioboom.com,2022-09-08:/posts/8153952",
+      "published_date": "2022-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6940.0
+    },
+    {
+      "episode_id": "two_hot_takes-ecc85960e95e",
+      "rss_guid": "tag:audioboom.com,2022-09-01:/posts/8149854",
+      "published_date": "2022-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7008.0
+    },
+    {
+      "episode_id": "two_hot_takes-64a11bcbdd66",
+      "rss_guid": "tag:audioboom.com,2022-08-25:/posts/8145610",
+      "published_date": "2022-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5833.0
+    },
+    {
+      "episode_id": "two_hot_takes-6882eec47e49",
+      "rss_guid": "tag:audioboom.com,2022-08-11:/posts/8136982",
+      "published_date": "2022-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7010.0
+    },
+    {
+      "episode_id": "two_hot_takes-78f3f2e48e9b",
+      "rss_guid": "tag:audioboom.com,2022-08-04:/posts/8132834",
+      "published_date": "2022-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5701.0
+    },
+    {
+      "episode_id": "two_hot_takes-7469c4771421",
+      "rss_guid": "tag:audioboom.com,2022-07-28:/posts/8128801",
+      "published_date": "2022-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6749.0
+    },
+    {
+      "episode_id": "two_hot_takes-0b78364246dd",
+      "rss_guid": "tag:audioboom.com,2022-07-21:/posts/8124673",
+      "published_date": "2022-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7305.0
+    },
+    {
+      "episode_id": "two_hot_takes-5209e7bfbc16",
+      "rss_guid": "tag:audioboom.com,2022-07-14:/posts/8120474",
+      "published_date": "2022-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6088.0
+    },
+    {
+      "episode_id": "two_hot_takes-3f253fe49c5f",
+      "rss_guid": "tag:audioboom.com,2022-07-07:/posts/8116430",
+      "published_date": "2022-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5800.0
+    },
+    {
+      "episode_id": "two_hot_takes-4cd35a439f69",
+      "rss_guid": "tag:audioboom.com,2022-06-30:/posts/8112154",
+      "published_date": "2022-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6235.0
+    },
+    {
+      "episode_id": "two_hot_takes-3ae529f99790",
+      "rss_guid": "tag:audioboom.com,2022-06-23:/posts/8108148",
+      "published_date": "2022-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5174.0
+    },
+    {
+      "episode_id": "two_hot_takes-f4c609455545",
+      "rss_guid": "tag:audioboom.com,2022-06-16:/posts/8103363",
+      "published_date": "2022-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6995.0
+    },
+    {
+      "episode_id": "two_hot_takes-f5897948c7b9",
+      "rss_guid": "tag:audioboom.com,2022-06-09:/posts/8097947",
+      "published_date": "2022-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6748.0
+    },
+    {
+      "episode_id": "two_hot_takes-a99cc98e834c",
+      "rss_guid": "tag:audioboom.com,2022-06-02:/posts/8094321",
+      "published_date": "2022-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5779.0
+    },
+    {
+      "episode_id": "two_hot_takes-abd67425be91",
+      "rss_guid": "tag:audioboom.com,2022-05-26:/posts/8090261",
+      "published_date": "2022-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6437.0
+    },
+    {
+      "episode_id": "two_hot_takes-306a044f0d57",
+      "rss_guid": "tag:audioboom.com,2022-05-19:/posts/8086447",
+      "published_date": "2022-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5563.0
+    },
+    {
+      "episode_id": "two_hot_takes-234afe4acda7",
+      "rss_guid": "tag:audioboom.com,2022-05-12:/posts/8082224",
+      "published_date": "2022-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5155.0
+    },
+    {
+      "episode_id": "two_hot_takes-5f2e4bba5e88",
+      "rss_guid": "tag:audioboom.com,2022-05-05:/posts/8078252",
+      "published_date": "2022-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5104.0
+    },
+    {
+      "episode_id": "two_hot_takes-d107467ad67b",
+      "rss_guid": "tag:audioboom.com,2022-04-28:/posts/8074221",
+      "published_date": "2022-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5759.0
+    },
+    {
+      "episode_id": "two_hot_takes-4ab2e7add181",
+      "rss_guid": "tag:audioboom.com,2022-04-21:/posts/8070362",
+      "published_date": "2022-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6502.0
+    },
+    {
+      "episode_id": "two_hot_takes-a6febbeb1725",
+      "rss_guid": "tag:audioboom.com,2022-04-14:/posts/8066890",
+      "published_date": "2022-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5141.0
+    },
+    {
+      "episode_id": "two_hot_takes-83191a232951",
+      "rss_guid": "tag:audioboom.com,2022-04-07:/posts/8062591",
+      "published_date": "2022-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5281.0
+    },
+    {
+      "episode_id": "two_hot_takes-bb5b686a6b22",
+      "rss_guid": "tag:audioboom.com,2022-03-31:/posts/8057500",
+      "published_date": "2022-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5446.0
+    },
+    {
+      "episode_id": "two_hot_takes-d3dfff970dfe",
+      "rss_guid": "tag:audioboom.com,2022-03-24:/posts/8053700",
+      "published_date": "2022-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5457.0
+    },
+    {
+      "episode_id": "two_hot_takes-641f9102b28d",
+      "rss_guid": "tag:audioboom.com,2022-03-17:/posts/8049000",
+      "published_date": "2022-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5119.0
+    },
+    {
+      "episode_id": "two_hot_takes-c831d7cc1642",
+      "rss_guid": "tag:audioboom.com,2022-03-10:/posts/8044976",
+      "published_date": "2022-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5353.0
+    },
+    {
+      "episode_id": "two_hot_takes-5dbaff055b8d",
+      "rss_guid": "tag:audioboom.com,2022-02-24:/posts/8037181",
+      "published_date": "2022-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4061.0
+    },
+    {
+      "episode_id": "two_hot_takes-65aa0adfc34b",
+      "rss_guid": "tag:audioboom.com,2022-02-17:/posts/8033199",
+      "published_date": "2022-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5138.0
+    },
+    {
+      "episode_id": "two_hot_takes-989f5c669889",
+      "rss_guid": "tag:audioboom.com,2022-02-10:/posts/8028873",
+      "published_date": "2022-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6692.0
+    },
+    {
+      "episode_id": "two_hot_takes-cb1ee023007f",
+      "rss_guid": "tag:audioboom.com,2022-02-03:/posts/8024173",
+      "published_date": "2022-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5294.0
+    },
+    {
+      "episode_id": "two_hot_takes-e5826ce43c67",
+      "rss_guid": "tag:audioboom.com,2022-01-27:/posts/8020066",
+      "published_date": "2022-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5281.0
+    },
+    {
+      "episode_id": "two_hot_takes-77ddce185fa5",
+      "rss_guid": "tag:audioboom.com,2022-01-20:/posts/8015981",
+      "published_date": "2022-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4333.0
+    },
+    {
+      "episode_id": "two_hot_takes-b343695ac5af",
+      "rss_guid": "tag:audioboom.com,2022-01-13:/posts/8012171",
+      "published_date": "2022-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5279.0
+    },
+    {
+      "episode_id": "two_hot_takes-d443a53bfde6",
+      "rss_guid": "tag:audioboom.com,2022-01-05:/posts/8008045",
+      "published_date": "2022-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5799.0
+    },
+    {
+      "episode_id": "two_hot_takes-e67d83617547",
+      "rss_guid": "tag:audioboom.com,2021-12-30:/posts/8005313",
+      "published_date": "2021-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4357.0
+    },
+    {
+      "episode_id": "two_hot_takes-56725ef1fe75",
+      "rss_guid": "tag:audioboom.com,2021-12-16:/posts/7998077",
+      "published_date": "2021-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6237.0
+    },
+    {
+      "episode_id": "two_hot_takes-c3ef75be2255",
+      "rss_guid": "tag:audioboom.com,2021-12-09:/posts/7994028",
+      "published_date": "2021-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5195.0
+    },
+    {
+      "episode_id": "two_hot_takes-09758a3d2177",
+      "rss_guid": "tag:audioboom.com,2021-12-02:/posts/7989725",
+      "published_date": "2021-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5785.0
+    },
+    {
+      "episode_id": "two_hot_takes-72353fa1e3f0",
+      "rss_guid": "tag:audioboom.com,2021-11-25:/posts/7986158",
+      "published_date": "2021-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5622.0
+    },
+    {
+      "episode_id": "two_hot_takes-28847a74e70e",
+      "rss_guid": "tag:audioboom.com,2021-11-11:/posts/7977810",
+      "published_date": "2021-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4675.0
+    },
+    {
+      "episode_id": "two_hot_takes-57986186f16d",
+      "rss_guid": "90fe1528-3d44-11ec-b7be-d3f32350f4e2",
+      "published_date": "2021-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5738.0
+    },
+    {
+      "episode_id": "two_hot_takes-a12b7ddae13b",
+      "rss_guid": "ae5b7fce-37c3-11ec-82f7-4f549afab361",
+      "published_date": "2021-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4245.0
+    },
+    {
+      "episode_id": "two_hot_takes-e0dd7aa03fda",
+      "rss_guid": "f05cae48-37e1-11ec-9c96-d33507648fa7",
+      "published_date": "2021-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3990.0
+    },
+    {
+      "episode_id": "two_hot_takes-ccb35c4987aa",
+      "rss_guid": "b59cd5d2-3253-11ec-8e16-d7eb83e19ff5",
+      "published_date": "2021-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5366.0
+    },
+    {
+      "episode_id": "two_hot_takes-3fdf8353907b",
+      "rss_guid": "7f3ee1e2-2ca9-11ec-ab53-bf58e90ae1b1",
+      "published_date": "2021-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6313.0
+    },
+    {
+      "episode_id": "two_hot_takes-d67061893e3d",
+      "rss_guid": "8fa125b0-2775-11ec-8276-53699d96bebb",
+      "published_date": "2021-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5460.0
+    }
+  ]
+}

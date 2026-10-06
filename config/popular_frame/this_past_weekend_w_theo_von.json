@@ -1,0 +1,2319 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_this_past_weekend_w_theo_von_20261002T193807Z",
+  "show_id": "this_past_weekend_w_theo_von",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/thispastweekend",
+    "snapshot_relative_path": "data/raw/rss/this_past_weekend_w_theo_von/this_past_weekend_w_theo_von_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "0ae7aed3d97078180ecd2ea285507bf0c6c01db044c5e8fbc72ce33488d719af",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "this_past_weekend_w_theo_von-17c0a1fde8ef",
+      "rss_guid": "45aad538-bd06-11f1-8939-07bcb3c9b65d",
+      "published_date": "2026-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7663.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a518a4485c82",
+      "rss_guid": "9b73ee3e-b89f-11f1-93dc-47b81452bc30",
+      "published_date": "2026-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7284.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-20bfd75d8451",
+      "rss_guid": "06e64238-b45f-11f1-a09d-af41557ddf6b",
+      "published_date": "2026-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4416.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4fafddeb61ba",
+      "rss_guid": "559ee446-b173-11f1-a259-d7e2802e9afc",
+      "published_date": "2026-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8374.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-69b150cb1971",
+      "rss_guid": "8bc9001c-ace9-11f1-8456-cf79c5ae6c4e",
+      "published_date": "2026-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6758.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-506a57b1f33c",
+      "rss_guid": "05c0e67c-aba6-11f1-83fb-43f0ad9a1cdd",
+      "published_date": "2026-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8464.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e8b9a87b5198",
+      "rss_guid": "b9872600-a645-11f1-9beb-bf0f1220ae69",
+      "published_date": "2026-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 9009.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-68060de8f32b",
+      "rss_guid": "38836e50-a5f1-11f1-ae82-1fec21900c06",
+      "published_date": "2026-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7513.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e1aa4973a75c",
+      "rss_guid": "02afc47a-a247-11f1-9ebf-ab411a102f28",
+      "published_date": "2026-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9006.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6bb98828ade0",
+      "rss_guid": "9f115dec-a053-11f1-b1ab-e32e141bb6a5",
+      "published_date": "2026-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5860.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6351be5c4057",
+      "rss_guid": "91549126-9c28-11f1-ad44-d3074c360769",
+      "published_date": "2026-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10464.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-184307747430",
+      "rss_guid": "1a1c7660-9759-11f1-8897-e7d5e54438ca",
+      "published_date": "2026-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6553.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-fa0e9232bb81",
+      "rss_guid": "f983c102-94a5-11f1-b440-af792b32a595",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 13856.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e853191847bc",
+      "rss_guid": "f07d8ad0-912a-11f1-b568-f35f75e26a4f",
+      "published_date": "2026-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7934.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-221c233a88ba",
+      "rss_guid": "b8c603b6-8a49-11f1-b400-97190af30e28",
+      "published_date": "2026-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7458.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-00cb6d35fd7d",
+      "rss_guid": "6f0735fa-8671-11f1-9aed-0f465f72c058",
+      "published_date": "2026-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6305.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9211bb1d58e9",
+      "rss_guid": "744f1520-8309-11f1-bed7-778a9953d08a",
+      "published_date": "2026-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6117.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4dc5cfc62b07",
+      "rss_guid": "0875cb20-800f-11f1-aa8a-2bb4a6c84b29",
+      "published_date": "2026-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6568.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-3e5280c125a2",
+      "rss_guid": "7169b7ea-7cc7-11f1-8799-5bc18b07776f",
+      "published_date": "2026-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5553.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b5d69bfec901",
+      "rss_guid": "67286648-7aae-11f1-b523-bf9895790604",
+      "published_date": "2026-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8005.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-28600df623a2",
+      "rss_guid": "0754c2cc-7502-11f1-8b62-d37d26a3ad37",
+      "published_date": "2026-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7731.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-714043d9c450",
+      "rss_guid": "4d5179a4-70f8-11f1-905f-2f156c969657",
+      "published_date": "2026-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6496.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-efa340fed122",
+      "rss_guid": "c2fcb026-6dc7-11f1-9e2f-2b7ada9e856f",
+      "published_date": "2026-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3891.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-eca72b221a3c",
+      "rss_guid": "bc541ca4-6bf7-11f1-9eb8-f7141782c6e9",
+      "published_date": "2026-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8524.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-89aa28b7972a",
+      "rss_guid": "42bc1c48-64ae-11f1-9e26-17e94e5db3f7",
+      "published_date": "2026-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6881.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7727bdfa32c4",
+      "rss_guid": "143dd120-6091-11f1-8b01-3f7cb03e3e99",
+      "published_date": "2026-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8462.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a729617dd2c4",
+      "rss_guid": "b67922ce-59b0-11f1-996f-3b988a0246b1",
+      "published_date": "2026-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7254.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-35112896997d",
+      "rss_guid": "c10873fa-55a7-11f1-86f9-07b8243a2c08",
+      "published_date": "2026-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6874.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-413db8d55f73",
+      "rss_guid": "3a44bb84-502b-11f1-b1e1-433fe7815961",
+      "published_date": "2026-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5834.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-da33c484d44f",
+      "rss_guid": "e1ae92d8-49ef-11f1-aeff-4797c9c462cf",
+      "published_date": "2026-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6925.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-10a033092048",
+      "rss_guid": "d5711b9a-445d-11f1-89c9-ef392d477743",
+      "published_date": "2026-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7849.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-66dfefe8e4b1",
+      "rss_guid": "03cd3236-4273-11f1-ae1f-d3ebbdfbc1fd",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7914.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1c83263e2074",
+      "rss_guid": "39adee80-3ce8-11f1-9aab-e7188f6d6695",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4153.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7fa3bb23902c",
+      "rss_guid": "cf594604-391f-11f1-8fd1-7f502606f29c",
+      "published_date": "2026-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4918.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4616eb2a6227",
+      "rss_guid": "bba1da68-34ab-11f1-a29b-57e60a2c6b56",
+      "published_date": "2026-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6305.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-935777f3fbd5",
+      "rss_guid": "58db311c-3263-11f1-9c85-6f53b2c8b115",
+      "published_date": "2026-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6694.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-63e537a46032",
+      "rss_guid": "14cb3f5a-30a9-11f1-9381-dfd1ebae0202",
+      "published_date": "2026-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7686.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1313310e3b03",
+      "rss_guid": "82562a92-2cd2-11f1-ab3f-2f8e6fc2d797",
+      "published_date": "2026-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6394.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c5ecd7148996",
+      "rss_guid": "6ef22528-275f-11f1-939a-5fee53719693",
+      "published_date": "2026-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6199.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a859cc710137",
+      "rss_guid": "7c6ed76c-2351-11f1-87af-f779ba12a5a3",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8392.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-85ab6919df74",
+      "rss_guid": "6242d882-1fde-11f1-9327-276aa917113f",
+      "published_date": "2026-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4531.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2ba46f30a316",
+      "rss_guid": "78f1663e-1d04-11f1-96ec-c3e66cce702c",
+      "published_date": "2026-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5745.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1f2dcc9147d7",
+      "rss_guid": "f282c730-1878-11f1-b173-dbb8b32ed611",
+      "published_date": "2026-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8566.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f7bc5ee98ff4",
+      "rss_guid": "a30a84f0-171e-11f1-934f-0740e87219d2",
+      "published_date": "2026-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5379.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-68c12009b872",
+      "rss_guid": "7e14eafa-12e1-11f1-95b6-4fa3f310ac33",
+      "published_date": "2026-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6975.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c543e324367e",
+      "rss_guid": "f828c4dc-0e41-11f1-8bae-bfb1c671b039",
+      "published_date": "2026-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6083.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-d7fd4c50e9a3",
+      "rss_guid": "bbbab746-0bfb-11f1-922f-abc34fb4c97f",
+      "published_date": "2026-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6033.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-cffa5436cd59",
+      "rss_guid": "28843888-0801-11f1-a9b1-f7bc2f7d5e65",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4459.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e46ee80eae6d",
+      "rss_guid": "6fa913aa-054f-11f1-9d1d-9f188974f630",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5509.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-75adf24b2b52",
+      "rss_guid": "be099f38-0158-11f1-a510-eb1faef4233f",
+      "published_date": "2026-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7719.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a2e00e14b998",
+      "rss_guid": "455fb312-fa8f-11f0-8859-0751df64fb43",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5213.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5688fa6680a0",
+      "rss_guid": "651cbf34-f6e2-11f0-8775-d3a20893ef95",
+      "published_date": "2026-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4784.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2bb320c7c4c7",
+      "rss_guid": "9279a0c8-f2dc-11f0-bceb-a3450ad9a737",
+      "published_date": "2026-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7956.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5fab88614363",
+      "rss_guid": "b0bf1c6c-efe8-11f0-b9a8-a76713051e39",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6919.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ac2d81833e1f",
+      "rss_guid": "19b981cc-eb10-11f0-b61d-e7f3e798a58a",
+      "published_date": "2026-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 11442.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2831a82d082c",
+      "rss_guid": "c669b5b4-e5d3-11f0-9f14-d3a44973da9b",
+      "published_date": "2025-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6357.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-d47fb6947c39",
+      "rss_guid": "98fc328c-e097-11f0-b5b9-3f0d7748868f",
+      "published_date": "2025-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3876.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a08aa4435286",
+      "rss_guid": "685029b2-df8f-11f0-a745-332d1c6c497a",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 9261.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-118cb86cb1d7",
+      "rss_guid": "bf9eb778-dbb2-11f0-b0d4-fb62ac417c77",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3809.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1e1bb18aa564",
+      "rss_guid": "52855108-d575-11f0-ad75-67d457366996",
+      "published_date": "2025-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 9705.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a7c5bce9b2cc",
+      "rss_guid": "0c64c3ba-cff4-11f0-aa2a-07c9810ac26a",
+      "published_date": "2025-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7246.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-19e843336a21",
+      "rss_guid": "2c2d364a-cbdb-11f0-be6f-9f50b0e9d51c",
+      "published_date": "2025-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3997.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-0c9ed4c860ff",
+      "rss_guid": "05f79cca-cb1f-11f0-b161-2b4bd585cacf",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4331.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-0aa0f19bbfab",
+      "rss_guid": "5a7d798a-c5a8-11f0-88d8-9fddd70a17b3",
+      "published_date": "2025-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5753.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ce7b7cf07890",
+      "rss_guid": "6d787e16-c0cd-11f0-94df-cf7a91523095",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6576.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c1905bd6da90",
+      "rss_guid": "b09200dc-bea7-11f0-a6bb-9f6c8c555388",
+      "published_date": "2025-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6041.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-051b589f3993",
+      "rss_guid": "96255428-b9d0-11f0-b1d6-e776c5f0aae3",
+      "published_date": "2025-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6354.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b87d6874e651",
+      "rss_guid": "e3c29eae-b532-11f0-befe-03ebc1e7aca8",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7767.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-21014599ceb5",
+      "rss_guid": "3455e410-b1fb-11f0-8f3a-c736f1a943a3",
+      "published_date": "2025-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5295.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6ae6ac742fbb",
+      "rss_guid": "27b0df30-aee0-11f0-8416-37cf134f546f",
+      "published_date": "2025-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4864.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-876aba29d554",
+      "rss_guid": "940cbd2a-aafd-11f0-8171-3be26485cb69",
+      "published_date": "2025-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5330.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-dbbad1da4bef",
+      "rss_guid": "fc4e7742-a95f-11f0-b5e4-3fd8bcfca3a0",
+      "published_date": "2025-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6378.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8c7b74fa882f",
+      "rss_guid": "0dbd461e-a4cb-11f0-b5a4-ab7f1a3751b8",
+      "published_date": "2025-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6942.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a61577ff6275",
+      "rss_guid": "5d399c0a-a3af-11f0-b27d-977ccd1bb97b",
+      "published_date": "2025-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6730.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a8521fe2ec2f",
+      "rss_guid": "0df46da6-9f71-11f0-beb8-b342cddb5488",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3332.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9ec177799d83",
+      "rss_guid": "38ef1c98-9b81-11f0-82d2-5310e3439462",
+      "published_date": "2025-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6742.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-fdc3b5281a64",
+      "rss_guid": "8043f426-98c3-11f0-a00d-23475603c1ad",
+      "published_date": "2025-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5217.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-66c127947403",
+      "rss_guid": "b2abff0e-9502-11f0-bb17-336aeb3c5013",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8757.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7146f5e2bd16",
+      "rss_guid": "414409d8-91dd-11f0-b21a-ffd577b6312f",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6879.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f71a10b4b3b9",
+      "rss_guid": "8a73b8fc-8df9-11f0-b586-374353b6bb1c",
+      "published_date": "2025-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5415.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-805c630bb13c",
+      "rss_guid": "4263cdb0-8a8c-11f0-a448-bfd6471802a8",
+      "published_date": "2025-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7868.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9c49f49be522",
+      "rss_guid": "4deec02e-88a0-11f0-92be-07e6659514cc",
+      "published_date": "2025-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5733.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ccbf2d2cc658",
+      "rss_guid": "d744479e-83e2-11f0-b7b4-a70f26260b1f",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5835.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-674dfcb1a094",
+      "rss_guid": "6a136732-8085-11f0-b07f-1f188d3bc8e7",
+      "published_date": "2025-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4055.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4bb604bbdb6d",
+      "rss_guid": "1bdc2ca8-7d7d-11f0-b942-574560b0c2a5",
+      "published_date": "2025-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6813.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4d3741af1656",
+      "rss_guid": "52f2a94a-7a50-11f0-863e-97e4748c8384",
+      "published_date": "2025-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6652.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-fa3dfbe48816",
+      "rss_guid": "3fcfca8e-7729-11f0-8c6b-578803cda0a9",
+      "published_date": "2025-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6123.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-badb1d11dcca",
+      "rss_guid": "84fba368-7345-11f0-a8db-07c01f09e8d7",
+      "published_date": "2025-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7356.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-91c9d349f740",
+      "rss_guid": "12e52dfc-71de-11f0-b40d-bbecd842aac3",
+      "published_date": "2025-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4001.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-44b9abf31858",
+      "rss_guid": "9e6c8a0c-67a5-11f0-bf68-bbf25f1722de",
+      "published_date": "2025-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5706.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-349c5a24e405",
+      "rss_guid": "be6a809e-63a3-11f0-8498-3b0ffefcd03b",
+      "published_date": "2025-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5463.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b105833c42b9",
+      "rss_guid": "a41b55a0-612e-11f0-94f5-8f67af828c8d",
+      "published_date": "2025-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5779.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-38add689602b",
+      "rss_guid": "a7875432-5eb3-11f0-a253-47a623206d02",
+      "published_date": "2025-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7216.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4eeea85ed44b",
+      "rss_guid": "8a4da64a-5bb7-11f0-bb1b-1b4c6f9ad5a0",
+      "published_date": "2025-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8167.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1618f15bcb39",
+      "rss_guid": "ee0035c6-5811-11f0-b165-afb348ebe095",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8529.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c8c71d28d35b",
+      "rss_guid": "db588a2a-5656-11f0-b37a-63b04d1c3ee7",
+      "published_date": "2025-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6717.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-bf396e20aa03",
+      "rss_guid": "3244a916-50a5-11f0-b019-470a1048417a",
+      "published_date": "2025-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7530.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8131ccdb1489",
+      "rss_guid": "84797296-4d96-11f0-a679-d7b27cb89794",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6955.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-904fd5fffedb",
+      "rss_guid": "f8b64d94-4c67-11f0-af7b-cf4920bc1715",
+      "published_date": "2025-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4385.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6a56d2621d7a",
+      "rss_guid": "867e8c3e-48f5-11f0-9697-f37f26cccccb",
+      "published_date": "2025-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9308.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-bf5556ef9612",
+      "rss_guid": "e48cbba4-4335-11f0-8899-775fd0c3c603",
+      "published_date": "2025-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5179.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-40d0c1a6af0c",
+      "rss_guid": "245828c0-41da-11f0-8fde-2fa2fab8f827",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6262.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a3c9ed32dfaa",
+      "rss_guid": "8a58784e-404c-11f0-bc69-033126f8d0ba",
+      "published_date": "2025-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6449.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-806938850683",
+      "rss_guid": "75990b4c-3adb-11f0-b7f6-434872f9c310",
+      "published_date": "2025-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8413.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-468f3fa599e3",
+      "rss_guid": "23b49622-37a5-11f0-b48a-0fcbbe582fff",
+      "published_date": "2025-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 9277.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-897870ac80c5",
+      "rss_guid": "478f4cb2-3558-11f0-9632-17df0d4d221f",
+      "published_date": "2025-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6690.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1a696ccc2c6a",
+      "rss_guid": "3cf67f66-3029-11f0-b356-53ed6fcebeb3",
+      "published_date": "2025-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6197.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-20ee40f786e8",
+      "rss_guid": "d772ba54-2d7d-11f0-9bae-67249cc6bce3",
+      "published_date": "2025-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3252.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b33a99e3e06e",
+      "rss_guid": "cc96a810-2a0e-11f0-b4e8-ef44e4209fd7",
+      "published_date": "2025-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4685.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b8af07874552",
+      "rss_guid": "a8c1613a-241b-11f0-b720-5b016f0bc1ff",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6008.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-70dcaabd36ab",
+      "rss_guid": "b58fb952-209c-11f0-90d1-4f19043072f3",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4864.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f53415dccc6f",
+      "rss_guid": "11173ab0-1f31-11f0-9feb-df34041c86ba",
+      "published_date": "2025-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7139.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e837c151361e",
+      "rss_guid": "4b3b6ed0-1b5a-11f0-8ec3-2b8fd74761da",
+      "published_date": "2025-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6826.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-3809435a47e1",
+      "rss_guid": "197e45e0-1a5e-11f0-8ae2-ab0313dd6ffd",
+      "published_date": "2025-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4983.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-674db48b4718",
+      "rss_guid": "06bd4c40-1418-11f0-ae09-3f9f55a1d07a",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6518.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5448bd7398d1",
+      "rss_guid": "5c7eb05a-0f91-11f0-8a8e-db7657b9d8b8",
+      "published_date": "2025-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4352.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e5dd35813f26",
+      "rss_guid": "be8495dc-0ebd-11f0-bbda-db637792a1b9",
+      "published_date": "2025-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4953.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-856992cfcdc9",
+      "rss_guid": "5168fee8-0b61-11f0-9d89-d7fcf443936c",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7359.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-78233c81840d",
+      "rss_guid": "12fdccec-0931-11f0-9848-7fed58026f17",
+      "published_date": "2025-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4736.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f06d181e1a4f",
+      "rss_guid": "6e7a0ef8-0479-11f0-a3f6-1fa10f7a0a7f",
+      "published_date": "2025-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8208.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-99d335a212cc",
+      "rss_guid": "e383b9f8-fe4b-11ef-9b30-3b67a4c73a70",
+      "published_date": "2025-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5386.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-cfd5535bf854",
+      "rss_guid": "7d234732-fae5-11ef-90de-8faba1c83609",
+      "published_date": "2025-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7563.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-81b948169e67",
+      "rss_guid": "bca5cb68-f99c-11ef-bb9e-8b5c2401ee6a",
+      "published_date": "2025-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7698.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6612dbc1d7df",
+      "rss_guid": "45789f20-f35c-11ef-ab08-0f6a624406e7",
+      "published_date": "2025-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7436.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ac726a807d9f",
+      "rss_guid": "2e9813b0-ef62-11ef-8653-77c81b5f532e",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6898.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-184201568b99",
+      "rss_guid": "cfe1947a-ede2-11ef-9538-8f33c5d49781",
+      "published_date": "2025-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7763.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-90839f773ca9",
+      "rss_guid": "338d23a6-ead5-11ef-a645-534c173ae245",
+      "published_date": "2025-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7425.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-361f05227008",
+      "rss_guid": "27534694-e911-11ef-8111-333165240931",
+      "published_date": "2025-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7394.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6b054a5e5cf3",
+      "rss_guid": "2b6c7df8-e534-11ef-b952-576f5ed21698",
+      "published_date": "2025-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7356.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e5a372490af6",
+      "rss_guid": "6a99c636-e271-11ef-9073-cf9cd5b55700",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6964.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ef16bcdd2fd7",
+      "rss_guid": "4f90a654-dd8d-11ef-bfa4-67ef3a19bd91",
+      "published_date": "2025-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 9393.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b2093c7c7e7e",
+      "rss_guid": "2d396012-da33-11ef-a576-2754adbb3708",
+      "published_date": "2025-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4808.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-75782853b240",
+      "rss_guid": "241b8e04-d8b4-11ef-9181-1f024e1712e0",
+      "published_date": "2025-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6825.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-63802d341f5b",
+      "rss_guid": "445a5d0e-d3d6-11ef-8a65-6bf92651c64c",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 11616.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6101ffc03ca5",
+      "rss_guid": "1fc4eb3c-d000-11ef-9582-1f55a5d4bd02",
+      "published_date": "2025-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7217.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5a65559bb357",
+      "rss_guid": "46a17b64-cc7a-11ef-82e7-ef446e8b7a32",
+      "published_date": "2025-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6306.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9cc5c84a0972",
+      "rss_guid": "946f57be-c674-11ef-a1d0-6f916baf1ec2",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3672.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1ca117055a15",
+      "rss_guid": "bd36b8dc-c10f-11ef-a9bd-43cbd55b563d",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5105.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ac8ef1d6f637",
+      "rss_guid": "a79e9d9c-bb78-11ef-82ea-c374f4a96963",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5299.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-635aac8e83cd",
+      "rss_guid": "6bff41f4-b869-11ef-9fba-afa154c8fd77",
+      "published_date": "2024-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5386.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2bd525010b67",
+      "rss_guid": "384eaa9a-b6c3-11ef-b200-3737d1d649f6",
+      "published_date": "2024-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5388.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-db222ec1c220",
+      "rss_guid": "fd5a61f2-b10b-11ef-9d62-4377e2e71811",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7466.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9c3e0ffa409e",
+      "rss_guid": "55cc2f74-ac92-11ef-879f-33eaca3e7a2a",
+      "published_date": "2024-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6128.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-baaa03ddb547",
+      "rss_guid": "f99159de-ab59-11ef-9143-6fbc1fe67c37",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5418.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ca26ca9187ab",
+      "rss_guid": "504af2e4-a592-11ef-b218-33867f1b268f",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8211.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ea92c54e9c11",
+      "rss_guid": "13fbcc9a-9fee-11ef-a92f-171b7442e293",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7495.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-77fee6fb88af",
+      "rss_guid": "c400986a-9d6d-11ef-8b81-8790b6bd7f43",
+      "published_date": "2024-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8338.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b4430a8de7f6",
+      "rss_guid": "ddde0cde-9adb-11ef-8d8f-4b918226ea72",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9401.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-51fd590f4949",
+      "rss_guid": "e7db285e-9674-11ef-a2fe-53d98fe0d509",
+      "published_date": "2024-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4324.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-908a66cde2cf",
+      "rss_guid": "a7cb36d6-9008-11ef-ab94-63c22fb3af9f",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7317.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8f7dafd08e30",
+      "rss_guid": "0a655abe-8c4a-11ef-b0da-3bfc4a97b84e",
+      "published_date": "2024-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8476.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2b87dadc0846",
+      "rss_guid": "6ac76c0c-8ab1-11ef-8c1e-9f4817419bea",
+      "published_date": "2024-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8243.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8795acfb474e",
+      "rss_guid": "acbdcd7c-86ce-11ef-bd52-1b2f251576ec",
+      "published_date": "2024-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5084.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f145087d0dfb",
+      "rss_guid": "54af0f84-8470-11ef-a942-5f8e454a7d1f",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7678.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7a19bcda7e75",
+      "rss_guid": "d8394406-814a-11ef-aebb-8b2d02dbf43c",
+      "published_date": "2024-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7088.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-49d807347366",
+      "rss_guid": "6a063262-7fcb-11ef-a34d-a33fd0911e6b",
+      "published_date": "2024-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5970.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-3f599454f789",
+      "rss_guid": "56878d40-7b01-11ef-a8e5-e755d9a352f4",
+      "published_date": "2024-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7351.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1ed719df2243",
+      "rss_guid": "b1fb1106-7624-11ef-8a16-9b2daea9dcca",
+      "published_date": "2024-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6512.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-bdb3377d4e82",
+      "rss_guid": "792d75c8-74ab-11ef-90b3-0b5ded913c5e",
+      "published_date": "2024-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 9160.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-09d10f0f19c0",
+      "rss_guid": "a2eabde4-6f47-11ef-a2f0-234842fdedc3",
+      "published_date": "2024-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6093.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f17f957b1322",
+      "rss_guid": "bd7e63f2-6a8a-11ef-a441-5b65680ae067",
+      "published_date": "2024-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7714.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-116cf81804ab",
+      "rss_guid": "ef74b15a-6598-11ef-a65e-83554c3ff72c",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5743.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a2b9413eb92c",
+      "rss_guid": "9702bd3a-6432-11ef-9f7b-734e2c98c3c2",
+      "published_date": "2024-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5136.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7e6fdf79aa87",
+      "rss_guid": "ddb1acdc-5f28-11ef-b061-6bf65c3f1bb5",
+      "published_date": "2024-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3483.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a9141b9e2b5d",
+      "rss_guid": "53357864-5b85-11ef-8338-6f2a7080a761",
+      "published_date": "2024-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5858.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-84d711fbea6b",
+      "rss_guid": "1eed45f4-5942-11ef-b4dc-9b215ea6d7ce",
+      "published_date": "2024-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3853.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-355ee01807bc",
+      "rss_guid": "c5882568-55ec-11ef-8b68-17b2f7288466",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6518.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c29ef574c62e",
+      "rss_guid": "b90079ac-53b3-11ef-8b7c-332e90c2f65a",
+      "published_date": "2024-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7377.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-86048b34e400",
+      "rss_guid": "1d68cc40-4ec9-11ef-997b-b349e3bcebbf",
+      "published_date": "2024-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6924.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e7ee84d05e60",
+      "rss_guid": "77e398c8-4ec7-11ef-81a6-6339dd173688",
+      "published_date": "2024-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5802.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-d706702f807c",
+      "rss_guid": "d2c9f498-4a31-11ef-a39f-a30617914dd6",
+      "published_date": "2024-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6685.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-536f7f87a8c8",
+      "rss_guid": "95aad33e-48ba-11ef-a92e-9b26ec5ab16e",
+      "published_date": "2024-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6063.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1e06950d8075",
+      "rss_guid": "2264da16-439a-11ef-bad3-abd74e72cfa4",
+      "published_date": "2024-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7326.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-3e0401a26c56",
+      "rss_guid": "8f38be12-3f96-11ef-bf27-43cc549c8c78",
+      "published_date": "2024-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5781.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-3e77b42d7c0b",
+      "rss_guid": "94a7aa22-3e59-11ef-8ea2-1bb24dcae3f5",
+      "published_date": "2024-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6396.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-86100bfe4a0f",
+      "rss_guid": "9b87e44c-3837-11ef-92cf-6b08e802a428",
+      "published_date": "2024-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5697.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-509227332f02",
+      "rss_guid": "1caf3cee-34d4-11ef-8027-a36c62624f12",
+      "published_date": "2024-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8683.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9dbd98e015ae",
+      "rss_guid": "7880fc96-32aa-11ef-ae7c-3f9cf234ec1a",
+      "published_date": "2024-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5970.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7ae867a67b27",
+      "rss_guid": "befe1088-2c78-11ef-938f-ab37ea443891",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7555.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-384771919127",
+      "rss_guid": "50273cd2-28e7-11ef-8309-33756c63d295",
+      "published_date": "2024-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8178.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-88a20c930439",
+      "rss_guid": "47c4ff26-2788-11ef-86e3-a3fa1c432703",
+      "published_date": "2024-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8028.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-662fb127d010",
+      "rss_guid": "904251b6-2235-11ef-bc4c-dbeb945f5894",
+      "published_date": "2024-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7747.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-85d86bb6489c",
+      "rss_guid": "3dfc00d4-1eb4-11ef-8e04-57e8ddbc58e4",
+      "published_date": "2024-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6789.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1b5320583a18",
+      "rss_guid": "8097721e-1d08-11ef-b7df-83729df188a7",
+      "published_date": "2024-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 9761.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2dd7dbad43d8",
+      "rss_guid": "a28f4302-19b0-11ef-b056-5b1076dc7e01",
+      "published_date": "2024-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4911.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8e4c0a61adfe",
+      "rss_guid": "f27f38e0-16ef-11ef-bacd-4b82cb8bde92",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7341.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9cd3438ea4e9",
+      "rss_guid": "c4e4dfe8-13bb-11ef-9da5-d7b40d7e1466",
+      "published_date": "2024-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7736.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-98cdb30ec00d",
+      "rss_guid": "efd05542-11b4-11ef-9d71-2f7316110054",
+      "published_date": "2024-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7341.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6d80d3b64090",
+      "rss_guid": "b96d6460-0e3d-11ef-bd76-8b24e6a18321",
+      "published_date": "2024-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7587.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-66ccee1bf994",
+      "rss_guid": "7f54043a-0c4b-11ef-8518-4b1c69c3db0e",
+      "published_date": "2024-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 8300.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-914b78c9924d",
+      "rss_guid": "6d20dada-08b4-11ef-9650-8bb10cdc8936",
+      "published_date": "2024-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6166.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-540fa7bc92f7",
+      "rss_guid": "02a5b132-06af-11ef-8121-23371899808a",
+      "published_date": "2024-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6836.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-de08ebce277f",
+      "rss_guid": "a52fcaa2-0135-11ef-a090-5b788b256458",
+      "published_date": "2024-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6373.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6000a211be0e",
+      "rss_guid": "fc974f20-fd54-11ee-b54f-43fd88962cc8",
+      "published_date": "2024-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6985.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-35e94b638ff1",
+      "rss_guid": "af33fbd6-fba9-11ee-b85a-a7282154cccf",
+      "published_date": "2024-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8343.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f984d2d50392",
+      "rss_guid": "ebea0782-f631-11ee-bd2b-f359b9cfadf0",
+      "published_date": "2024-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4638.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ef4596531414",
+      "rss_guid": "31e57172-f2bd-11ee-a675-4f8e48a3cffb",
+      "published_date": "2024-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2598.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f50367783e26",
+      "rss_guid": "8425d450-f0af-11ee-838d-df74aa4f3820",
+      "published_date": "2024-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4600.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-62d8700b88fa",
+      "rss_guid": "629e386e-ecda-11ee-8aff-c3533c358cf3",
+      "published_date": "2024-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6267.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ca66becb8910",
+      "rss_guid": "acaeea32-eb29-11ee-a7e5-0f79a56d02c2",
+      "published_date": "2024-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 8445.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-439d74ceadb2",
+      "rss_guid": "eba59148-e5c8-11ee-8610-c376fa2da911",
+      "published_date": "2024-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5895.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9bde664bc5d4",
+      "rss_guid": "8dede8b6-e1a4-11ee-9ad4-477aeb32c949",
+      "published_date": "2024-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4972.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-373e958720c9",
+      "rss_guid": "dd5f664c-e044-11ee-b99c-1b26ac916dfa",
+      "published_date": "2024-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7553.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b46dda6e2d4e",
+      "rss_guid": "37da5578-da00-11ee-aedb-d73b6a3afe7a",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9528.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7fac8978497e",
+      "rss_guid": "94c1e5e6-d549-11ee-a630-8b3533c45fce",
+      "published_date": "2024-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8007.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f6a43230c75f",
+      "rss_guid": "ada3ad72-d08c-11ee-9362-3b57870a816d",
+      "published_date": "2024-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8874.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-444eb956b7b3",
+      "rss_guid": "76f84de2-cc62-11ee-b3ad-f30773196709",
+      "published_date": "2024-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7655.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2683c2be93da",
+      "rss_guid": "32c33364-cb11-11ee-b962-270dec59c685",
+      "published_date": "2024-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5191.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b5b8cbb26757",
+      "rss_guid": "8ccab4c2-c4b8-11ee-9212-1b57bb250b1d",
+      "published_date": "2024-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8521.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6c2b73ad9eeb",
+      "rss_guid": "07db2210-bf4f-11ee-84ba-cb1f55c9276f",
+      "published_date": "2024-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 8215.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c6f73227e978",
+      "rss_guid": "436de344-b9be-11ee-a919-df2c818ab738",
+      "published_date": "2024-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7713.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-80f900352c1d",
+      "rss_guid": "94c769c4-b45d-11ee-aad6-ebb5ce030b89",
+      "published_date": "2024-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6848.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1516ad3cf43d",
+      "rss_guid": "3d8038d6-ae9e-11ee-8822-9beba4955664",
+      "published_date": "2024-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7672.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-7968d5cdf584",
+      "rss_guid": "cb999176-a8ef-11ee-9905-23a6e3f0f43a",
+      "published_date": "2024-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7227.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4baa55b00ce3",
+      "rss_guid": "b8576208-9f69-11ee-bed1-b7fc183f4cc7",
+      "published_date": "2023-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3623.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-bb45e47c33cb",
+      "rss_guid": "62c3e8ba-98bc-11ee-8830-4fecffd85c69",
+      "published_date": "2023-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7684.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e2cbd6056480",
+      "rss_guid": "bc67c5b6-9331-11ee-a517-e72d4471abf1",
+      "published_date": "2023-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7632.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-d7b4df909acf",
+      "rss_guid": "810cf1e0-8db3-11ee-a1da-d786ceb1d1bf",
+      "published_date": "2023-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 8172.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a8d3b4ab77e5",
+      "rss_guid": "e45a2664-883b-11ee-bd6b-0b56063ef13e",
+      "published_date": "2023-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4988.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4d41d3718dfe",
+      "rss_guid": "3076578c-82b2-11ee-9426-a7e97dccc403",
+      "published_date": "2023-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4537.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-77bfee56b04c",
+      "rss_guid": "d1164ffe-7d57-11ee-a979-87e596519a28",
+      "published_date": "2023-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4955.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-30903bbde162",
+      "rss_guid": "19d16536-77c1-11ee-9512-2b134f41f744",
+      "published_date": "2023-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 9447.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-05a6c3a7ce3a",
+      "rss_guid": "1e1bc2ba-722d-11ee-b05b-33ca91026441",
+      "published_date": "2023-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9873.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a16fce22cdbf",
+      "rss_guid": "3bde8236-6730-11ee-b0a8-734e27927db8",
+      "published_date": "2023-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6500.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2d8888300199",
+      "rss_guid": "e736b548-61ba-11ee-ad94-ff3689d6711a",
+      "published_date": "2023-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5326.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-154993a9726a",
+      "rss_guid": "0b5d2960-5b77-11ee-95ef-4b082c7bac94",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7258.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f23f91c8ddac",
+      "rss_guid": "9106d2e2-56df-11ee-b0fe-9f583d90d43c",
+      "published_date": "2023-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7780.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c52f3fb4a19a",
+      "rss_guid": "2ae74494-5133-11ee-a807-23fe9855e5b1",
+      "published_date": "2023-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 12831.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-95af6a133a1d",
+      "rss_guid": "f31d44d8-4c8b-11ee-b595-2b7e281d9b8d",
+      "published_date": "2023-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5740.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-0b433664ffbd",
+      "rss_guid": "d58b7caa-463c-11ee-92da-3f0d9a077d0d",
+      "published_date": "2023-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8514.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c683164d7424",
+      "rss_guid": "019deb1e-40b8-11ee-9381-d33b64d839a8",
+      "published_date": "2023-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 9064.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-12619677366a",
+      "rss_guid": "35971ee2-3b25-11ee-89ec-537129e7c6b8",
+      "published_date": "2023-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5460.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8ba6becedb23",
+      "rss_guid": "2d838d22-35ac-11ee-bb62-87fce7df98e4",
+      "published_date": "2023-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7770.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-00472102844e",
+      "rss_guid": "79d88aaa-3035-11ee-b71c-e3264381ddc2",
+      "published_date": "2023-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4230.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a78a21e7dafc",
+      "rss_guid": "1490aba8-2ab0-11ee-8aa6-f3b4dc4d6610",
+      "published_date": "2023-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6643.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-56980cc8e618",
+      "rss_guid": "cf7ef472-2792-11ee-a3e8-1f189ce7d00d",
+      "published_date": "2023-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6562.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-67112e936150",
+      "rss_guid": "04c8583e-2537-11ee-ad26-83072aa846d4",
+      "published_date": "2023-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 9530.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b68cfb8713cb",
+      "rss_guid": "b34f3a5c-1fcf-11ee-8621-67b3f6af2b18",
+      "published_date": "2023-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4701.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-616c98d271e7",
+      "rss_guid": "b517253a-1af6-11ee-84e2-a3f12e2b55aa",
+      "published_date": "2023-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7164.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c0577f900902",
+      "rss_guid": "a3dec934-14a8-11ee-a69f-0b349869bac0",
+      "published_date": "2023-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4936.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-decc2724086a",
+      "rss_guid": "84ee3012-0f2d-11ee-b0a4-d7a041a66eff",
+      "published_date": "2023-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 9748.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-504aecf85d4c",
+      "rss_guid": "802b1a9a-0a2d-11ee-a3c0-dfef483af8d3",
+      "published_date": "2023-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9407.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-75689dd6e531",
+      "rss_guid": "2e39d88a-0437-11ee-82da-d37154c30994",
+      "published_date": "2023-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 9789.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a55d3c29d989",
+      "rss_guid": "0bf83088-fe91-11ed-8969-3fa03c982c9e",
+      "published_date": "2023-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7730.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-dd7327f6a8a0",
+      "rss_guid": "265c75e6-f924-11ed-9397-ebfcc0722997",
+      "published_date": "2023-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6551.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2813acbe0cc9",
+      "rss_guid": "c796b33a-f39e-11ed-98b2-63de3cd5048d",
+      "published_date": "2023-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8899.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9ef653cddf48",
+      "rss_guid": "8d67a162-ee33-11ed-baa6-4b74234b91a1",
+      "published_date": "2023-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9bb7d72d8343",
+      "rss_guid": "19d47860-e8a7-11ed-b39e-ab3867db63d3",
+      "published_date": "2023-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6939.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-05a0720e7b13",
+      "rss_guid": "306d04c4-e326-11ed-862f-2f3840cff8dc",
+      "published_date": "2023-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 9106.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-fa6cfe095b43",
+      "rss_guid": "522ca1e6-dd95-11ed-9b86-931aa78ffbf9",
+      "published_date": "2023-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8611.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a264e35f52b0",
+      "rss_guid": "2c4e626c-d826-11ed-9543-4bc0d26a286b",
+      "published_date": "2023-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 11338.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-89e9847706fe",
+      "rss_guid": "62cc16e0-d34e-11ed-8f7e-5b6c072e3c51",
+      "published_date": "2023-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5697.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8ae814b5d8d6",
+      "rss_guid": "954fdbcc-cd2e-11ed-ade6-afca206321e1",
+      "published_date": "2023-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 9433.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-a242a2d7b164",
+      "rss_guid": "dc0622e2-c7bb-11ed-b0ce-ff55f2d28be8",
+      "published_date": "2023-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7727.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6972399aa074",
+      "rss_guid": "47d81560-c213-11ed-8bda-676c05147b19",
+      "published_date": "2023-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9964.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f031d7ad9e0d",
+      "rss_guid": "5f2afa08-be3e-11ed-8783-7709605403ab",
+      "published_date": "2023-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5353.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-fb2f1bfdfa07",
+      "rss_guid": "a7f7158e-bca7-11ed-a911-bf9baa7634bd",
+      "published_date": "2023-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6923.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-0eac4bc5d0b8",
+      "rss_guid": "45255cb4-b6ed-11ed-81a8-876b52ec1432",
+      "published_date": "2023-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 8229.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-697e98ad4efe",
+      "rss_guid": "525575d3-85df-44fa-bd9d-afb000641bba",
+      "published_date": "2023-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4299.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9108eca870cf",
+      "rss_guid": "1120849f-dbf0-4a0a-a8f6-afa9001cd7a7",
+      "published_date": "2023-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6099.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b47d3413eefb",
+      "rss_guid": "cfb90449-c20d-452c-b639-afa101333d7e",
+      "published_date": "2023-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6388.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-44d72bcd59dd",
+      "rss_guid": "88bfa37e-fbdd-4ab9-8db3-af9b00364538",
+      "published_date": "2023-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5206.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e4693710fa3e",
+      "rss_guid": "77c692c9-39c6-4bbb-8b79-af9400a9f30a",
+      "published_date": "2023-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4682.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5a7ef382f3c2",
+      "rss_guid": "a7e9b9fa-82b4-46e2-8fca-af8d0051ee38",
+      "published_date": "2023-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6255.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-287dbb6d57b6",
+      "rss_guid": "d29e5b8b-9b9c-4d4d-bb6a-af86013f090a",
+      "published_date": "2023-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 9151.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5cbbf78242a1",
+      "rss_guid": "40dcb333-c5c9-4986-aa61-af7e013cf080",
+      "published_date": "2023-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10088.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1d7ce884521a",
+      "rss_guid": "e4fdb9b3-b17d-48c0-acf2-af71006b7519",
+      "published_date": "2022-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4853.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b8dcbc238cfa",
+      "rss_guid": "4e3bb9d9-da1c-410c-8a1b-af6901783bbc",
+      "published_date": "2022-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6853.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9b494d8a1854",
+      "rss_guid": "f841cf69-d3a8-4510-86f1-af63004d4610",
+      "published_date": "2022-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 11054.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-d3a54fd20f03",
+      "rss_guid": "8d27fd1e-6fbd-4686-b622-af5c004033f0",
+      "published_date": "2022-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 10283.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-45c6eb4f6870",
+      "rss_guid": "f25dca2e-ffde-4176-8ec4-af5500941b1a",
+      "published_date": "2022-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6174.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ac450bc3ece1",
+      "rss_guid": "a87e313a-5931-4d09-a89c-af500082b632",
+      "published_date": "2022-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5834.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6774ff2862eb",
+      "rss_guid": "7036f89b-08e5-4caf-ac43-af4e00539960",
+      "published_date": "2022-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8927.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-482123931eb6",
+      "rss_guid": "3d4409e0-91df-4aa4-ad44-af46017d1216",
+      "published_date": "2022-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7250.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5d3ea025b905",
+      "rss_guid": "23962459-ddcf-4eb7-918d-af3f01731508",
+      "published_date": "2022-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8290.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-33e5fc676730",
+      "rss_guid": "e76cde43-2270-455d-a8d1-af39001c03bd",
+      "published_date": "2022-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6712.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b9166c4a2553",
+      "rss_guid": "0b33a7e4-3b00-4b4e-8f8c-af32015245fb",
+      "published_date": "2022-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4733.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9231da360fee",
+      "rss_guid": "cad71305-f635-4e87-82cf-af2a015ccd2f",
+      "published_date": "2022-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7754.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f51da2298dda",
+      "rss_guid": "1b553ab6-7781-453b-aaa7-af24004d8f4f",
+      "published_date": "2022-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7220.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ed797f485700",
+      "rss_guid": "956a72de-d449-4592-a254-af1d00642025",
+      "published_date": "2022-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7189.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-384e2f07be23",
+      "rss_guid": "0c112043-8e0e-49cd-a5a8-af160042890c",
+      "published_date": "2022-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4868.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5e38d2c4f797",
+      "rss_guid": "6b8d5795-d3fd-4e58-8e3a-af0f000bec2a",
+      "published_date": "2022-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8903.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-3d7ae7ef6ebc",
+      "rss_guid": "02e026e2-0bd7-4a69-8f8b-af07016a96cb",
+      "published_date": "2022-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6819.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5194c9114356",
+      "rss_guid": "e84e633b-a537-4ff1-868d-af01004f3f31",
+      "published_date": "2022-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6591.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-3162cce643e9",
+      "rss_guid": "bea2a109-93f4-4340-b711-aefa00266338",
+      "published_date": "2022-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6848.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8ac5e1ecb8f0",
+      "rss_guid": "260c6ba2-9f24-416a-844c-aef300357d8e",
+      "published_date": "2022-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7203.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f17ae578c686",
+      "rss_guid": "14c38a8d-fb7c-41d7-835f-aeec0022217b",
+      "published_date": "2022-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6328.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-d098f710cd19",
+      "rss_guid": "c61909f0-a6d0-46ae-b409-aedd01834661",
+      "published_date": "2022-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4813.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6e2f26f3327d",
+      "rss_guid": "7183240c-6b91-4ab0-8d2d-aed601698a8c",
+      "published_date": "2022-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8590.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b18e97807d63",
+      "rss_guid": "471ba586-3db1-4477-b7be-aecf0183d6b4",
+      "published_date": "2022-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5370.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1f2b2ee2304a",
+      "rss_guid": "aea5336f-75a0-4e91-93e6-aec20038f9c9",
+      "published_date": "2022-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4633.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-30f905c03543",
+      "rss_guid": "5abab1f8-9716-4696-83e2-aebb0048e7f3",
+      "published_date": "2022-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3681.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-695b33bdeb45",
+      "rss_guid": "8f0348c3-34df-4a8c-bbd0-aeb5006a0595",
+      "published_date": "2022-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4884.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-750de8958cb6",
+      "rss_guid": "2c1c381c-4d6f-4a98-9c49-aeae01660a6c",
+      "published_date": "2022-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4201.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-6197494c3e1b",
+      "rss_guid": "1f99403b-97c3-4985-b6f6-aea5006ce389",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6976.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-cc7568db6dd3",
+      "rss_guid": "3c77b692-0d44-45ea-b1a6-ae9f00e45d30",
+      "published_date": "2022-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7583.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c7e6f61eb63a",
+      "rss_guid": "28dc67f0-e67b-4db3-b4d6-ae98015347c4",
+      "published_date": "2022-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4182.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-8b4ea0a600d4",
+      "rss_guid": "3febb19e-a7b0-401d-a04d-ae91002b59aa",
+      "published_date": "2022-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5504.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-c074aad4c5a0",
+      "rss_guid": "a15eaef0-20b8-4223-a3bd-ae8a014bea14",
+      "published_date": "2022-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5438.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-97a093ca97d0",
+      "rss_guid": "044c0a28-3b5d-4969-803d-ae830062c6c6",
+      "published_date": "2022-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4767.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-b1c41785b64d",
+      "rss_guid": "db4ab4b0-6608-4c69-a970-ae7c01278b8f",
+      "published_date": "2022-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4920.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-cc7c519fa9a9",
+      "rss_guid": "63156950-5ec2-4a34-b15a-ae75004b4477",
+      "published_date": "2022-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6080.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-9b9fd9e6b37a",
+      "rss_guid": "ddf99eba-6112-4f30-9fae-ae6d006ef8d2",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4735.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2c973d250f46",
+      "rss_guid": "ab4e39c8-9279-4833-bcff-ae68018300cf",
+      "published_date": "2022-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6466.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-bebb87a515c4",
+      "rss_guid": "e593891b-b230-4b5a-a86c-ae640165445d",
+      "published_date": "2022-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7005.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-37d8b34a6379",
+      "rss_guid": "8476209a-b250-4464-88f8-ae5b008dd6c6",
+      "published_date": "2022-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4624.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-ac8239b702c5",
+      "rss_guid": "214b82af-d107-4254-be10-ae540098c557",
+      "published_date": "2022-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4515.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-81128ad19a7c",
+      "rss_guid": "41231def-81b1-461a-9873-ae4b00b63eb2",
+      "published_date": "2022-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3137.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-290de1bc94bb",
+      "rss_guid": "870e9c9f-2974-4083-abcc-ae46005d9572",
+      "published_date": "2022-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5924.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-89fd60ec5153",
+      "rss_guid": "5fa7cbd6-f290-4ef5-be1c-ae3e000f7757",
+      "published_date": "2022-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4783.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-fa76e5c02bac",
+      "rss_guid": "aebae27e-bc74-4520-95c7-ae3800769a0a",
+      "published_date": "2022-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5499.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-e19182388480",
+      "rss_guid": "556d9bd0-7877-4cb7-bcca-ae2f00a63fa2",
+      "published_date": "2022-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6334.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-cabe8e003e8a",
+      "rss_guid": "28cfb954-7419-4f68-acc7-ae270096d9dc",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5185.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-f236e77dfcb6",
+      "rss_guid": "e35f1d6b-5eb2-43dc-98ac-ae22005da74d",
+      "published_date": "2022-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6489.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1b8622f580d6",
+      "rss_guid": "9ebe8bda-c8c1-4a01-88c9-ae1c00ada51b",
+      "published_date": "2022-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5902.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-70c0620406b7",
+      "rss_guid": "f2af91c9-5d75-4662-b687-ae150099aa38",
+      "published_date": "2022-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7754.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-2a27ebe027c8",
+      "rss_guid": "b0a0518b-dbc6-434b-bcc6-ae0d006ea84f",
+      "published_date": "2021-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5442.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-98e36d768dce",
+      "rss_guid": "a9c6176d-0d7d-4af3-916a-ae0500662ed8",
+      "published_date": "2021-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4308.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1345b7526973",
+      "rss_guid": "a3d8e6ab-23fa-4f9d-8032-adfe00945afd",
+      "published_date": "2021-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6609.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-4f375231a411",
+      "rss_guid": "62691128-967e-4384-be0f-adf9010cf9bf",
+      "published_date": "2021-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6339.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-76bc7a6945ea",
+      "rss_guid": "502df324-fd24-4ca9-ae1c-adf20177e03f",
+      "published_date": "2021-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5233.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-09bca0b8dbe6",
+      "rss_guid": "c84fe7aa-87a6-48d8-b61b-adea012b1aab",
+      "published_date": "2021-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5147.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-42923a925c34",
+      "rss_guid": "02ecb34b-9df2-4bef-8154-ade40054f3f9",
+      "published_date": "2021-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5527.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5cf8483f53b5",
+      "rss_guid": "be37aa86-d664-4900-974e-addd00f0d339",
+      "published_date": "2021-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5962.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-5e04667b6dae",
+      "rss_guid": "920f7bfd-1edc-4b96-8ed2-add50155d4bd",
+      "published_date": "2021-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5710.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-510fe25ab25a",
+      "rss_guid": "00b525c3-f383-4b6e-a547-adcf018695e9",
+      "published_date": "2021-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 9248.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-722bfbab953d",
+      "rss_guid": "af284639-2493-4e3a-a960-adc800be4f4c",
+      "published_date": "2021-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4568.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-1904883f3e38",
+      "rss_guid": "7ccfa5c9-9917-406a-bd6c-adc10104b4b3",
+      "published_date": "2021-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6920.0
+    },
+    {
+      "episode_id": "this_past_weekend_w_theo_von-09f9922e8268",
+      "rss_guid": "88c82f4b-26f0-4cad-abff-adbb016bded7",
+      "published_date": "2021-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6353.0
+    }
+  ]
+}

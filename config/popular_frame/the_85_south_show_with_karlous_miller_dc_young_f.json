@@ -1,0 +1,3180 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_the_85_south_show_with_karlous_miller_dc_young_f_20261002T193807Z",
+  "show_id": "the_85_south_show_with_karlous_miller_dc_young_f",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/TPC1168475191",
+    "snapshot_relative_path": "data/raw/rss/the_85_south_show_with_karlous_miller_dc_young_f/the_85_south_show_with_karlous_miller_dc_young_f_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "0f34f830e89dc993ad4f67662b3f1b2916694714d81ea48005eca0c1be993fb1",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-149089532af2",
+      "rss_guid": "fa29af60-b933-11f1-a3ce-b3ce66299c6d",
+      "published_date": "2026-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6917.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4fc496b7e423",
+      "rss_guid": "ffffa7a8-b5d9-11f1-b9ed-8f5ea2df1504",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5463.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e8ff3e703c4c",
+      "rss_guid": "a35e35f6-ae3f-11f1-80cb-a745c388518e",
+      "published_date": "2026-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6528.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fea2f924aca4",
+      "rss_guid": "2c291d50-ad74-11f1-bbe5-73d989fb8fce",
+      "published_date": "2026-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7076.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-111ab632e7ae",
+      "rss_guid": "1151efd8-a343-11f1-8472-5f193ef9b45f",
+      "published_date": "2026-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5593.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f3f9026549d8",
+      "rss_guid": "0b1ab2f0-a008-11f1-b939-ff82ca9137b5",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5679.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-005274b7ec88",
+      "rss_guid": "142636d4-984d-11f1-bad5-c379a622a9f9",
+      "published_date": "2026-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5075.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-57e20d04655b",
+      "rss_guid": "cad2e189-8022-45ab-8520-b4950185d984",
+      "published_date": "2026-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7594.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1f5def5f6952",
+      "rss_guid": "488da323-7fb6-466d-8e91-b491012c4580",
+      "published_date": "2026-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4724.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b1a5bc536def",
+      "rss_guid": "8fb86239-31cf-4ffa-b9d0-b48f014b933f",
+      "published_date": "2026-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4201.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8548a3c17b58",
+      "rss_guid": "d2e099a1-67e8-4b31-9e14-b48a013fc5a6",
+      "published_date": "2026-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7970.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-eb234ba8eb75",
+      "rss_guid": "b4a96a1d-e9df-4d94-b6ff-b48301757e12",
+      "published_date": "2026-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6064.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-901ca861e8c6",
+      "rss_guid": "d05b6794-0e58-4bae-857d-b47c015ba575",
+      "published_date": "2026-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7762.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-632b0138412e",
+      "rss_guid": "72d61bd5-dedc-4261-bf10-b47501042ad1",
+      "published_date": "2026-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3840.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cd2c40aadc02",
+      "rss_guid": "595600e8-24ed-4f6f-9ebd-b46e012accf0",
+      "published_date": "2026-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8248.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7fc8cff3d7e2",
+      "rss_guid": "8fcddc4a-61ec-4e61-8228-b467012d40a0",
+      "published_date": "2026-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3537.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2e9b141b490b",
+      "rss_guid": "2730e4a4-c725-4500-b387-b46001080d7a",
+      "published_date": "2026-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5808.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-37feff0a1cce",
+      "rss_guid": "847ec1f6-2f11-4b0f-a37a-b458018a04f0",
+      "published_date": "2026-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4714.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b4c1e79c88ec",
+      "rss_guid": "0f241f95-aa5b-4d99-9b97-b45200f0acb1",
+      "published_date": "2026-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6213.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1e800c3addea",
+      "rss_guid": "1dc256be-3d50-467b-897a-b44b0115c522",
+      "published_date": "2026-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6741.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d5870bd6122d",
+      "rss_guid": "58910d8d-913b-4ad6-937a-b44400f562bf",
+      "published_date": "2026-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7526.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e7c50beebf2d",
+      "rss_guid": "165bb21d-cb5a-4623-bae2-b43d00f42a69",
+      "published_date": "2026-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7018.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a5d46bb021f2",
+      "rss_guid": "d9bf226c-8cbd-4b32-8b15-b436012618c7",
+      "published_date": "2026-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7061.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-89de899095a3",
+      "rss_guid": "2dffa2f1-a3bc-4141-a484-b4330102c31a",
+      "published_date": "2026-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2520.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d5fbfa0b47d4",
+      "rss_guid": "b318041a-b722-4ba6-b6c6-b42f00ee796b",
+      "published_date": "2026-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6271.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-02d649a195b3",
+      "rss_guid": "07fe7980-6750-4297-86ab-b42900d97122",
+      "published_date": "2026-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6370.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8ae62bdcad72",
+      "rss_guid": "c02de179-fcf2-4dec-9a99-b42101075e96",
+      "published_date": "2026-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8608.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-184a837040b4",
+      "rss_guid": "7083e142-0bdd-44c8-bc34-b41a014c1583",
+      "published_date": "2026-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5550.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-93104374ba71",
+      "rss_guid": "27f6b1d4-db5c-4a34-be98-b41a00ebd95e",
+      "published_date": "2026-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6629.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-82f509d51fc7",
+      "rss_guid": "2a42a917-f09b-4a8c-b05e-b41700f80e10",
+      "published_date": "2026-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5023.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3032e4b55291",
+      "rss_guid": "7b3f2362-ac12-4497-bb53-b41300e2ef7b",
+      "published_date": "2026-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4006.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-844a1d00245a",
+      "rss_guid": "a95f19f0-3442-4172-bdab-b40700487d80",
+      "published_date": "2026-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4065.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f721406e1054",
+      "rss_guid": "7e342284-10c9-4378-b299-b412002908f7",
+      "published_date": "2026-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6912.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5b31147260fd",
+      "rss_guid": "0be2b1cf-f840-4541-becc-b41200dd61f6",
+      "published_date": "2026-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6316.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-673b82a1100e",
+      "rss_guid": "c35bcd3a-0f98-4c86-8f19-b41200f97f6b",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6934.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2860d5d991b2",
+      "rss_guid": "d5e6a5e7-ab89-4224-863e-b40c0129ddf5",
+      "published_date": "2026-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8258.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-315b11c60558",
+      "rss_guid": "7835a100-2a5f-4796-b5a1-b4040100b405",
+      "published_date": "2026-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4553.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1812cbeb7e34",
+      "rss_guid": "90b5fc83-2b3e-408f-9689-b3fe00f4fdbb",
+      "published_date": "2026-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6139.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b59332be26ec",
+      "rss_guid": "e8354dcf-bdd0-472e-9e04-b3fa011b0673",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 809.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bca42e077682",
+      "rss_guid": "45e3667d-9d64-4cc1-9054-b3f7011ce903",
+      "published_date": "2026-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6617.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-97727c574dcf",
+      "rss_guid": "cf2a0e74-1f70-4164-aff1-b3f4012c9c48",
+      "published_date": "2026-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 9657.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7afae6cf625e",
+      "rss_guid": "899197a5-0b93-4590-9430-b3f400ee9285",
+      "published_date": "2026-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 895.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ddf171b9b8d3",
+      "rss_guid": "1272af23-fbe5-42ad-85f9-b3f000eeb360",
+      "published_date": "2026-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5926.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-58f1c862f6b4",
+      "rss_guid": "a833ea09-192c-438e-b67b-b3ee0169b9e8",
+      "published_date": "2026-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4964.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ffa2fae11f0b",
+      "rss_guid": "9aebb184-a63b-4a4b-84e7-b3ed013ce3c7",
+      "published_date": "2026-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 953.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e03a50412a68",
+      "rss_guid": "399e6ee7-14a9-4c71-b1c8-b3e9012495fa",
+      "published_date": "2026-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8688.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6c66dec05682",
+      "rss_guid": "0c0c5c4c-bce8-4b0b-bf2c-b3e20161b709",
+      "published_date": "2026-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7127.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-912755a164a3",
+      "rss_guid": "706b5289-59e1-4693-92a5-b3e001598fb0",
+      "published_date": "2026-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 911.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-83559c483a31",
+      "rss_guid": "0a3e5b47-176c-45bf-b69b-b3df00fae7c9",
+      "published_date": "2026-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1234.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9e2572ca22e2",
+      "rss_guid": "dc80f67c-f05b-403d-94cc-b3db0132eddd",
+      "published_date": "2026-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7254.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c743a74470f0",
+      "rss_guid": "b011d384-03c2-44d3-8497-b3d9012ed1f6",
+      "published_date": "2026-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 649.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3c9b875c7390",
+      "rss_guid": "d285f215-67a5-4a3c-ad9b-b3d8011f3de1",
+      "published_date": "2026-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 618.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2239d1cc40b8",
+      "rss_guid": "91ee137a-8f6e-4a0d-8c15-b395016e4940",
+      "published_date": "2026-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3204.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0c3fe4f7bd53",
+      "rss_guid": "9b50b6a2-bcbf-4818-b0ab-b3d40124c4de",
+      "published_date": "2026-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8636.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-88a672880a01",
+      "rss_guid": "1ec18df3-552e-4424-b97e-b3d20141a41b",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 989.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f4c684b58ebe",
+      "rss_guid": "126ffe4e-665c-4142-8545-b3d201412fff",
+      "published_date": "2026-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7845.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6618f99e395f",
+      "rss_guid": "1a9e5d26-d9a5-4656-80cb-b3d100ec279e",
+      "published_date": "2026-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 786.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2be26844b688",
+      "rss_guid": "f77cfece-b846-42c4-a3b9-b3cd01444441",
+      "published_date": "2026-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5693.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c2ade9dba5e7",
+      "rss_guid": "d3cad606-1a84-4e05-8b9d-b3cb0156c7cd",
+      "published_date": "2026-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5356.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-19057902d65b",
+      "rss_guid": "36fb7760-2c62-4dff-84ed-b3cb011d9067",
+      "published_date": "2026-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 596.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-02f16a9f7957",
+      "rss_guid": "bfce5944-ebba-49dc-b75b-b3c60161162b",
+      "published_date": "2026-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 11503.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-858d840d2c4a",
+      "rss_guid": "b9d02274-b2a1-4aad-974b-b3c201198a37",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 760.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f9697736d361",
+      "rss_guid": "f1c30e8c-1c65-45a4-ab75-b3bf0110be09",
+      "published_date": "2025-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4544.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5069d3e00ee9",
+      "rss_guid": "f59a97c3-558d-42c4-a94d-b3bc0125972d",
+      "published_date": "2025-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5639.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d881893ce748",
+      "rss_guid": "157be3ff-b264-41ab-9ed9-b3bb01362eb3",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 589.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7dbfe5a5f9c8",
+      "rss_guid": "d29b7551-d5d7-4286-8a0a-b3b800f48567",
+      "published_date": "2025-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7844.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f713e983e193",
+      "rss_guid": "a108213b-feec-40fc-a156-b3b700df822c",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5850.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a3076802aa2a",
+      "rss_guid": "bc456af8-5b9d-4de2-9dac-b3b700266faa",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 854.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2d0397e1392a",
+      "rss_guid": "4060add0-db96-4297-a8d5-b3b4011f0f96",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 768.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8b4c24b4830f",
+      "rss_guid": "308ad211-74fb-4a99-b572-b3b1013f5af7",
+      "published_date": "2025-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5625.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1a3eb844dba7",
+      "rss_guid": "cdda4102-5ed6-4a1e-be2c-b3ad015443f3",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 667.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-dbe9ee0d4f1d",
+      "rss_guid": "ba176238-a31d-42f4-ad6d-b3aa0127d0c1",
+      "published_date": "2025-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7728.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e828c93e393a",
+      "rss_guid": "45217a27-5d57-4e0d-ab6a-b3a90106ab4e",
+      "published_date": "2025-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6569.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e3a34e73fa57",
+      "rss_guid": "23d7650a-1cd2-48a0-bd73-b3a801434d29",
+      "published_date": "2025-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1108.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-423f9826333a",
+      "rss_guid": "8784564b-90ba-4121-a660-b3a60166f23e",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 828.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9709d6af6fab",
+      "rss_guid": "d4271258-6778-4ddc-8b38-b3a101495cc1",
+      "published_date": "2025-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 10016.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f5aa655f0e16",
+      "rss_guid": "9ba994e7-fad1-4027-8df6-b3a101219f49",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5499.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0ffc64843244",
+      "rss_guid": "5a594633-6974-4e2a-9c69-b39b01261b99",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 454.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-559484b96902",
+      "rss_guid": "1c665f23-defc-4e6c-ad46-b39b0124af1d",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 566.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-61b3c7771ef1",
+      "rss_guid": "76bac471-69a8-494d-a810-b39b01238946",
+      "published_date": "2025-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4754.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5710c683169c",
+      "rss_guid": "4b95989e-4e53-42e0-847d-b398013de666",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 328.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-81306911de39",
+      "rss_guid": "f528c5dd-4896-4121-b119-b39301224c20",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 776.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cbac094a1b8b",
+      "rss_guid": "f8d2146d-4467-4c10-b6b4-b39301207474",
+      "published_date": "2025-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2292.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-975e61eaac8a",
+      "rss_guid": "bfaa4992-c67a-45cf-9806-b38e0143d0d7",
+      "published_date": "2025-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9104.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-97be0ea92047",
+      "rss_guid": "0e0bc215-e5f5-4adf-ad0c-b38d0130f6b5",
+      "published_date": "2025-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 655.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6cd139ac66ae",
+      "rss_guid": "328c5789-ab13-45fc-93b0-b38c0185f9f6",
+      "published_date": "2025-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6488.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b932220c90c7",
+      "rss_guid": "502179b1-b833-47f8-bc71-b38700ef8315",
+      "published_date": "2025-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5715.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-74ebcb2c136a",
+      "rss_guid": "6086c0e4-4fd8-4c65-af4a-b38600dac80b",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 667.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-52cd97e0a558",
+      "rss_guid": "cf0e2708-9abe-4dfd-a564-b385015b3e34",
+      "published_date": "2025-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3392.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-91cd5a085b16",
+      "rss_guid": "78000d9f-e417-4698-aca5-b38001538cf9",
+      "published_date": "2025-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4119.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-89e17df810f2",
+      "rss_guid": "a329f366-3c36-4ada-b60e-b38001389d27",
+      "published_date": "2025-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4361.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7e1da00e5fff",
+      "rss_guid": "4dbb0868-d0d9-479b-bb8f-b37f0029ad9d",
+      "published_date": "2025-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 724.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1cb72d61b43b",
+      "rss_guid": "445bc9d7-2194-489d-9309-b37f0028e8f1",
+      "published_date": "2025-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 533.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3e69e05874ef",
+      "rss_guid": "a6ebeae2-7c47-47c9-9d97-b3790128f8f8",
+      "published_date": "2025-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6702.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b07c5ec9d457",
+      "rss_guid": "fa768090-fb95-4f16-a0e9-b37200f7a5fb",
+      "published_date": "2025-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8016.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f87f3ab9af6e",
+      "rss_guid": "b7d7b4d3-a9c8-4804-b97f-b37000fcaa56",
+      "published_date": "2025-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 296.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9855e4896f9b",
+      "rss_guid": "6005b017-d3b9-4829-9cff-b36b01114913",
+      "published_date": "2025-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5276.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d9f107bb02fa",
+      "rss_guid": "42ab7b47-826a-4fc4-a982-b369017340e9",
+      "published_date": "2025-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 776.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-03999f78bf58",
+      "rss_guid": "280cb065-c09b-4c08-94ce-b364010569ff",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 613.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d3d6ba8fadb1",
+      "rss_guid": "b8374db9-2b88-4601-bde5-b36400f9db14",
+      "published_date": "2025-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 8701.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-54e139b8ef5c",
+      "rss_guid": "9e050c5c-a782-4eb0-b861-b35d013843d9",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8205.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c246c869c85e",
+      "rss_guid": "eb5e3ba3-e971-46c8-bf3d-b35c0113fb02",
+      "published_date": "2025-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 472.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cdef4d0d01c9",
+      "rss_guid": "d5604d96-c119-467c-a370-b35601290afd",
+      "published_date": "2025-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7267.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fe953170b1bf",
+      "rss_guid": "28de14c6-a172-4d53-8e84-b35400ff0648",
+      "published_date": "2025-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 910.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d2c1b2ae0550",
+      "rss_guid": "bf4df53f-013f-47f3-8a72-b34f00fba8e1",
+      "published_date": "2025-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8521.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-71ca82ac69b5",
+      "rss_guid": "f7724080-9326-453a-8de7-b34d00e65be6",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 845.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e1ccdbb167ba",
+      "rss_guid": "394e0ccb-3371-48f9-bd72-b34d00e5f781",
+      "published_date": "2025-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 824.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9fdc81d05640",
+      "rss_guid": "29aeaf0a-9cd3-4a6d-93e1-b348003791c9",
+      "published_date": "2025-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6357.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-05c6cf884336",
+      "rss_guid": "0b3d263b-46a2-4f9b-8660-b340017a8aff",
+      "published_date": "2025-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7590.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2b476f6632ca",
+      "rss_guid": "42cb9161-4adf-4fe9-93b5-b33f0103fb91",
+      "published_date": "2025-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 902.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3cbb383ee450",
+      "rss_guid": "d2b8b4fb-7b59-43cd-bbc7-b33a00dc8b5c",
+      "published_date": "2025-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 10647.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d750ad391018",
+      "rss_guid": "e18180e0-4c96-491f-948e-b337015c3340",
+      "published_date": "2025-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 960.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cbcc16284a63",
+      "rss_guid": "33ad10ad-4fe7-4ba9-8a93-b33301074cb5",
+      "published_date": "2025-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4938.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fa17a120e79e",
+      "rss_guid": "60d7dd95-3421-4a5e-957e-b33101110de8",
+      "published_date": "2025-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 434.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4331a89143bd",
+      "rss_guid": "b55b15d5-78bd-47e2-87fd-b32c01703677",
+      "published_date": "2025-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5838.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5f30592bd6af",
+      "rss_guid": "2a78fbb2-57cc-4f9c-b22e-b32b00e548c3",
+      "published_date": "2025-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5156.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b16266e57cd6",
+      "rss_guid": "f0f0f875-ac76-4417-a784-b32b00d8a637",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 765.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6b2ed6f07865",
+      "rss_guid": "82f4b642-8728-4fa5-b528-b32800f0832c",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 814.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f45678808648",
+      "rss_guid": "15d64243-69d1-47e0-ae4f-b324013d7d33",
+      "published_date": "2025-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5259.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b7ccce026a1b",
+      "rss_guid": "e4480869-c060-4b25-831c-b32201593a2c",
+      "published_date": "2025-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1125.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3ec3c4968521",
+      "rss_guid": "3086a90f-05ba-4e03-bbb1-b321012737fd",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 584.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5236ec89ca44",
+      "rss_guid": "cad5cfc1-9c80-44dc-ab73-b31e00f9c32a",
+      "published_date": "2025-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 9831.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-72afe364bb1e",
+      "rss_guid": "7a3b13a0-0008-4a12-bb83-b31d00e84f33",
+      "published_date": "2025-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 784.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fc8980e7a5f6",
+      "rss_guid": "b6c1ecf1-fe2c-4355-ab23-b31a011e6962",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 731.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-70c361458772",
+      "rss_guid": "0065c05f-6cdf-474a-a487-b317010690f8",
+      "published_date": "2025-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 11564.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f3886ec59ba8",
+      "rss_guid": "ddfc05f4-fd6b-4142-ad74-b313010109c0",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 569.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bebfaffe131a",
+      "rss_guid": "515bd240-e37d-4c8d-bb8d-b30f016cff0c",
+      "published_date": "2025-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7304.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c069f7325820",
+      "rss_guid": "2808c09f-fb12-4fd8-af56-b30c0101c1ef",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 960.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-195f39e9522b",
+      "rss_guid": "03d93fa0-d09a-4f11-b1de-b30900dfa114",
+      "published_date": "2025-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3739.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3f6f74da13e3",
+      "rss_guid": "00eaa2fc-e1d7-459a-9120-b3050104121f",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 554.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6b5d116211db",
+      "rss_guid": "53c36561-5362-478e-8a8e-b30200e88130",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6048.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9e9e085e7b36",
+      "rss_guid": "2d972476-88dc-4d07-a316-b2fe0122d42d",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 1085.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-49b153c5de29",
+      "rss_guid": "3f636f68-3013-482c-b87f-b2fb00ec758c",
+      "published_date": "2025-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7484.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d7a97358bde6",
+      "rss_guid": "51e8176b-02b6-4e26-b53c-b2f901378184",
+      "published_date": "2025-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1561.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a9d4f629bb8e",
+      "rss_guid": "bf0df3b9-598f-4397-964f-b2f301471d80",
+      "published_date": "2025-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5955.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-814357ea0252",
+      "rss_guid": "d99f70a7-e367-4721-b8a5-b2f0012db0c6",
+      "published_date": "2025-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 673.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a92e43f9a3a0",
+      "rss_guid": "df8bab20-d9d0-426c-9471-b2f00012ef42",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 775.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-92e5507d4f68",
+      "rss_guid": "48c0d379-424c-453b-aee9-b2ed012d886b",
+      "published_date": "2025-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7173.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-11136aebfc57",
+      "rss_guid": "2329053f-77aa-4c9b-a866-b2e501174c57",
+      "published_date": "2025-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3731.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-44ce78cb525b",
+      "rss_guid": "9831eb1d-2747-47eb-9818-b2e4011e1087",
+      "published_date": "2025-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 453.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4035510cdff4",
+      "rss_guid": "c399a515-9a21-4157-b8d0-b2de016496ca",
+      "published_date": "2025-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6536.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7d5a800f06a4",
+      "rss_guid": "24d19696-a79b-494b-ad27-b2db0122d329",
+      "published_date": "2025-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 457.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-31b231d28acd",
+      "rss_guid": "c8e7d543-f87f-4dc0-a491-b2db0121745b",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 590.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-01fe9212768c",
+      "rss_guid": "c89ae8e5-97a1-42b6-b489-b2d800e7a465",
+      "published_date": "2025-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7153.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7d535e587470",
+      "rss_guid": "71ae4ab8-27eb-488c-990c-b2d4000fefba",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 414.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f30c67e29000",
+      "rss_guid": "d5214d64-45df-4faf-9379-b2d10138de12",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5840.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1cea5dd8ab4e",
+      "rss_guid": "206e1c37-46c6-478b-9bca-b2ca0002631a",
+      "published_date": "2025-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7852.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1cbba55e5b8b",
+      "rss_guid": "ab11865f-d6bc-4fcb-bd71-b2c20101c3c3",
+      "published_date": "2025-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 9720.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2a5872b1da2e",
+      "rss_guid": "8f25056f-3348-47e3-a594-b2bb013d5709",
+      "published_date": "2025-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4648.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5a950ac88db5",
+      "rss_guid": "0e62e3bd-bc86-4d40-a47c-b2b4016aa6f2",
+      "published_date": "2025-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7203.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0ccf03a52619",
+      "rss_guid": "6ce94b9f-497e-40b4-a2fe-b2ae0122d813",
+      "published_date": "2025-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7177.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-60d80b5a2c6c",
+      "rss_guid": "8029dae7-773d-4a96-8a0e-b2a70129137f",
+      "published_date": "2025-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8942.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e3fcef5204ae",
+      "rss_guid": "7f3882df-24b8-4ed1-8818-b2a00100da42",
+      "published_date": "2025-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5677.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4cf05340fedc",
+      "rss_guid": "acf0d79e-2a84-42f2-9e5c-b2990134645b",
+      "published_date": "2025-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10790.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6058923b4030",
+      "rss_guid": "12598a25-0029-438f-b977-b29201246b0a",
+      "published_date": "2025-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4122.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-82def61004ad",
+      "rss_guid": "d5beacfa-984a-4010-a5f7-b28f00ff47e4",
+      "published_date": "2025-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1317.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-38759dc88c18",
+      "rss_guid": "ecaf79de-86b6-48be-95db-b28b01111c4c",
+      "published_date": "2025-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5695.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b2c6b0fa5908",
+      "rss_guid": "376c5ae5-e5a5-4d0a-bb5a-b2870134abe4",
+      "published_date": "2025-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1525.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4267be80c70a",
+      "rss_guid": "d46525d3-a2c2-458a-9236-b28401370853",
+      "published_date": "2025-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4881.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e0e3a7aa8440",
+      "rss_guid": "bf6a359a-8e4a-4f8d-afea-b27d015127ee",
+      "published_date": "2025-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 726.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-76e9bf63ed94",
+      "rss_guid": "f037d3c8-b1e6-4976-8ba4-b23e012cf97b",
+      "published_date": "2025-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3492.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-17fa394e67f2",
+      "rss_guid": "71fae1ba-4042-427e-9648-b27d013c7ff5",
+      "published_date": "2025-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7685.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e42ca8908b81",
+      "rss_guid": "7d2bd756-7a0d-4c4c-b2b5-b2760115c574",
+      "published_date": "2025-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 897.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-87ff5d2bca80",
+      "rss_guid": "c61dbef5-ee9d-4e03-8830-b2760139cdf8",
+      "published_date": "2025-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5992.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-800fc95428d9",
+      "rss_guid": "76345693-3eb9-4d68-9779-b26e00000eca",
+      "published_date": "2025-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 871.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-90785ce1e7f3",
+      "rss_guid": "34fb2fa4-f9fd-45aa-bd3e-b26f010b5711",
+      "published_date": "2025-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8079.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-55d1671f9273",
+      "rss_guid": "6ddfdb90-993f-4f10-928c-b2680125559c",
+      "published_date": "2025-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1238.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-eafca32b3f36",
+      "rss_guid": "a01a6c14-37d2-47d7-9ba2-b268011fcc99",
+      "published_date": "2025-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7697.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d8ab2aa94bba",
+      "rss_guid": "9b3cb702-59e3-4296-b846-b25f012795eb",
+      "published_date": "2025-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 839.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-21691ca80613",
+      "rss_guid": "46f75f58-5162-406b-b4b4-b26100f4bcb9",
+      "published_date": "2025-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5844.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9a6dd625dbef",
+      "rss_guid": "1cc11eb9-2487-4047-bdcd-b25f011247aa",
+      "published_date": "2025-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1376.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-962e7ad5fc2f",
+      "rss_guid": "65aa032b-7cd3-4693-9769-b25a0131dcf1",
+      "published_date": "2025-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8084.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c48df0d427c3",
+      "rss_guid": "91ff41b2-7527-4d80-8e3a-b24c0147fc82",
+      "published_date": "2024-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 8973.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f8a663f5813c",
+      "rss_guid": "c454680e-1cb9-4cae-9d0a-b256011e9282",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 618.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-dd673dd68d3e",
+      "rss_guid": "5ef7c5f1-6253-4b7b-ba57-b25300fae95d",
+      "published_date": "2024-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5992.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-60746bf5e84e",
+      "rss_guid": "6ba0f3d7-229d-4188-8f90-b24b01208fbf",
+      "published_date": "2024-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 549.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9d55071376b3",
+      "rss_guid": "bfa24439-e81b-480d-8939-b2490152630e",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1942.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-336c328d89a1",
+      "rss_guid": "b497a78a-4241-499e-8b43-b248014eb177",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2838.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b3cbe3533913",
+      "rss_guid": "eed67da2-e593-42eb-a553-b248012934af",
+      "published_date": "2024-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6529.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-20c4c4b59a70",
+      "rss_guid": "69b1e0e5-0eea-48a7-b121-b24401044973",
+      "published_date": "2024-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6002.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ce3818010aa3",
+      "rss_guid": "665f7c50-b53c-4a8d-873f-b245012b7420",
+      "published_date": "2024-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7511.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0ce611ef6a5d",
+      "rss_guid": "1b35b51f-ec42-4ef7-aba3-b241013143e0",
+      "published_date": "2024-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1415.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fd358c984f5e",
+      "rss_guid": "a86eca34-09c3-487c-8f00-b241012f8b74",
+      "published_date": "2024-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 570.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6ea76c94d53b",
+      "rss_guid": "f6c864f0-d682-4786-9d87-b23701081629",
+      "published_date": "2024-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7862.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a986ddcab5f8",
+      "rss_guid": "79a1f7c3-b188-4453-bf92-b234018b5507",
+      "published_date": "2024-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 752.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-031f6faca7c7",
+      "rss_guid": "477bc1f4-80d7-4daf-bead-b23001106282",
+      "published_date": "2024-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8153.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-43a82f170d3a",
+      "rss_guid": "9be74f65-44dc-4e8f-b88e-b22d01144791",
+      "published_date": "2024-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 781.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2169a3fe390e",
+      "rss_guid": "ab0dccb7-66de-48d4-8c43-b22901300cc1",
+      "published_date": "2024-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4841.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3e75c5b71f78",
+      "rss_guid": "b3c009d0-06a6-4224-9537-b226013e543d",
+      "published_date": "2024-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 612.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-52c89592dcf9",
+      "rss_guid": "420a20d8-c35b-4083-9e9a-b222015ae679",
+      "published_date": "2024-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 770.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-55d50440dd50",
+      "rss_guid": "8e6af0fa-f142-4254-8ee0-b22201379974",
+      "published_date": "2024-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7945.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4b2ba86d7afc",
+      "rss_guid": "9ec68856-a639-4d01-beed-b21e010c4e88",
+      "published_date": "2024-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 594.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4fbf01d9c1c3",
+      "rss_guid": "f9624e7b-ae82-4753-9ab2-b21b0134c6bc",
+      "published_date": "2024-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4476.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bda4967ad93a",
+      "rss_guid": "29e4cca5-d2ab-4f34-9187-b21401125ef6",
+      "published_date": "2024-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6530.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6348846c4835",
+      "rss_guid": "c884363f-4070-4b9e-8915-b21101312caa",
+      "published_date": "2024-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 294.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a577f6fc36ad",
+      "rss_guid": "7888c5cb-99f0-4efe-a7ac-b20d0151f980",
+      "published_date": "2024-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4513.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f2ef7cd1effd",
+      "rss_guid": "e9597ed9-8cf2-49fc-92ce-b20a015f720c",
+      "published_date": "2024-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 780.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-13e710a081db",
+      "rss_guid": "267953a5-0901-401a-81ef-b20600eca4bc",
+      "published_date": "2024-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6260.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1091f9c155ea",
+      "rss_guid": "0feb91f8-aee2-4681-8736-b2030156efc0",
+      "published_date": "2024-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 902.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0ab6b36cad93",
+      "rss_guid": "d6728d8b-ef19-48a6-88ed-b1ff011ab806",
+      "published_date": "2024-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4246.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3a49587f90ba",
+      "rss_guid": "b427c28d-75b0-4f9d-a194-b1f80135af65",
+      "published_date": "2024-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9098.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-60bed33f5b3c",
+      "rss_guid": "9d027aa1-0a7f-4ae5-83f4-b1f4013e08a7",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 463.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-72a32790d7cc",
+      "rss_guid": "8a4b8d2d-ece5-40db-82f9-b1f10138ec37",
+      "published_date": "2024-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 8308.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7e9148c6e597",
+      "rss_guid": "6ea73ca8-0f80-480c-99fa-b1ed012e0349",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 633.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5a01ed6605d8",
+      "rss_guid": "c3d1f75f-a970-4fc6-8374-b1ea013dc53a",
+      "published_date": "2024-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3564.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4d3c02d15a2a",
+      "rss_guid": "5b01f686-e09a-4201-a2bc-b1e60115db74",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 933.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b13f558be54b",
+      "rss_guid": "ebb332bf-f3e4-4624-a299-b1e301231287",
+      "published_date": "2024-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4782.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4f82f2d1a595",
+      "rss_guid": "313c1011-696b-477f-8f95-b1dc01664ce8",
+      "published_date": "2024-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 839.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1b29e30df5a4",
+      "rss_guid": "abce8d1f-f069-43bc-9e54-b1dc011ce8ba",
+      "published_date": "2024-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5026.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9d46f2f7b384",
+      "rss_guid": "451a0ec0-59bc-4555-96c7-b1d9011a446f",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1128.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-72d302ac3844",
+      "rss_guid": "eb795765-ded6-4e33-8d70-b1d90119c0bf",
+      "published_date": "2024-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 998.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6656e53e4169",
+      "rss_guid": "b210048a-688b-48ad-bed8-b1d800ff5a45",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 770.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-63899fe47315",
+      "rss_guid": "978649bf-eb19-4d73-b1c8-b1d50116411e",
+      "published_date": "2024-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6305.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d8ab8f4f99ae",
+      "rss_guid": "75fde19c-a54e-4738-acf6-b1d1013328e4",
+      "published_date": "2024-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 910.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-30acb4995e49",
+      "rss_guid": "07356d70-6bfb-4faa-92b2-b1d101314d26",
+      "published_date": "2024-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1044.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9bc4c91466f6",
+      "rss_guid": "2a170cb4-bc5e-4433-a1d1-b1ce013c2b3d",
+      "published_date": "2024-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 977.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fcac7c5c4b85",
+      "rss_guid": "6afd2ef0-5362-464d-acd9-b1ce013aae61",
+      "published_date": "2024-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6422.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7271bf21ca1f",
+      "rss_guid": "2fe6c286-3d42-43db-ab9e-b1c7013d42f2",
+      "published_date": "2024-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6748.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ea89fb63065c",
+      "rss_guid": "2c498197-d09a-48b5-a4b9-b1c3014f26d5",
+      "published_date": "2024-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1238.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f114641de4b2",
+      "rss_guid": "12f87dfb-fb22-42ea-bd37-b1c3014c2801",
+      "published_date": "2024-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1630.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3d94fc50491d",
+      "rss_guid": "f4b47f9e-fec0-4e2d-b45a-b1c001213312",
+      "published_date": "2024-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8236.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d6093e6726f9",
+      "rss_guid": "078821d9-bccb-40e8-b7be-b1b9010253fe",
+      "published_date": "2024-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5719.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-feed9af91c91",
+      "rss_guid": "c272c6a9-cfc9-47eb-98d4-b1b20106dc7b",
+      "published_date": "2024-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 11590.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c3d51654d670",
+      "rss_guid": "86333bd7-f2bd-4866-93d5-b1ab0117df26",
+      "published_date": "2024-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6181.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ca270d82b65d",
+      "rss_guid": "e9c2d11c-4a54-4694-982d-b1a701591589",
+      "published_date": "2024-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1380.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6cc4ed2f3bb3",
+      "rss_guid": "b80d96a2-7652-4635-b77b-b1a70157bdc7",
+      "published_date": "2024-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1596.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5266f6b16489",
+      "rss_guid": "713ddd8c-d7e7-4c15-acd0-b1a40127e64e",
+      "published_date": "2024-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7053.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-31405ce24622",
+      "rss_guid": "a1de46be-5d35-4718-93f0-b19d014d9124",
+      "published_date": "2024-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5569.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-990e2a125624",
+      "rss_guid": "96871c4c-d031-482f-800e-b1960164176a",
+      "published_date": "2024-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6282.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d4c5bb3f6d99",
+      "rss_guid": "c3aec6bb-ec60-4baa-8b21-b18f0181ec92",
+      "published_date": "2024-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6260.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-25e9f36fe9a1",
+      "rss_guid": "b85d48b4-4a9b-4127-88ad-b18c018a20fd",
+      "published_date": "2024-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1590.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3bae6b8a8870",
+      "rss_guid": "8117a15c-115d-4b04-8c23-b18b016dad13",
+      "published_date": "2024-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 952.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3a5819633698",
+      "rss_guid": "e9d6e8fa-c86f-4f12-a155-b188011b11ee",
+      "published_date": "2024-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5336.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e61a301f8b95",
+      "rss_guid": "5a8d2063-6ac7-416f-b15c-b1850148d44c",
+      "published_date": "2024-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1420.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-adee3f08b43d",
+      "rss_guid": "f8149dc4-8e06-4443-adc0-b1850146e824",
+      "published_date": "2024-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1453.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3cd9c697d397",
+      "rss_guid": "ca5b2ec1-be6a-46f8-9b56-b1850144ccde",
+      "published_date": "2024-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1131.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e37dcc378d77",
+      "rss_guid": "c9b453a7-f916-4a14-9846-b1810139468e",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 940.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ae952bbc4e7b",
+      "rss_guid": "167b8342-8a64-411c-b0ee-b1810133c7fc",
+      "published_date": "2024-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6006.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-30ed09ac9d67",
+      "rss_guid": "a8fba07f-5d2e-43d7-bbc7-b17a012c95bd",
+      "published_date": "2024-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6142.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-53114479e70f",
+      "rss_guid": "35b6aa67-e762-4c31-a497-b17301290381",
+      "published_date": "2024-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6169.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0cbc4b26e47b",
+      "rss_guid": "3b3770c0-480f-4ff2-b2c4-b16c0147bb87",
+      "published_date": "2024-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3987.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8bb5e36c6af1",
+      "rss_guid": "827d65dd-7a9e-43cb-b92a-b1650168f565",
+      "published_date": "2024-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7838.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f898d152d207",
+      "rss_guid": "949c5a44-06aa-46b8-b01c-b15e0111d79d",
+      "published_date": "2024-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6339.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c257b895d1a3",
+      "rss_guid": "d17a8324-473c-428e-8f10-b15d01151c80",
+      "published_date": "2024-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1269.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3b35ef6bfb25",
+      "rss_guid": "8e36375f-61ab-4dd9-8c16-b1570134ab16",
+      "published_date": "2024-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7095.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-01a7fd7f2067",
+      "rss_guid": "fd9c109f-8b0a-4ed2-aa18-b15001324c61",
+      "published_date": "2024-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5348.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a6323f545335",
+      "rss_guid": "cdb22212-4e35-484c-82a2-b149015f763f",
+      "published_date": "2024-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5188.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-48a4c6d921b4",
+      "rss_guid": "f08cf8ef-2615-44a2-91e4-b14201842035",
+      "published_date": "2024-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 11567.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f88d01a08e09",
+      "rss_guid": "179dac63-1a6c-4d09-90c4-b13c0003d937",
+      "published_date": "2024-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4180.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b82516bf71e3",
+      "rss_guid": "274a49cf-6b1d-470b-ade3-b13b017cb073",
+      "published_date": "2024-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6395.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a18742290d5f",
+      "rss_guid": "343df91f-a1a4-41bb-abaf-b134014827fd",
+      "published_date": "2024-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4255.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c30ee9da78d8",
+      "rss_guid": "07803e9e-2150-4b8c-8bb7-b12e0028aac5",
+      "published_date": "2024-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4863.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-730ed195474a",
+      "rss_guid": "56fe3d39-66d3-414a-81dc-b127001386bb",
+      "published_date": "2024-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5724.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b2a039eacb63",
+      "rss_guid": "bc36cce7-f1e0-48f4-878e-b12000040f10",
+      "published_date": "2024-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5719.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ec4965e58178",
+      "rss_guid": "7f213958-f7b2-4a2d-aeb9-b118017c7677",
+      "published_date": "2024-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3215.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-550249ee6c0d",
+      "rss_guid": "58fc2f26-7d84-4bbe-9ee7-b111015ab7d5",
+      "published_date": "2024-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7066.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-aa3e873a2bb7",
+      "rss_guid": "5f065850-8d38-485a-aba7-b10a01726ccd",
+      "published_date": "2024-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 10770.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2a8377c59ef8",
+      "rss_guid": "6c35bff8-ab0d-46c3-a408-b10a01710473",
+      "published_date": "2024-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7000.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-adad349343d1",
+      "rss_guid": "585f64c1-e772-42c6-8a7c-b1070013deb4",
+      "published_date": "2024-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1378.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6c863b075b19",
+      "rss_guid": "ced86278-4205-4238-b55c-b103014d234a",
+      "published_date": "2024-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6614.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3c51f75342bf",
+      "rss_guid": "8ea362ba-3537-431c-b90c-b0fc0165761f",
+      "published_date": "2024-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7297.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fa49f32ffa1b",
+      "rss_guid": "e432d32b-984b-4581-82a2-b0f80130f3c2",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 765.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9260592f8c61",
+      "rss_guid": "7d39cfcb-b598-4875-8a67-b0f501430031",
+      "published_date": "2024-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6067.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-780e986a7bd8",
+      "rss_guid": "691fa433-df4d-4f1e-80b9-b0f101290472",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 789.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f72810e02ca5",
+      "rss_guid": "e523bcd5-adb6-4491-a88e-b0ee016f9913",
+      "published_date": "2024-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 10113.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f77fee3b2b52",
+      "rss_guid": "5fa03211-c5a8-4158-b87a-b0eb011cd8fb",
+      "published_date": "2024-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1524.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e6164a25b637",
+      "rss_guid": "6bae28ce-7714-4c9b-8e18-b0e7011e8ebf",
+      "published_date": "2023-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7506.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a0fe5084e71a",
+      "rss_guid": "93604219-f2f5-4564-bfd4-b0e401019503",
+      "published_date": "2023-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4217.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-56b61dfe7c0b",
+      "rss_guid": "dd7b70b6-2e6f-4827-b68e-b0e401043f1a",
+      "published_date": "2023-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5770.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-95354f352390",
+      "rss_guid": "48524e1e-7a5e-4e18-8dfc-b0e4014c287c",
+      "published_date": "2023-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 986.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a24dfc337b74",
+      "rss_guid": "74042bab-78a1-4fcb-8081-b0e0011859f8",
+      "published_date": "2023-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4953.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f860d8a391dc",
+      "rss_guid": "0b046e29-5a43-4ebb-840d-b0dc014d3938",
+      "published_date": "2023-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8012.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3d422b126c6a",
+      "rss_guid": "88709041-0732-49d3-9cfd-b0dc014b743e",
+      "published_date": "2023-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6592.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-07e9943da1df",
+      "rss_guid": "8075dc77-8ebe-4240-9d80-b0dc014ac2fb",
+      "published_date": "2023-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8054.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-336794ab2d34",
+      "rss_guid": "d07dcb47-f6bc-430f-9f3c-b0dc010d3c5d",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1165.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-aa348ed9b30d",
+      "rss_guid": "36c73af4-0a74-4399-8b16-b0d900fd028c",
+      "published_date": "2023-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6643.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-98bca05b8c68",
+      "rss_guid": "06af3c2f-a77a-4b8e-9710-b0d5014d4613",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1119.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0501978c78cb",
+      "rss_guid": "fe060699-e6c2-4876-9b38-b0d30011b41a",
+      "published_date": "2023-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8872.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-24e8b01d2e9c",
+      "rss_guid": "28ef4778-9c8c-41df-b98d-b0ce010e9897",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1531.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-851df846daf9",
+      "rss_guid": "a1e9a1f7-264c-4d96-a7ea-b0cb017be9ba",
+      "published_date": "2023-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7882.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b71380827122",
+      "rss_guid": "4670a5e8-d524-4954-a0ea-b0c9015c75de",
+      "published_date": "2023-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1115.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-924ed7484e66",
+      "rss_guid": "9af4c4db-721f-4a01-bed5-b0c7000eba77",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1028.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ea758ab33b62",
+      "rss_guid": "b5fee416-54be-4fb3-ab13-b0c20125fc70",
+      "published_date": "2023-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5094.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bf53a1c984a3",
+      "rss_guid": "0e243fad-601a-4f19-8a00-b0c3011e92db",
+      "published_date": "2023-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1451.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3bcac3302aa6",
+      "rss_guid": "c293cf13-b92f-48df-8871-b0c201257808",
+      "published_date": "2023-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1253.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c2e22b2720ad",
+      "rss_guid": "a66a0ac5-4310-4241-a122-b0bd01415e9b",
+      "published_date": "2023-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5994.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-05d974849c0d",
+      "rss_guid": "faf8aa9d-6bb5-48cf-89b1-b0bb011abd1b",
+      "published_date": "2023-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 994.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-85f8bfe9523f",
+      "rss_guid": "5aa85198-a3ed-4870-80aa-b0b601897079",
+      "published_date": "2023-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 9029.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2d8a8371b640",
+      "rss_guid": "60c5814b-9384-4cd3-823f-b0b3014d26e6",
+      "published_date": "2023-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 907.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7ca0326a5fb3",
+      "rss_guid": "b571e492-5efa-4979-b4e5-b0af016e7de6",
+      "published_date": "2023-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5420.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d9fa0ca86bef",
+      "rss_guid": "025f8c27-86ed-4e41-be8b-b0ad012e1580",
+      "published_date": "2023-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1114.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cee239ca49e3",
+      "rss_guid": "0e0ba8af-1284-498f-b71b-b0a900492334",
+      "published_date": "2023-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6176.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e7d1433fa171",
+      "rss_guid": "ec3fec13-1b66-4e97-aaca-b0a1014a8cf9",
+      "published_date": "2023-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 9022.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8a6931f71b73",
+      "rss_guid": "a1ed01c6-0a82-4e0e-a57e-b09a01107579",
+      "published_date": "2023-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5338.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b12aa8a2525e",
+      "rss_guid": "0ea4bee0-828f-4024-83cf-b09301500049",
+      "published_date": "2023-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5785.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7a5df7a8f364",
+      "rss_guid": "a82a0383-b7bb-42a3-a052-b08c00ef910b",
+      "published_date": "2023-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6960.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0a044d566854",
+      "rss_guid": "26009c8c-eec8-47f3-ae8d-b08500ef8330",
+      "published_date": "2023-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5946.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2d678bf5794e",
+      "rss_guid": "ed250ebf-1500-450d-b3fa-b07e00ea0f66",
+      "published_date": "2023-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5974.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a5fe336b42ed",
+      "rss_guid": "3de6b79d-4eec-495d-9b16-b07701106b10",
+      "published_date": "2023-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3964.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-70bcf76e71b0",
+      "rss_guid": "22604dc5-4d36-4455-aada-b0700112cb4b",
+      "published_date": "2023-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3271.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bbf3ee53022e",
+      "rss_guid": "e6a63d1e-af6b-4287-9b95-b06900eb8160",
+      "published_date": "2023-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3454.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-48bfa321f612",
+      "rss_guid": "99398636-fed3-4ff9-83df-b06200e958b6",
+      "published_date": "2023-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6166.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c1eeb94bbecf",
+      "rss_guid": "9f768f94-cbf0-4710-beec-b05b0128bba0",
+      "published_date": "2023-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6592.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-95b2dbc2befb",
+      "rss_guid": "7fbb7f57-40b6-4d92-92c7-b05400e9e3b0",
+      "published_date": "2023-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4535.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f3ca33866b73",
+      "rss_guid": "5a6e25c5-e7d3-4256-bf5b-b04d00ef2560",
+      "published_date": "2023-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4333.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fca25b005a09",
+      "rss_guid": "278158ec-7acb-4bf0-bddd-b04600fb321d",
+      "published_date": "2023-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4397.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f2908bebf403",
+      "rss_guid": "7d4d1460-008c-4ca0-a19f-b03f00e2a55b",
+      "published_date": "2023-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4475.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9c6bba301b00",
+      "rss_guid": "b57acb27-8744-43d8-b708-b0390112d885",
+      "published_date": "2023-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5015.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-df9ba168bebd",
+      "rss_guid": "456fb889-a2f3-496f-91e3-b037015311b2",
+      "published_date": "2023-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3767.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6f1f885dcb67",
+      "rss_guid": "044a1d71-4bcc-4aff-ad48-b03100e533e0",
+      "published_date": "2023-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4449.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-b8df1bca2edc",
+      "rss_guid": "69cdaa45-a5ec-49cc-b88e-b02a00f4cdca",
+      "published_date": "2023-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4299.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cc2e64f2c4f7",
+      "rss_guid": "ca25342a-b4ec-4cd2-9002-b0240016b4e6",
+      "published_date": "2023-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3672.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2c8ffc04db45",
+      "rss_guid": "7dbc2b9b-25b5-4942-8aaa-b01c00ecec67",
+      "published_date": "2023-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4861.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5344837041c3",
+      "rss_guid": "ca8447ba-7cda-4c8b-8360-b01501007710",
+      "published_date": "2023-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5309.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-489eb39fea55",
+      "rss_guid": "e737f5ba-1506-4415-b6f6-b00e010640e5",
+      "published_date": "2023-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4072.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-29cc5a0b2ee2",
+      "rss_guid": "aad39f96-62a9-4427-819b-b00700e17f05",
+      "published_date": "2023-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4547.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6d64cac7c6b0",
+      "rss_guid": "b74bf660-905c-4b8a-9d6d-b00000f1d3b6",
+      "published_date": "2023-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4194.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a8cad41c2160",
+      "rss_guid": "499a226c-f1d2-463c-8392-aff90106174e",
+      "published_date": "2023-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4124.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ba2d5602c643",
+      "rss_guid": "0130ac71-bdab-446e-9a87-aff200eef122",
+      "published_date": "2023-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5820.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6fd524f36cab",
+      "rss_guid": "010f5ca5-4d44-4be4-b211-afeb00f773a9",
+      "published_date": "2023-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4497.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-461dedf889c9",
+      "rss_guid": "f22b51ff-5ae0-46ce-a2c2-afe400edc8a6",
+      "published_date": "2023-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4362.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6b71baaedd76",
+      "rss_guid": "af5c649e-5a81-4b92-8345-afdd011c795f",
+      "published_date": "2023-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4393.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-baa1fc685519",
+      "rss_guid": "0f2e1db1-1f3e-47f0-a28a-afdb00f03b9f",
+      "published_date": "2023-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1877.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5b1b88b97583",
+      "rss_guid": "55577ddc-7525-4a58-a34d-afd60126be97",
+      "published_date": "2023-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4350.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-99af2aefdc72",
+      "rss_guid": "6b7cc08a-a699-4ff5-85df-afcf01279f51",
+      "published_date": "2023-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4309.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-69a01e0f085e",
+      "rss_guid": "595114e9-3ee7-40e5-a015-afcd0113755d",
+      "published_date": "2023-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1029.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a10b1f9fd36b",
+      "rss_guid": "c6245820-34e1-4c6b-a9d9-afc800e9bbc6",
+      "published_date": "2023-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3997.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d1f7182a35b8",
+      "rss_guid": "441d26a6-7994-48db-8ff1-afc6012d407e",
+      "published_date": "2023-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 973.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a524b6dcdd65",
+      "rss_guid": "5e3df77b-769d-486d-90f5-afc1015b7a2a",
+      "published_date": "2023-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3963.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5379b12f5907",
+      "rss_guid": "527d7f1f-da27-46b2-81f3-afba0115ec31",
+      "published_date": "2023-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5f21a1c70bf9",
+      "rss_guid": "c11976eb-649f-453f-9d8a-afb301194d2d",
+      "published_date": "2023-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4516.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a80d44303511",
+      "rss_guid": "8b2692e1-c16b-48a2-b7ed-afac010802eb",
+      "published_date": "2023-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4559.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f99022081cda",
+      "rss_guid": "628a798f-b690-4b31-aa09-afa501579d9c",
+      "published_date": "2023-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4615.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-00c626a3f442",
+      "rss_guid": "575ffaa9-3604-4660-a20c-afa40121942b",
+      "published_date": "2023-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 888.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-26c630caf74d",
+      "rss_guid": "736c5fbd-3870-424b-bf34-af9e011cb152",
+      "published_date": "2023-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5098.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-79db772d8448",
+      "rss_guid": "a8450252-27c0-40c1-9af7-af97011dc649",
+      "published_date": "2023-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8079.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f58f03f1fc46",
+      "rss_guid": "90c12f86-28a3-45a4-8c1b-af900132bbb1",
+      "published_date": "2023-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5771.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a9005e2ab385",
+      "rss_guid": "89224812-64a6-45f4-9ef6-af8f00fc65e9",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 901.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5e427c265b7d",
+      "rss_guid": "87cee815-8cb7-4693-a06a-af8901450780",
+      "published_date": "2023-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5093.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d64a28a66673",
+      "rss_guid": "41de1e65-8dc9-4737-8228-af8201881bc1",
+      "published_date": "2023-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8056.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-447f787cb6d3",
+      "rss_guid": "483bea2b-d53b-4435-9430-af81010f21e8",
+      "published_date": "2023-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1126.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1f1d15338584",
+      "rss_guid": "2d964502-bffc-452b-92a8-af7b017fb7bc",
+      "published_date": "2022-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6900.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-353167b9365d",
+      "rss_guid": "e49c4e79-e942-4ef8-aed6-af7a012424ba",
+      "published_date": "2022-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1572.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-dc9f0b586c6d",
+      "rss_guid": "216ad431-9f1a-4f00-9a71-af73018888e0",
+      "published_date": "2022-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4475.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-eef3727a2df6",
+      "rss_guid": "4107394a-8b3d-4ab3-aa5e-af720118e63e",
+      "published_date": "2022-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 864.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-64307fc35c50",
+      "rss_guid": "8499899e-819d-4a9f-808c-af6d01594bec",
+      "published_date": "2022-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4990.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2adcab20ecbc",
+      "rss_guid": "2901631e-b738-452f-9433-af6900fd93cd",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1063.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-024f9606e224",
+      "rss_guid": "d101715f-22b6-4ff0-96da-af66012a8541",
+      "published_date": "2022-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6440.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-afe99deb0ffc",
+      "rss_guid": "bef0d85c-876f-4d32-a70f-af6000f6876a",
+      "published_date": "2022-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4397.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5ac477b33467",
+      "rss_guid": "af9b3979-a34f-4b31-90ad-af58004b2c19",
+      "published_date": "2022-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4346.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-296d3975b205",
+      "rss_guid": "5512cfca-9698-4e1f-bdb2-af570128e6c1",
+      "published_date": "2022-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5983.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-96376aff9df2",
+      "rss_guid": "dfb33c28-1e5b-41fb-b348-af5400ff253c",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1025.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-23f8e54ebfd8",
+      "rss_guid": "d03a24d2-83a5-4c9d-8e94-af51015e3d08",
+      "published_date": "2022-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4712.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a16e3e5dee8a",
+      "rss_guid": "a819f665-234a-4616-b832-af510151830f",
+      "published_date": "2022-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5088.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8bd353d965cc",
+      "rss_guid": "5fa7cf40-23a9-4ad9-b8fe-af4a0116452f",
+      "published_date": "2022-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6193.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9f12777883c1",
+      "rss_guid": "0cd065af-f0c2-463a-acdb-af4900f66a0e",
+      "published_date": "2022-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 983.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-014ecd701e14",
+      "rss_guid": "284f6e87-ba51-43f9-a5ed-af4301493226",
+      "published_date": "2022-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4701.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ceca4249b3ec",
+      "rss_guid": "4ac20a07-e6a2-496e-97ac-af3c014c39fa",
+      "published_date": "2022-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4866.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3a7bb1d24e7d",
+      "rss_guid": "269ebf07-dbee-4ac7-b4f7-af360138dcd9",
+      "published_date": "2022-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5562.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0fabb93a684a",
+      "rss_guid": "26c92a99-3318-4410-8209-af2f0137adce",
+      "published_date": "2022-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5344.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-706b74afddcf",
+      "rss_guid": "abd0e1d4-be99-4053-8cef-af270104940a",
+      "published_date": "2022-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7905.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-293d1bba9820",
+      "rss_guid": "05b308d3-e035-496e-bc73-af21002799a9",
+      "published_date": "2022-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9683.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-74e018cd8511",
+      "rss_guid": "4a62bd1f-062e-42d3-8ca8-af1a002193f5",
+      "published_date": "2022-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4713.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7d762b5f18a6",
+      "rss_guid": "dc46ec75-903b-47a4-b8b9-af130015402a",
+      "published_date": "2022-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5631.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cfe7e76d5d4d",
+      "rss_guid": "2b9f59d8-ce6e-475a-83e3-af0b01492d0e",
+      "published_date": "2022-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5633.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d96bc3ed123b",
+      "rss_guid": "0ae16582-1100-44b1-a7bb-af0401475ad3",
+      "published_date": "2022-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5632.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-235f4bd585e8",
+      "rss_guid": "6772e072-e607-4933-8ba2-aefd0129adb1",
+      "published_date": "2022-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7262.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a58a143162e9",
+      "rss_guid": "52dd1a92-5043-4057-8e53-aef6012651c2",
+      "published_date": "2022-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7532.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a5d1434b1d82",
+      "rss_guid": "e4105546-85f2-4231-a270-aef3016c39de",
+      "published_date": "2022-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2221.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-60dbd9a2fb58",
+      "rss_guid": "7fca7512-0592-4b0c-ac83-aeef01479270",
+      "published_date": "2022-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6259.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-26c5416be2bf",
+      "rss_guid": "b5f4e4e6-cdc6-4ff8-abc4-aee801623e09",
+      "published_date": "2022-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6588.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-48a9ad24db7c",
+      "rss_guid": "5767dd49-6ec4-4244-a7b1-aee1013e9df9",
+      "published_date": "2022-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5864.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8f60fa34271f",
+      "rss_guid": "2ef8f1c9-7ee6-4ab4-84fd-aeda010cda1e",
+      "published_date": "2022-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7890.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bf86d67cf8e2",
+      "rss_guid": "910e3990-7fb5-408f-8549-aed6014ac981",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1375.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0b5e12277ed3",
+      "rss_guid": "69b3e509-6e5c-4e37-9d63-aed3014a9498",
+      "published_date": "2022-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4693.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-eb89b479fc7d",
+      "rss_guid": "b90fe0b3-4cde-45d4-93fb-aecc01848f0f",
+      "published_date": "2022-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7565.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1a34ce317c86",
+      "rss_guid": "916ad8b5-328b-4615-b12b-aec5015e2fda",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1270.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d97bcc6adc1e",
+      "rss_guid": "770bd0cd-c467-4dfa-9f26-aec500f9cab1",
+      "published_date": "2022-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5037.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-16d852bb8e34",
+      "rss_guid": "9d48beab-e003-49b3-8f24-aebe0136ec04",
+      "published_date": "2022-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9441.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-08678b71c4c8",
+      "rss_guid": "d3534e2a-12c8-4893-97e4-aeb9010b7f4d",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 936.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3c5f785ee071",
+      "rss_guid": "417fc0ed-5a95-40f0-85b6-aeb800140f39",
+      "published_date": "2022-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7793.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-661ae4810579",
+      "rss_guid": "9a26e849-f80a-4f16-a435-aeb001365748",
+      "published_date": "2022-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8236.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-88a518e86a3b",
+      "rss_guid": "f6610995-9c70-4ca6-a37e-aead001e444f",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1497.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3730dbfeceb8",
+      "rss_guid": "c8ef5732-05a2-49d1-b3fd-aea9012d1968",
+      "published_date": "2022-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6456.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-9cf8e33bb3fd",
+      "rss_guid": "795b9b65-7fa8-463b-ada5-aea2017cda5b",
+      "published_date": "2022-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8317.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0b3776ad0e72",
+      "rss_guid": "2d20a4b2-eda4-40ff-b575-aea10006b2c6",
+      "published_date": "2022-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 780.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c0954a7d94ba",
+      "rss_guid": "49b9dae1-2979-44a1-a1a2-ae9b011de4f1",
+      "published_date": "2022-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6807.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-753fe0732c44",
+      "rss_guid": "b9be3940-0416-4742-a227-ae9401254042",
+      "published_date": "2022-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4411.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-de1ec48fed37",
+      "rss_guid": "db6c14cf-4de3-45c1-8757-ae9400f28f4c",
+      "published_date": "2022-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1622.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ccb55306c837",
+      "rss_guid": "b8926516-6b0f-47f9-be47-ae8d01278732",
+      "published_date": "2022-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4081.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f334d78a1cd5",
+      "rss_guid": "2b4001c6-6d72-4099-b297-ae8700fcff50",
+      "published_date": "2022-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5600.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-a8952cd09087",
+      "rss_guid": "ee5a408b-6893-4f78-9a0c-ae8000f0100d",
+      "published_date": "2022-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4824.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-913f993f5a60",
+      "rss_guid": "14403240-bd10-11ec-a7ca-0fe8f686f61f",
+      "published_date": "2022-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8090.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-eccee7b1a085",
+      "rss_guid": "91e9bc36-babb-11ec-acbe-275b33d81e0b",
+      "published_date": "2022-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 943.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-e68504b9de08",
+      "rss_guid": "5d39d076-b826-11ec-814b-3b2ee2c9c717",
+      "published_date": "2022-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5316.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6197d4617767",
+      "rss_guid": "6545ef3a-b221-11ec-8469-e7d5e78c975b",
+      "published_date": "2022-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5765.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4f845b12af7b",
+      "rss_guid": "c91b226c-aca6-11ec-b128-af645a28c154",
+      "published_date": "2022-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7410.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-2e31f4cf1e9e",
+      "rss_guid": "1df55f9e-a97f-11ec-89c8-2b37cba92577",
+      "published_date": "2022-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1298.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3e2290dca3ea",
+      "rss_guid": "a3dcbd6c-a70b-11ec-9786-07bd69a2cce5",
+      "published_date": "2022-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4671.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4bc7d58adf11",
+      "rss_guid": "fecd835c-a4ac-11ec-9ebb-0faa2fbb1eee",
+      "published_date": "2022-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 893.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-99a7e320dc87",
+      "rss_guid": "0e1b8a70-a1ba-11ec-80a4-e322c39ebbb7",
+      "published_date": "2022-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3354.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c870a9582644",
+      "rss_guid": "0f9ef444-a18e-11ec-ae11-0f21e43434f5",
+      "published_date": "2022-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3842.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7e5a5e970465",
+      "rss_guid": "4d1a588e-9cd1-11ec-9240-fbd7a4942b51",
+      "published_date": "2022-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7929.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8356cc58a6fd",
+      "rss_guid": "108ba04c-98ff-11ec-b453-ef81a8cc4cdd",
+      "published_date": "2022-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8453.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-78d410b929a8",
+      "rss_guid": "840a078c-98f2-11ec-81b8-f75a5143dccd",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 882.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f4f8edf14ed0",
+      "rss_guid": "527bbb3c-96a1-11ec-ab6e-57045536384b",
+      "published_date": "2022-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1483.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ad674cfef35c",
+      "rss_guid": "17ed2388-969d-11ec-9cab-13fe79fae94b",
+      "published_date": "2022-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8268.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-da014770f887",
+      "rss_guid": "55f350bc-9139-11ec-9ee8-172779f9c64a",
+      "published_date": "2022-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6000.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-313ac0212e14",
+      "rss_guid": "6f3001e2-904e-11ec-b6b3-fbdcdfe14a87",
+      "published_date": "2022-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1698.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0e6fc1573f5f",
+      "rss_guid": "8e8d86a8-8bae-11ec-a0ef-330feebcfa1a",
+      "published_date": "2022-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3465.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-02a6a64a25a5",
+      "rss_guid": "80ee1d52-8864-11ec-98db-f7a5853d5f19",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1298.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3826b57b8792",
+      "rss_guid": "8ecff44c-86c8-11ec-aae1-170dccde5442",
+      "published_date": "2022-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4865.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-8dc4b5dad3c9",
+      "rss_guid": "39410802-844a-11ec-9e29-ffb2a79cf97f",
+      "published_date": "2022-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 89.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5e82a89e34e4",
+      "rss_guid": "6f570436-836f-11ec-9add-abbe2528f7b9",
+      "published_date": "2022-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3501.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-4ee6ac1107b2",
+      "rss_guid": "67335988-8119-11ec-b029-dfc1abff4d21",
+      "published_date": "2022-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6347.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-56d84c64ea55",
+      "rss_guid": "60a4d2e4-7e27-11ec-b261-b3d304932582",
+      "published_date": "2022-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1711.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-fd2389b52f5f",
+      "rss_guid": "8f86638c-7bef-11ec-a3fd-ff3cadb7ba2e",
+      "published_date": "2022-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7230.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d65eb86950cf",
+      "rss_guid": "2ec973c0-78ae-11ec-9117-8fbbfe19c0ca",
+      "published_date": "2022-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 981.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-865597ce701b",
+      "rss_guid": "79629c28-7574-11ec-9481-43c259b17094",
+      "published_date": "2022-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3989.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-02aea11980ba",
+      "rss_guid": "6c8b5d46-72ae-11ec-8137-df5d385abd64",
+      "published_date": "2022-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1460.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0e12fb49bef8",
+      "rss_guid": "f9ae2cc6-70b0-11ec-9fee-534d528169c0",
+      "published_date": "2022-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8119.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-78cd6bf9b21a",
+      "rss_guid": "3815c36e-6cc6-11ec-9328-bb01f6af1263",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1270.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-1b3c89b84726",
+      "rss_guid": "fd1f7b9c-6ad6-11ec-8cad-0313480b20f9",
+      "published_date": "2022-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5378.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6b76c295cb3c",
+      "rss_guid": "58571020-6748-11ec-a248-17dd9a9beba0",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1361.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-91dec0e97f35",
+      "rss_guid": "f0ac7b4c-6524-11ec-9a1e-abd16044631a",
+      "published_date": "2021-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5694.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-22054df539d0",
+      "rss_guid": "46d3c6e2-635e-11ec-a81c-a72256a767d7",
+      "published_date": "2021-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1163.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-ec52176d5e31",
+      "rss_guid": "5254aab8-610b-11ec-917e-77341befe68d",
+      "published_date": "2021-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7661.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-5e3a142edb9b",
+      "rss_guid": "2f019f14-5f9c-11ec-a3ea-6317db4782ba",
+      "published_date": "2021-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1945.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-6e281ef95852",
+      "rss_guid": "a5ca0e8e-5a23-11ec-84f9-53a7d4041f50",
+      "published_date": "2021-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4550.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-c2cb892387f5",
+      "rss_guid": "ca000d80-5861-11ec-8b23-3f25627f9c78",
+      "published_date": "2021-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2636.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-215fedb68a1a",
+      "rss_guid": "a294c596-551f-11ec-8527-339c477f3119",
+      "published_date": "2021-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8194.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-dc4ef80be8fb",
+      "rss_guid": "1b791a20-5147-11ec-b5c4-c78d7d2a3db5",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1503.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-dcacb6155426",
+      "rss_guid": "63953b84-2df9-11ec-9eb1-57bdc0afb9fa",
+      "published_date": "2021-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6277.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-901dec49b3cf",
+      "rss_guid": "eca90208-4bd0-11ec-a9c2-87d2bb3af91b",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 572.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-d6f8f42d050b",
+      "rss_guid": "63753ba4-2df9-11ec-9eb1-1bba00ca73ab",
+      "published_date": "2021-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5473.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-494d5acdd1a2",
+      "rss_guid": "b951646a-465b-11ec-8028-874fb663dbe5",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1661.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cce7e926e15c",
+      "rss_guid": "63550186-2df9-11ec-9eb1-4b18730acf1e",
+      "published_date": "2021-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6259.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-dce3728348ec",
+      "rss_guid": "6ab2267a-40d2-11ec-91b8-035c3588c6ac",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1260.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-0d912d129621",
+      "rss_guid": "15256ed2-3e58-11ec-8e5a-ef5940e51420",
+      "published_date": "2021-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4995.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bdca3060be92",
+      "rss_guid": "6334e702-2df9-11ec-9eb1-13ee61dd4923",
+      "published_date": "2021-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 769.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f99c6b0f1f8a",
+      "rss_guid": "6314e4ac-2df9-11ec-9eb1-e38de13c9c1c",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5488.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-28c7a9364dee",
+      "rss_guid": "2d003c4a-35ba-11ec-a4be-6b7e642c4e28",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3132.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-3b071726ab79",
+      "rss_guid": "45da1e48-342a-11ec-a937-3f752e1e8f24",
+      "published_date": "2021-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 10146.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-f890c1cdb1b8",
+      "rss_guid": "d36544f6-3428-11ec-b6cb-9f3eadf0bb8f",
+      "published_date": "2021-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1298.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-632047bbbfe1",
+      "rss_guid": "62f4bb96-2df9-11ec-9eb1-8b1e9dff3901",
+      "published_date": "2021-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5563.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7fe0efcaab23",
+      "rss_guid": "8d884cf6-302e-11ec-8fbe-ef4326bf958b",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 960.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-275fde4de019",
+      "rss_guid": "4f245b58-2eb7-11ec-8aa6-6be75afe3bbd",
+      "published_date": "2021-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 1330.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-bacf9b9948e6",
+      "rss_guid": "62d48b28-2df9-11ec-9eb1-f755605cf3c0",
+      "published_date": "2021-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7485.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-cc73de285607",
+      "rss_guid": "2e607332-2865-11ec-b299-c79797f72f92",
+      "published_date": "2021-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4009.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-24b3a98b659a",
+      "rss_guid": "150cfb62-26da-11ec-8912-8fff0fcf0f2f",
+      "published_date": "2021-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1442.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-7526ca800354",
+      "rss_guid": "bbae3d50-24a0-11ec-be05-03e90d567d26",
+      "published_date": "2021-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8145.0
+    },
+    {
+      "episode_id": "the_85_south_show_with_karlous_miller_dc_young_f-73f9279aad44",
+      "rss_guid": "fe81c000-2268-11ec-b5b1-73ccf489bd42",
+      "published_date": "2021-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1486.0
+    }
+  ]
+}

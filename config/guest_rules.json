@@ -1,0 +1,356 @@
+{
+  "schema_version": "0.1",
+  "purpose": "Rules for reading guest names from RSS episode titles and descriptions (code/18_build_guest_dataset.py). Researcher decision 2026-10-03: guests come only from the RSS feed, with free local rules (no paid model). A guest is a named person the title or description says takes part in the episode and who is not a host or listed regular.",
+  "notes": [
+    "Title patterns are regular expressions with a named group 'g' holding one or more names. 'strict' patterns are trusted as they are (the show always puts guest names in that slot); 'loose' patterns are kept only when the name also appears, with the same capitalization, in the episode description.",
+    "Patterns under 'all' apply to every show; show patterns are tried first. If no title pattern yields a guest, description phrases ('my guest is', 'joined by', 'sits down with', 'X joins Theo', ...) are used.",
+    "Hosts come from config/podcasts.json; 'extra_hosts' adds co-hosts and regulars that config lacks. Anyone listed there is never counted as a guest.",
+    "'title_only': true turns off the description fallback for shows whose descriptions list everyone present (Kill Tony) or describe crime cases (Small Town Murder).",
+    "'allow_single' lets a loose rule keep one-word names (Kill Tony: 'FLUFFY'); 'title_strip' removes a show-name tail before the rules run. 'with_end' (title ending in 'with X') is loose because topic phrases follow 'with' too."
+  ],
+  "all": {
+    "title": [
+      {
+        "rule": "with_slash",
+        "kind": "strict",
+        "pattern": "(?:^|[\\s(])[Ww]/\\s*(?P<g>[^|()\\[\\]:–—]+?)\\s*(?:[|()\\[\\]:–—]|\\s-\\s|$)"
+      },
+      {
+        "rule": "feat",
+        "kind": "strict",
+        "pattern": "\\b(?:feat\\.?|ft\\.?|Ft\\.?|FT\\.?|featuring|Featuring|FEATURING)\\s+(?P<g>[^|()\\[\\]:*–—]+?)\\s*(?:[|()\\[\\]:*–—]|\\s-\\s|$)"
+      },
+      {
+        "rule": "with_end",
+        "kind": "loose",
+        "pattern": "\\b(?:with|With|WITH)\\s+(?P<g>[^|()\\[\\]:–—]+?)\\s*(?:[|()\\[\\]–—]|\\s-\\s|$)"
+      }
+    ]
+  },
+  "shows": {
+    "jre": {
+      "title": [
+        {
+          "rule": "jre_number",
+          "kind": "strict",
+          "pattern": "^#\\d+\\s*[-–]\\s*(?P<g>.+)$"
+        },
+        {
+          "rule": "jre_mma",
+          "kind": "loose",
+          "pattern": "^JRE MMA Show #\\d+\\s*(?:with|-|–)\\s*(?P<g>.+)$"
+        }
+      ]
+    },
+    "kill_tony": {
+      "title_only": true,
+      "title": [
+        {
+          "rule": "kt_number",
+          "kind": "loose",
+          "allow_single": true,
+          "pattern": "^#\\s*\\d+\\s*[-–]\\s*(?P<g>.+)$"
+        }
+      ]
+    },
+    "this_past_weekend_w_theo_von": {
+      "title": [
+        {
+          "rule": "theo_number",
+          "kind": "strict",
+          "pattern": "^#\\d+\\s*[-–]\\s*(?P<g>.+)$"
+        },
+        {
+          "rule": "theo_e_number",
+          "kind": "loose",
+          "pattern": "^E\\d+\\s+(?P<g>.+)$"
+        },
+        {
+          "rule": "theo_old",
+          "kind": "loose",
+          "pattern": "^(?P<g>[^|]+?)\\s*\\|\\s*This Past Weekend"
+        }
+      ]
+    },
+    "wtf_with_marc_maron_podcast": {
+      "title": [
+        {
+          "rule": "wtf_episode",
+          "kind": "strict",
+          "pattern": "^Episode \\d+\\s*[-–]\\s*(?P<g>.+)$"
+        }
+      ]
+    },
+    "h3_podcast": {
+      "extra_hosts": [
+        "Dan Swerdlove",
+        "Zach Louis",
+        "Ian Hecox",
+        "Olivia Bacino",
+        "Lena Klein",
+        "AB",
+        "Love"
+      ],
+      "title": [
+        {
+          "rule": "h3_number",
+          "kind": "loose",
+          "pattern": "^#\\d+\\s*[-–]\\s*(?P<g>.+)$"
+        }
+      ]
+    },
+    "your_mom_s_house_with_christina_p_and_tom_segura": {
+      "extra_hosts": [
+        "Christina P",
+        "Christina Pazsitzky"
+      ],
+      "title": [
+        {
+          "rule": "ymh_number",
+          "kind": "strict",
+          "pattern": "^\\d+\\s*[-–]\\s*(?P<g>.+?)\\s*[-–]\\s*Your Mom'?s House"
+        }
+      ]
+    },
+    "full_send_podcast": {
+      "extra_hosts": [
+        "Kyle Forgeard",
+        "Steve Deleonardis",
+        "Salim Sirur",
+        "Nelk Boys",
+        "Nelk",
+        "Bob Menery"
+      ],
+      "title": [
+        {
+          "rule": "fs_x_nelk",
+          "kind": "strict",
+          "pattern": "^(?P<g>.+?)\\s+[xX]\\s+(?:The\\s+)?Nelk Boys"
+        },
+        {
+          "rule": "fs_name_ep",
+          "kind": "strict",
+          "pattern": "^(?P<g>[^|]+?)\\s*\\|\\s*Ep\\.?\\s*\\d+\\s*$"
+        }
+      ]
+    },
+    "good_hang_with_amy_poehler": {
+      "title": [
+        {
+          "rule": "gh_title",
+          "kind": "loose",
+          "pattern": "^(?P<g>[^|\"“]+?)(?:\\s*\\((?:Live|LIVE)\\))?\\s*$"
+        }
+      ]
+    },
+    "armchair_expert_with_dax_shepard": {
+      "extra_hosts": [
+        "Monica Padman",
+        "Monica",
+        "Dax",
+        "Rob Holysz"
+      ],
+      "title": [
+        {
+          "rule": "ae_title",
+          "kind": "loose",
+          "pattern": "^(?:EXPERTS ON EXPERT:\\s*)?(?P<g>[^(:]+?)(?:\\s*\\(.*\\))?\\s*$"
+        }
+      ]
+    },
+    "huberman_lab": {
+      "title": [
+        {
+          "rule": "hl_guest_series",
+          "kind": "strict",
+          "pattern": "^GUEST SERIES\\s*\\|\\s*(?P<g>[^:]+):"
+        },
+        {
+          "rule": "hl_last_segment",
+          "kind": "loose",
+          "pattern": "\\|\\s*(?P<g>[^|]+)$"
+        }
+      ]
+    },
+    "on_purpose_with_jay_shetty": {
+      "title": [
+        {
+          "rule": "js_on",
+          "kind": "strict",
+          "pattern": "^(?P<g>[^:]+?)\\s+ON\\s*:"
+        },
+        {
+          "rule": "js_colon",
+          "kind": "loose",
+          "pattern": "^(?P<g>[^:]+?):\\s"
+        }
+      ]
+    },
+    "the_mel_robbins_podcast": {
+      "title": [
+        {
+          "rule": "mr_colon",
+          "kind": "loose",
+          "pattern": "^(?P<g>[^:]+?):\\s"
+        }
+      ]
+    },
+    "monday_morning_podcast": {
+      "extra_hosts": [
+        "Nia",
+        "Nia Renee Hill",
+        "Bill"
+      ]
+    },
+    "the_85_south_show_with_karlous_miller_dc_young_f": {
+      "extra_hosts": [
+        "Karlous",
+        "DC",
+        "DCYoungFly",
+        "KarlousMiller",
+        "ChicoBean",
+        "Clayton English",
+        "Jack Thriller",
+        "Navv Greene"
+      ],
+      "title": [
+        {
+          "rule": "85_in_the_trap",
+          "kind": "strict",
+          "pattern": "^(?:85 SOUTH REPLAY:\\s*)?(?P<g>.+?)\\s+(?:in|In|IN)\\s+(?:the|The|THE)\\s+(?:Trap|TRAP)"
+        },
+        {
+          "rule": "85_first_segment",
+          "kind": "loose",
+          "pattern": "^(?P<g>[^|]+?)\\s*\\|"
+        },
+        {
+          "rule": "85_w_name",
+          "kind": "loose",
+          "pattern": "\\b(?:W|Wit|wit)\\s+(?P<g>[^|]+?)\\s*(?:\\||$)"
+        }
+      ]
+    },
+    "adam_carolla_show": {
+      "extra_hosts": [
+        "Adam Carolla",
+        "Adam",
+        "Gina Grad",
+        "Gina",
+        "Bryan Bishop",
+        "Bald Bryan",
+        "Bryan"
+      ],
+      "title": [
+        {
+          "rule": "acs_part_parenthesis",
+          "kind": "loose",
+          "pattern": "^ACS \\(Part \\d+\\):\\s*(?P<g>.+)$"
+        },
+        {
+          "rule": "acs_part",
+          "kind": "loose",
+          "pattern": "^Part \\d+:\\s*(?P<g>.+?)(?:,?\\s+plus\\b.*|\\s*\\(ACS.*\\))?$"
+        },
+        {
+          "rule": "acs_classics",
+          "kind": "loose",
+          "pattern": "^(?:Carolla Classics:\\s*)?(?P<g>.+?)(?:,?\\s+plus\\b.*)?\\s*(?:\\(Carolla Classics\\))?$"
+        },
+        {
+          "rule": "acs_first_segment",
+          "kind": "loose",
+          "pattern": "^(?P<g>[^|]+?)\\s*\\|"
+        }
+      ]
+    },
+    "impaulsive_with_logan_paul": {
+      "extra_hosts": [
+        "Mike Majlak",
+        "Mike",
+        "George Janko",
+        "Logan",
+        "Logan Paul"
+      ]
+    },
+    "2_bears_1_cave_with_tom_segura_bert_kreischer": {
+      "extra_hosts": [
+        "Bert",
+        "Tom"
+      ]
+    },
+    "office_ladies": {
+      "extra_hosts": [
+        "Jenna",
+        "Angela"
+      ]
+    },
+    "fake_doctors_real_friends_with_zach_and_donald": {
+      "hosts": [
+        "Zach Braff",
+        "Donald Faison"
+      ],
+      "extra_hosts": [
+        "Joelle Monique",
+        "Zach",
+        "Donald"
+      ]
+    },
+    "how_did_this_get_made": {
+      "hosts": [
+        "Paul Scheer",
+        "June Diane Raphael",
+        "Jason Mantzoukas"
+      ]
+    },
+    "dropouts": {
+      "extra_hosts": [
+        "Indiana Massara",
+        "Indiana",
+        "Zach",
+        "Jared",
+        "Jarebear"
+      ],
+      "title_strip": "\\s*[-|]?\\s*Dropouts\\b.*$"
+    },
+    "two_hot_takes": {
+      "extra_hosts": [
+        "Morgan",
+        "Lauren"
+      ]
+    },
+    "the_basement_yard": {
+      "extra_hosts": [
+        "Joe",
+        "Frank",
+        "Basement Yard"
+      ]
+    },
+    "ear_biscuits_with_rhett_link": {
+      "extra_hosts": [
+        "Rhett McLaughlin",
+        "Link Neal"
+      ]
+    },
+    "matt_and_shane_s_secret_podcast": {
+      "extra_hosts": [
+        "Matt",
+        "Shane"
+      ]
+    },
+    "bad_friends": {
+      "extra_hosts": [
+        "Bobby",
+        "Santino",
+        "Rudy",
+        "Rudy Jules"
+      ]
+    },
+    "small_town_murder": {
+      "title_only": true
+    },
+    "the_lol_podcast": {},
+    "shxtsngigs": {},
+    "you_should_know_podcast": {}
+  }
+}

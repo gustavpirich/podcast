@@ -1,0 +1,597 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_good_hang_with_amy_poehler_20261002T193807Z",
+  "show_id": "good_hang_with_amy_poehler",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/good-hang-with-amy-poehler",
+    "snapshot_relative_path": "data/raw/rss/good_hang_with_amy_poehler/good_hang_with_amy_poehler_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "5b69fdf0f5600bb5ec806875288bca0b00ce8ba3c52c4fb788fe1f364cfc009b",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "good_hang_with_amy_poehler-36a4e3f88f34",
+      "rss_guid": "3b4742c2-a585-11f1-b239-efb1e3b5d8ce",
+      "published_date": "2026-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4233.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-010f9928bdb3",
+      "rss_guid": "3b2ba7a6-a585-11f1-b239-a72294f95c54",
+      "published_date": "2026-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4535.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-9a8f865f56f6",
+      "rss_guid": "3b109ec0-a585-11f1-b239-7397f246d53f",
+      "published_date": "2026-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4689.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-497f32ac9961",
+      "rss_guid": "3af4b9b2-a585-11f1-b239-3f18394855d2",
+      "published_date": "2026-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4359.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6f65eb4f2dbd",
+      "rss_guid": "3ad7aade-a585-11f1-b239-eba356697643",
+      "published_date": "2026-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4067.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-374808025372",
+      "rss_guid": "b5832e48-7407-11f1-b031-6bb8ff02a163",
+      "published_date": "2026-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5137.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-5a8dea8d3562",
+      "rss_guid": "b56d245e-7407-11f1-b031-1bec15ec4979",
+      "published_date": "2026-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3920.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-f92034b7beef",
+      "rss_guid": "b552170e-7407-11f1-b031-03c10f8e6e33",
+      "published_date": "2026-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4521.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-4f2ce9938dd3",
+      "rss_guid": "b535acd6-7407-11f1-b031-2b4110425911",
+      "published_date": "2026-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4461.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-8921cdecc473",
+      "rss_guid": "b51b60f6-7407-11f1-b031-3b1d19f45014",
+      "published_date": "2026-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4149.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6bce87433d8b",
+      "rss_guid": "b5047ada-7407-11f1-b031-e3e78c558cf0",
+      "published_date": "2026-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4037.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-a0d4e89fe7da",
+      "rss_guid": "b4eaed9a-7407-11f1-b031-5b83ab4f9f16",
+      "published_date": "2026-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4494.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-0b51467b27cd",
+      "rss_guid": "b467a4ee-7407-11f1-b031-b7645ce05b75",
+      "published_date": "2026-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4398.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-78d038f4821e",
+      "rss_guid": "833c7d0a-5e03-11f1-9202-9be79f091011",
+      "published_date": "2026-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3699.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-8ac7603f6172",
+      "rss_guid": "83201d86-5e03-11f1-9202-1724dcf6d97b",
+      "published_date": "2026-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4399.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-496a2fa3af2e",
+      "rss_guid": "83041af0-5e03-11f1-9202-5730f1948b98",
+      "published_date": "2026-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4353.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-9768fd7d9efc",
+      "rss_guid": "82e95d96-5e03-11f1-9202-e73c64b68714",
+      "published_date": "2026-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4417.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-40b099b35762",
+      "rss_guid": "82ced1c4-5e03-11f1-9202-27c2e3888c7d",
+      "published_date": "2026-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4494.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b5a34899d670",
+      "rss_guid": "8007cb52-2c95-11f1-b581-1b10b5d834c8",
+      "published_date": "2026-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3901.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-03af140f5e63",
+      "rss_guid": "7ff49dc0-2c95-11f1-b581-d7f01bbac92f",
+      "published_date": "2026-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4309.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-fc86fa47d54f",
+      "rss_guid": "7fdd8df6-2c95-11f1-b581-33492de1f94d",
+      "published_date": "2026-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4395.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-afba250ae348",
+      "rss_guid": "7fc685fc-2c95-11f1-b581-6fd787847b53",
+      "published_date": "2026-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5009.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-afabb9841ac2",
+      "rss_guid": "7fae62f6-2c95-11f1-b581-3b59045da733",
+      "published_date": "2026-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4325.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-912725b49bf1",
+      "rss_guid": "7f97b740-2c95-11f1-b581-4b18327d6254",
+      "published_date": "2026-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3900.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-ac8fecb982a5",
+      "rss_guid": "7f8182f4-2c95-11f1-b581-2bcd56da6b01",
+      "published_date": "2026-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4072.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-8aa732f637bc",
+      "rss_guid": "7f445000-2c95-11f1-b581-e3a21d6d4272",
+      "published_date": "2026-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4121.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-f0c2de8c977f",
+      "rss_guid": "1ac4acec-fb30-11f0-99fc-a31c2bca5a5e",
+      "published_date": "2026-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4334.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-70b800583179",
+      "rss_guid": "1ab2130c-fb30-11f0-99fc-1fb970a68b7f",
+      "published_date": "2026-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4593.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-f880d389d984",
+      "rss_guid": "1a9ee3b8-fb30-11f0-99fc-03cb645fbf6d",
+      "published_date": "2026-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4742.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-2a9a7907af3c",
+      "rss_guid": "1a8b1ea0-fb30-11f0-99fc-03d3523d4cd8",
+      "published_date": "2026-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2752.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-9ebb02b817a2",
+      "rss_guid": "1a75c686-fb30-11f0-99fc-938c5514edf4",
+      "published_date": "2026-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3925.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-82f3da283111",
+      "rss_guid": "1a601d7c-fb30-11f0-99fc-dbdb957e3271",
+      "published_date": "2026-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3039.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-87761a84a551",
+      "rss_guid": "1a3b2102-fb30-11f0-99fc-afe6bac45398",
+      "published_date": "2026-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3792.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-31ea623fe753",
+      "rss_guid": "1a4d3e96-fb30-11f0-99fc-53ce66ab9537",
+      "published_date": "2026-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5048.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-06df67f46c4e",
+      "rss_guid": "1a023c66-fb30-11f0-99fc-4f075865b069",
+      "published_date": "2026-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4224.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b404a01fb043",
+      "rss_guid": "af98c254-c408-11f0-9d07-17b8c30082a4",
+      "published_date": "2026-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4354.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-0162e1de4dcd",
+      "rss_guid": "af83e23a-c408-11f0-9d07-03e1b9aff21d",
+      "published_date": "2026-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3329.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-a982824993cb",
+      "rss_guid": "af6fc692-c408-11f0-9d07-23e244cc06a4",
+      "published_date": "2026-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3837.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-dc31b052a414",
+      "rss_guid": "af5eccca-c408-11f0-9d07-b3a0a60c7e68",
+      "published_date": "2026-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3443.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b870b8028122",
+      "rss_guid": "af4dcf10-c408-11f0-9d07-db56d99eb948",
+      "published_date": "2025-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4369.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6c3a0edb5710",
+      "rss_guid": "af3d0cf2-c408-11f0-9d07-bf575e7f7308",
+      "published_date": "2025-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4447.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-bb28a2e6a683",
+      "rss_guid": "cfc0109c-d668-11f0-8bf0-cb705b58288e",
+      "published_date": "2025-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5076.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b263b5f6b294",
+      "rss_guid": "af2bab60-c408-11f0-9d07-d7b75dae3533",
+      "published_date": "2025-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3973.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-20ed282a5379",
+      "rss_guid": "aef809fe-c408-11f0-9d07-c755f000299a",
+      "published_date": "2025-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4265.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-558d92cc37bc",
+      "rss_guid": "cb25455a-97f9-11f0-9de7-23ceea95a68d",
+      "published_date": "2025-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4220.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-a8ad41c96865",
+      "rss_guid": "cb12e428-97f9-11f0-9de7-63fc57d25526",
+      "published_date": "2025-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4011.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b7efde02e90b",
+      "rss_guid": "cb01dbce-97f9-11f0-9de7-4bb0c31e61ba",
+      "published_date": "2025-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3648.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-d86b41cd3c29",
+      "rss_guid": "fab648f6-bb9d-11f0-a1a6-cbe2fe455e54",
+      "published_date": "2025-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4568.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-ba24bd56c12b",
+      "rss_guid": "caf037c0-97f9-11f0-9de7-932816c64e84",
+      "published_date": "2025-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3181.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-30d3246e381a",
+      "rss_guid": "cade465a-97f9-11f0-9de7-a7a225dc7d4e",
+      "published_date": "2025-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4034.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-62939b192bfd",
+      "rss_guid": "caccfaa8-97f9-11f0-9de7-072c7322f1bb",
+      "published_date": "2025-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3938.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-651c006b5021",
+      "rss_guid": "cabb777e-97f9-11f0-9de7-873218bce536",
+      "published_date": "2025-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3960.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-9382b26d0094",
+      "rss_guid": "caa8950a-97f9-11f0-9de7-b78bd0016f45",
+      "published_date": "2025-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4819.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-5166c24b537b",
+      "rss_guid": "b17731fe-7c79-11f0-9faa-c3fc68bdd91b",
+      "published_date": "2025-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3860.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-81adbd61d457",
+      "rss_guid": "b16448e6-7c79-11f0-9faa-3796ce700686",
+      "published_date": "2025-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4237.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-527c4e02f7e7",
+      "rss_guid": "b152092e-7c79-11f0-9faa-9b67ccb64685",
+      "published_date": "2025-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4060.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-84df36321c39",
+      "rss_guid": "b13e5460-7c79-11f0-9faa-af1da1dbce3a",
+      "published_date": "2025-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3943.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-2c5ff42db975",
+      "rss_guid": "b0f76adc-7c79-11f0-9faa-ebce08e7bda8",
+      "published_date": "2025-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4072.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6f09273937ca",
+      "rss_guid": "9e3e68be-4597-11f0-a2b5-9baa7730f72c",
+      "published_date": "2025-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4957.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-17fda4fda6c3",
+      "rss_guid": "9e2b0616-4597-11f0-a2b5-b7513067a814",
+      "published_date": "2025-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4159.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-1bc57d606d3a",
+      "rss_guid": "9e16ec9e-4597-11f0-a2b5-efb45f12a859",
+      "published_date": "2025-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4311.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6b8d5f6694d1",
+      "rss_guid": "9e02ea8c-4597-11f0-a2b5-b7c3c880778d",
+      "published_date": "2025-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3315.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-f80ccaabd190",
+      "rss_guid": "9deec534-4597-11f0-a2b5-ff44ce15d5a3",
+      "published_date": "2025-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4565.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-c1dbd299df80",
+      "rss_guid": "9dd8d7e2-4597-11f0-a2b5-b708ae2145b5",
+      "published_date": "2025-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4302.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6ff91144c72c",
+      "rss_guid": "9dc46a0a-4597-11f0-a2b5-834245a2f951",
+      "published_date": "2025-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3789.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-d94ed81e89cb",
+      "rss_guid": "9db03d14-4597-11f0-a2b5-8f3b893a7a9b",
+      "published_date": "2025-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4510.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-91bd221b1de6",
+      "rss_guid": "9d9c1f14-4597-11f0-a2b5-3f7db0d6575a",
+      "published_date": "2025-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4033.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b57a79f5bded",
+      "rss_guid": "31090096-2f77-11f0-9519-df3e64d0e555",
+      "published_date": "2025-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3644.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-d6bffc2a9a22",
+      "rss_guid": "30f5d25a-2f77-11f0-9519-bf73ebf628bb",
+      "published_date": "2025-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3671.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-680d858d21b0",
+      "rss_guid": "30e33500-2f77-11f0-9519-7fbb63cc3b92",
+      "published_date": "2025-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3565.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-306cc20adc38",
+      "rss_guid": "30d103f8-2f77-11f0-9519-6bcf408ff55e",
+      "published_date": "2025-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3699.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-1233ec2e2c79",
+      "rss_guid": "5914ff1a-1995-11f0-ab2f-e385f267c142",
+      "published_date": "2025-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3851.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6a47d6b28b26",
+      "rss_guid": "5901203a-1995-11f0-ab2f-6361123f4598",
+      "published_date": "2025-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4620.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b4ccb7a42541",
+      "rss_guid": "58ec849a-1995-11f0-ab2f-df6787cc88cd",
+      "published_date": "2025-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3651.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-b89305a5e13e",
+      "rss_guid": "58b515aa-1995-11f0-ab2f-1348211594e4",
+      "published_date": "2025-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4109.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-6ef20832d287",
+      "rss_guid": "18e55aee-03aa-11f0-85b7-37c664222644",
+      "published_date": "2025-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3714.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-5c9871bf4efd",
+      "rss_guid": "18cd0840-03aa-11f0-85b7-bfa4c20669b5",
+      "published_date": "2025-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3947.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-4ad1d9d42c36",
+      "rss_guid": "18b39d56-03aa-11f0-85b7-7beb34cf6c2c",
+      "published_date": "2025-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3309.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-ac08bd6858a5",
+      "rss_guid": "189b11a0-03aa-11f0-85b7-c7ebce5774b8",
+      "published_date": "2025-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3572.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-d3b0d31bf813",
+      "rss_guid": "1882c92e-03aa-11f0-85b7-6f5768897cc9",
+      "published_date": "2025-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3391.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-d6e1eb26e666",
+      "rss_guid": "186a9156-03aa-11f0-85b7-1b9a9a693dec",
+      "published_date": "2025-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3544.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-c15dd2931e84",
+      "rss_guid": "43a61ac0-03af-11f0-8f96-3f5434b9af13",
+      "published_date": "2025-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3697.0
+    },
+    {
+      "episode_id": "good_hang_with_amy_poehler-eb7e4415843f",
+      "rss_guid": "1852b068-03aa-11f0-85b7-b744badeaa16",
+      "published_date": "2025-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3400.0
+    }
+  ]
+}

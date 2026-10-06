@@ -1,0 +1,1591 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_impaulsive_with_logan_paul_20261002T193807Z",
+  "show_id": "impaulsive_with_logan_paul",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/acd3f8a1-3824-4e5f-ab92-b4b300f0cf57/f4ff3c4f-5606-4c61-9c5a-b4b300f0cf7a/podcast.rss",
+    "snapshot_relative_path": "data/raw/rss/impaulsive_with_logan_paul/impaulsive_with_logan_paul_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "4d3e2e6b7cffab9bd3ce9f8ba1ad0b50b71dc59b25cfdbc58a5cf3f5fabcf5c1",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "impaulsive_with_logan_paul-e22d7be24d0c",
+      "rss_guid": "d205c06e-ac40-4e59-806d-b4c50105bc39",
+      "published_date": "2026-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5790.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-912ddd251bfc",
+      "rss_guid": "f32877da-178f-4356-a44c-b4bb014df026",
+      "published_date": "2026-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4014.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-57d1e3e450d2",
+      "rss_guid": "gid://art19-episode-locator/V0/ZKNB0YZz5kyAyQ5_tt1tf58hy5HFNKmJr-v5RLScOEk",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4140.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e10094ea3130",
+      "rss_guid": "gid://art19-episode-locator/V0/S36aa_b9Y9r0baScpJO4Scg88pA63IQ_hOZUKAEWnvc",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2896.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8f1f721b39c7",
+      "rss_guid": "gid://art19-episode-locator/V0/PSTDtzWV6Fw_TenJM1gnn85kqwOc02uxSuwrlCHqt0s",
+      "published_date": "2026-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3684.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0da0f2141bf7",
+      "rss_guid": "gid://art19-episode-locator/V0/ha0glU3IvzCSiaJos1dK0eguLseYuZVAqTsGCCPLz0w",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2913.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a243a8730816",
+      "rss_guid": "gid://art19-episode-locator/V0/k5qkXHXqpTTxO-q9Ej4gFSfu52b1nGwML0B9iQb77Xg",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2869.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-2301897d022a",
+      "rss_guid": "gid://art19-episode-locator/V0/sYMNrJtMaUTjr9F2HcZHEcne3hZpSXAxuB04GLx5T7M",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4993.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-1118a71dc679",
+      "rss_guid": "gid://art19-episode-locator/V0/X3IXTJ4x6PQAhpzPhtex9Vo3aFMdIrFyUtz8zGafXPM",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4131.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b29d38456925",
+      "rss_guid": "gid://art19-episode-locator/V0/1TBBM2TNJVNBwx8l6ULPkym61CQqETStzHCXCpMAwhg",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4102.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-540257cb6655",
+      "rss_guid": "gid://art19-episode-locator/V0/MCvTlP3QjmOo1F6pp4r1rvi73xOxi84bpsaaE3CEuw0",
+      "published_date": "2026-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4740.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-408a3abc9dcc",
+      "rss_guid": "gid://art19-episode-locator/V0/qe99TXkIuKwPKTguRkKfOxteCw1y0U-6PHfOZBxoASA",
+      "published_date": "2026-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3040.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-24c884799c79",
+      "rss_guid": "gid://art19-episode-locator/V0/UwC2t5TXbom4a3UHyGumxHWNKEAG8W8yVukJTqdv66A",
+      "published_date": "2026-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4412.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-38d53bc8dbdc",
+      "rss_guid": "gid://art19-episode-locator/V0/_2z0k9lApekyXc8ZvdOSZSiCX2em6_L4imWLAIAw6Mc",
+      "published_date": "2026-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4095.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-5131c23f4166",
+      "rss_guid": "gid://art19-episode-locator/V0/76R3_CAabkzHrXm4G_pfxwiKfF2wXbIBBjgcmLUeWL8",
+      "published_date": "2026-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5703.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a9aa856030c7",
+      "rss_guid": "gid://art19-episode-locator/V0/mPWUGmWqJhMgn-u3bucfWM8qfP6nZ9B_PR9wz6KMyKE",
+      "published_date": "2026-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3253.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-040d64d52304",
+      "rss_guid": "gid://art19-episode-locator/V0/n1dESUN1oTPq2FLNOeX-2S8f654hrJXhpibmoQ7yBtw",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2691.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-608df5129864",
+      "rss_guid": "gid://art19-episode-locator/V0/3xTXjWg_8lijnN8VKHg2EzARhn4F2NvBAw6KJG5PV1o",
+      "published_date": "2026-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3104.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-1957d929858d",
+      "rss_guid": "gid://art19-episode-locator/V0/Je5ZaYIJiuKbp4Iq8Xrj3mdBd5sVZGaP-H5i057MC0Q",
+      "published_date": "2026-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4843.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-100f26abb602",
+      "rss_guid": "gid://art19-episode-locator/V0/I9KgT-C3aBTPfTUJtGURtO7ns7VvxepG95jhBjImvYQ",
+      "published_date": "2026-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4841.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-69b2c8608253",
+      "rss_guid": "gid://art19-episode-locator/V0/8nA33Igkhd4p_7YtIAnBQKjaLMCYyppWoLgsa9Nb2Ls",
+      "published_date": "2026-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4243.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ecedd4941625",
+      "rss_guid": "gid://art19-episode-locator/V0/HmQsyNnIHa_ziF_3tFN1z43Bw4Jt5bZ5RK76GKjEyuE",
+      "published_date": "2026-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5145.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-cb4ab96d6a96",
+      "rss_guid": "gid://art19-episode-locator/V0/vOgIs_f3S8KC6xGmT1bjg_z991l3uMyd_hfojjsmkZQ",
+      "published_date": "2026-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4417.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-51b2baffe73b",
+      "rss_guid": "gid://art19-episode-locator/V0/Gdi2JT3tjEW820baZNH2gluHqdephp-VGBQAsXwqDYs",
+      "published_date": "2026-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4694.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-cd907f8b66d2",
+      "rss_guid": "gid://art19-episode-locator/V0/kTaYSOLsDEtOojMSK9EKqYRqffVaTPuii8UbdEvUlRg",
+      "published_date": "2026-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4105.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-31075a5e9de9",
+      "rss_guid": "gid://art19-episode-locator/V0/XJAyl9UOuuwijOq1Z7GZMGDaoDbEKd-1mjrwVoiXzW4",
+      "published_date": "2026-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4805.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-dfd5e387b133",
+      "rss_guid": "gid://art19-episode-locator/V0/8VUApwzhQjdyoo6uM2zAICWX6kjw6SYzvuaSgY6ZfGA",
+      "published_date": "2026-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6927.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8de2f1d0b43c",
+      "rss_guid": "gid://art19-episode-locator/V0/8PXT14dbxsUKXImQRrn4WbddtAhM4VSn2E5R79HtGhE",
+      "published_date": "2026-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4685.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4bea145ce649",
+      "rss_guid": "gid://art19-episode-locator/V0/drpyZMA-sn6P9WLXeoUkZ5AANqzZIdL7LTARD0bhT-4",
+      "published_date": "2026-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4534.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-9f60853c97c1",
+      "rss_guid": "gid://art19-episode-locator/V0/9CziZWq8JwEqNO6gi7HwZbtdy9-JQWNWDSPXY8K0HyM",
+      "published_date": "2026-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4595.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-07cbc93033e8",
+      "rss_guid": "gid://art19-episode-locator/V0/dNbbeVpz8dKUhGn6wFK1X3t9hzq3lbcliozp1hbsKp0",
+      "published_date": "2026-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4432.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-23b9d5234d88",
+      "rss_guid": "gid://art19-episode-locator/V0/oqf_QmUBCGS3ud1-_B2DkQXYWgfXRxtxl2y2KbLcISk",
+      "published_date": "2025-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5566.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a78d07aa063a",
+      "rss_guid": "gid://art19-episode-locator/V0/dYrAki7ACpWGmQFWZoYoU0KsowGDzQfLkw25wdyPZns",
+      "published_date": "2025-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2975.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-347571e8364d",
+      "rss_guid": "gid://art19-episode-locator/V0/ljTOsKvTmHtWgO_wkG83gEL9Q6U3VV0_sE8PvSjC7qg",
+      "published_date": "2025-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4126.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f26f5b86ff2a",
+      "rss_guid": "gid://art19-episode-locator/V0/vUFMhOkwZWSZzT8fTtbHhCYfw68LR2BlNV9ZFgARc6o",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6677.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-c730f9bca98d",
+      "rss_guid": "gid://art19-episode-locator/V0/wpDEpHavQ_dqp5IJdrbO_NLG8RSo0Y-ebuDwBQ3xFoI",
+      "published_date": "2025-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3269.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-2046ef2f3859",
+      "rss_guid": "gid://art19-episode-locator/V0/-qsDlweGJbOb-YkmEIeSsM93Npyi0yh273f7Fw9OTtU",
+      "published_date": "2025-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5826.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-9d37c30944a4",
+      "rss_guid": "gid://art19-episode-locator/V0/xgAd2qQDeEUK8EJmkA-7lMWbV2sVoLl4F003FgNFL-U",
+      "published_date": "2025-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5219.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-531478830a04",
+      "rss_guid": "gid://art19-episode-locator/V0/PkIXpdXJQj77OUIfPqFtUGuE06-ODUy0_oYdo-445_s",
+      "published_date": "2025-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4102.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-db414af6926f",
+      "rss_guid": "gid://art19-episode-locator/V0/Evy0RWqDb6sIfLMlL6syI9LXjiEtVd9WFZetnz7oTz4",
+      "published_date": "2025-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4982.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d9d5cc5239af",
+      "rss_guid": "gid://art19-episode-locator/V0/D5bNG9sk6OBbzW51yMNCRyyFqng0ipB7V1m1mqtVifg",
+      "published_date": "2025-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5487.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-bf1b32504782",
+      "rss_guid": "d9bdd590-5096-4a74-ac7f-d1c69020ef4b",
+      "published_date": "2025-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4793.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-bd3b71f10467",
+      "rss_guid": "42f2d3b3-154a-46a6-8d1c-fbed9b09ea26",
+      "published_date": "2025-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4857.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-351ce5440c13",
+      "rss_guid": "a262fdc0-ead6-4dc7-8482-0ebf2c345ed0",
+      "published_date": "2025-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5588.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-1e0eff235adf",
+      "rss_guid": "2b4293eb-dc2d-473d-ad63-bb8c8c74d994",
+      "published_date": "2025-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4990.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4d4bfa041e68",
+      "rss_guid": "39f435bf-c385-4679-a8f1-3cd31ba61b52",
+      "published_date": "2025-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4152.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-3213c9916f78",
+      "rss_guid": "be5869d7-3e17-4402-b78f-d78744fdbcda",
+      "published_date": "2025-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4635.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d4135eafdad1",
+      "rss_guid": "c6b7c6f7-2a04-48ae-8743-afa4e5dbcc6b",
+      "published_date": "2025-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4012.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-3760b0237ea8",
+      "rss_guid": "7fd822a5-e3e5-4018-808a-eddbc71bd5c0",
+      "published_date": "2025-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6136.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7af1b5bedeef",
+      "rss_guid": "db650c1e-fcda-402b-b626-bca504979f17",
+      "published_date": "2025-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4568.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-14cd354c0ea5",
+      "rss_guid": "c6382c20-8ad7-482f-9c36-db2749398ed7",
+      "published_date": "2025-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5456.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-745fa2becf25",
+      "rss_guid": "5b4b26ab-ed2c-4d6c-b7c3-5b96f27563f3",
+      "published_date": "2025-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4390.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4f09d5990935",
+      "rss_guid": "4bfe5fd5-09d3-4ffc-aa58-944dc242e62b",
+      "published_date": "2025-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3878.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-2e137a4cd897",
+      "rss_guid": "a7cba0ff-c9e1-42b3-97c6-355678a252ae",
+      "published_date": "2025-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2928.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ec02530b8e3b",
+      "rss_guid": "b67146db-aeb0-4c32-8fe9-a60bf6254d31",
+      "published_date": "2025-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3457.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0166eb458106",
+      "rss_guid": "9d009aa8-6fd4-43b8-a217-6d8c90ca32f2",
+      "published_date": "2025-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3280.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-2c800c7f8bc2",
+      "rss_guid": "44370e55-02fb-46b1-8e91-d3870f8ab530",
+      "published_date": "2025-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6552.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-362743329f4b",
+      "rss_guid": "9e6acc8d-c6e1-4af2-840a-bedd9e6cdf14",
+      "published_date": "2025-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5044.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b9adfb45bdd0",
+      "rss_guid": "a50f5a73-14eb-4260-8856-1a2d8040ee15",
+      "published_date": "2025-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4418.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-3b67c7694424",
+      "rss_guid": "2aef62bb-5e34-45d6-abbc-b75afbdcad65",
+      "published_date": "2025-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3876.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d827ff593242",
+      "rss_guid": "68806d15-b5c4-4fde-b3e6-e38e22a465f1",
+      "published_date": "2025-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4620.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-19a829add042",
+      "rss_guid": "30e678ea-1fda-4833-a91c-0b6ebbcf33c3",
+      "published_date": "2025-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5664.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-3c9f09b53b81",
+      "rss_guid": "b7849082-7894-4f55-9370-68abe337c763",
+      "published_date": "2025-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6402.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e879b9ca097a",
+      "rss_guid": "ea791d9c-fadb-4ea7-acd2-7c1953833b7e",
+      "published_date": "2025-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4148.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ceb46415ec06",
+      "rss_guid": "97dc0439-c37b-495a-8927-8d7c4d8f0113",
+      "published_date": "2025-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4427.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8d9829501bbd",
+      "rss_guid": "5bfe4808-0a02-4073-ab9f-704cd6e9299d",
+      "published_date": "2025-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3096.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-86eb395eeff4",
+      "rss_guid": "4077e8f6-0f08-48cd-bcb3-4562e37c806e",
+      "published_date": "2025-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4811.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a334689314ce",
+      "rss_guid": "c13392d9-e27d-417f-8c79-7c5e5a3d11f0",
+      "published_date": "2025-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3390.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4c40b1499859",
+      "rss_guid": "028bef5e-a61e-41d1-8444-c63b708b2066",
+      "published_date": "2025-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3850.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8ae2771ad67c",
+      "rss_guid": "fd27d007-1e00-4ba0-93ea-a50182dfb04b",
+      "published_date": "2025-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4765.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-29188c9679ad",
+      "rss_guid": "c6861585-8c39-48c9-88fd-3b90354a518e",
+      "published_date": "2025-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5239.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e5a8d46fb5cf",
+      "rss_guid": "54f70b39-2f13-4094-ba01-ac7e7fd4754e",
+      "published_date": "2025-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4374.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d0aeca597711",
+      "rss_guid": "9176dd58-49eb-46c8-82de-74c48e50abf4",
+      "published_date": "2025-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4689.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-9dfee91c9176",
+      "rss_guid": "8e76923c-a1ce-41f4-a268-c2fd1faa7397",
+      "published_date": "2025-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3819.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-259c0f3511b2",
+      "rss_guid": "b99a87b4-44e6-4519-b858-e7ac7a0be6a0",
+      "published_date": "2025-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4227.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-1cd3cf6e47d6",
+      "rss_guid": "664890e2-fe08-4657-8214-f451230bcc90",
+      "published_date": "2025-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6259.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-aca06d1eaf20",
+      "rss_guid": "b3d2fefa-450b-454b-9aff-97415ec79f7d",
+      "published_date": "2025-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5388.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-5d62a8137874",
+      "rss_guid": "4de90b7c-ac22-4780-9bc7-a472cd5e38b6",
+      "published_date": "2025-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4636.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-816e01fa8d29",
+      "rss_guid": "fdd4f3b4-7fa6-47d7-9815-1d09ebc08d22",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4242.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-43cf460ff682",
+      "rss_guid": "87557074-7ab8-4212-89fe-c3e8eca87941",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5169.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-107436d7e5c3",
+      "rss_guid": "bf86feca-2bf0-40aa-835c-566b4685c5fc",
+      "published_date": "2024-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4556.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a22eec053e83",
+      "rss_guid": "d32a8832-9e4d-432f-9f4f-66d7e07d6fbe",
+      "published_date": "2024-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3324.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-3d3aaabff7ca",
+      "rss_guid": "64ae0241-0438-43c2-9cfb-419f6874d6a5",
+      "published_date": "2024-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3995.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-cb28bdc8ed63",
+      "rss_guid": "3ce97ba7-1670-4357-b5a2-81ad59f40d4c",
+      "published_date": "2024-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5274.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-95e175e80e26",
+      "rss_guid": "81e15602-2c27-451f-a333-9d7771224857",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3499.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-6bf1dd08ab2f",
+      "rss_guid": "5bb03aa3-7345-470f-8277-d787daf64a4b",
+      "published_date": "2024-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4295.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-81a50c203c3e",
+      "rss_guid": "06f5c7ae-102e-40d7-b08a-1e6b8d583540",
+      "published_date": "2024-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4086.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-fd6061950bc5",
+      "rss_guid": "d25371a7-9bb0-4c64-ac61-91e2d037869b",
+      "published_date": "2024-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6012.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0e7927b07c3c",
+      "rss_guid": "533648c1-de5f-466e-85c9-54b4fe70fdc2",
+      "published_date": "2024-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4165.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f74ee21edef4",
+      "rss_guid": "b8f920c9-1fce-4f5a-b77b-d7e6381a3315",
+      "published_date": "2024-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4004.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-3e1376ee40a5",
+      "rss_guid": "a7660fe2-1d56-4365-bcba-8deecfcf92a5",
+      "published_date": "2024-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4912.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8f077260222e",
+      "rss_guid": "e87678ac-73d6-4463-bc6d-9f71dc8ed206",
+      "published_date": "2024-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4330.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7c0d8159a579",
+      "rss_guid": "0dc23154-c29c-4e7f-978e-9ebefd73de03",
+      "published_date": "2024-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2689.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-735217e556f2",
+      "rss_guid": "8bafe684-3334-4c9f-aa93-decc2fac483f",
+      "published_date": "2024-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3776.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-afab322bbd72",
+      "rss_guid": "6c4cd1c9-0d0c-4274-8f4b-3519e394c6a8",
+      "published_date": "2024-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3539.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-57a8e9529fbd",
+      "rss_guid": "6844f343-e25f-4795-ad13-1ab27cfab4af",
+      "published_date": "2024-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3914.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-66179104873c",
+      "rss_guid": "2b9944d6-488d-4735-8466-10472f32bbf0",
+      "published_date": "2024-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3475.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-04f8a2c06715",
+      "rss_guid": "c9204e00-bdfd-4748-872c-8fc9f20b2684",
+      "published_date": "2024-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2733.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-61fc8604537b",
+      "rss_guid": "4be5ad39-5f51-4a98-903b-d06a52d84212",
+      "published_date": "2024-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3704.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-57985f18e9a7",
+      "rss_guid": "e118fe3c-8d2c-4616-876f-307172d796aa",
+      "published_date": "2024-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6089.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-5271ec47be51",
+      "rss_guid": "b09c3c79-2b58-45c4-af7b-5a6efd7a9db9",
+      "published_date": "2024-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3182.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-34f1b8f14da4",
+      "rss_guid": "74c5a468-3efa-4274-8781-3dd7aa8a79c6",
+      "published_date": "2024-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 9524.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-bbc28e3f76aa",
+      "rss_guid": "c532f394-0966-4537-9207-c75d8bb6c499",
+      "published_date": "2024-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5258.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0278fc5666b0",
+      "rss_guid": "3f572b32-d58c-4ad1-b3d5-38657374e144",
+      "published_date": "2024-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2522.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-c6c17f711e3f",
+      "rss_guid": "6db8c9ba-8ba6-4a6d-b349-fa504b186734",
+      "published_date": "2024-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3282.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-318bf2724015",
+      "rss_guid": "1ef611a2-a0d8-427f-91ca-74d8060992c6",
+      "published_date": "2024-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4276.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e3f6f740d7f5",
+      "rss_guid": "844e69d6-ff87-48fa-85dc-3ee56a0d7236",
+      "published_date": "2024-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4279.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-04d7a4186d39",
+      "rss_guid": "061b1424-523f-4aba-b18f-1bdbc1772a3b",
+      "published_date": "2024-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4178.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b1bf483d0a1f",
+      "rss_guid": "942cd0e9-8f1c-47b8-8a54-f64eb0c22961",
+      "published_date": "2024-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3755.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4cf5b611d620",
+      "rss_guid": "841756d1-edb6-4c71-bfd8-05b84f630305",
+      "published_date": "2024-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3889.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-341fad7647fe",
+      "rss_guid": "e1a50bdf-4a96-4cf2-870a-4db4216f93b0",
+      "published_date": "2024-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5032.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a2d15b49725a",
+      "rss_guid": "d652aa48-980d-4059-a7f5-3d476c5e65a3",
+      "published_date": "2024-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5657.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-69abd802ad26",
+      "rss_guid": "d3317457-f4fc-4e6e-9679-e790e9a2a2ff",
+      "published_date": "2024-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3894.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-fe1e91b77242",
+      "rss_guid": "4e4ab7c8-8b3b-44ea-bc31-4d50b424ec5f",
+      "published_date": "2024-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5397.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-889ff31f9221",
+      "rss_guid": "7bd8a6f9-06a4-431d-afff-04ff1b5585d2",
+      "published_date": "2023-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4082.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f2bca9928166",
+      "rss_guid": "f4b419e4-7c71-43f0-8880-116e009aaf42",
+      "published_date": "2023-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4398.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8078948adf15",
+      "rss_guid": "38282a6a-553a-4ce8-9807-9c03927c74df",
+      "published_date": "2023-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4238.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-9c09a76bbba6",
+      "rss_guid": "03686555-2b69-45e4-891b-a6d5d0b778a4",
+      "published_date": "2023-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3335.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-63ba7ee46bb2",
+      "rss_guid": "80f68392-ccf4-4f14-bb42-58653e4969b6",
+      "published_date": "2023-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5347.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-fc376f0d163f",
+      "rss_guid": "fb112c9f-1f2f-4653-9aae-7379d2ad2b2c",
+      "published_date": "2023-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5344.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-27cdab244fdb",
+      "rss_guid": "e56ac659-ba60-452d-9b1b-e10635f84aa5",
+      "published_date": "2023-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6126.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-131743d3236a",
+      "rss_guid": "0a38a8f1-d4b5-484d-a4ef-af113d98f97e",
+      "published_date": "2023-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4060.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-52c75c79bd1c",
+      "rss_guid": "537589f1-fa9d-40f2-9266-c5f15d8cf673",
+      "published_date": "2023-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6059.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-c3d58bf31492",
+      "rss_guid": "7ed9e0bd-fa0b-4a2b-8e5c-670feea39832",
+      "published_date": "2023-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4077.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e814d5c9d137",
+      "rss_guid": "af3d5b4b-47a3-4510-bd85-0e5073cc4533",
+      "published_date": "2023-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3895.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7cda8ccdb376",
+      "rss_guid": "87846039-6222-4bfe-978d-30672b0e482b",
+      "published_date": "2023-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6047.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7b10f962e1a0",
+      "rss_guid": "61f6aa74-0c6a-4bfd-93b7-d33ef64b40ea",
+      "published_date": "2023-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3004.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ccf178a39f55",
+      "rss_guid": "b2018052-1a06-42fc-9d72-26582ac83294",
+      "published_date": "2023-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5948.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-9760242e94a5",
+      "rss_guid": "431689f4-52d8-4bb2-bf96-b4efe99868ed",
+      "published_date": "2023-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4693.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-83aa839e6737",
+      "rss_guid": "09b911e5-7abe-4cf0-9b4b-959892453745",
+      "published_date": "2023-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4716.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-99686229a0d4",
+      "rss_guid": "e92a5547-7f1d-4140-82e2-c42ff61083b9",
+      "published_date": "2023-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4596.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-6fa6aed903d8",
+      "rss_guid": "5d290cb4-87d4-4cb9-9957-a53accacdef3",
+      "published_date": "2023-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4535.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-086952b47982",
+      "rss_guid": "d493f1a6-4602-4349-b8a7-6355ea51a594",
+      "published_date": "2023-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3094.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-9d6adff9bebe",
+      "rss_guid": "c6b64381-8f9d-41bb-86f5-a7ed5fc21d36",
+      "published_date": "2023-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3361.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b0a5f81f5cc1",
+      "rss_guid": "9035639d-3279-4234-a46a-0b0a613d9ed0",
+      "published_date": "2023-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4833.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-6caaf2d73640",
+      "rss_guid": "cc02dd96-c8d6-4e64-9276-e9555eb00a8c",
+      "published_date": "2023-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4044.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7e9806747a68",
+      "rss_guid": "16da921b-69a1-47c2-a2b0-eb4f573882cd",
+      "published_date": "2023-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5103.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b387dfe3edbf",
+      "rss_guid": "36267a54-44d7-47fd-8e62-38d069d3c214",
+      "published_date": "2023-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5452.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d2ca21e7bd9b",
+      "rss_guid": "67389521-373d-4b89-9854-d3022728f5f6",
+      "published_date": "2023-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5259.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4a2929274c4f",
+      "rss_guid": "5ce61e1a-d1ac-4476-b53d-7f552c3f1961",
+      "published_date": "2023-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3774.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-cf36c267eb19",
+      "rss_guid": "b4a58086-8a0d-4076-8d45-2886b25ceace",
+      "published_date": "2023-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4990.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d12b6c5914e3",
+      "rss_guid": "7f9d2805-144f-4fb9-a00b-72e9526ff62b",
+      "published_date": "2023-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3918.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0f51f72eb5e8",
+      "rss_guid": "da057fce-b56a-4261-9466-cc8bd7b2cf8a",
+      "published_date": "2023-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5222.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-29785f5bb2b1",
+      "rss_guid": "73f1f781-e7b1-489d-9b69-eb8770c5594f",
+      "published_date": "2023-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4264.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d34f85fd412f",
+      "rss_guid": "9bc01d66-72f3-4c14-80af-0b1464a9c297",
+      "published_date": "2023-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7160.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ad924c2d5f59",
+      "rss_guid": "994fcedd-8e51-4114-a6c6-afe100394090",
+      "published_date": "2023-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3556.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4ecb1fb4cabc",
+      "rss_guid": "f9f71cd1-2cbf-40ac-ba4e-afda01135afb",
+      "published_date": "2023-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5864.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ef183f9a6daa",
+      "rss_guid": "3f6cd5dc-6ec6-487b-acc0-afd301461928",
+      "published_date": "2023-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3220.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a01cd6ae6604",
+      "rss_guid": "e5fec718-575e-448b-b0a2-afcc004bc74d",
+      "published_date": "2023-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4014.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-04e7ecbcb6bb",
+      "rss_guid": "abe50076-d7fc-4f81-99c6-afc5001e1b88",
+      "published_date": "2023-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4571.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b529bf641bed",
+      "rss_guid": "1dc7c670-91be-4c8b-8c5b-afbe01583756",
+      "published_date": "2023-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5294.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d4f8c3b9796c",
+      "rss_guid": "65584b56-84de-49c2-bcbe-afb6003cd8f1",
+      "published_date": "2023-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3641.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-2be087f746d4",
+      "rss_guid": "f9614bc0-c3ec-4fbd-aad4-afb00077758c",
+      "published_date": "2023-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4049.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a90db7e75039",
+      "rss_guid": "49ac14f8-a2a6-486a-a1b5-afa9011adb23",
+      "published_date": "2023-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4669.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-61894f766056",
+      "rss_guid": "66592081-843e-4e67-8ce8-afa2013b535e",
+      "published_date": "2023-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6521.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-5f05caf59919",
+      "rss_guid": "84fab360-2a78-46a7-bc6b-af9b011eb7f1",
+      "published_date": "2023-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4514.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-76adc5b1e796",
+      "rss_guid": "9d1804df-4852-4925-92fa-af940140fdc6",
+      "published_date": "2023-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4911.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-22958bac125e",
+      "rss_guid": "1463784a-1667-49cc-909d-af8d011bc27e",
+      "published_date": "2023-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3792.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ce45e968fff8",
+      "rss_guid": "2b812045-8be5-444c-9af0-af86014ef0e3",
+      "published_date": "2023-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5645.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-bbefb019ca4e",
+      "rss_guid": "2656dbaf-a062-4d1f-8327-af80013c985c",
+      "published_date": "2023-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4784.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a1a4eb3d8905",
+      "rss_guid": "0eed9a90-9d81-45ad-80c4-af78000f8fda",
+      "published_date": "2022-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5637.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e95a12c53048",
+      "rss_guid": "8debd401-9a36-40be-964f-af71015ce76c",
+      "published_date": "2022-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5296.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8778279dd5f7",
+      "rss_guid": "e8ee7303-b83a-4a4d-83c1-af6a0143de59",
+      "published_date": "2022-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6825.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-391ea2443789",
+      "rss_guid": "01ea3ebf-2215-4b23-b786-af6300587660",
+      "published_date": "2022-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5136.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b41dcab5cb93",
+      "rss_guid": "93822e00-d576-48ac-9c55-af5c00fe6e49",
+      "published_date": "2022-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6151.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-648574f93286",
+      "rss_guid": "61bfb55f-c8e4-4cac-b6ce-af55007274a6",
+      "published_date": "2022-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6119.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0ef97fae9d43",
+      "rss_guid": "2537ef7c-0eba-4cea-976c-af4e013ef934",
+      "published_date": "2022-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5114.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-11812a4fb474",
+      "rss_guid": "c6d174d6-efcf-40df-b0d1-af470117f0c6",
+      "published_date": "2022-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5395.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-bf115b04ba4f",
+      "rss_guid": "f95b4fb2-39f0-4710-96ea-af4001696a72",
+      "published_date": "2022-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5645.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-642eb2492ea2",
+      "rss_guid": "d4a727fa-e5dd-4d22-8321-af390034b5be",
+      "published_date": "2022-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4724.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-fe908c24c6a7",
+      "rss_guid": "5dcfb35e-0ac5-467d-b5ae-af31006f82a5",
+      "published_date": "2022-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5022.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-5aeb29d875ee",
+      "rss_guid": "a7cd0859-e8c5-4caa-9776-af2b006789be",
+      "published_date": "2022-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4918.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-cd7a3e6d8e0a",
+      "rss_guid": "3e792d1f-3533-44ed-9134-af24014f4029",
+      "published_date": "2022-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5152.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-58011ce1fb11",
+      "rss_guid": "a9d9ebe7-f39d-4b8a-94dd-af1d015ec519",
+      "published_date": "2022-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5117.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-1384c257ff52",
+      "rss_guid": "7b6b9772-2f86-4ab3-b4bc-af1601318340",
+      "published_date": "2022-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4389.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b5f6031f75c4",
+      "rss_guid": "4858f9e1-7a12-437d-b848-af0f010eb408",
+      "published_date": "2022-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4508.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d461a64420d0",
+      "rss_guid": "74901271-d098-4639-a934-af07015adeba",
+      "published_date": "2022-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4163.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-72292f524dad",
+      "rss_guid": "d1e701e6-adc1-4e21-8522-af01013662bc",
+      "published_date": "2022-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5054.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-36b5d09f4e76",
+      "rss_guid": "f24f515f-5c0e-4907-8c7f-aefa003c2aa7",
+      "published_date": "2022-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6402.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-31af600f2592",
+      "rss_guid": "43cf6e30-e5d9-4166-a9f5-aef30122069d",
+      "published_date": "2022-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4757.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7e8788978896",
+      "rss_guid": "24882a45-b8f6-4c61-bff1-aeec011e551c",
+      "published_date": "2022-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4299.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-33119e05a8ba",
+      "rss_guid": "23efdff7-bbaa-45a6-b8c0-aee50072d0e9",
+      "published_date": "2022-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4477.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-ec5eef9432dc",
+      "rss_guid": "0abf8cc4-75ca-40fe-97d8-aede01295271",
+      "published_date": "2022-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4598.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-645dffebe843",
+      "rss_guid": "9b9462c8-c3c8-449f-aa8c-aed7013aca51",
+      "published_date": "2022-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4466.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-a3e7f9c78660",
+      "rss_guid": "be2458ef-339c-4b8b-ba91-aed000d23d88",
+      "published_date": "2022-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7109.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-3108a5e8a6ea",
+      "rss_guid": "f01d93eb-d2f9-48fd-ad1d-aec9011e41b7",
+      "published_date": "2022-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6890.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-6569e8e34fcc",
+      "rss_guid": "87cc5092-9147-4bcf-ad17-aec2006469c0",
+      "published_date": "2022-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4823.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-1620fba00ee2",
+      "rss_guid": "09a56181-7703-491e-898c-aebb012c3170",
+      "published_date": "2022-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5647.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0d148da5bf45",
+      "rss_guid": "ba1fd779-a65b-4495-bd71-aeb4011de785",
+      "published_date": "2022-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4581.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-97120ad20621",
+      "rss_guid": "18ee945e-cd05-4c03-811b-aead013c9f29",
+      "published_date": "2022-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d24c7c13a164",
+      "rss_guid": "22453648-b900-4500-bc42-aea6013e71ea",
+      "published_date": "2022-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4515.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-65d631f1ecf7",
+      "rss_guid": "3280ac61-1a92-40e5-aa12-ae9f0131b0d6",
+      "published_date": "2022-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3344.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-96491f32b431",
+      "rss_guid": "082de081-e6b9-45a6-abc2-ae9801355821",
+      "published_date": "2022-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4058.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f9ea79e05d3e",
+      "rss_guid": "83a20aca-95d9-42af-b8ea-ae91006ab8ad",
+      "published_date": "2022-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4528.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-225ff4895c56",
+      "rss_guid": "5029909c-b4a4-4df7-a682-ae8a006b4014",
+      "published_date": "2022-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8577.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-5abe3739588e",
+      "rss_guid": "99938b35-7fc9-4926-8fc8-ae830115b52c",
+      "published_date": "2022-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3789.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-26ba59561cc0",
+      "rss_guid": "c4914724-f4e0-41f7-8d6b-ae7c01344c0f",
+      "published_date": "2022-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6176.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-41408d460f7b",
+      "rss_guid": "0d9dc2f1-0ad9-42f9-b3cb-ae75012f1881",
+      "published_date": "2022-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4903.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-b61477c8bfc4",
+      "rss_guid": "ecb04640-3b7b-470e-b09a-ae6e01165493",
+      "published_date": "2022-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5095.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e47ecaefdfdf",
+      "rss_guid": "88ea7507-37f9-4511-a11b-ae6301642dfe",
+      "published_date": "2022-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4462.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7611bc887b16",
+      "rss_guid": "19981ac9-5177-4533-90d7-ae5f016221ba",
+      "published_date": "2022-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4103.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-026be55bc87e",
+      "rss_guid": "d76faf85-f362-4136-b23f-ae590145b669",
+      "published_date": "2022-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5472.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-27d94be56ab8",
+      "rss_guid": "2b166300-fa82-456d-ae18-ae52016d81ea",
+      "published_date": "2022-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3722.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-582544ecb46a",
+      "rss_guid": "c7c3d8b5-0984-4db2-b4e0-ae4b00861005",
+      "published_date": "2022-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6140.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-4aba7a959ed1",
+      "rss_guid": "7e0cce99-e871-4548-ade7-ae44010a1a19",
+      "published_date": "2022-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3501.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-7cecbb0d2b0e",
+      "rss_guid": "0e806bb2-e2fe-4133-9dee-ae3d0092320d",
+      "published_date": "2022-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4826.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-0387f513269f",
+      "rss_guid": "6f6fe0b8-d903-4f2f-b835-ae2e01725ec1",
+      "published_date": "2022-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5895.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-89dc654a25bc",
+      "rss_guid": "a94c8787-a091-4715-92cc-ae280157ac96",
+      "published_date": "2022-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3120.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f11d36a89df6",
+      "rss_guid": "d46d74d7-4804-47c1-9997-ae210166a1ef",
+      "published_date": "2022-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4593.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-1b1abf2e4d98",
+      "rss_guid": "bac0c795-a19e-4f15-815d-ae1a0064930a",
+      "published_date": "2022-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-64f24fdd7b59",
+      "rss_guid": "6218262b-c66e-49f1-8b53-ae13016f0e6c",
+      "published_date": "2022-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5217.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f639345531ee",
+      "rss_guid": "3e72650b-0cbe-4525-a0b9-ae0c00575f25",
+      "published_date": "2021-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5637.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f7e4399873c7",
+      "rss_guid": "7ad7472a-e1c8-46d0-9c1b-ae0501349971",
+      "published_date": "2021-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4334.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-f51af4a139d0",
+      "rss_guid": "9dd71c81-7f20-4b7e-a4cb-adfe000b4e73",
+      "published_date": "2021-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3474.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-442a73572bb1",
+      "rss_guid": "b9a5fadc-4be4-4746-9121-adf700168ecc",
+      "published_date": "2021-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3781.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-05346720539e",
+      "rss_guid": "20f42d8f-6993-45b0-846b-adf00159585a",
+      "published_date": "2021-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4359.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-54cd7a7e0825",
+      "rss_guid": "82bdf91d-b0c9-4ce0-be3e-ade90031a74c",
+      "published_date": "2021-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4977.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-e4c123bfb37f",
+      "rss_guid": "420341a7-5e7c-45c7-b56f-ade20034dae2",
+      "published_date": "2021-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7233.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-d5cfcc09763a",
+      "rss_guid": "54decf7c-16ee-499e-a863-addb0138c346",
+      "published_date": "2021-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3643.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-66ef3df6c320",
+      "rss_guid": "1fd060ba-6903-4580-97ce-add4005b2dc9",
+      "published_date": "2021-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4074.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-14364ea5e728",
+      "rss_guid": "67f02afd-ee85-45e2-8df2-adcd0073fda8",
+      "published_date": "2021-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3077.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-8d9ca0a47324",
+      "rss_guid": "00f22684-3e78-4026-b9eb-adc50160749d",
+      "published_date": "2021-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4626.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-5c1aa09e77fe",
+      "rss_guid": "dded555b-1add-4153-a7f9-adbf003cf87e",
+      "published_date": "2021-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5976.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-dd293cb9a23b",
+      "rss_guid": "4c13c5f6-9a0a-4e93-8bc2-adb901665107",
+      "published_date": "2021-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4905.0
+    },
+    {
+      "episode_id": "impaulsive_with_logan_paul-13c09fc90871",
+      "rss_guid": "c413e387-abdf-469b-8212-adb4012d7bb8",
+      "published_date": "2021-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4142.0
+    }
+  ]
+}

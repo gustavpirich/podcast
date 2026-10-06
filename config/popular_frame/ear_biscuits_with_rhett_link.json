@@ -1,0 +1,1584 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_ear_biscuits_with_rhett_link_20261002T193807Z",
+  "show_id": "ear_biscuits_with_rhett_link",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://rss.amperwave.net/v2/feed/audacynetwork/ear-biscuits",
+    "snapshot_relative_path": "data/raw/rss/ear_biscuits_with_rhett_link/ear_biscuits_with_rhett_link_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "7c38372d9c04800cae77c89299cb7aebb5bba1e98d8271a2e41e2302f6df56c6",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c8390279bb31",
+      "rss_guid": "5xWzDLkqcwfyTE7vHP7dzo0cCgynmoy7",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1304.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-386edbe53e59",
+      "rss_guid": "uQ2iGUH3hXy9Br7dxlM3vTVXJGnYADIX",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1253.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-72fe8b37852f",
+      "rss_guid": "44b61422-8aa7-11f0-9179-6badd40f9f1b",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1370.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-cd3756646611",
+      "rss_guid": "44790d8e-8aa7-11f0-9179-47866fd60377",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1826.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1392bfb99e80",
+      "rss_guid": "44292490-8aa7-11f0-9179-4b43ed86b268",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1219.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-35149e56595c",
+      "rss_guid": "43daa432-8aa7-11f0-9179-0731684a815a",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1703.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-cc458a711a25",
+      "rss_guid": "438d880a-8aa7-11f0-9179-73740948dc36",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1379.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-efa28d71442a",
+      "rss_guid": "4366e06a-8aa7-11f0-9179-af379ecf1bd0",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1610.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-25e324e70584",
+      "rss_guid": "43409734-8aa7-11f0-9179-8bca62dbcd0d",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1006.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1ad6718aa550",
+      "rss_guid": "423c545e-8aa7-11f0-9179-a755a55f802b",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1172.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-b8d0580d310b",
+      "rss_guid": "06318fd6-5f21-11ef-b49a-ef3da2830e34",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5377.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-aac45341a176",
+      "rss_guid": "061beb0e-5f21-11ef-b49a-db6c753b1c50",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5399.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-159ecdbe9f70",
+      "rss_guid": "06071882-5f21-11ef-b49a-171e131e661c",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4011.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8d93deceb5b0",
+      "rss_guid": "05f2c8dc-5f21-11ef-b49a-1f0c3622a7a3",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4432.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1197787e3659",
+      "rss_guid": "05de33d6-5f21-11ef-b49a-13b8b5e02a35",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4015.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8d4da044bc8e",
+      "rss_guid": "05c95da8-5f21-11ef-b49a-f7a5bf7facaa",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4742.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-079f61b87095",
+      "rss_guid": "05b4645c-5f21-11ef-b49a-d74259b40f80",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4528.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-99e36a165054",
+      "rss_guid": "059fc47a-5f21-11ef-b49a-e32b559ff301",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e09093d19ce4",
+      "rss_guid": "058a7908-5f21-11ef-b49a-87b7763f9ce6",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4388.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-91fd94c529da",
+      "rss_guid": "05753160-5f21-11ef-b49a-e3e262b29fdc",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3756.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ca284ab5f1d2",
+      "rss_guid": "05601366-5f21-11ef-b49a-03cb51d1cdb8",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4852.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9259ea9ed9c6",
+      "rss_guid": "054b440e-5f21-11ef-b49a-47432a17a78f",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4105.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7a7f172cdd4d",
+      "rss_guid": "0536934c-5f21-11ef-b49a-ef8750163fd4",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4585.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-58f8ac5bb80f",
+      "rss_guid": "0521ac7a-5f21-11ef-b49a-3f407f6c518a",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3823.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c473ea5bcd95",
+      "rss_guid": "050d0ea0-5f21-11ef-b49a-13917ec3fb62",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4263.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c6d99ff670d8",
+      "rss_guid": "04f88b06-5f21-11ef-b49a-8bea40450260",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3855.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-93e6bfe9738b",
+      "rss_guid": "04e40212-5f21-11ef-b49a-6f319bfa2da5",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3879.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ac0160e3c9e9",
+      "rss_guid": "04cf865c-5f21-11ef-b49a-43021d256a5a",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4176.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-5f7628d311d0",
+      "rss_guid": "04ba959e-5f21-11ef-b49a-4ba83d53be38",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4269.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-01f1828f75de",
+      "rss_guid": "04a44a00-5f21-11ef-b49a-1bb2133e3603",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4782.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-a8dd4f8e16b0",
+      "rss_guid": "048e9642-5f21-11ef-b49a-3f2054fdfb7b",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2524.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-4415d2ff403e",
+      "rss_guid": "0478cc4a-5f21-11ef-b49a-8b129f493d41",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2004.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-23ac762ae154",
+      "rss_guid": "0461dfbc-5f21-11ef-b49a-cb6fbe1f908b",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2507.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-26c5c1908f1b",
+      "rss_guid": "044d0d08-5f21-11ef-b49a-77ac086d91c9",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2171.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-217b4ac1450b",
+      "rss_guid": "0422a176-5f21-11ef-b49a-1b05ca7a4347",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4286.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-d0bca15828f6",
+      "rss_guid": "040cfa1a-5f21-11ef-b49a-9fb08f8934b8",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3932.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1587826ec0a0",
+      "rss_guid": "03f81dfc-5f21-11ef-b49a-778c7a204636",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3515.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-cf3f92f705cb",
+      "rss_guid": "03e2911c-5f21-11ef-b49a-93f650336fa8",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4218.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-876787aaf3de",
+      "rss_guid": "03cdbca6-5f21-11ef-b49a-4fe2ae6c8fef",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3706.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-a7736937db85",
+      "rss_guid": "03b94988-5f21-11ef-b49a-0b2763ca77e9",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4035.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-5a0c00e2503e",
+      "rss_guid": "03a453c0-5f21-11ef-b49a-c35db3d5d8a9",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3864.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-54c7b33c4398",
+      "rss_guid": "038f0d80-5f21-11ef-b49a-6f7d4829cf22",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4016.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-25666cc8b94c",
+      "rss_guid": "03798186-5f21-11ef-b49a-cbeb46581065",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4923.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7767460c40d0",
+      "rss_guid": "036412d8-5f21-11ef-b49a-27e7a03253da",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4231.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-af1c407fd7f6",
+      "rss_guid": "034ed3aa-5f21-11ef-b49a-ab99022a2cfc",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3929.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-96bfb423e2ac",
+      "rss_guid": "0338bf70-5f21-11ef-b49a-23a89c633be0",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3769.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-775bacfa0236",
+      "rss_guid": "0322dfde-5f21-11ef-b49a-bf2c8712f684",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7863.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7ad1e8211363",
+      "rss_guid": "030d1b54-5f21-11ef-b49a-bf6c32a127b2",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4555.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9133c3483266",
+      "rss_guid": "02f7bc28-5f21-11ef-b49a-ef5e27d12db8",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3669.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-a8fe85d2407f",
+      "rss_guid": "02e263dc-5f21-11ef-b49a-9bec191f08fc",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4099.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-789411f2094e",
+      "rss_guid": "02cc7c84-5f21-11ef-b49a-d3d2b8f0376e",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3681.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6b8d8316eaa4",
+      "rss_guid": "02b622c2-5f21-11ef-b49a-2bc93395ba51",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3867.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-12ca10211647",
+      "rss_guid": "02a09be6-5f21-11ef-b49a-d7ba75e18273",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3696.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e07956a26226",
+      "rss_guid": "027547e8-5f21-11ef-b49a-fb56bd564cc8",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6706.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ae3483851eaf",
+      "rss_guid": "028ace4c-5f21-11ef-b49a-0b718a3afd87",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3962.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6469f30fc0ee",
+      "rss_guid": "025f6298-5f21-11ef-b49a-9bbd1e3633e7",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4264.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-b6e7e7465cd0",
+      "rss_guid": "0249fcc8-5f21-11ef-b49a-0b26d412503e",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3749.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-f1f35ac34023",
+      "rss_guid": "0234a792-5f21-11ef-b49a-db6ff6f04660",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5003.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-bd3b6cde913d",
+      "rss_guid": "021ca8e0-5f21-11ef-b49a-63d100afd80e",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3971.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-d3cd1d71ea69",
+      "rss_guid": "01d27266-5f21-11ef-b49a-ab9fc686bdeb",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3986.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e148d3798ca2",
+      "rss_guid": "ad573670-47b3-11ee-8445-f72d26f86f85",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6038.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-d8d70b1ff65a",
+      "rss_guid": "ad3157f2-47b3-11ee-8445-33ff8fe307d0",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4032.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-0abceb44582e",
+      "rss_guid": "ad0b8568-47b3-11ee-8445-df858f09356d",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3820.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-0e510494325c",
+      "rss_guid": "ace4d652-47b3-11ee-8445-231e62367c6c",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4159.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-5bd71892d1d2",
+      "rss_guid": "acbeac3e-47b3-11ee-8445-8fd5e008c0ff",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4459.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7379cc9e6ef2",
+      "rss_guid": "ac96f338-47b3-11ee-8445-333cc1e57e10",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4215.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7a50a2624608",
+      "rss_guid": "ac70e882-47b3-11ee-8445-8331d14990e0",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4494.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-3e8389969660",
+      "rss_guid": "ac4aff50-47b3-11ee-8445-ef3b5c8a8488",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4241.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-31b0be4b7ea0",
+      "rss_guid": "ac25a598-47b3-11ee-8445-c7c1c6efb620",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4316.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-5e361c64b15e",
+      "rss_guid": "abfffcb2-47b3-11ee-8445-a376f3ca1cb3",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3787.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-eed257c5a8e6",
+      "rss_guid": "abdaa16a-47b3-11ee-8445-ab13d4c6d43c",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5006.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-995be92ffe57",
+      "rss_guid": "abb44bd2-47b3-11ee-8445-1bb19eacfc41",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4080.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-15fc43c49df8",
+      "rss_guid": "ab8d4e6a-47b3-11ee-8445-4f90d0940651",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3829.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7867d14a810b",
+      "rss_guid": "ab667088-47b3-11ee-8445-a398506fb621",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3879.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-b6a371951d22",
+      "rss_guid": "ab40e8c2-47b3-11ee-8445-37388c181194",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3882.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8e984afad379",
+      "rss_guid": "ab1a5bee-47b3-11ee-8445-03b2aadad119",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4527.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8f5819f5d668",
+      "rss_guid": "aaf432ca-47b3-11ee-8445-3392e270d2bb",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6477.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-87e35fc8370e",
+      "rss_guid": "aace5fdc-47b3-11ee-8445-b704588247c4",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4427.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-3d41df337903",
+      "rss_guid": "aaa9a2dc-47b3-11ee-8445-d7d4044a8916",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3790.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-72fe7aade007",
+      "rss_guid": "aa838be2-47b3-11ee-8445-ab68d775e92d",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5061.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7985d07120f3",
+      "rss_guid": "aa5da0d0-47b3-11ee-8445-cbdb9aab9d6c",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4992.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-75cb50a8aaf2",
+      "rss_guid": "aa376316-47b3-11ee-8445-ebb8cc6c029c",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2714.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8ff0c857bb7c",
+      "rss_guid": "aa11e960-47b3-11ee-8445-5bb88eb11bec",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1928.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-67d5ce7ec0da",
+      "rss_guid": "a9eb59d0-47b3-11ee-8445-6f50e9c328a6",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2176.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e3d56dcccf36",
+      "rss_guid": "a9c5609a-47b3-11ee-8445-63cbaa1c85f1",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 2034.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c05a7365acc3",
+      "rss_guid": "a99fca10-47b3-11ee-8445-c7ed27dae853",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1864.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-170dc653ae55",
+      "rss_guid": "a97a5e74-47b3-11ee-8445-f7a497eae371",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2883.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-929442cdb5ad",
+      "rss_guid": "a954a79c-47b3-11ee-8445-73769ae3e989",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3976.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e8f7c05ffd8f",
+      "rss_guid": "a92e54de-47b3-11ee-8445-0b2a0fd304ab",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3907.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8a5a65e61fa9",
+      "rss_guid": "a9079dd0-47b3-11ee-8445-070c0b9ef28f",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4884.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-b94bf5697676",
+      "rss_guid": "a8e13690-47b3-11ee-8445-13f3c2aeb8ab",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3881.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c1e44f93eda1",
+      "rss_guid": "a8bbac18-47b3-11ee-8445-2368351a2b27",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4052.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-102ca73ba8e1",
+      "rss_guid": "a89696a8-47b3-11ee-8445-db0ebd527d63",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3827.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-5592ac713e61",
+      "rss_guid": "a871c6de-47b3-11ee-8445-a703d9c02960",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3910.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9a163a9ecda2",
+      "rss_guid": "a84b6c8c-47b3-11ee-8445-e71dddb12fb7",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3882.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-db32c3818ea1",
+      "rss_guid": "a823900e-47b3-11ee-8445-7bd97441ed6c",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4440.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7bb4b5279391",
+      "rss_guid": "a7fc454e-47b3-11ee-8445-938c778deb83",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3895.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e0396617c78f",
+      "rss_guid": "a7d62e22-47b3-11ee-8445-3ffb690fb0f2",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4616.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9c6ba7ec3a37",
+      "rss_guid": "a7b0b96c-47b3-11ee-8445-772b46e3ff91",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4792.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9d6ebf08faa1",
+      "rss_guid": "a78ad1b6-47b3-11ee-8445-7be2895255a5",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4118.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9abb88066b4e",
+      "rss_guid": "a763d778-47b3-11ee-8445-2bcac385f0f0",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3513.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ba7e83bdb731",
+      "rss_guid": "a73c0b8a-47b3-11ee-8445-2b430fe79dd6",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4980.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-f8cede040ddc",
+      "rss_guid": "a715b872-47b3-11ee-8445-db9514666933",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4009.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-88260aec8569",
+      "rss_guid": "a6ef574a-47b3-11ee-8445-e71c8c9bcb96",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6088.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-083ce701d70a",
+      "rss_guid": "a6c9207a-47b3-11ee-8445-1fbaf1aa371e",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-46a8042142ad",
+      "rss_guid": "a6a253f0-47b3-11ee-8445-ab2d980a3fe0",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4027.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7a7448343d7f",
+      "rss_guid": "a67c7004-47b3-11ee-8445-fb56a6120c3d",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3917.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-f990a417c0bc",
+      "rss_guid": "a656807e-47b3-11ee-8445-738a08fce461",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4276.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-5ef2b01b54fb",
+      "rss_guid": "a62f77e0-47b3-11ee-8445-9fe3f1a10a2c",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4632.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9b3fe784c6c8",
+      "rss_guid": "a60bf91e-47b3-11ee-8445-4f4651b6d1a4",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4258.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-a963d39a360c",
+      "rss_guid": "a5e919e4-47b3-11ee-8445-bf66e0236b75",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4472.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c3df501c0828",
+      "rss_guid": "ca690f94-254b-11ed-a736-ab25538bd939",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5787.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-3cc15d74c078",
+      "rss_guid": "ca5abd90-254b-11ed-a736-5f17302c201a",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4811.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-768a7c5eec43",
+      "rss_guid": "ca4c7a82-254b-11ed-a736-d707389ef0d5",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4168.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-66a2122d20f7",
+      "rss_guid": "ca3d56ec-254b-11ed-a736-a74f8c122d1b",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3879.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ba51f958ff85",
+      "rss_guid": "ca2f5826-254b-11ed-a736-9387d8e03d0a",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4331.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1822a73fd130",
+      "rss_guid": "ca21378c-254b-11ed-a736-ef053062260c",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4154.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6134e71519e3",
+      "rss_guid": "ca1295a6-254b-11ed-a736-4fa546a71c40",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4378.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-b4708c23eebb",
+      "rss_guid": "ca04abee-254b-11ed-a736-cb3211480c9b",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4258.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c0ed5f27914d",
+      "rss_guid": "c9f71876-254b-11ed-a736-93c79f077489",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3904.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ec5f4926f657",
+      "rss_guid": "c9e8e99a-254b-11ed-a736-8fa907149b89",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3861.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c15c4d79e14c",
+      "rss_guid": "c9da19ec-254b-11ed-a736-636547f24201",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5354.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-3759945f32f4",
+      "rss_guid": "c9cc8714-254b-11ed-a736-a7bd07883cc3",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3936.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-44d205efadb4",
+      "rss_guid": "c9b13c2a-254b-11ed-a736-af4e2e8b5817",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4723.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-022377dfcd3b",
+      "rss_guid": "c9be76ce-254b-11ed-a736-2789f81e8004",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5283.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ee89cae944a8",
+      "rss_guid": "c9a36d16-254b-11ed-a736-c75b183c9722",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3797.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-02f2e6890aee",
+      "rss_guid": "c994b082-254b-11ed-a736-a3f93b7e0483",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4986.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-75865c7ac7c9",
+      "rss_guid": "c9867814-254b-11ed-a736-7fffb19d0b03",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4007.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-07c6ca9084d4",
+      "rss_guid": "c977c012-254b-11ed-a736-ffa55aaaab06",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4102.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8265a7b16dea",
+      "rss_guid": "c969edf2-254b-11ed-a736-9345630726eb",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4052.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-0bb6d9b60191",
+      "rss_guid": "c95abc10-254b-11ed-a736-bf07d37db3af",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3908.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-95f90f921d40",
+      "rss_guid": "c94bc200-254b-11ed-a736-571e0ffefb18",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3773.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6946c10d5df0",
+      "rss_guid": "c93e45ee-254b-11ed-a736-2b517268d1af",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4927.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6575ed3a750f",
+      "rss_guid": "c930cfd6-254b-11ed-a736-b79fd90a5d1f",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5345.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-76c0a71d6bbb",
+      "rss_guid": "c923b346-254b-11ed-a736-4fc35e25fa93",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4062.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1937b744f544",
+      "rss_guid": "c9164ef4-254b-11ed-a736-8b53a1ddf3e8",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4600.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-33bfd9f4cd6e",
+      "rss_guid": "c9091d92-254b-11ed-a736-0faa1c70194e",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4882.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ec2c24dbb8af",
+      "rss_guid": "c8fb73ae-254b-11ed-a736-9753f00896f5",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3552.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-d092e488d130",
+      "rss_guid": "c8eda9ea-254b-11ed-a736-d70081243415",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4875.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-8db8e6cefca3",
+      "rss_guid": "c8dde0c8-254b-11ed-a736-17d62f52f9ac",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4792.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-d68f5ee5e83a",
+      "rss_guid": "c8d0c37a-254b-11ed-a736-13c98595cdd7",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4523.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-4be00a3cc41e",
+      "rss_guid": "c8c39506-254b-11ed-a736-9f22a8da84a6",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5855.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-caf4b56eadd0",
+      "rss_guid": "c8b629fc-254b-11ed-a736-3309b2ad76f5",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4861.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-2d03b8d1240e",
+      "rss_guid": "c8a859e4-254b-11ed-a736-c711c9db5a14",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4712.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-85d2402de340",
+      "rss_guid": "c899b3e4-254b-11ed-a736-671b7cd30b97",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4604.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-60b1681df2b1",
+      "rss_guid": "c88bbe2e-254b-11ed-a736-ff0cf82e352b",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4494.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-eb420eb7a56d",
+      "rss_guid": "c87e700c-254b-11ed-a736-23a1c4ff81de",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5210.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-cf6736339275",
+      "rss_guid": "c870ba5c-254b-11ed-a736-77b7afb8dcd4",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6239.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-80da49cbfec2",
+      "rss_guid": "c8631ad2-254b-11ed-a736-2bccf5f6132d",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5279.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-923271756448",
+      "rss_guid": "c855b554-254b-11ed-a736-ff0180bd128c",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4304.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1f896419d89d",
+      "rss_guid": "c8471508-254b-11ed-a736-e3758c108bf1",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4297.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-fe0425c0bced",
+      "rss_guid": "c83a30f4-254b-11ed-a736-079bafcc580a",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4194.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-2f03fb4472d8",
+      "rss_guid": "c82ce836-254b-11ed-a736-7b43b3cc401e",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4101.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-0d3d1315094a",
+      "rss_guid": "c81fa6e4-254b-11ed-a736-ffabeece0694",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4300.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-80fccaa40bed",
+      "rss_guid": "c8121c18-254b-11ed-a736-1b1128ca0dbd",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4999.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e2dc5a9ed4de",
+      "rss_guid": "c803e134-254b-11ed-a736-8b7a68045bcd",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4467.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-5a2544032168",
+      "rss_guid": "c7f6277e-254b-11ed-a736-d73f1fa5678c",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3840.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1a64c0e4311b",
+      "rss_guid": "c7e8b814-254b-11ed-a736-db52fe716a24",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4944.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1c9282dc6cb0",
+      "rss_guid": "c7dbdd1a-254b-11ed-a736-6fa151d2b61d",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4199.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-04133a3d51dd",
+      "rss_guid": "c7b297c0-254b-11ed-a736-f3775d932a42",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4888.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e94a89a75c16",
+      "rss_guid": "c7c08574-254b-11ed-a736-8b117a0d9e6e",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4165.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ee7eebc3e73f",
+      "rss_guid": "f89975ee-35d6-11ec-aead-d304f661e96a",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6103.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-4351826bac46",
+      "rss_guid": "f8779a78-35d6-11ec-aead-af5f47143a00",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4653.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-887d01734e24",
+      "rss_guid": "f855b78c-35d6-11ec-aead-7fd9d1c9bf60",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4502.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6111ba908beb",
+      "rss_guid": "f833afb6-35d6-11ec-aead-fbb105bfff2e",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3664.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c409629cce38",
+      "rss_guid": "f8115db2-35d6-11ec-aead-7f3bae0c3bc7",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4998.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ec35f5ccd191",
+      "rss_guid": "f7ee5b6e-35d6-11ec-aead-6749f098418b",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e98fe193b6b5",
+      "rss_guid": "f7cc033e-35d6-11ec-aead-fbcc74c14bb2",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4366.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-2eccd41eb6c5",
+      "rss_guid": "f7a979b8-35d6-11ec-aead-134d132bebfe",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4936.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-28b05c5ec886",
+      "rss_guid": "f784fdfe-35d6-11ec-aead-ef14d55f4731",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-560d0bd0a716",
+      "rss_guid": "f76326ca-35d6-11ec-aead-5b9d732d309b",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4841.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-7c92f445e13a",
+      "rss_guid": "f7414406-35d6-11ec-aead-ff5691bdec4d",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4912.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-3c8d62b5526c",
+      "rss_guid": "f71f8136-35d6-11ec-aead-5fb142f3a294",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3348.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e4dfb517d345",
+      "rss_guid": "f6fc3f6e-35d6-11ec-aead-4f1dd8934113",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7002.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-f44befb1a59a",
+      "rss_guid": "f6d9deba-35d6-11ec-aead-df85d2f1ef6c",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4513.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-04c7f9eb5122",
+      "rss_guid": "f6b60404-35d6-11ec-aead-ff7cbef18d9e",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4900.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-a01c77fccb9f",
+      "rss_guid": "f69204e6-35d6-11ec-aead-7fbcf177b1d3",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4390.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-69d44d8496b9",
+      "rss_guid": "f66e12e8-35d6-11ec-aead-0f564d404031",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4385.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c1921be4d980",
+      "rss_guid": "f64a4c32-35d6-11ec-aead-8bc55dd1b3f8",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4103.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c95eaeea00de",
+      "rss_guid": "f6267a82-35d6-11ec-aead-8b53a6b2f0e3",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4088.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-fbbb58160873",
+      "rss_guid": "f6029a86-35d6-11ec-aead-c7d7dd1bd5cf",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4572.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e2be5f5a539e",
+      "rss_guid": "f5def860-35d6-11ec-aead-17aa809fa1b7",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4722.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-b99ba2276465",
+      "rss_guid": "f5bb578e-35d6-11ec-aead-6323c87da326",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3608.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-4be15c71655b",
+      "rss_guid": "f597c3c8-35d6-11ec-aead-5ff2514cd977",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5733.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-2e4629616bed",
+      "rss_guid": "f5740bfe-35d6-11ec-aead-b360afd11132",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4336.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-fc224b232544",
+      "rss_guid": "f54fee9a-35d6-11ec-aead-f35821151854",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4585.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-4fb595147a83",
+      "rss_guid": "f52bd668-35d6-11ec-aead-e78ce8e8e2b5",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4090.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ad2bb38fd26a",
+      "rss_guid": "f508ad1e-35d6-11ec-aead-6bb020cfc6f0",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4162.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-42a73ec5469a",
+      "rss_guid": "f4e51872-35d6-11ec-aead-5bdb2881bea9",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4462.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-dbadd4cfbd9e",
+      "rss_guid": "f4c17728-35d6-11ec-aead-4f1f20fd8398",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4263.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c39dabc25cb4",
+      "rss_guid": "f49dab90-35d6-11ec-aead-63e593575fcf",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6224.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-42192920dc0a",
+      "rss_guid": "f479bd7a-35d6-11ec-aead-73e0eda8fb23",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4197.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-b134702e2749",
+      "rss_guid": "f455ee90-35d6-11ec-aead-935e820d4d88",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5212.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-26247237957f",
+      "rss_guid": "f4325246-35d6-11ec-aead-2be4823aae79",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4449.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-40411eaeb333",
+      "rss_guid": "f40ecd76-35d6-11ec-aead-0fd6aad3e74d",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4863.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-bb27c8259f18",
+      "rss_guid": "f3eb5d96-35d6-11ec-aead-0b14269521b5",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4515.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-4aefb0eab899",
+      "rss_guid": "f3c7561c-35d6-11ec-aead-83d9477fbca5",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5587.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-f9ba8065a93b",
+      "rss_guid": "f3a3bfcc-35d6-11ec-aead-c320eb93df3f",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4147.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-458daf2a83f1",
+      "rss_guid": "d2170bfc-b5e2-11ec-9600-775b56a120eb",
+      "published_date": "2022-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2581.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-fd99d849cedf",
+      "rss_guid": "f37f1a14-35d6-11ec-aead-6767360a077c",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4348.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-ae7cd21de71d",
+      "rss_guid": "f35ace84-35d6-11ec-aead-a75bb29dbc8a",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3977.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e3dab5f79874",
+      "rss_guid": "f33685b0-35d6-11ec-aead-fb60aab05cca",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4465.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6c27c7ec0ff9",
+      "rss_guid": "f312a3c0-35d6-11ec-aead-b32b8c31f5fc",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4934.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-e1b2c7028991",
+      "rss_guid": "f2eddf40-35d6-11ec-aead-77b27223ba9d",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4995.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-6631d3958130",
+      "rss_guid": "f2ca1830-35d6-11ec-aead-d31f4219f0fd",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5716.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-525c5e1f69c6",
+      "rss_guid": "f2a5e37a-35d6-11ec-aead-8b32205ad605",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5741.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-dc0d9a42e1a4",
+      "rss_guid": "f2816536-35d6-11ec-aead-e7fe761aa42a",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4429.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-0ca10aec19f1",
+      "rss_guid": "f25d5d76-35d6-11ec-aead-ef12e9518f88",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4439.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-29d4ba8496f7",
+      "rss_guid": "f23bf352-35d6-11ec-aead-73bb24dfcc32",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4212.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-c3851ad4de8e",
+      "rss_guid": "f21aab98-35d6-11ec-aead-c3cc6abe47da",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5085.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-2612cf5c0f78",
+      "rss_guid": "f1f91fb4-35d6-11ec-aead-cf9c5b98dd46",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5832.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-77c6ffdae406",
+      "rss_guid": "f1d70280-35d6-11ec-aead-2f0b6f8cbf3c",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3361.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-32d48dbd434c",
+      "rss_guid": "aace15a4-2452-11eb-81f9-a3ff34fdf56e",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5547.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1220117b26da",
+      "rss_guid": "aaca53a6-2452-11eb-81f9-7fbe02834708",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-f3a76550b1ac",
+      "rss_guid": "aac63ca8-2452-11eb-81f9-8b83154f83c1",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4262.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-47e03e581409",
+      "rss_guid": "aac29a30-2452-11eb-81f9-63522c1ce262",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3889.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-1cbfc7abd70c",
+      "rss_guid": "aabea88a-2452-11eb-81f9-ab4f68d55d41",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5398.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-a7dac7b050aa",
+      "rss_guid": "aaba3f70-2452-11eb-81f9-efc3203c1938",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4089.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-712fe25a225a",
+      "rss_guid": "aab53d36-2452-11eb-81f9-3feb0fcb449d",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3730.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-9ce7bd30a5c7",
+      "rss_guid": "aab16b3e-2452-11eb-81f9-c389ea6b14c0",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4193.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-a841192e5c57",
+      "rss_guid": "aaad939c-2452-11eb-81f9-d7463cc8d428",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5236.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-09e6c2a95a57",
+      "rss_guid": "aaa98bb2-2452-11eb-81f9-fbd52fe83324",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4713.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-85008dbb3c7d",
+      "rss_guid": "aaa5601e-2452-11eb-81f9-fff556ccaa22",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4595.0
+    },
+    {
+      "episode_id": "ear_biscuits_with_rhett_link-48b512d21d9c",
+      "rss_guid": "aaa14c90-2452-11eb-81f9-5759fa04ad23",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5145.0
+    }
+  ]
+}

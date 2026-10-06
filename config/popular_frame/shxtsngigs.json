@@ -1,0 +1,2039 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_shxtsngigs_20261002T193807Z",
+  "show_id": "shxtsngigs",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.acast.com/public/shows/6477204262b0900011c3fb37",
+    "snapshot_relative_path": "data/raw/rss/shxtsngigs/shxtsngigs_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "b2daefc60771542049b6f61a4ad85c3005009f038dafb1bfdb916b969482a23b",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "shxtsngigs-0916749cee35",
+      "rss_guid": "6ab81c1b6849374acf16f524",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5138.0
+    },
+    {
+      "episode_id": "shxtsngigs-9b61293959e1",
+      "rss_guid": "6ab0c087901d7426a2ecb948",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5146.0
+    },
+    {
+      "episode_id": "shxtsngigs-0ff016b0f090",
+      "rss_guid": "6aa79da9c70e68f01d0726ac",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5363.0
+    },
+    {
+      "episode_id": "shxtsngigs-887790ea5c1b",
+      "rss_guid": "6a9e6836f33e00754146e6f2",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4243.0
+    },
+    {
+      "episode_id": "shxtsngigs-bf80ec2ebbc8",
+      "rss_guid": "6a950ea2f172280dff3c8458",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4535.0
+    },
+    {
+      "episode_id": "shxtsngigs-a5a5d272fb1b",
+      "rss_guid": "6a8bd59d15ffbc85d2bb6f70",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3701.0
+    },
+    {
+      "episode_id": "shxtsngigs-445810010506",
+      "rss_guid": "6a82575c9cff0a5d65c91555",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5511.0
+    },
+    {
+      "episode_id": "shxtsngigs-6e47770d096d",
+      "rss_guid": "6a791ac77f2fbdf33013479b",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5946.0
+    },
+    {
+      "episode_id": "shxtsngigs-b6bc4362b340",
+      "rss_guid": "6a7027f159da69c04059cb32",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5262.0
+    },
+    {
+      "episode_id": "shxtsngigs-d13f009f197b",
+      "rss_guid": "6a66fff1a7deefd3aa2d6b22",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4208.0
+    },
+    {
+      "episode_id": "shxtsngigs-ef3c187c2127",
+      "rss_guid": "6a5db6b43eeeeced965ded06",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4906.0
+    },
+    {
+      "episode_id": "shxtsngigs-849a4459b346",
+      "rss_guid": "6a542e96bacc7c174e67a11e",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4000.0
+    },
+    {
+      "episode_id": "shxtsngigs-3d526332441b",
+      "rss_guid": "6a4aed354ad750a0c1b11d20",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5538.0
+    },
+    {
+      "episode_id": "shxtsngigs-9aad92f0bad7",
+      "rss_guid": "6a420f95a0fcba9e7cab455b",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5262.0
+    },
+    {
+      "episode_id": "shxtsngigs-c768e7a1eb0e",
+      "rss_guid": "6a37c0ecfb930cb8093c10e7",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4726.0
+    },
+    {
+      "episode_id": "shxtsngigs-eaf2efd2928a",
+      "rss_guid": "6a2f9cd2a41fb10bc0b0db74",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4610.0
+    },
+    {
+      "episode_id": "shxtsngigs-8e825a0c37ce",
+      "rss_guid": "6a265ed478d25fe27451fd91",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4014.0
+    },
+    {
+      "episode_id": "shxtsngigs-9fc1e309bcd4",
+      "rss_guid": "6a1cc3696cf9fa846adbf437",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4178.0
+    },
+    {
+      "episode_id": "shxtsngigs-3ab5a155941c",
+      "rss_guid": "6a1441b3e4510091cacc5f04",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5469.0
+    },
+    {
+      "episode_id": "shxtsngigs-48cd730cd209",
+      "rss_guid": "6a0ab2dab32a46d35d40f24f",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4042.0
+    },
+    {
+      "episode_id": "shxtsngigs-537564be8e78",
+      "rss_guid": "6a01a0b52f534ef57b02f1c2",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5663.0
+    },
+    {
+      "episode_id": "shxtsngigs-a53170319ba6",
+      "rss_guid": "69f858825a8b3ebe9f420a73",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3564.0
+    },
+    {
+      "episode_id": "shxtsngigs-9b3d8ac3c2c4",
+      "rss_guid": "69f5bf8d425d4f6dd4c81131",
+      "published_date": "2026-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3391.0
+    },
+    {
+      "episode_id": "shxtsngigs-30c1093c819b",
+      "rss_guid": "69eef31dfffd055231a2de41",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4253.0
+    },
+    {
+      "episode_id": "shxtsngigs-dc845a638723",
+      "rss_guid": "69e5b2800552b3a99c0b2848",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4404.0
+    },
+    {
+      "episode_id": "shxtsngigs-b5d24a7db27e",
+      "rss_guid": "69dc8dc24f8e5b3507a20221",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5006.0
+    },
+    {
+      "episode_id": "shxtsngigs-d1671d84ce6c",
+      "rss_guid": "69d347f18d3d1f6a2579594f",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3804.0
+    },
+    {
+      "episode_id": "shxtsngigs-8145e0bc5efb",
+      "rss_guid": "69ca07ade44b28321e169f80",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7111.0
+    },
+    {
+      "episode_id": "shxtsngigs-bf9ecce7755a",
+      "rss_guid": "69c18fcb1a160b44dbb71efc",
+      "published_date": "2026-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4870.0
+    },
+    {
+      "episode_id": "shxtsngigs-1a5586356f46",
+      "rss_guid": "69b7a95f4266c9b1c75d58c2",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5003.0
+    },
+    {
+      "episode_id": "shxtsngigs-ad98cc6c147f",
+      "rss_guid": "69aea9d3a0aa54264fb649c8",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4498.0
+    },
+    {
+      "episode_id": "shxtsngigs-372db86bb3a1",
+      "rss_guid": "69a53914a48c2e1548704e04",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4938.0
+    },
+    {
+      "episode_id": "shxtsngigs-289212a1c56a",
+      "rss_guid": "69a08584e4e1627e8cb3d414",
+      "published_date": "2026-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3691.0
+    },
+    {
+      "episode_id": "shxtsngigs-03fccaad92a8",
+      "rss_guid": "699c00b0240b4a2d75c129dd",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4080.0
+    },
+    {
+      "episode_id": "shxtsngigs-027be6eb1db3",
+      "rss_guid": "6992d03cd6c27a06bb1c11b4",
+      "published_date": "2026-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5177.0
+    },
+    {
+      "episode_id": "shxtsngigs-83bd8b410185",
+      "rss_guid": "6989663c4977a6a148e78838",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4209.0
+    },
+    {
+      "episode_id": "shxtsngigs-32e698e3db67",
+      "rss_guid": "698056b019ef991f7322bc92",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3706.0
+    },
+    {
+      "episode_id": "shxtsngigs-182705188db1",
+      "rss_guid": "69771ca27396c6aa98792ad7",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4999.0
+    },
+    {
+      "episode_id": "shxtsngigs-ba90de0fb4c4",
+      "rss_guid": "696deb904788cf9ec6cb2a03",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "shxtsngigs-bcfffa2a2829",
+      "rss_guid": "6964ad263a409cca49a5484f",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3420.0
+    },
+    {
+      "episode_id": "shxtsngigs-d03851fd597d",
+      "rss_guid": "695b8563fb49dbac00f5fec3",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4397.0
+    },
+    {
+      "episode_id": "shxtsngigs-fc7c0fda0e0a",
+      "rss_guid": "695257ff2305c7fb14a1ee9b",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4969.0
+    },
+    {
+      "episode_id": "shxtsngigs-9fb103a773fa",
+      "rss_guid": "694fdf426d80a931eb54be3b",
+      "published_date": "2025-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3719.0
+    },
+    {
+      "episode_id": "shxtsngigs-8428082a2466",
+      "rss_guid": "69488f17e2b7985fa2fe9839",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3302.0
+    },
+    {
+      "episode_id": "shxtsngigs-169a25b881ea",
+      "rss_guid": "693fef5280257c9e35da0c71",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4346.0
+    },
+    {
+      "episode_id": "shxtsngigs-c8176163a7f8",
+      "rss_guid": "693624cfaef2c71c1d95db1b",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4888.0
+    },
+    {
+      "episode_id": "shxtsngigs-065000b92b13",
+      "rss_guid": "692c6dc1635c16d640ffebe9",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3576.0
+    },
+    {
+      "episode_id": "shxtsngigs-477267b318b1",
+      "rss_guid": "69242262c367efee96ee40f9",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4706.0
+    },
+    {
+      "episode_id": "shxtsngigs-2846ffffcd8d",
+      "rss_guid": "691adfa27a0043834a0efed3",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3510.0
+    },
+    {
+      "episode_id": "shxtsngigs-18c197b2464d",
+      "rss_guid": "69119865f273d64d0bcca655",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4057.0
+    },
+    {
+      "episode_id": "shxtsngigs-aa4c6e7d5965",
+      "rss_guid": "69086bd8e9adcd09fb7764fe",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3429.0
+    },
+    {
+      "episode_id": "shxtsngigs-3b23314373f0",
+      "rss_guid": "68ff2bb918bcdad2ab490386",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3850.0
+    },
+    {
+      "episode_id": "shxtsngigs-b4577a91fbff",
+      "rss_guid": "68f568eee2cf93c3142ae98c",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4432.0
+    },
+    {
+      "episode_id": "shxtsngigs-4b0e60c0e7df",
+      "rss_guid": "68ec2873ef7cfb1e14b0e648",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3753.0
+    },
+    {
+      "episode_id": "shxtsngigs-2cf6f7bb7797",
+      "rss_guid": "68ea711dd14438356b035083",
+      "published_date": "2025-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3006.0
+    },
+    {
+      "episode_id": "shxtsngigs-fb8b9ceda54e",
+      "rss_guid": "68e2d9d8965488b63ac0e9a5",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3817.0
+    },
+    {
+      "episode_id": "shxtsngigs-725b8961cff1",
+      "rss_guid": "68dd59947be17a7f01838582",
+      "published_date": "2025-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2580.0
+    },
+    {
+      "episode_id": "shxtsngigs-fff002d6c907",
+      "rss_guid": "68d9c4fc099369ce42e67974",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3806.0
+    },
+    {
+      "episode_id": "shxtsngigs-66f2df763113",
+      "rss_guid": "68d082bbef1d2c878d740221",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4369.0
+    },
+    {
+      "episode_id": "shxtsngigs-85769ac84d42",
+      "rss_guid": "68c72eb044d0096b87674039",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3571.0
+    },
+    {
+      "episode_id": "shxtsngigs-ccfb0a9285cb",
+      "rss_guid": "68bdfb82b306fbb419f26bca",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3313.0
+    },
+    {
+      "episode_id": "shxtsngigs-4411b953e4e7",
+      "rss_guid": "68b4d4f7e9dcbdcab9e8cea8",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3594.0
+    },
+    {
+      "episode_id": "shxtsngigs-60feb04fb40a",
+      "rss_guid": "68ac22bf982c36846e5f55b3",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4659.0
+    },
+    {
+      "episode_id": "shxtsngigs-6f9cf186a0ee",
+      "rss_guid": "68a2cd5226699148a73d7477",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4111.0
+    },
+    {
+      "episode_id": "shxtsngigs-c2ee7e5cc9c4",
+      "rss_guid": "68992fd8c6d7c56cda440953",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3677.0
+    },
+    {
+      "episode_id": "shxtsngigs-3a71ce1dbf0b",
+      "rss_guid": "68905a954c7681cc0edb74c9",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4806.0
+    },
+    {
+      "episode_id": "shxtsngigs-008a7e1bd369",
+      "rss_guid": "6886c85c6e658a8b3c2bb5fb",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4214.0
+    },
+    {
+      "episode_id": "shxtsngigs-b2af41cd319e",
+      "rss_guid": "687df56e0de40e9a7c0b9cb0",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4216.0
+    },
+    {
+      "episode_id": "shxtsngigs-efe2d49a1db3",
+      "rss_guid": "6874abffc81f4db04a33483f",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3888.0
+    },
+    {
+      "episode_id": "shxtsngigs-d295c01f529a",
+      "rss_guid": "686b74e88d2a216e12f0f2bf",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3375.0
+    },
+    {
+      "episode_id": "shxtsngigs-8dc7d951c571",
+      "rss_guid": "686224c9f1f233736923ccfc",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4315.0
+    },
+    {
+      "episode_id": "shxtsngigs-371c8f0d2a11",
+      "rss_guid": "6858f57e73d44a0f7e719f19",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3857.0
+    },
+    {
+      "episode_id": "shxtsngigs-87acb751569a",
+      "rss_guid": "6855a204412e0f0fbfe78717",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3069.0
+    },
+    {
+      "episode_id": "shxtsngigs-9c0e23bc440e",
+      "rss_guid": "684fb5d85cc6cddada6b55eb",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3096.0
+    },
+    {
+      "episode_id": "shxtsngigs-c68c92370c23",
+      "rss_guid": "68460746f47b55b37af338ea",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5174.0
+    },
+    {
+      "episode_id": "shxtsngigs-2d1b8d7c9a0a",
+      "rss_guid": "683d8e230d2b3bac3eff068f",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4908.0
+    },
+    {
+      "episode_id": "shxtsngigs-fbb9683329ac",
+      "rss_guid": "68339df9393e5e6cd837b023",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3530.0
+    },
+    {
+      "episode_id": "shxtsngigs-c3817295f64b",
+      "rss_guid": "682a6a9fe8a66fad6d860459",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4947.0
+    },
+    {
+      "episode_id": "shxtsngigs-6d431c354893",
+      "rss_guid": "682199fd986466935da4ac61",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4125.0
+    },
+    {
+      "episode_id": "shxtsngigs-ae82dd502ffd",
+      "rss_guid": "681872118e712cac96a03a7c",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3664.0
+    },
+    {
+      "episode_id": "shxtsngigs-f0ad9b4317cb",
+      "rss_guid": "680eb3392e4e0a1b465a26de",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4554.0
+    },
+    {
+      "episode_id": "shxtsngigs-e02b866813a0",
+      "rss_guid": "6805623e3605ee881cb0cc70",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4966.0
+    },
+    {
+      "episode_id": "shxtsngigs-80d8cf51555e",
+      "rss_guid": "67fc30b47b4fe9379be0acae",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3846.0
+    },
+    {
+      "episode_id": "shxtsngigs-0ecd95a63d59",
+      "rss_guid": "67f2f3193292c8a68e7d10a6",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4800.0
+    },
+    {
+      "episode_id": "shxtsngigs-987a3b89e4c6",
+      "rss_guid": "67e9cea6f6fbf271934ffb67",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3028.0
+    },
+    {
+      "episode_id": "shxtsngigs-5e3ff355cac9",
+      "rss_guid": "67e0560854d1f90c990ea317",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5369.0
+    },
+    {
+      "episode_id": "shxtsngigs-7c4e6bacf4e3",
+      "rss_guid": "67d75d3c1807f0dc08fa09f0",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4637.0
+    },
+    {
+      "episode_id": "shxtsngigs-0979058a9c36",
+      "rss_guid": "67ce2d83ffae9c0f4ee7dd73",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3371.0
+    },
+    {
+      "episode_id": "shxtsngigs-d721e7742805",
+      "rss_guid": "67c4eb20a7ca43b05e1203c2",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3992.0
+    },
+    {
+      "episode_id": "shxtsngigs-690e3e5949ac",
+      "rss_guid": "67bbaf55b628e470d3cc40fd",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3028.0
+    },
+    {
+      "episode_id": "shxtsngigs-524f8f61617c",
+      "rss_guid": "67b2467b4d9bd1092c7ee062",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3776.0
+    },
+    {
+      "episode_id": "shxtsngigs-f2b87969d5b5",
+      "rss_guid": "67a93849505cb2a0a36fbcde",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3417.0
+    },
+    {
+      "episode_id": "shxtsngigs-04626c5e8cb7",
+      "rss_guid": "67a098759cd0aa28f7d700cb",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3254.0
+    },
+    {
+      "episode_id": "shxtsngigs-3df22e156e40",
+      "rss_guid": "6796c2bd64a671b4e15b6f09",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3562.0
+    },
+    {
+      "episode_id": "shxtsngigs-2ca322c9e48a",
+      "rss_guid": "678d934f16bc7a8545ad0e8e",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2837.0
+    },
+    {
+      "episode_id": "shxtsngigs-3e7cd4760b42",
+      "rss_guid": "67844ac97ba57787eb781734",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4294.0
+    },
+    {
+      "episode_id": "shxtsngigs-67ed3451fca7",
+      "rss_guid": "677b35a1a1ad7348eb2097a3",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4204.0
+    },
+    {
+      "episode_id": "shxtsngigs-01a5bd1f34a7",
+      "rss_guid": "6772b6ad97bec40ae953007f",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5124.0
+    },
+    {
+      "episode_id": "shxtsngigs-a98cc104edd1",
+      "rss_guid": "6768a8d591b5ed894894f983",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3155.0
+    },
+    {
+      "episode_id": "shxtsngigs-0e25027e6079",
+      "rss_guid": "675f87d427740406d8eef329",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3001.0
+    },
+    {
+      "episode_id": "shxtsngigs-f68878d57179",
+      "rss_guid": "67562da2e417dbfb21998795",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3469.0
+    },
+    {
+      "episode_id": "shxtsngigs-a761dea16231",
+      "rss_guid": "674cfc52f6ece089ea411f75",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4115.0
+    },
+    {
+      "episode_id": "shxtsngigs-eeec0cd795ff",
+      "rss_guid": "6743e6cb8beb305103cf5af7",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3825.0
+    },
+    {
+      "episode_id": "shxtsngigs-b2334b2598f9",
+      "rss_guid": "673a8de4cf35dcb04a9cadbc",
+      "published_date": "2024-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2980.0
+    },
+    {
+      "episode_id": "shxtsngigs-26a0ae064330",
+      "rss_guid": "67314e886bd9c43f66b443d9",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4296.0
+    },
+    {
+      "episode_id": "shxtsngigs-4f15918629fd",
+      "rss_guid": "672827d684407ac82eb14587",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3224.0
+    },
+    {
+      "episode_id": "shxtsngigs-88b730a9579f",
+      "rss_guid": "6723a1c50e172486e441e6b1",
+      "published_date": "2024-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3714.0
+    },
+    {
+      "episode_id": "shxtsngigs-aaaa6e427691",
+      "rss_guid": "671ee31008eefaeb80a7f06a",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3264.0
+    },
+    {
+      "episode_id": "shxtsngigs-aadf7c62b7f5",
+      "rss_guid": "67158f6107c991f25982da82",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3415.0
+    },
+    {
+      "episode_id": "shxtsngigs-03494bc8408f",
+      "rss_guid": "670c506460b4b25265742ce2",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4127.0
+    },
+    {
+      "episode_id": "shxtsngigs-41ab283c0ed4",
+      "rss_guid": "670311a5c88f09c3e0c4b4b1",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3212.0
+    },
+    {
+      "episode_id": "shxtsngigs-28b586da393f",
+      "rss_guid": "66f9ccb9acfe1ec5ec2320a5",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5542.0
+    },
+    {
+      "episode_id": "shxtsngigs-445cf153667f",
+      "rss_guid": "66f0bcbf1b7e01caa7c0523b",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3513.0
+    },
+    {
+      "episode_id": "shxtsngigs-ca6aa56f35a8",
+      "rss_guid": "66e783f1a57e37b78323e866",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4145.0
+    },
+    {
+      "episode_id": "shxtsngigs-3c478bf04282",
+      "rss_guid": "66de9fc535cd89c25d1bf9a7",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4520.0
+    },
+    {
+      "episode_id": "shxtsngigs-1e797f96814a",
+      "rss_guid": "66d6cb4d3895e5a9f8812102",
+      "published_date": "2024-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4542.0
+    },
+    {
+      "episode_id": "shxtsngigs-71a78900a97d",
+      "rss_guid": "66cbf2c8ff5eaa8e1b0336d1",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4106.0
+    },
+    {
+      "episode_id": "shxtsngigs-f4c759132232",
+      "rss_guid": "66c2e9b4bc2cd0e1690c316e",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3033.0
+    },
+    {
+      "episode_id": "shxtsngigs-eeb7a17115ad",
+      "rss_guid": "66ba25cdfa05c89378e3500a",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3035.0
+    },
+    {
+      "episode_id": "shxtsngigs-11dc73cb328b",
+      "rss_guid": "66b052dd6038d9e0ea514423",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3365.0
+    },
+    {
+      "episode_id": "shxtsngigs-b36f5ab5c380",
+      "rss_guid": "66a7bd8eec855766574f1909",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3143.0
+    },
+    {
+      "episode_id": "shxtsngigs-bafc88db75e6",
+      "rss_guid": "669da68656b8e1805ee4706a",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3719.0
+    },
+    {
+      "episode_id": "shxtsngigs-5dd209d16120",
+      "rss_guid": "6694da3aade4ffab3e32e4c4",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3046.0
+    },
+    {
+      "episode_id": "shxtsngigs-9c5657f687a0",
+      "rss_guid": "668b8b5c19ce290b0bf7f5ed",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3524.0
+    },
+    {
+      "episode_id": "shxtsngigs-fba051a5fa3c",
+      "rss_guid": "6681dfe25cd64e8b86b1875a",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2693.0
+    },
+    {
+      "episode_id": "shxtsngigs-b2478e221e24",
+      "rss_guid": "66793e5eda1c2dde36b86590",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3389.0
+    },
+    {
+      "episode_id": "shxtsngigs-0a5b97ffb97e",
+      "rss_guid": "666f7b21ce005e00133d9194",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6896.0
+    },
+    {
+      "episode_id": "shxtsngigs-7024644c9448",
+      "rss_guid": "66672fe751554900139d87df",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3419.0
+    },
+    {
+      "episode_id": "shxtsngigs-d089b78bbb68",
+      "rss_guid": "665d0897735ad8001204cb90",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4308.0
+    },
+    {
+      "episode_id": "shxtsngigs-c1837d1660f6",
+      "rss_guid": "66530d2f7acd5600121150a2",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3870.0
+    },
+    {
+      "episode_id": "shxtsngigs-f0631b45370e",
+      "rss_guid": "6649ec922b7315001239d0ff",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3209.0
+    },
+    {
+      "episode_id": "shxtsngigs-de17f45f3dfc",
+      "rss_guid": "664142ca1e442e00121550fe",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7074.0
+    },
+    {
+      "episode_id": "shxtsngigs-7ae0039576b4",
+      "rss_guid": "663822b4ed6cb50012d942aa",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3326.0
+    },
+    {
+      "episode_id": "shxtsngigs-390f1a7457c4",
+      "rss_guid": "662ed6313922620013db0b07",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3793.0
+    },
+    {
+      "episode_id": "shxtsngigs-bc38e0987e12",
+      "rss_guid": "66258f60b0b43c001247bb86",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4922.0
+    },
+    {
+      "episode_id": "shxtsngigs-c6eb2a169d34",
+      "rss_guid": "661c62c53fb7ab001636ae5d",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4068.0
+    },
+    {
+      "episode_id": "shxtsngigs-c5bb6b7af20f",
+      "rss_guid": "6613248ca513f800167b6918",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6195.0
+    },
+    {
+      "episode_id": "shxtsngigs-861c57eb9cb5",
+      "rss_guid": "6608a7ae7aefcb0016488bfa",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4021.0
+    },
+    {
+      "episode_id": "shxtsngigs-6e63a897aef8",
+      "rss_guid": "6600a616b5218f0017807098",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2984.0
+    },
+    {
+      "episode_id": "shxtsngigs-14344e1fed00",
+      "rss_guid": "65f7754a47dadf0017db4337",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3499.0
+    },
+    {
+      "episode_id": "shxtsngigs-b6e221b85d5e",
+      "rss_guid": "65ee309555ff8900175c6e06",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4187.0
+    },
+    {
+      "episode_id": "shxtsngigs-aba6fc8983e6",
+      "rss_guid": "65e495d596c15100183e3cea",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2984.0
+    },
+    {
+      "episode_id": "shxtsngigs-65f5a308599e",
+      "rss_guid": "65dbbd25dc02e000168a1172",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3352.0
+    },
+    {
+      "episode_id": "shxtsngigs-b288f15a75db",
+      "rss_guid": "65d256ff213c3000185898d5",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3533.0
+    },
+    {
+      "episode_id": "shxtsngigs-50280232d911",
+      "rss_guid": "65c96183896a640015723244",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3597.0
+    },
+    {
+      "episode_id": "shxtsngigs-f887ca3f57ed",
+      "rss_guid": "65c02549863949001664d63f",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4874.0
+    },
+    {
+      "episode_id": "shxtsngigs-17d30674f6f3",
+      "rss_guid": "65b778e45800d9001650d308",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3873.0
+    },
+    {
+      "episode_id": "shxtsngigs-264348325cf8",
+      "rss_guid": "65ad9aa82e64140016fc5d58",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6135.0
+    },
+    {
+      "episode_id": "shxtsngigs-5f363bef6042",
+      "rss_guid": "65a3f873f53b900017d166d1",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4452.0
+    },
+    {
+      "episode_id": "shxtsngigs-7a3c74bf3d4c",
+      "rss_guid": "659b2840d3a805001682ef98",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3509.0
+    },
+    {
+      "episode_id": "shxtsngigs-a2248a287ac2",
+      "rss_guid": "659177f3e0c67c00166b06a1",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3338.0
+    },
+    {
+      "episode_id": "shxtsngigs-babfc4f2aa82",
+      "rss_guid": "658813ebb17f790017451a31",
+      "published_date": "2023-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4337.0
+    },
+    {
+      "episode_id": "shxtsngigs-e473a639472d",
+      "rss_guid": "657f51005e36a600163ced7c",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5512.0
+    },
+    {
+      "episode_id": "shxtsngigs-1da050e8ac5e",
+      "rss_guid": "6576fba759a0980012bff335",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4874.0
+    },
+    {
+      "episode_id": "shxtsngigs-9140fc727d21",
+      "rss_guid": "656d937febd1bf0012e4aefe",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4433.0
+    },
+    {
+      "episode_id": "shxtsngigs-e65c3a41cca4",
+      "rss_guid": "65645f0bf1e94c00129aa187",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5476.0
+    },
+    {
+      "episode_id": "shxtsngigs-2b091469d9ea",
+      "rss_guid": "655a99e90418cd0012361c25",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4822.0
+    },
+    {
+      "episode_id": "shxtsngigs-2b48e0c7316d",
+      "rss_guid": "6551729f46e5c900118f2a70",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3811.0
+    },
+    {
+      "episode_id": "shxtsngigs-dc4ac7e3f124",
+      "rss_guid": "65481eab4618070012297a8a",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4504.0
+    },
+    {
+      "episode_id": "shxtsngigs-be99c19db2cf",
+      "rss_guid": "653fcdb78f6e5f00127ebcf8",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2571.0
+    },
+    {
+      "episode_id": "shxtsngigs-0d26dc677343",
+      "rss_guid": "65365d3e11c9d30012930b2d",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5195.0
+    },
+    {
+      "episode_id": "shxtsngigs-f027b0d2f40f",
+      "rss_guid": "652cc435d40c9700122de73e",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4460.0
+    },
+    {
+      "episode_id": "shxtsngigs-7b64f65d36aa",
+      "rss_guid": "6523ccf4d4f83200118de719",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2732.0
+    },
+    {
+      "episode_id": "shxtsngigs-86a6a67de291",
+      "rss_guid": "651a82ef6ab2cd00114b9dc5",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3902.0
+    },
+    {
+      "episode_id": "shxtsngigs-b2732e35ce6e",
+      "rss_guid": "6510286101cd300011e765ca",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3403.0
+    },
+    {
+      "episode_id": "shxtsngigs-9472d9b3d8fd",
+      "rss_guid": "65076bb51b06280011dc9b5e",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3406.0
+    },
+    {
+      "episode_id": "shxtsngigs-9240b9136ba0",
+      "rss_guid": "64fec12fb01ddc00113f5b5d",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4002.0
+    },
+    {
+      "episode_id": "shxtsngigs-c616722f0a6c",
+      "rss_guid": "64f519e85b905c00115cdc1f",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3655.0
+    },
+    {
+      "episode_id": "shxtsngigs-2847453c4ad1",
+      "rss_guid": "64eb9af34a6f410011a07a87",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4806.0
+    },
+    {
+      "episode_id": "shxtsngigs-b54496e24db5",
+      "rss_guid": "64e89be041e6ea0011f769fd",
+      "published_date": "2023-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2250.0
+    },
+    {
+      "episode_id": "shxtsngigs-7661ecd01550",
+      "rss_guid": "64e26076cc3992001182cece",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3434.0
+    },
+    {
+      "episode_id": "shxtsngigs-8bc4c345a665",
+      "rss_guid": "64d95bdcb33120001164db5a",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3340.0
+    },
+    {
+      "episode_id": "shxtsngigs-b0ad0cc26a09",
+      "rss_guid": "64d013ea2c5bd6001272d51c",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3477.0
+    },
+    {
+      "episode_id": "shxtsngigs-644d0ecb3a62",
+      "rss_guid": "64c6d9ac6e0909001175812d",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3810.0
+    },
+    {
+      "episode_id": "shxtsngigs-e7826b6b3b49",
+      "rss_guid": "64bd953ef6632e0011e70bcd",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3971.0
+    },
+    {
+      "episode_id": "shxtsngigs-cd231f9529cd",
+      "rss_guid": "64b471b8955b15001194a828",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4748.0
+    },
+    {
+      "episode_id": "shxtsngigs-4b6e778f3a6b",
+      "rss_guid": "64ab2a947e96470011e59982",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3965.0
+    },
+    {
+      "episode_id": "shxtsngigs-54d78e741f7f",
+      "rss_guid": "64a1dad7779dba00115eedb5",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4472.0
+    },
+    {
+      "episode_id": "shxtsngigs-24cba9afda23",
+      "rss_guid": "6498be4926bdf30011c52a9f",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3784.0
+    },
+    {
+      "episode_id": "shxtsngigs-24d92a64ce61",
+      "rss_guid": "648f7e0d2b3a6900115e18f6",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3257.0
+    },
+    {
+      "episode_id": "shxtsngigs-b05ff0666e36",
+      "rss_guid": "64863aeef5bfbf001173b8dc",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5036.0
+    },
+    {
+      "episode_id": "shxtsngigs-c6d278e0ebaf",
+      "rss_guid": "647c95e83e621f00116b4d25",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "shxtsngigs-43cb17ce3b3e",
+      "rss_guid": "1dd0f5c1-8f7e-4d2c-9c78-a35361d72977",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3297.0
+    },
+    {
+      "episode_id": "shxtsngigs-5b404edc42e3",
+      "rss_guid": "b7e4a7c5-a7e6-4079-8f51-655f724a2d14",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3830.0
+    },
+    {
+      "episode_id": "shxtsngigs-5f5efa1f24a0",
+      "rss_guid": "60fbf201-4b4a-4135-aaf1-ab9c85c356e2",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3723.0
+    },
+    {
+      "episode_id": "shxtsngigs-332a44df9e67",
+      "rss_guid": "c9a04c81-d069-4c1d-ac1c-8f8039cd48ce",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5547.0
+    },
+    {
+      "episode_id": "shxtsngigs-57663b13e828",
+      "rss_guid": "6e64453c-338f-4ea4-a550-ed329afadb7a",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5549.0
+    },
+    {
+      "episode_id": "shxtsngigs-802dd829a217",
+      "rss_guid": "b7607447-c7c1-4c4b-8742-f82e37ebe610",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4488.0
+    },
+    {
+      "episode_id": "shxtsngigs-eca8b4c8b60f",
+      "rss_guid": "0fc32aac-1230-4ab8-88e2-45534774ceca",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4870.0
+    },
+    {
+      "episode_id": "shxtsngigs-c5c18d9962d7",
+      "rss_guid": "98fb543b-ed84-42a4-9001-338a21cd4514",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5234.0
+    },
+    {
+      "episode_id": "shxtsngigs-b328bde42414",
+      "rss_guid": "6ca7b5c3-547e-4adf-a366-7ed8290e7fbc",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3119.0
+    },
+    {
+      "episode_id": "shxtsngigs-e1ab20ffb469",
+      "rss_guid": "8beb796c-4370-4ceb-9000-2397c6b279f5",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3644.0
+    },
+    {
+      "episode_id": "shxtsngigs-0459d53aea3d",
+      "rss_guid": "0ce24dc5-47af-4d13-8151-44edda7ac263",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3416.0
+    },
+    {
+      "episode_id": "shxtsngigs-84b1886dd04a",
+      "rss_guid": "1884602e-d042-40c3-b098-33e46ca2ac73",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5705.0
+    },
+    {
+      "episode_id": "shxtsngigs-3316b7b86c18",
+      "rss_guid": "329ac424-8a68-42e0-8a72-53a144cd6882",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4191.0
+    },
+    {
+      "episode_id": "shxtsngigs-f5c436805fdd",
+      "rss_guid": "e297c0ae-af9a-49c8-be23-b1d19dfbe859",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5055.0
+    },
+    {
+      "episode_id": "shxtsngigs-c10193231069",
+      "rss_guid": "09c225fd-0281-4918-b75e-c223352f1408",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4584.0
+    },
+    {
+      "episode_id": "shxtsngigs-ea3bc10403ca",
+      "rss_guid": "a071cae5-be96-4c38-9202-7902eac9d15b",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3892.0
+    },
+    {
+      "episode_id": "shxtsngigs-f0664ea14b34",
+      "rss_guid": "50b829df-6b68-457a-b6cb-91368c1b4adf",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3591.0
+    },
+    {
+      "episode_id": "shxtsngigs-def7e8f280fa",
+      "rss_guid": "c9b51518-e6f2-4637-9d46-69353d26bdb6",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4482.0
+    },
+    {
+      "episode_id": "shxtsngigs-22c024629926",
+      "rss_guid": "7effe61f-b11c-4c20-80f5-242abb0d6691",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3741.0
+    },
+    {
+      "episode_id": "shxtsngigs-97b8bffd5792",
+      "rss_guid": "49ff1034-fb98-4c2a-9e45-20b024646c11",
+      "published_date": "2023-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4504.0
+    },
+    {
+      "episode_id": "shxtsngigs-615330d90c1d",
+      "rss_guid": "2792bb1a-4994-4a3c-abe9-a0fe590a97ea",
+      "published_date": "2023-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4439.0
+    },
+    {
+      "episode_id": "shxtsngigs-5c909c8f937d",
+      "rss_guid": "5bce984e-d01a-4770-8a97-2ebebaad96b8",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3646.0
+    },
+    {
+      "episode_id": "shxtsngigs-9f45b6937071",
+      "rss_guid": "e301abcd-864f-4b77-9990-8717163646d7",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3725.0
+    },
+    {
+      "episode_id": "shxtsngigs-ee878d5420fd",
+      "rss_guid": "53db8772-302a-4f43-aeb1-2a29210c39d0",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3869.0
+    },
+    {
+      "episode_id": "shxtsngigs-8714ddb491fd",
+      "rss_guid": "91e0d6c0-4957-469f-a244-5094f484d11c",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3220.0
+    },
+    {
+      "episode_id": "shxtsngigs-a2228acd1fa8",
+      "rss_guid": "96751fa3-19d1-4dfe-8b9e-93acf169bf4c",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3576.0
+    },
+    {
+      "episode_id": "shxtsngigs-a4e450d0b6b9",
+      "rss_guid": "6ee97346-71cc-4cc6-9b0e-ec693cfd43bb",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4214.0
+    },
+    {
+      "episode_id": "shxtsngigs-adc6cf97dd78",
+      "rss_guid": "cac21e74-c8eb-434c-b4a3-283c4c1fb99c",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4366.0
+    },
+    {
+      "episode_id": "shxtsngigs-9d5ffb52acfd",
+      "rss_guid": "7c54a844-627b-4e67-974e-6f04322ecbad",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3156.0
+    },
+    {
+      "episode_id": "shxtsngigs-1c35099dc564",
+      "rss_guid": "4c2ab23f-95d8-48ce-af93-6d5361a73a38",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4155.0
+    },
+    {
+      "episode_id": "shxtsngigs-55f0aee525e7",
+      "rss_guid": "7eb9325f-3ba7-434a-bd65-89cec46af13c",
+      "published_date": "2022-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 300.0
+    },
+    {
+      "episode_id": "shxtsngigs-c2ef30374e56",
+      "rss_guid": "1f8ec46a-d355-42d8-93a8-70ece91f0218",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3171.0
+    },
+    {
+      "episode_id": "shxtsngigs-3d5126d5dba5",
+      "rss_guid": "70a1dcb2-c762-4a55-adc7-0075c03cf725",
+      "published_date": "2022-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1129.0
+    },
+    {
+      "episode_id": "shxtsngigs-73fead260d8b",
+      "rss_guid": "7d34eb5d-4e6b-489c-9166-7f08c7b60f6b",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3928.0
+    },
+    {
+      "episode_id": "shxtsngigs-caa19243f09a",
+      "rss_guid": "283d74f4-8900-467d-9b52-bac7b9f2c55b",
+      "published_date": "2022-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 706.0
+    },
+    {
+      "episode_id": "shxtsngigs-4788f9342b39",
+      "rss_guid": "4e02c405-86e6-4fd1-adc7-dcf5a603d1e7",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3324.0
+    },
+    {
+      "episode_id": "shxtsngigs-dad0892f2e58",
+      "rss_guid": "30beeaba-e484-4cf5-8561-a5bd65c98cff",
+      "published_date": "2022-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 792.0
+    },
+    {
+      "episode_id": "shxtsngigs-7772579a8670",
+      "rss_guid": "e5bd5371-2227-4d13-93f1-60b81fe9e584",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4482.0
+    },
+    {
+      "episode_id": "shxtsngigs-5164da5bf024",
+      "rss_guid": "e08c618b-e80c-4226-81cc-c1f3703da3c5",
+      "published_date": "2022-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 549.0
+    },
+    {
+      "episode_id": "shxtsngigs-c5eae25833fd",
+      "rss_guid": "cf240cd9-874f-426d-b31a-d084cbcfab4c",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4082.0
+    },
+    {
+      "episode_id": "shxtsngigs-2858e496aa47",
+      "rss_guid": "6e1a8278-2226-4e1e-a6b4-e0f8275de799",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5687.0
+    },
+    {
+      "episode_id": "shxtsngigs-882d5cf47599",
+      "rss_guid": "cb754399-d721-40b3-b553-6f9f52b42d7d",
+      "published_date": "2022-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 706.0
+    },
+    {
+      "episode_id": "shxtsngigs-191edcdb7042",
+      "rss_guid": "cd24e758-67e9-4374-a839-33656289cad7",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7058.0
+    },
+    {
+      "episode_id": "shxtsngigs-45da70e6cdbf",
+      "rss_guid": "ec0e3234-d260-4d47-a28b-ef262a521e18",
+      "published_date": "2022-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 709.0
+    },
+    {
+      "episode_id": "shxtsngigs-3be3daca439d",
+      "rss_guid": "aaa92822-2914-4162-8386-633677900bd6",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5991.0
+    },
+    {
+      "episode_id": "shxtsngigs-d2e7025a91df",
+      "rss_guid": "44330164-8162-483c-92bf-c0344ca1e5b7",
+      "published_date": "2022-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 646.0
+    },
+    {
+      "episode_id": "shxtsngigs-f34ded64c49a",
+      "rss_guid": "903f5a73-6746-4159-8f2a-dbc34730c3c3",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4353.0
+    },
+    {
+      "episode_id": "shxtsngigs-ffca027fa33e",
+      "rss_guid": "f095b2ed-b0aa-4677-8644-3371672ee7f5",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4466.0
+    },
+    {
+      "episode_id": "shxtsngigs-2930dd4ad234",
+      "rss_guid": "daca20d2-72f7-4095-b0e6-91ccdfdc865e",
+      "published_date": "2022-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 984.0
+    },
+    {
+      "episode_id": "shxtsngigs-6cfa1e6b58fe",
+      "rss_guid": "7cf84f7c-43cb-42d2-be51-d906996c690d",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2785.0
+    },
+    {
+      "episode_id": "shxtsngigs-d6723b7588f9",
+      "rss_guid": "971928e3-1ec5-4e12-958d-2e4f33b3d5db",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "shxtsngigs-dbbc6f5b4186",
+      "rss_guid": "a5d53dfc-b98d-4c5f-816d-0bb05efbf2c2",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3875.0
+    },
+    {
+      "episode_id": "shxtsngigs-b6956b2828aa",
+      "rss_guid": "52cefc38-012b-4de5-9372-1480631e73bf",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4451.0
+    },
+    {
+      "episode_id": "shxtsngigs-9618181c9557",
+      "rss_guid": "888656e6-3c48-4daf-9567-207fc89b71e7",
+      "published_date": "2022-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1055.0
+    },
+    {
+      "episode_id": "shxtsngigs-9dd70491cb55",
+      "rss_guid": "f568a5a2-998a-4ed7-bd31-ec377a787671",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4085.0
+    },
+    {
+      "episode_id": "shxtsngigs-b99363e27ef3",
+      "rss_guid": "3d6ab2cd-82af-40c3-bd65-6f2f01065639",
+      "published_date": "2022-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 496.0
+    },
+    {
+      "episode_id": "shxtsngigs-1504eb00e9ba",
+      "rss_guid": "29082309-743d-4471-abb7-38f01516d4a5",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4939.0
+    },
+    {
+      "episode_id": "shxtsngigs-17518b72bf23",
+      "rss_guid": "c072fc16-20d4-4979-8bc9-089b73aec7a6",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4656.0
+    },
+    {
+      "episode_id": "shxtsngigs-70b4bb75acee",
+      "rss_guid": "dda96e34-d40e-43e3-8d9c-7ba4a6fe6836",
+      "published_date": "2022-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 648.0
+    },
+    {
+      "episode_id": "shxtsngigs-cff3f9ca53eb",
+      "rss_guid": "7d46403d-c369-46d6-9d66-2df160a467f0",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5239.0
+    },
+    {
+      "episode_id": "shxtsngigs-acad8c9687e2",
+      "rss_guid": "117a0c7e-6c83-45bb-92de-b9e79e592b49",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5512.0
+    },
+    {
+      "episode_id": "shxtsngigs-fa76fa9fbae6",
+      "rss_guid": "920e2a52-eff5-4f30-8ab4-2f03caefaf9e",
+      "published_date": "2022-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 875.0
+    },
+    {
+      "episode_id": "shxtsngigs-fb93f63e165e",
+      "rss_guid": "d087bc27-4591-4891-a702-842cc5f81a8e",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3817.0
+    },
+    {
+      "episode_id": "shxtsngigs-512aaca41c91",
+      "rss_guid": "4806589d-fd4e-40fd-b818-3a6c830f9f89",
+      "published_date": "2022-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1194.0
+    },
+    {
+      "episode_id": "shxtsngigs-50068913ea60",
+      "rss_guid": "e19d667f-2d75-4453-b6c4-1c3603d945fe",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4969.0
+    },
+    {
+      "episode_id": "shxtsngigs-59edb7973588",
+      "rss_guid": "1cf09291-b9c5-4b0e-a8c2-b9dc7e364f27",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3966.0
+    },
+    {
+      "episode_id": "shxtsngigs-ad31e63b136d",
+      "rss_guid": "5868cbeb-c97e-48f8-af90-8fbf21983f61",
+      "published_date": "2022-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 660.0
+    },
+    {
+      "episode_id": "shxtsngigs-0e3e4e84c3bd",
+      "rss_guid": "532c4dab-57eb-475e-bf53-28cfcc59c0a5",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4194.0
+    },
+    {
+      "episode_id": "shxtsngigs-05f7b431e0f2",
+      "rss_guid": "b57c278f-824a-4202-8acd-f5307e7121d8",
+      "published_date": "2022-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 842.0
+    },
+    {
+      "episode_id": "shxtsngigs-5a542ef45928",
+      "rss_guid": "a5cebc77-19d5-4727-8c38-8eefc9aca18e",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3280.0
+    },
+    {
+      "episode_id": "shxtsngigs-012842d5c4a0",
+      "rss_guid": "7c3d95bc-ee6d-479a-ad5a-3e922e180fcc",
+      "published_date": "2022-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 806.0
+    },
+    {
+      "episode_id": "shxtsngigs-947d861fdfcc",
+      "rss_guid": "3dfc7b29-ab8a-422e-83fc-691c9b88d49f",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4326.0
+    },
+    {
+      "episode_id": "shxtsngigs-0168bc408293",
+      "rss_guid": "a8062e9c-948e-463d-9b7c-ff733b3acc9a",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4756.0
+    },
+    {
+      "episode_id": "shxtsngigs-81aa834534c5",
+      "rss_guid": "2003e72e-860e-4620-ab7b-2ad3a9b7fa89",
+      "published_date": "2022-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1647.0
+    },
+    {
+      "episode_id": "shxtsngigs-f4dc71472a1b",
+      "rss_guid": "76fe38d3-e7c2-422f-b4fd-897a3e61fa65",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5136.0
+    },
+    {
+      "episode_id": "shxtsngigs-bac27601ae07",
+      "rss_guid": "6b8511ce-f42a-4f97-b4e6-2d4d03ec0ef0",
+      "published_date": "2022-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 477.0
+    },
+    {
+      "episode_id": "shxtsngigs-92a727692193",
+      "rss_guid": "c0b3458e-8c2c-4279-9739-0a72350ee524",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4017.0
+    },
+    {
+      "episode_id": "shxtsngigs-735257f68664",
+      "rss_guid": "833fe750-edbe-4109-a518-de17f6cf5095",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2917.0
+    },
+    {
+      "episode_id": "shxtsngigs-2588f5909c4e",
+      "rss_guid": "1ff01a22-ff1e-4416-9744-d3454441fa44",
+      "published_date": "2022-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 697.0
+    },
+    {
+      "episode_id": "shxtsngigs-9e87c723c81e",
+      "rss_guid": "db3b5fa6-e66f-4ee2-b1e6-dcc071ede024",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3452.0
+    },
+    {
+      "episode_id": "shxtsngigs-0cfc70cab9d4",
+      "rss_guid": "a922ade0-ca55-45e8-b1d9-38311aeaf645",
+      "published_date": "2022-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 757.0
+    },
+    {
+      "episode_id": "shxtsngigs-f53e59954196",
+      "rss_guid": "028554e0-288c-490b-acbd-05077b2e18a7",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4117.0
+    },
+    {
+      "episode_id": "shxtsngigs-b66b16bdacb9",
+      "rss_guid": "5b2f9c55-7338-43bd-b07f-bfebed7d7bfb",
+      "published_date": "2022-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1369.0
+    },
+    {
+      "episode_id": "shxtsngigs-dc82fff3862d",
+      "rss_guid": "0556089d-36d7-4977-aad5-28f3a72f4731",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3924.0
+    },
+    {
+      "episode_id": "shxtsngigs-05a45984ff84",
+      "rss_guid": "174e3d11-5a18-4a6b-b908-44e7c89c33fa",
+      "published_date": "2022-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 895.0
+    },
+    {
+      "episode_id": "shxtsngigs-0ed7a155283e",
+      "rss_guid": "dedfe603-521b-465d-b96e-8f9031757216",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4245.0
+    },
+    {
+      "episode_id": "shxtsngigs-bfb14e50a4ac",
+      "rss_guid": "3b99d171-d50f-4ec4-acf1-d4cb3d865e0b",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3060.0
+    },
+    {
+      "episode_id": "shxtsngigs-db88dbf49b3b",
+      "rss_guid": "1b506911-e534-49af-92c4-481b13ef10fa",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4438.0
+    },
+    {
+      "episode_id": "shxtsngigs-f20401c7f6c4",
+      "rss_guid": "f2f3324f-f993-4e47-9b57-1260f3f17231",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3210.0
+    },
+    {
+      "episode_id": "shxtsngigs-f4cea4aa0ca2",
+      "rss_guid": "3f5509cb-f3cb-4a47-a4ee-78826f87f774",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3698.0
+    },
+    {
+      "episode_id": "shxtsngigs-43fb7dffaffe",
+      "rss_guid": "4487ce27-2940-4854-bee8-106335558f88",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4521.0
+    },
+    {
+      "episode_id": "shxtsngigs-953eab62bbf8",
+      "rss_guid": "3a509485-ec26-4203-bf3c-6904fc67b7bb",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3868.0
+    },
+    {
+      "episode_id": "shxtsngigs-5da790a0a14a",
+      "rss_guid": "fbca2a7c-b76f-497d-ae40-4797491802ec",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3786.0
+    },
+    {
+      "episode_id": "shxtsngigs-6ed5f62e109e",
+      "rss_guid": "11791113-f629-461a-8bb9-87a2cceb259f",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3409.0
+    },
+    {
+      "episode_id": "shxtsngigs-7d0d8e2a62fd",
+      "rss_guid": "73359c03-7e37-43cc-a607-d41026077fe9",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3147.0
+    },
+    {
+      "episode_id": "shxtsngigs-536941d9017a",
+      "rss_guid": "c24d01aa-f28b-4583-9d7d-717a7209beb2",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2840.0
+    },
+    {
+      "episode_id": "shxtsngigs-ba9a3bee6ea3",
+      "rss_guid": "7f3c9069-31a5-4483-8d77-456880a840af",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3806.0
+    },
+    {
+      "episode_id": "shxtsngigs-87ada95e817e",
+      "rss_guid": "d330dfba-24b4-4152-85d5-2297c3e87ada",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3908.0
+    },
+    {
+      "episode_id": "shxtsngigs-19ccb5fbdca9",
+      "rss_guid": "f772e14e-b027-405f-9aea-bcfba31dac29",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2496.0
+    },
+    {
+      "episode_id": "shxtsngigs-2641bac6d2fc",
+      "rss_guid": "cc460ac9-7f03-4590-bc9a-f59fb61648b0",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3993.0
+    },
+    {
+      "episode_id": "shxtsngigs-aac66946aa78",
+      "rss_guid": "51fc505d-e801-4fe6-a3c7-b971337ec503",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4144.0
+    },
+    {
+      "episode_id": "shxtsngigs-78670c2db05c",
+      "rss_guid": "bb56ae92-c45e-4d91-85a5-f7ff0057bd19",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3709.0
+    },
+    {
+      "episode_id": "shxtsngigs-c3b78e8acf9e",
+      "rss_guid": "9ceaad89-a8eb-4e1a-b6f9-bf1953cd2119",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3188.0
+    },
+    {
+      "episode_id": "shxtsngigs-202f53ea4ecb",
+      "rss_guid": "750cdcab-137d-4ab3-aba4-acc7ee5c12fc",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 194.0
+    },
+    {
+      "episode_id": "shxtsngigs-ca917a0857fb",
+      "rss_guid": "5f7c34da-1e9e-437b-9743-425126cf97e0",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5649.0
+    },
+    {
+      "episode_id": "shxtsngigs-aaaf9c41ba0b",
+      "rss_guid": "23a69424-30e0-40c1-9538-439aa6673811",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3475.0
+    },
+    {
+      "episode_id": "shxtsngigs-1d6c55b81f8f",
+      "rss_guid": "75b4751a-10c3-40a9-816a-e0d7742c43db",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3702.0
+    }
+  ]
+}

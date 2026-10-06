@@ -1,0 +1,1843 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_bad_friends_20261002T193807Z",
+  "show_id": "bad_friends",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/TPC1602991613",
+    "snapshot_relative_path": "data/raw/rss/bad_friends/bad_friends_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "ff02d778371be09c1d71368c1df32d0a60f3905cb804970c31cbb6bbe7352425",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "bad_friends-b02265f7410c",
+      "rss_guid": "b727b2f8-8f5d-11f0-84e2-276f8a25b0a3",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4546.0
+    },
+    {
+      "episode_id": "bad_friends-9e10cd11bc73",
+      "rss_guid": "b706e8ca-8f5d-11f0-84e2-3fec625f7ff6",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4448.0
+    },
+    {
+      "episode_id": "bad_friends-cc8d62036b26",
+      "rss_guid": "b6e41142-8f5d-11f0-84e2-ebcd0a5ba369",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4303.0
+    },
+    {
+      "episode_id": "bad_friends-bfac49b66816",
+      "rss_guid": "b6c23c8e-8f5d-11f0-84e2-c78193f8b407",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4481.0
+    },
+    {
+      "episode_id": "bad_friends-a2c3e748a78e",
+      "rss_guid": "b6a007ae-8f5d-11f0-84e2-0b86c9b39841",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4767.0
+    },
+    {
+      "episode_id": "bad_friends-2bf454403150",
+      "rss_guid": "b67ef0e6-8f5d-11f0-84e2-5bae26fcc87a",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3818.0
+    },
+    {
+      "episode_id": "bad_friends-0b2d0b963509",
+      "rss_guid": "b65d5ad0-8f5d-11f0-84e2-bb8b2051fcb0",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4447.0
+    },
+    {
+      "episode_id": "bad_friends-ca5235b79413",
+      "rss_guid": "b63ba2a0-8f5d-11f0-84e2-6f5107134b94",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4106.0
+    },
+    {
+      "episode_id": "bad_friends-fec5437efe98",
+      "rss_guid": "b605e08e-8f5d-11f0-84e2-47556cc15df0",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4840.0
+    },
+    {
+      "episode_id": "bad_friends-e3b2240de05b",
+      "rss_guid": "b5e4aaae-8f5d-11f0-84e2-0fd083ecd697",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4360.0
+    },
+    {
+      "episode_id": "bad_friends-4d1d6bf11124",
+      "rss_guid": "b5c3b9d4-8f5d-11f0-84e2-7700a23d16cf",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4286.0
+    },
+    {
+      "episode_id": "bad_friends-42ad70aa5d0f",
+      "rss_guid": "b5a2c242-8f5d-11f0-84e2-9384670f9e2c",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3801.0
+    },
+    {
+      "episode_id": "bad_friends-8b3821778fb3",
+      "rss_guid": "b5816854-8f5d-11f0-84e2-e3585e77d3e1",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3693.0
+    },
+    {
+      "episode_id": "bad_friends-460bf16c385d",
+      "rss_guid": "b5604aa2-8f5d-11f0-84e2-8b77c92e08ef",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4374.0
+    },
+    {
+      "episode_id": "bad_friends-304d48cb7fa6",
+      "rss_guid": "b54042a2-8f5d-11f0-84e2-6f67198b34d6",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4270.0
+    },
+    {
+      "episode_id": "bad_friends-9af75765e5c0",
+      "rss_guid": "b51f804e-8f5d-11f0-84e2-137105f73217",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4939.0
+    },
+    {
+      "episode_id": "bad_friends-4af8fdc7b471",
+      "rss_guid": "b4fd4d08-8f5d-11f0-84e2-eb59710c9459",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4459.0
+    },
+    {
+      "episode_id": "bad_friends-0ad2660de16a",
+      "rss_guid": "b4db4d2a-8f5d-11f0-84e2-b7b9948efdde",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3666.0
+    },
+    {
+      "episode_id": "bad_friends-d10c6ec2431f",
+      "rss_guid": "b4b998f6-8f5d-11f0-84e2-3fe8622966f5",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4443.0
+    },
+    {
+      "episode_id": "bad_friends-607c8ac2535a",
+      "rss_guid": "b49529ee-8f5d-11f0-84e2-dfbdb0ebe733",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4534.0
+    },
+    {
+      "episode_id": "bad_friends-f789e8a147bd",
+      "rss_guid": "b4710604-8f5d-11f0-84e2-676916bfeeca",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4544.0
+    },
+    {
+      "episode_id": "bad_friends-5b54702459d9",
+      "rss_guid": "b44bf918-8f5d-11f0-84e2-2f328b579d00",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5044.0
+    },
+    {
+      "episode_id": "bad_friends-a26c1fe5b10e",
+      "rss_guid": "b425ae70-8f5d-11f0-84e2-27b75d425a10",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4561.0
+    },
+    {
+      "episode_id": "bad_friends-6dd139c7302c",
+      "rss_guid": "b4004086-8f5d-11f0-84e2-473e6ba5eb35",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4743.0
+    },
+    {
+      "episode_id": "bad_friends-d947808b9f0e",
+      "rss_guid": "b3db6db0-8f5d-11f0-84e2-6bdd44362d69",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4745.0
+    },
+    {
+      "episode_id": "bad_friends-cd3abba2d779",
+      "rss_guid": "b3b48722-8f5d-11f0-84e2-cf9720029538",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4589.0
+    },
+    {
+      "episode_id": "bad_friends-7d141028a661",
+      "rss_guid": "b38fbc76-8f5d-11f0-84e2-5fc57a6a3219",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4183.0
+    },
+    {
+      "episode_id": "bad_friends-b1ec4c98871e",
+      "rss_guid": "b367173a-8f5d-11f0-84e2-a70422cabb93",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5634.0
+    },
+    {
+      "episode_id": "bad_friends-8300b518dfe4",
+      "rss_guid": "b33f94bc-8f5d-11f0-84e2-278aa158d96c",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4744.0
+    },
+    {
+      "episode_id": "bad_friends-1946bddc5083",
+      "rss_guid": "b3187aee-8f5d-11f0-84e2-47b13244da2c",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4225.0
+    },
+    {
+      "episode_id": "bad_friends-511f61eaed6e",
+      "rss_guid": "b2cea2e8-8f5d-11f0-84e2-23b0f3f80de6",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4221.0
+    },
+    {
+      "episode_id": "bad_friends-fac849563998",
+      "rss_guid": "cc6c8ab4-5442-11ef-94e7-af46e508a2eb",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4229.0
+    },
+    {
+      "episode_id": "bad_friends-4aa4b6212e8e",
+      "rss_guid": "cc47846c-5442-11ef-94e7-d7fbbb490569",
+      "published_date": "2026-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3833.0
+    },
+    {
+      "episode_id": "bad_friends-2214edf303f4",
+      "rss_guid": "cc2208d6-5442-11ef-94e7-2badf2d8619d",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5273.0
+    },
+    {
+      "episode_id": "bad_friends-e8b616c39ab3",
+      "rss_guid": "cbfd58a6-5442-11ef-94e7-13c40eb1c5db",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3875.0
+    },
+    {
+      "episode_id": "bad_friends-337a5acae6cb",
+      "rss_guid": "cbd8ff1a-5442-11ef-94e7-1311648ca095",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3782.0
+    },
+    {
+      "episode_id": "bad_friends-ac165c242076",
+      "rss_guid": "cbb3c5e2-5442-11ef-94e7-534e80df4773",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5141.0
+    },
+    {
+      "episode_id": "bad_friends-0b22a6e089b4",
+      "rss_guid": "cb8f5b80-5442-11ef-94e7-3b3c2db57822",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3972.0
+    },
+    {
+      "episode_id": "bad_friends-81d36aaf8ff5",
+      "rss_guid": "cb6b5906-5442-11ef-94e7-036d4d6f276c",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5082.0
+    },
+    {
+      "episode_id": "bad_friends-1b5c9043fa84",
+      "rss_guid": "abd41346-e3eb-11f0-ab9a-6f7e16562d65",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2095.0
+    },
+    {
+      "episode_id": "bad_friends-1e098d1b8950",
+      "rss_guid": "cb217a8e-5442-11ef-94e7-87ecffa100c2",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4493.0
+    },
+    {
+      "episode_id": "bad_friends-197c7d3e03b3",
+      "rss_guid": "cafbcdb6-5442-11ef-94e7-4f71cab820d5",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3756.0
+    },
+    {
+      "episode_id": "bad_friends-e6d872177135",
+      "rss_guid": "cad6e122-5442-11ef-94e7-a760a09de43a",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4593.0
+    },
+    {
+      "episode_id": "bad_friends-b93e039a8e54",
+      "rss_guid": "cab1c4c8-5442-11ef-94e7-67afd27d320d",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4306.0
+    },
+    {
+      "episode_id": "bad_friends-c7bce26160d8",
+      "rss_guid": "ca8cfa58-5442-11ef-94e7-0fada7c00b54",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3956.0
+    },
+    {
+      "episode_id": "bad_friends-bf46996e9177",
+      "rss_guid": "ca66ba3c-5442-11ef-94e7-c7cd96d5613d",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4666.0
+    },
+    {
+      "episode_id": "bad_friends-72ec1d0aaa1a",
+      "rss_guid": "ca41b55c-5442-11ef-94e7-17290f0a1952",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4474.0
+    },
+    {
+      "episode_id": "bad_friends-0f330f5e5d9d",
+      "rss_guid": "ca1c0780-5442-11ef-94e7-8b35cd1d1e1c",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4537.0
+    },
+    {
+      "episode_id": "bad_friends-65bd30272872",
+      "rss_guid": "c9f4cb5c-5442-11ef-94e7-87242a23cff3",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4547.0
+    },
+    {
+      "episode_id": "bad_friends-639be3d2273b",
+      "rss_guid": "c9cebc96-5442-11ef-94e7-e30e5ab821fe",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4806.0
+    },
+    {
+      "episode_id": "bad_friends-b1cc39ff2d3a",
+      "rss_guid": "c9a976de-5442-11ef-94e7-af9a2028fabc",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3805.0
+    },
+    {
+      "episode_id": "bad_friends-8cdf095370f6",
+      "rss_guid": "c9815230-5442-11ef-94e7-434177c7e31e",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5012.0
+    },
+    {
+      "episode_id": "bad_friends-7cf4d22a680a",
+      "rss_guid": "c959dd40-5442-11ef-94e7-8f20af352cd8",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5267.0
+    },
+    {
+      "episode_id": "bad_friends-831c7d99db3c",
+      "rss_guid": "c93108c0-5442-11ef-94e7-eb72a89b14c9",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4529.0
+    },
+    {
+      "episode_id": "bad_friends-87fd7d6f8778",
+      "rss_guid": "c908e232-5442-11ef-94e7-5b7612f5a9de",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5672.0
+    },
+    {
+      "episode_id": "bad_friends-0d23ba480de6",
+      "rss_guid": "c8e10cbc-5442-11ef-94e7-0f2e309bb54e",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4545.0
+    },
+    {
+      "episode_id": "bad_friends-d8dd9bc55502",
+      "rss_guid": "c8bc3130-5442-11ef-94e7-1f04c888131e",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4572.0
+    },
+    {
+      "episode_id": "bad_friends-5160a871dc22",
+      "rss_guid": "c896b75c-5442-11ef-94e7-e369de214bd2",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4192.0
+    },
+    {
+      "episode_id": "bad_friends-cd40de666504",
+      "rss_guid": "c871c33e-5442-11ef-94e7-eb71594c4322",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4464.0
+    },
+    {
+      "episode_id": "bad_friends-a2e1845f738c",
+      "rss_guid": "c84b70b2-5442-11ef-94e7-0363eb372c38",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4908.0
+    },
+    {
+      "episode_id": "bad_friends-2236818eb627",
+      "rss_guid": "c826ddb0-5442-11ef-94e7-9b8f4e876fc9",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4993.0
+    },
+    {
+      "episode_id": "bad_friends-db96a8bb4613",
+      "rss_guid": "c801a464-5442-11ef-94e7-f3fe3bc5b728",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4883.0
+    },
+    {
+      "episode_id": "bad_friends-c69b882e87c4",
+      "rss_guid": "c7dc1f82-5442-11ef-94e7-13cb395653dc",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4770.0
+    },
+    {
+      "episode_id": "bad_friends-93990faa7b0d",
+      "rss_guid": "c7b62642-5442-11ef-94e7-07d9a129b3a9",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4132.0
+    },
+    {
+      "episode_id": "bad_friends-228a13d15c16",
+      "rss_guid": "c7910100-5442-11ef-94e7-8b9c479d297d",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5116.0
+    },
+    {
+      "episode_id": "bad_friends-7055f54c13ea",
+      "rss_guid": "c76c362c-5442-11ef-94e7-3faa8f44a33d",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4875.0
+    },
+    {
+      "episode_id": "bad_friends-ae2405f28273",
+      "rss_guid": "c7473340-5442-11ef-94e7-7b84424ba91f",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4376.0
+    },
+    {
+      "episode_id": "bad_friends-5d261c6e0bc0",
+      "rss_guid": "c7220c3c-5442-11ef-94e7-1b8545402ae2",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4122.0
+    },
+    {
+      "episode_id": "bad_friends-0f52cf660a03",
+      "rss_guid": "c6fcede4-5442-11ef-94e7-33b215b09596",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4439.0
+    },
+    {
+      "episode_id": "bad_friends-1021fd71de87",
+      "rss_guid": "c6d55d74-5442-11ef-94e7-0f8533987c24",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4404.0
+    },
+    {
+      "episode_id": "bad_friends-d2e97dacd98e",
+      "rss_guid": "c6aea31e-5442-11ef-94e7-6b83d4c4a25c",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4755.0
+    },
+    {
+      "episode_id": "bad_friends-99ed64b20c0a",
+      "rss_guid": "c6896810-5442-11ef-94e7-4b5e1a08df72",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3609.0
+    },
+    {
+      "episode_id": "bad_friends-8fc155fd8e14",
+      "rss_guid": "c662cf70-5442-11ef-94e7-3b74071af46c",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3651.0
+    },
+    {
+      "episode_id": "bad_friends-16bfc58dfa1f",
+      "rss_guid": "c63d8d8c-5442-11ef-94e7-37da7faed03d",
+      "published_date": "2025-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3927.0
+    },
+    {
+      "episode_id": "bad_friends-597f0ccdb5fe",
+      "rss_guid": "c618522e-5442-11ef-94e7-8bd9bfbb90db",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4600.0
+    },
+    {
+      "episode_id": "bad_friends-52fa4bc912b5",
+      "rss_guid": "c5f18c98-5442-11ef-94e7-93255b621936",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5139.0
+    },
+    {
+      "episode_id": "bad_friends-55360d0997cf",
+      "rss_guid": "c5ca31ac-5442-11ef-94e7-2bc33379f7f8",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4178.0
+    },
+    {
+      "episode_id": "bad_friends-614f448c20fd",
+      "rss_guid": "c5750ed4-5442-11ef-94e7-afeb7d0306b3",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3907.0
+    },
+    {
+      "episode_id": "bad_friends-4c1900d22d6e",
+      "rss_guid": "e5b04206-0b42-11f0-81ba-233e657a64ff",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4713.0
+    },
+    {
+      "episode_id": "bad_friends-fa4d346aa8e3",
+      "rss_guid": "09c7a80e-1239-11ef-a76f-5b74789475f2",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4644.0
+    },
+    {
+      "episode_id": "bad_friends-f9d2cef918b2",
+      "rss_guid": "099ec34e-1239-11ef-a76f-f37daa432a8c",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4664.0
+    },
+    {
+      "episode_id": "bad_friends-174c9d6fcc9b",
+      "rss_guid": "09771c2c-1239-11ef-a76f-e3e9cd8c0884",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4541.0
+    },
+    {
+      "episode_id": "bad_friends-bef0ffe07687",
+      "rss_guid": "094f8716-1239-11ef-a76f-477442619880",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3962.0
+    },
+    {
+      "episode_id": "bad_friends-1ead7148afc8",
+      "rss_guid": "0927a85e-1239-11ef-a76f-af3d4a64b957",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4492.0
+    },
+    {
+      "episode_id": "bad_friends-f7184523b212",
+      "rss_guid": "09011004-1239-11ef-a76f-f314b944e866",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4585.0
+    },
+    {
+      "episode_id": "bad_friends-68c455b3270a",
+      "rss_guid": "08d86398-1239-11ef-a76f-57b07b058565",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4421.0
+    },
+    {
+      "episode_id": "bad_friends-b605fedc024e",
+      "rss_guid": "08b16c8e-1239-11ef-a76f-970e612c16d7",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3996.0
+    },
+    {
+      "episode_id": "bad_friends-6f63730a756d",
+      "rss_guid": "088abad0-1239-11ef-a76f-272441d7d263",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4634.0
+    },
+    {
+      "episode_id": "bad_friends-e663d11d3984",
+      "rss_guid": "085ff4ee-1239-11ef-a76f-b76906e1a7a8",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4521.0
+    },
+    {
+      "episode_id": "bad_friends-28555a16e2ba",
+      "rss_guid": "40209310-d080-11ef-ba32-3f3b5d058181",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4932.0
+    },
+    {
+      "episode_id": "bad_friends-4588aa1d7f5a",
+      "rss_guid": "081035f8-1239-11ef-a76f-0f5c7405f11e",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4689.0
+    },
+    {
+      "episode_id": "bad_friends-a5ea0c8ef008",
+      "rss_guid": "cd325bb6-bde9-11ef-a769-0b2ce78463e6",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1440.0
+    },
+    {
+      "episode_id": "bad_friends-8d2e678a88bc",
+      "rss_guid": "07c233c6-1239-11ef-a76f-2b4fe21a2ac0",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4920.0
+    },
+    {
+      "episode_id": "bad_friends-78638ecb613e",
+      "rss_guid": "079a7516-1239-11ef-a76f-272e409a15a6",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4219.0
+    },
+    {
+      "episode_id": "bad_friends-64d8fbb5ad23",
+      "rss_guid": "07736174-1239-11ef-a76f-fbfdda1aa008",
+      "published_date": "2024-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4347.0
+    },
+    {
+      "episode_id": "bad_friends-0f46416e49dc",
+      "rss_guid": "074cc00a-1239-11ef-a76f-6f172028a9aa",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5020.0
+    },
+    {
+      "episode_id": "bad_friends-743a0ee338eb",
+      "rss_guid": "072359a4-1239-11ef-a76f-ab31c5506a5e",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4182.0
+    },
+    {
+      "episode_id": "bad_friends-eaa81f7f7a05",
+      "rss_guid": "06fcdc70-1239-11ef-a76f-8f4d1377ed43",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3901.0
+    },
+    {
+      "episode_id": "bad_friends-0c471e5b4577",
+      "rss_guid": "06d5dfc6-1239-11ef-a76f-f35ddc316fc6",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4229.0
+    },
+    {
+      "episode_id": "bad_friends-3ece0573b63d",
+      "rss_guid": "06af4f8c-1239-11ef-a76f-a760ad9dabcc",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4080.0
+    },
+    {
+      "episode_id": "bad_friends-6ac1c4c8891e",
+      "rss_guid": "0685e142-1239-11ef-a76f-4f1d717829df",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3903.0
+    },
+    {
+      "episode_id": "bad_friends-16a87609d320",
+      "rss_guid": "065f0a18-1239-11ef-a76f-335da8e2718f",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4839.0
+    },
+    {
+      "episode_id": "bad_friends-479efd778ffc",
+      "rss_guid": "06369c18-1239-11ef-a76f-ffff5496cedc",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4955.0
+    },
+    {
+      "episode_id": "bad_friends-4f6c8bacd3f9",
+      "rss_guid": "060fe58c-1239-11ef-a76f-97753a4e0670",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4288.0
+    },
+    {
+      "episode_id": "bad_friends-91c78406e880",
+      "rss_guid": "05e8b764-1239-11ef-a76f-63668b1bca3c",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4611.0
+    },
+    {
+      "episode_id": "bad_friends-9bc08e190d2a",
+      "rss_guid": "05c0e996-1239-11ef-a76f-1ffe56cc3c7f",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4830.0
+    },
+    {
+      "episode_id": "bad_friends-09cd5ea31518",
+      "rss_guid": "05993a2c-1239-11ef-a76f-93caf99c60d9",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4356.0
+    },
+    {
+      "episode_id": "bad_friends-a79ba2ed44dc",
+      "rss_guid": "0571b0ba-1239-11ef-a76f-e3949060d638",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4598.0
+    },
+    {
+      "episode_id": "bad_friends-c6521f50e0e7",
+      "rss_guid": "054a3062-1239-11ef-a76f-bb9bed398d3f",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4774.0
+    },
+    {
+      "episode_id": "bad_friends-71bd281182ba",
+      "rss_guid": "05193c50-1239-11ef-a76f-0780a9d6a502",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4762.0
+    },
+    {
+      "episode_id": "bad_friends-8f08e9b9596b",
+      "rss_guid": "04f16f86-1239-11ef-a76f-1768c79b3c3c",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3965.0
+    },
+    {
+      "episode_id": "bad_friends-c1864c53b7f3",
+      "rss_guid": "04cae140-1239-11ef-a76f-2788eb8ffff6",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4053.0
+    },
+    {
+      "episode_id": "bad_friends-1106e1796bea",
+      "rss_guid": "04a462fe-1239-11ef-a76f-638ceca08c9f",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4501.0
+    },
+    {
+      "episode_id": "bad_friends-466c8505fe5e",
+      "rss_guid": "047d993a-1239-11ef-a76f-8721543b32ce",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "bad_friends-1940e26a5c32",
+      "rss_guid": "0456c260-1239-11ef-a76f-dbfe9e2c1275",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4609.0
+    },
+    {
+      "episode_id": "bad_friends-8cbbe0e03c7a",
+      "rss_guid": "042fd0ec-1239-11ef-a76f-3b1ab7955444",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5342.0
+    },
+    {
+      "episode_id": "bad_friends-d83d3da39f30",
+      "rss_guid": "03fea562-1239-11ef-a76f-5b20e6da1200",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3839.0
+    },
+    {
+      "episode_id": "bad_friends-39f3207f0b6e",
+      "rss_guid": "03d5b5bc-1239-11ef-a76f-738aeba1029d",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4444.0
+    },
+    {
+      "episode_id": "bad_friends-9b915ce3d9dc",
+      "rss_guid": "03ac742c-1239-11ef-a76f-9793b9fb7172",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5115.0
+    },
+    {
+      "episode_id": "bad_friends-7f9e9ad1dc4a",
+      "rss_guid": "03849de4-1239-11ef-a76f-67901a9f3609",
+      "published_date": "2024-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "bad_friends-e69a618f4b92",
+      "rss_guid": "035ed0a0-1239-11ef-a76f-6fd6aea9feff",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3777.0
+    },
+    {
+      "episode_id": "bad_friends-8f2ea546153f",
+      "rss_guid": "03384156-1239-11ef-a76f-db03daadfe65",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4264.0
+    },
+    {
+      "episode_id": "bad_friends-3ad96c2d0729",
+      "rss_guid": "03116ca2-1239-11ef-a76f-23e1d3cbaa7b",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3958.0
+    },
+    {
+      "episode_id": "bad_friends-9a6ef054e662",
+      "rss_guid": "02c6ef1a-1239-11ef-a76f-6b42114dcd77",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4376.0
+    },
+    {
+      "episode_id": "bad_friends-7aacc2d05bea",
+      "rss_guid": "dac4baf2-0d69-11ef-94ae-472975524b32",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4857.0
+    },
+    {
+      "episode_id": "bad_friends-1ebdf8d32c63",
+      "rss_guid": "b50a946a-0433-11ef-9604-7725b47ced43",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3722.0
+    },
+    {
+      "episode_id": "bad_friends-149dc566317a",
+      "rss_guid": "c355a0b8-0353-11ef-837d-fb825c5d8b3e",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4354.0
+    },
+    {
+      "episode_id": "bad_friends-64eab22a3660",
+      "rss_guid": "3e5f430c-fdd9-11ee-ad79-a3a3ad4c9da8",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4547.0
+    },
+    {
+      "episode_id": "bad_friends-a058ab25fe93",
+      "rss_guid": "06ae942c-f9b4-11ee-8e1a-933e5112ea17",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4209.0
+    },
+    {
+      "episode_id": "bad_friends-1e306d913a0d",
+      "rss_guid": "dbbd3606-f2f6-11ee-95f2-8301291648b4",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4505.0
+    },
+    {
+      "episode_id": "bad_friends-e4be713e1ca9",
+      "rss_guid": "ed17f99a-ed88-11ee-b367-8f3d04c47443",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3995.0
+    },
+    {
+      "episode_id": "bad_friends-339f62872ec7",
+      "rss_guid": "3e92e0b4-e875-11ee-ad53-8b6c4f2757ef",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4483.0
+    },
+    {
+      "episode_id": "bad_friends-90011a56b345",
+      "rss_guid": "e74061b4-e2e9-11ee-8f67-4b2305ad4379",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4220.0
+    },
+    {
+      "episode_id": "bad_friends-a1890273060c",
+      "rss_guid": "dd2db574-dd6b-11ee-91bd-473ae9507609",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4308.0
+    },
+    {
+      "episode_id": "bad_friends-e1639fafbbbf",
+      "rss_guid": "cbe346aa-d8a0-11ee-a923-33455d323dbd",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4090.0
+    },
+    {
+      "episode_id": "bad_friends-774e1ba9bff3",
+      "rss_guid": "0a0379cc-d35c-11ee-9470-b3b47e03b20f",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5031.0
+    },
+    {
+      "episode_id": "bad_friends-20f1ac17e718",
+      "rss_guid": "c05ab056-ce74-11ee-b2bb-0fc36920492e",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3968.0
+    },
+    {
+      "episode_id": "bad_friends-ad4b632dccc3",
+      "rss_guid": "c86d172a-c7df-11ee-9a39-5f7ff3b61572",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4550.0
+    },
+    {
+      "episode_id": "bad_friends-ca7d4e8984f7",
+      "rss_guid": "f02d00f4-c172-11ee-b3e3-f7ea25044bd3",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4335.0
+    },
+    {
+      "episode_id": "bad_friends-be37eb5eb236",
+      "rss_guid": "60f4b706-bebb-11ee-9267-bf46d71c511e",
+      "published_date": "2024-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4380.0
+    },
+    {
+      "episode_id": "bad_friends-0de5a142c080",
+      "rss_guid": "f493eb48-b732-11ee-b335-3713ffbe598d",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5173.0
+    },
+    {
+      "episode_id": "bad_friends-c9335b45411a",
+      "rss_guid": "8a582e42-b1b0-11ee-9e78-e708ecf37cde",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4088.0
+    },
+    {
+      "episode_id": "bad_friends-feb196b91199",
+      "rss_guid": "c618fab8-adcf-11ee-91c3-ebfe04e7c688",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4396.0
+    },
+    {
+      "episode_id": "bad_friends-1fd1c714167a",
+      "rss_guid": "91e5d26a-9edf-11ee-95f6-6bb3e3942ac3",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5385.0
+    },
+    {
+      "episode_id": "bad_friends-4b050d82ca4c",
+      "rss_guid": "b32e098e-9ed9-11ee-a8a9-bbe14def3c20",
+      "published_date": "2023-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4349.0
+    },
+    {
+      "episode_id": "bad_friends-1630bb0fd3c0",
+      "rss_guid": "d5bf2b88-9c70-11ee-b243-6f9939309150",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4994.0
+    },
+    {
+      "episode_id": "bad_friends-773f03de1da4",
+      "rss_guid": "9e56c078-9551-11ee-ab89-0fba7f4b778b",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4383.0
+    },
+    {
+      "episode_id": "bad_friends-72b3c414da4c",
+      "rss_guid": "673fed38-8c93-11ee-bc6d-1fdb6212f1f8",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4343.0
+    },
+    {
+      "episode_id": "bad_friends-38fdcde24e94",
+      "rss_guid": "e1641fbc-8a68-11ee-9744-733b7f482bf9",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3904.0
+    },
+    {
+      "episode_id": "bad_friends-d45a262e1286",
+      "rss_guid": "ffd9f380-856e-11ee-ba09-b7b79532ee72",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4305.0
+    },
+    {
+      "episode_id": "bad_friends-417cc3b025f0",
+      "rss_guid": "b4ee12b2-7f5f-11ee-aaf9-cb477899d888",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4158.0
+    },
+    {
+      "episode_id": "bad_friends-b594b9ad8563",
+      "rss_guid": "0615b650-79ec-11ee-addd-8734d270cd8e",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3867.0
+    },
+    {
+      "episode_id": "bad_friends-8d25c8ae848e",
+      "rss_guid": "c7e3e444-75bb-11ee-b405-ebfd373b2d24",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4470.0
+    },
+    {
+      "episode_id": "bad_friends-a614ca9de154",
+      "rss_guid": "9c821310-70ee-11ee-aa54-77c5472ca57a",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4026.0
+    },
+    {
+      "episode_id": "bad_friends-9eaab1754517",
+      "rss_guid": "1935b04a-69f8-11ee-a360-2f9764066598",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4817.0
+    },
+    {
+      "episode_id": "bad_friends-41bc76783020",
+      "rss_guid": "fa6f551e-65ae-11ee-a58e-e32a458cd860",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4437.0
+    },
+    {
+      "episode_id": "bad_friends-ae2872b411f2",
+      "rss_guid": "34a300e0-5efd-11ee-9bf3-0f4014d77a15",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4908.0
+    },
+    {
+      "episode_id": "bad_friends-79ecafaad01c",
+      "rss_guid": "f1f67924-5967-11ee-8bd8-2b20e92d04bf",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4620.0
+    },
+    {
+      "episode_id": "bad_friends-3810bccef684",
+      "rss_guid": "a32b8430-55a0-11ee-b74c-0b55f765b2f2",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4608.0
+    },
+    {
+      "episode_id": "bad_friends-c95d57c2fc85",
+      "rss_guid": "3ec30e62-4f6c-11ee-bc4b-4b1b6a05d5b5",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4595.0
+    },
+    {
+      "episode_id": "bad_friends-dea120c9ffb6",
+      "rss_guid": "8d6d0df4-48f2-11ee-918b-97cf2ddf9e1b",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3787.0
+    },
+    {
+      "episode_id": "bad_friends-cc97de2c1e9b",
+      "rss_guid": "0c59fc52-44e4-11ee-afea-bb0655218a12",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4864.0
+    },
+    {
+      "episode_id": "bad_friends-3a60b6492720",
+      "rss_guid": "10d5525a-3dfe-11ee-ae8a-d7bd83449148",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4469.0
+    },
+    {
+      "episode_id": "bad_friends-012ad5f306a1",
+      "rss_guid": "7af74110-380a-11ee-9a8f-9b5ac1be738a",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4043.0
+    },
+    {
+      "episode_id": "bad_friends-9e7e3ce324ff",
+      "rss_guid": "78ae220c-3323-11ee-8268-6f7eafbc563a",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4367.0
+    },
+    {
+      "episode_id": "bad_friends-c0b50360582d",
+      "rss_guid": "af92662a-2b12-11ee-b05c-97edb994b8bb",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3780.0
+    },
+    {
+      "episode_id": "bad_friends-f0359c90bb68",
+      "rss_guid": "af54a578-278f-11ee-80f8-df083958fba5",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4121.0
+    },
+    {
+      "episode_id": "bad_friends-2e37bd4c0329",
+      "rss_guid": "7c808ab0-2206-11ee-ab04-bbe00ba6ca5e",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "bad_friends-39238c513815",
+      "rss_guid": "96ba1eec-1d46-11ee-9c4c-4bb8a7c00513",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4535.0
+    },
+    {
+      "episode_id": "bad_friends-1e285d265377",
+      "rss_guid": "a35d8e44-174d-11ee-bbe0-afc41d958ae6",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4419.0
+    },
+    {
+      "episode_id": "bad_friends-496d551646e0",
+      "rss_guid": "473379da-12ed-11ee-aa44-f3bd8696c638",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4411.0
+    },
+    {
+      "episode_id": "bad_friends-9f7f252f906f",
+      "rss_guid": "6a2d35e4-0e23-11ee-89c6-e33c648d3996",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4156.0
+    },
+    {
+      "episode_id": "bad_friends-f8bd7c685ec1",
+      "rss_guid": "18c6bb88-0894-11ee-9a07-5ff2c725b9ae",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4919.0
+    },
+    {
+      "episode_id": "bad_friends-a210d0094818",
+      "rss_guid": "4c467b1e-02a0-11ee-8326-8b434b5eb8bc",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4064.0
+    },
+    {
+      "episode_id": "bad_friends-ee99f7879ae2",
+      "rss_guid": "0cf135a4-fd8b-11ed-8f36-c3a88bc4e468",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4151.0
+    },
+    {
+      "episode_id": "bad_friends-fce5bfe38a7b",
+      "rss_guid": "7eac1ed4-f75a-11ed-b5e7-afcc599434a3",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4880.0
+    },
+    {
+      "episode_id": "bad_friends-3bd6c0d473b2",
+      "rss_guid": "411385f4-f150-11ed-bc5b-7f64e7c37a6a",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3975.0
+    },
+    {
+      "episode_id": "bad_friends-ba125107d01f",
+      "rss_guid": "2ff07bf2-ec4a-11ed-8f5e-bf146da8d5f3",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4782.0
+    },
+    {
+      "episode_id": "bad_friends-33d2f0fbdca1",
+      "rss_guid": "ad4ae578-e557-11ed-a2fc-63285fe20832",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4055.0
+    },
+    {
+      "episode_id": "bad_friends-1fd62689c8e6",
+      "rss_guid": "36ddea18-dfd8-11ed-91dc-df42fdfea745",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4428.0
+    },
+    {
+      "episode_id": "bad_friends-e7a26346a220",
+      "rss_guid": "e4cfe76a-db24-11ed-bf38-eb71a8f8af41",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4127.0
+    },
+    {
+      "episode_id": "bad_friends-c416c24183b2",
+      "rss_guid": "b2a89564-d5cc-11ed-9092-7f38ffa95d23",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4338.0
+    },
+    {
+      "episode_id": "bad_friends-14b8d067faf9",
+      "rss_guid": "17075c76-d1b2-11ed-b691-d3ed1b501c96",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4704.0
+    },
+    {
+      "episode_id": "bad_friends-21995203ccd1",
+      "rss_guid": "a2e5803e-c9b4-11ed-be6d-c79fc8a37001",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4353.0
+    },
+    {
+      "episode_id": "bad_friends-67a08062db8f",
+      "rss_guid": "39c7a142-c688-11ed-ac26-8309e4f18337",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4394.0
+    },
+    {
+      "episode_id": "bad_friends-68a45c04ca1c",
+      "rss_guid": "c32e468e-c14c-11ed-8593-3b8b69db2458",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4268.0
+    },
+    {
+      "episode_id": "bad_friends-f447aa338f01",
+      "rss_guid": "b00f7da4-bb91-11ed-be51-135b7e541c3f",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4594.0
+    },
+    {
+      "episode_id": "bad_friends-bdb06f141e48",
+      "rss_guid": "90a1edaa-b5a9-11ed-8c88-37e96f84e46a",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4884.0
+    },
+    {
+      "episode_id": "bad_friends-8d516aec1ce3",
+      "rss_guid": "01cc46d2-aefd-11ed-9e71-63d046fbec18",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4953.0
+    },
+    {
+      "episode_id": "bad_friends-9ae13d4e0ad3",
+      "rss_guid": "4ec3d114-a686-11ed-82d5-47d56357e021",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4315.0
+    },
+    {
+      "episode_id": "bad_friends-7ff4cdfbb90f",
+      "rss_guid": "e85d4858-a3ef-11ed-b385-4bd012884b98",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4369.0
+    },
+    {
+      "episode_id": "bad_friends-1694fd2732a3",
+      "rss_guid": "4e5e6162-99c5-11ed-b8b8-479bc448dc50",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4797.0
+    },
+    {
+      "episode_id": "bad_friends-4450cabc26a7",
+      "rss_guid": "079431c8-948c-11ed-8419-a7157a084b59",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4936.0
+    },
+    {
+      "episode_id": "bad_friends-398488a4ed02",
+      "rss_guid": "4c2f8036-8fe5-11ed-925d-93ed78b4746c",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4928.0
+    },
+    {
+      "episode_id": "bad_friends-4334805e5137",
+      "rss_guid": "328d738e-88cb-11ed-9db1-dba0ef872763",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1934.0
+    },
+    {
+      "episode_id": "bad_friends-7ec4db059b55",
+      "rss_guid": "597d9c0e-815e-11ed-b3d0-5392eba7456d",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 257.0
+    },
+    {
+      "episode_id": "bad_friends-5913dcbfd2f4",
+      "rss_guid": "290affe8-7e49-11ed-ad2a-53529a793067",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4532.0
+    },
+    {
+      "episode_id": "bad_friends-5bb942183222",
+      "rss_guid": "fbb26e76-7783-11ed-a157-4b182e1c8051",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4295.0
+    },
+    {
+      "episode_id": "bad_friends-8ebec618b7c6",
+      "rss_guid": "25c5df7a-7358-11ed-8e52-0f7d266a90e4",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4855.0
+    },
+    {
+      "episode_id": "bad_friends-6a28978d2905",
+      "rss_guid": "9e85e934-6e83-11ed-80ba-fbc35de1f8c1",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4266.0
+    },
+    {
+      "episode_id": "bad_friends-54e45f61bb0b",
+      "rss_guid": "58e6796e-693a-11ed-8e8b-c38878581445",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4154.0
+    },
+    {
+      "episode_id": "bad_friends-60ef93e01050",
+      "rss_guid": "81ecc072-6384-11ed-95e5-b7bf3d2b7ecf",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4138.0
+    },
+    {
+      "episode_id": "bad_friends-a677e82d1b20",
+      "rss_guid": "7c49c47e-5c83-11ed-b0c4-7b6faad3b219",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4456.0
+    },
+    {
+      "episode_id": "bad_friends-dec0381df18d",
+      "rss_guid": "082cac08-5735-11ed-8394-ebcf855f4ffb",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4203.0
+    },
+    {
+      "episode_id": "bad_friends-e5408d1c7d6d",
+      "rss_guid": "10c4f45a-52ea-11ed-8f50-f7bae082b017",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4365.0
+    },
+    {
+      "episode_id": "bad_friends-79c0a999f3d2",
+      "rss_guid": "6c4189ac-4b8c-11ed-bca9-c7fba1c78edc",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4895.0
+    },
+    {
+      "episode_id": "bad_friends-e1c281ca4a67",
+      "rss_guid": "62ab49ca-4806-11ed-9076-3f83342cf80e",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3801.0
+    },
+    {
+      "episode_id": "bad_friends-457ef67f2be5",
+      "rss_guid": "3a49a262-4273-11ed-87bc-27d051978384",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4691.0
+    },
+    {
+      "episode_id": "bad_friends-a6844249639e",
+      "rss_guid": "43b5be8e-3ced-11ed-a2ff-0357e1d427a4",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4500.0
+    },
+    {
+      "episode_id": "bad_friends-3cd1b0634b3d",
+      "rss_guid": "ec28d85c-358c-11ed-a794-3bca9f797e2a",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4552.0
+    },
+    {
+      "episode_id": "bad_friends-09e94c740d64",
+      "rss_guid": "ebaecfa0-301c-11ed-b0f5-4f9d74d6e540",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4135.0
+    },
+    {
+      "episode_id": "bad_friends-0b6ab79eef69",
+      "rss_guid": "04dece5a-2af8-11ed-aefa-73ec6dee0431",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4710.0
+    },
+    {
+      "episode_id": "bad_friends-854dbe646e7b",
+      "rss_guid": "8fc63296-2572-11ed-92b6-7711a3cbadfc",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4598.0
+    },
+    {
+      "episode_id": "bad_friends-ed3b0b383c48",
+      "rss_guid": "207bc080-1ff1-11ed-964b-1b1eaedd5ce2",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4720.0
+    },
+    {
+      "episode_id": "bad_friends-6ca865a46a20",
+      "rss_guid": "2648eb5e-1c64-11ed-99de-47c56c3bfe58",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4772.0
+    },
+    {
+      "episode_id": "bad_friends-01266bb85360",
+      "rss_guid": "7a7a984c-1612-11ed-b8c3-dbee83463e7a",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5119.0
+    },
+    {
+      "episode_id": "bad_friends-a87e7cf87eec",
+      "rss_guid": "0ef3e78a-1064-11ed-8c4d-dfeef84dbf04",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4323.0
+    },
+    {
+      "episode_id": "bad_friends-335473a263d7",
+      "rss_guid": "5bacbc1c-0a49-11ed-84c5-1b21a92d58b0",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5021.0
+    },
+    {
+      "episode_id": "bad_friends-8e5c14fedcfb",
+      "rss_guid": "6e74c9be-059b-11ed-a32f-5ba909dbc386",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4244.0
+    },
+    {
+      "episode_id": "bad_friends-551a3c78a9ec",
+      "rss_guid": "d8b986de-0073-11ed-909a-b72fe54e28d3",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3984.0
+    },
+    {
+      "episode_id": "bad_friends-bb4188f04270",
+      "rss_guid": "872b55dc-fa5a-11ec-992d-237c9c13ee75",
+      "published_date": "2022-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4320.0
+    },
+    {
+      "episode_id": "bad_friends-4d48d3293205",
+      "rss_guid": "e0fa84a0-f4df-11ec-b1f9-d3c0dbd2cb4c",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4582.0
+    },
+    {
+      "episode_id": "bad_friends-c41f68c89816",
+      "rss_guid": "eef6b83a-ee72-11ec-9ae6-ab52818d817f",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4267.0
+    },
+    {
+      "episode_id": "bad_friends-43bfb51a0ac3",
+      "rss_guid": "c4667060-e931-11ec-afc8-1b00671af3d3",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4461.0
+    },
+    {
+      "episode_id": "bad_friends-fa0296a06a9a",
+      "rss_guid": "63a1887b-322d-45e4-9053-55e825f81f15",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4594.0
+    },
+    {
+      "episode_id": "bad_friends-babdccb17a74",
+      "rss_guid": "13dc8bb1-1fc3-484a-95db-a7ca50ccce70",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3486.0
+    },
+    {
+      "episode_id": "bad_friends-866f0c02ec90",
+      "rss_guid": "31b77b87-4e06-480e-92e2-5b606421f531",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4113.0
+    },
+    {
+      "episode_id": "bad_friends-b53bfe46a86a",
+      "rss_guid": "fd209c9a-3991-439d-9fb4-69b6f8c5942b",
+      "published_date": "2022-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3891.0
+    },
+    {
+      "episode_id": "bad_friends-723989a8a1bc",
+      "rss_guid": "a41be743-0a07-4766-bfbd-3e2f83813009",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4148.0
+    },
+    {
+      "episode_id": "bad_friends-6a1d55d8a19f",
+      "rss_guid": "8641aff4-23e2-4ba2-aa11-d42b81b5f019",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4513.0
+    },
+    {
+      "episode_id": "bad_friends-5397f863018b",
+      "rss_guid": "842196bf-26ea-4e70-af34-46f6ec87a5bb",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4216.0
+    },
+    {
+      "episode_id": "bad_friends-aaea23bba2fd",
+      "rss_guid": "9b592ca2-9c13-4998-bba6-a52c09687479",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4590.0
+    },
+    {
+      "episode_id": "bad_friends-c735ab862471",
+      "rss_guid": "dc1fec2c-cc61-4170-8972-bb15283658c4",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4609.0
+    },
+    {
+      "episode_id": "bad_friends-e5423372b498",
+      "rss_guid": "4d0de9fb-34fc-4ab7-beb9-62a84d756f4e",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4430.0
+    },
+    {
+      "episode_id": "bad_friends-ab8837cfaaaa",
+      "rss_guid": "7a69deac-9713-442e-8daa-5673c5730d69",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3977.0
+    },
+    {
+      "episode_id": "bad_friends-ffbc40c14187",
+      "rss_guid": "eb005a2c-41b5-4d11-a53a-f1d11bde8939",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3843.0
+    },
+    {
+      "episode_id": "bad_friends-64d038bc886a",
+      "rss_guid": "fee941a0-2f6b-467d-b4a8-5daeca09ae4d",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4980.0
+    },
+    {
+      "episode_id": "bad_friends-b6706e4a0236",
+      "rss_guid": "2f19979d-3a71-4d08-9762-a9c6d14765c5",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4364.0
+    },
+    {
+      "episode_id": "bad_friends-20f09923e66a",
+      "rss_guid": "02ea091b-0f74-4048-9bd0-1cea56f17ae4",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4817.0
+    },
+    {
+      "episode_id": "bad_friends-566d1d6d1c3b",
+      "rss_guid": "3cbd53ef-5afb-42aa-9c27-2743e5f9736a",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4322.0
+    },
+    {
+      "episode_id": "bad_friends-1fe575fa6f18",
+      "rss_guid": "bb1b6606-848e-4032-94af-98da05747ffd",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4119.0
+    },
+    {
+      "episode_id": "bad_friends-ca241b146c17",
+      "rss_guid": "69e4f99b-9df5-418b-880f-e611887f8af1",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5333.0
+    },
+    {
+      "episode_id": "bad_friends-aa58843d331d",
+      "rss_guid": "533ed7dc-9a97-478a-b148-904832100689",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4665.0
+    },
+    {
+      "episode_id": "bad_friends-ccffc9109ed1",
+      "rss_guid": "06c48dc3-95fe-43e3-aa77-4399eb9036ef",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4530.0
+    },
+    {
+      "episode_id": "bad_friends-cefc19931962",
+      "rss_guid": "b70b31f3-38ee-40b4-92c3-bfc786ac0692",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4431.0
+    },
+    {
+      "episode_id": "bad_friends-3782cbb90a67",
+      "rss_guid": "7ab3570f-99d0-4d9d-88ed-905e90bf881b",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4931.0
+    },
+    {
+      "episode_id": "bad_friends-36115b4cc7a1",
+      "rss_guid": "d37cedbc-8fe2-4224-a4a4-2658d98ef419",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4098.0
+    },
+    {
+      "episode_id": "bad_friends-8974ba2e8568",
+      "rss_guid": "e498b28c-d7db-4c3b-8b85-5d72b07b6565",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4119.0
+    },
+    {
+      "episode_id": "bad_friends-a9f22abd2990",
+      "rss_guid": "4a9145b1-1296-4778-b13e-9465d435afd5",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5436.0
+    },
+    {
+      "episode_id": "bad_friends-e1abaac9f371",
+      "rss_guid": "87d5ccbc-62e8-4779-8ddc-77c853c4d626",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4418.0
+    },
+    {
+      "episode_id": "bad_friends-cb0cda0fcbbd",
+      "rss_guid": "ce701ba4-7470-4ae8-8e85-358db0e13bbe",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4027.0
+    },
+    {
+      "episode_id": "bad_friends-b9b05ec63cb1",
+      "rss_guid": "8be67a09-b7f8-4c3b-ad28-95d106f9b4f4",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4353.0
+    },
+    {
+      "episode_id": "bad_friends-2004e21c94ab",
+      "rss_guid": "85b5f905-8cf0-4d33-afc9-a308c0ce35f6",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4437.0
+    },
+    {
+      "episode_id": "bad_friends-e6a521affd2a",
+      "rss_guid": "ab5059f3-4ec0-4484-be74-070a3dcfcc80",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4489.0
+    },
+    {
+      "episode_id": "bad_friends-24a139f149fa",
+      "rss_guid": "b575b1e8-3a86-40eb-9aef-c7db5eb8f4e6",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4631.0
+    },
+    {
+      "episode_id": "bad_friends-81331a369864",
+      "rss_guid": "1b6a0614-aee9-4bd7-a1a2-aed672e75dba",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5454.0
+    },
+    {
+      "episode_id": "bad_friends-0da5cf3a586c",
+      "rss_guid": "bc54221b-5f49-4b5d-8585-4831e99f8e1f",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5326.0
+    },
+    {
+      "episode_id": "bad_friends-4f58e1d1c2b5",
+      "rss_guid": "d7b6e3e5-db00-44a0-a052-bc732ecfae45",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5250.0
+    },
+    {
+      "episode_id": "bad_friends-3ecc9bf98752",
+      "rss_guid": "d628afeb-d04c-41be-bc96-62406bca2ded",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4462.0
+    },
+    {
+      "episode_id": "bad_friends-ac642709bc88",
+      "rss_guid": "7a0889be-4732-4916-9ecc-ec4b23004ee5",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4571.0
+    },
+    {
+      "episode_id": "bad_friends-8f5fae836a02",
+      "rss_guid": "d91a5f11-1e99-4611-bd11-1b6c83ac02d5",
+      "published_date": "2021-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3775.0
+    }
+  ]
+}

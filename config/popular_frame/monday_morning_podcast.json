@@ -1,0 +1,3586 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_monday_morning_podcast_20261002T193807Z",
+  "show_id": "monday_morning_podcast",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://rss.art19.com/monday-morning",
+    "snapshot_relative_path": "data/raw/rss/monday_morning_podcast/monday_morning_podcast_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "3b887de8b9b5c230227c82c94203c9353e8f0edfc4ea5cb85a479db91d80167d",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "monday_morning_podcast-c0ff0c739541",
+      "rss_guid": "gid://art19-episode-locator/V0/f-9qJDAUxojT-K2R3apiX_C1RyrH-irylxjCcEqda7U",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3656.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9c49498390e6",
+      "rss_guid": "gid://art19-episode-locator/V0/7cH2LLgAIL-veyYNZRyfyosVRy5fAQrPN0gXDnCeHms",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6768.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-831bd1353392",
+      "rss_guid": "gid://art19-episode-locator/V0/-NAB7sI4uv_DhxzNoDalZVO2TY5jeva8OF6AyjgXs9U",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3921.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b2d2e8f88c15",
+      "rss_guid": "gid://art19-episode-locator/V0/9Qr-dcfdwmpSwrQgRkHI287qfN9tl0klC1Ii_xHxHZ8",
+      "published_date": "2026-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6940.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-473c053831e1",
+      "rss_guid": "gid://art19-episode-locator/V0/S5CuZg5Yt7E_37iH3dLnOhVcclhAm3xxA3AMB96shfg",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4297.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-40430127e3c9",
+      "rss_guid": "gid://art19-episode-locator/V0/_wgkt6TUXggr9dkSPSYUtR--VaNBip23IFMvHI7Ln2I",
+      "published_date": "2026-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6393.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-23cb18818ca7",
+      "rss_guid": "gid://art19-episode-locator/V0/pk2Yha1_rQo75jXgkyLkUAVwG09DV59Y_NTpSRdQKrU",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3610.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-27dbc414da6a",
+      "rss_guid": "gid://art19-episode-locator/V0/boKC_yQJoKasEdYlwVj2pg_FqRl_nQbLVKr5PE-h-1k",
+      "published_date": "2026-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5633.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-756174ed0eb5",
+      "rss_guid": "gid://art19-episode-locator/V0/Q3bZuTyRqUIZyAJPez-oWSXyqg3IBkJPj1OPKoNlhIA",
+      "published_date": "2026-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3497.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1969480f7903",
+      "rss_guid": "gid://art19-episode-locator/V0/OqfYu5QhDtWOrPXYyXcLLuXXJ-8yWXExHXwYBDX02Qs",
+      "published_date": "2026-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7497.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-dc113d294ac0",
+      "rss_guid": "gid://art19-episode-locator/V0/MjrriLTu4sx_CxmXmGgl9phI21oDlqy_fEE3IVReszs",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3555.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b0aa5af39934",
+      "rss_guid": "gid://art19-episode-locator/V0/tepf865Oa-WUkqvU54TPgUmydJCanNz3Dux4kVFsMb8",
+      "published_date": "2026-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5521.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-11ef6f30f4c7",
+      "rss_guid": "gid://art19-episode-locator/V0/ljECATYMpLNgTQJK6BE34h4HRepklKF5vX9k2XVGQLA",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3341.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1af70aa4dd88",
+      "rss_guid": "gid://art19-episode-locator/V0/RGNhZ2DcRkWIOHMoMej3yYGuTUDV_prNJoA3yRsrIUQ",
+      "published_date": "2026-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5491.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-16ee48e6c4eb",
+      "rss_guid": "gid://art19-episode-locator/V0/DB7HUXc8Oa6ACbSkTDbIsA_H3eVKzjqLirbZR-v24aQ",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4035.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cc83053dd686",
+      "rss_guid": "gid://art19-episode-locator/V0/AKf2K3MrzxzxX3wYoBPSdVrTlsyh1YMn6wsdUaQfBGo",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3722.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-be0e6c174354",
+      "rss_guid": "gid://art19-episode-locator/V0/-v1gF_Aa7OWnQkZze5DEFc1E8PAqcb6YW26d-LbKvs4",
+      "published_date": "2026-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4913.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-692d17b7efff",
+      "rss_guid": "gid://art19-episode-locator/V0/VPjj-KDexpXbxYbcaNWFZWu9CPSe6c75FoDSYI9TdM8",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3238.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7c5d2ca2c3b8",
+      "rss_guid": "gid://art19-episode-locator/V0/_vccXWEA7hgW9dimP-kx3yXKNjvULuyG85MajBp38UY",
+      "published_date": "2026-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6701.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bbd0fc414a93",
+      "rss_guid": "gid://art19-episode-locator/V0/p9aawbxEt7e4k-sKLTmI7wpwTPRozYCy3AvrBUei-tE",
+      "published_date": "2026-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3547.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ff1fd5a49d29",
+      "rss_guid": "gid://art19-episode-locator/V0/xwViKZyoKGkpH2LHH4rR4Tk3GMy4565jRI3qFb3ZruU",
+      "published_date": "2026-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6154.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-091f0919eafb",
+      "rss_guid": "gid://art19-episode-locator/V0/W9C4niqYCwAHLQ79_XDWpsGhIrqovZes2UVKDa2W3cw",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3682.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f51d501ec6bd",
+      "rss_guid": "gid://art19-episode-locator/V0/yLAEnNV8o9_vywHnSh3twTx9ky7eu1rrHOIYzJpuwks",
+      "published_date": "2026-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5977.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8729dfcd724f",
+      "rss_guid": "gid://art19-episode-locator/V0/h26PxMsEPvevHP1QKVt_bN1reWEPkOnVzTGfxruBN6Y",
+      "published_date": "2026-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3567.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a4b741c18d0d",
+      "rss_guid": "gid://art19-episode-locator/V0/oBzHrUdm8APArk6iNPWV-o1lzk6fB5zVtHRhtUhjQnU",
+      "published_date": "2026-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5327.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c4ac165a6dd4",
+      "rss_guid": "gid://art19-episode-locator/V0/dNrPlbSqbqud_bn2-R-YIjeRzYGkksMo-mC2n1hq_Lo",
+      "published_date": "2026-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6219.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c83e31489fe5",
+      "rss_guid": "gid://art19-episode-locator/V0/j34d0nPfsF6ky9HWjmktc1UNszQBGSMXwap-tiduh1I",
+      "published_date": "2026-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3417.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-83e7d3cdbc4b",
+      "rss_guid": "gid://art19-episode-locator/V0/JRiaDQGivmDZvKyUQY9_crmTr3KY_mhlGj7h4DJYEO4",
+      "published_date": "2026-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5876.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2840eb7fce9e",
+      "rss_guid": "gid://art19-episode-locator/V0/lnpWAqMjkooJDNio5SxwVCFgk8YRJa1tFMGlrsiZEXc",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2263.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2a262c02a981",
+      "rss_guid": "gid://art19-episode-locator/V0/ufAblc25S-Tw4yxaLnTlSIE5_uXy0hddoWtOkknPaCE",
+      "published_date": "2026-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5982.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-769b91d6a78e",
+      "rss_guid": "gid://art19-episode-locator/V0/us4y2xljgflBTlapk_1HuoPAWlQgIyQmx-plgQA6j6g",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4019.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8bea9c900257",
+      "rss_guid": "gid://art19-episode-locator/V0/FaENOxWAbsqlRZvjjE7J7z-1Xp_vrfz8jof05JF5pfU",
+      "published_date": "2026-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5616.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-894aca87d94c",
+      "rss_guid": "gid://art19-episode-locator/V0/gYbDUHkRB5aJj5T2Z5WC1HzgJ3Iuf3vnh4lb2FsLKFc",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3673.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-135cd9d666a3",
+      "rss_guid": "gid://art19-episode-locator/V0/OJC0H5gDHbt4DHHuFn_1ffMEJ4hBnKWGx0glCEgC8_Y",
+      "published_date": "2026-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5160.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a39d79610e96",
+      "rss_guid": "gid://art19-episode-locator/V0/KObE0AgmFdt57FJ6s7qM0qd5CKuQ0VxPGIde9RRvIQc",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3389.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8ccca4f8b05d",
+      "rss_guid": "gid://art19-episode-locator/V0/PKJ-lNByQUqTYyXF98L2r_h1oSi_9jy09IgGr0lW8Dw",
+      "published_date": "2026-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6100.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-066d609f96ea",
+      "rss_guid": "gid://art19-episode-locator/V0/OgDl6_erMWBY6pa6vhbCobkSKs8fANJ9ZY8jyaDPvS4",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3234.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-201d307d1e80",
+      "rss_guid": "gid://art19-episode-locator/V0/DRWfFH14S8DsDhz8v69kJEG80DYgnAOGsFRp1hPGhnY",
+      "published_date": "2026-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5379.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d465e3acd8cd",
+      "rss_guid": "gid://art19-episode-locator/V0/j5wUgBjyUqHg5t-f25jPZwtmCUDjfcrcNjUld16WWsQ",
+      "published_date": "2026-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3347.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-99c5a8cc3a9c",
+      "rss_guid": "gid://art19-episode-locator/V0/tSYbTkDgE5lQUbyXzlEfCP9QPEbUF4FX6uLpgyfPl24",
+      "published_date": "2026-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 8440.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ec1ca34368a9",
+      "rss_guid": "gid://art19-episode-locator/V0/2BCHowcm_YcuPNVGHoy0y88eWX-qO3dcp0Dr1c0veMg",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3116.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1e92d9a47229",
+      "rss_guid": "gid://art19-episode-locator/V0/7am6zbux1KHz4Ui8FLlSZtipbCcwiSVbOwM1mqg1KI0",
+      "published_date": "2026-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5306.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d21278ebc758",
+      "rss_guid": "gid://art19-episode-locator/V0/m2LE0TMa227ie8eoqrgON6p4JLUntVQaKXtFfm_aK00",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3495.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-14f6097e1357",
+      "rss_guid": "gid://art19-episode-locator/V0/qzntYvJMSo2u5DCmrbKO8wRRrJFub6IgIj4sMld6C7g",
+      "published_date": "2026-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5635.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d697c900acf0",
+      "rss_guid": "gid://art19-episode-locator/V0/-ihuByfUfZIHREszlY0tP8yYkQF4tq53_gCFHY2cfuY",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3868.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-14d3d1b29323",
+      "rss_guid": "gid://art19-episode-locator/V0/nM2Myx_2WqQwGDVguAsdUxXGWNqPQE9AHmHzeTZdcBA",
+      "published_date": "2026-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7087.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-628d3a9e8fef",
+      "rss_guid": "gid://art19-episode-locator/V0/TMB2PBAkdgX8TmbP8om7duc0yytbNnK8UElreV4n_Yc",
+      "published_date": "2026-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3429.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cf6b2f362a7a",
+      "rss_guid": "gid://art19-episode-locator/V0/lKMy688HfmwrdnfeaePJG0vvhUYeRJtan8kN27Zh8B0",
+      "published_date": "2026-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6780.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-35ed819fbaa9",
+      "rss_guid": "gid://art19-episode-locator/V0/Xw-sVmqWhZYRUPnYYpsHOJlHnc3k3ZbUjdaW1RWfArg",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3429.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3901538922de",
+      "rss_guid": "gid://art19-episode-locator/V0/hr91qWlN5BBXnMErc7hgseXx7n703SVqUgnWzEOJQro",
+      "published_date": "2026-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5855.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-85376cbd20d0",
+      "rss_guid": "gid://art19-episode-locator/V0/7GvpNNlyDJTiIDYSKJBZlc5ypvYSazKi4JM_RvXfQKY",
+      "published_date": "2026-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6471.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-624c3680ddc4",
+      "rss_guid": "gid://art19-episode-locator/V0/JxZvz0MJZQi8NQD_z-AA9oeJ9XvI1ICv4PzGd-JhuLk",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3505.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-dec8cf54260c",
+      "rss_guid": "gid://art19-episode-locator/V0/skKtwMpIVmDo4bNOHuUCHvHCF4he_K6dI8AbniPGBwo",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6166.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-73b0c6db4949",
+      "rss_guid": "gid://art19-episode-locator/V0/VBbWJbQvY0DQVrXVwF2bRIQGhGw-BKcMc2G5tsG4uig",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3742.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8bc5829fa45a",
+      "rss_guid": "gid://art19-episode-locator/V0/CEeEzNFi1W6CF2YSiemSRJf_eq_OdptwLzbz3i2UKLo",
+      "published_date": "2026-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6067.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-64d81ebb7c2d",
+      "rss_guid": "e9458913-5d3d-4ab2-a339-b408012b1b3f",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3572.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3c0ac7a50ad9",
+      "rss_guid": "5211a65f-6ddb-4839-a309-b4040143afc5",
+      "published_date": "2026-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7054.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b696ab3fa81b",
+      "rss_guid": "727d2019-60f8-4df8-b59f-b40101369a93",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3394.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ea09f1a3ba08",
+      "rss_guid": "bd586d8d-84d5-47ba-b379-b3fd01273d5e",
+      "published_date": "2026-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5934.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b5c9c48330f9",
+      "rss_guid": "95692a64-9aff-468f-89d7-b3fa01348a5c",
+      "published_date": "2026-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3438.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-81dafdd0386a",
+      "rss_guid": "0a5f4af5-efcf-41c6-a4ed-b3f601528b4f",
+      "published_date": "2026-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6031.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2649f4b95218",
+      "rss_guid": "257e994c-b41d-4d46-9d15-b3f401260bd2",
+      "published_date": "2026-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3134.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8200dda9ad30",
+      "rss_guid": "21b93f9c-be5b-482b-be16-b3ef0147f4ac",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6605.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-75214eb2a85b",
+      "rss_guid": "f47a2cca-3b59-48bd-bf44-b3ec014bfc95",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3322.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-114a2f30bea3",
+      "rss_guid": "cdbaa620-e14d-4dfe-9ec9-b3e90146c6eb",
+      "published_date": "2026-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8182.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7a97578f7afb",
+      "rss_guid": "40c146da-8d4d-4685-9255-b3e50140a6e9",
+      "published_date": "2026-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3604.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-50d9265b5ef9",
+      "rss_guid": "16739c15-9f6e-4c62-a47f-b3e201243b2b",
+      "published_date": "2026-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6734.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-59dfa0bdd7ef",
+      "rss_guid": "0b46b1ce-19be-42ea-84dc-b3de013a38fa",
+      "published_date": "2026-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3612.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c64d69f60704",
+      "rss_guid": "381f325b-b981-4673-84e2-b3db012d52cd",
+      "published_date": "2026-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8207.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0ea656fb0a00",
+      "rss_guid": "43e3fd7c-5e3a-42f5-985a-b3d7012f906a",
+      "published_date": "2026-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4190.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-202bdabaf94f",
+      "rss_guid": "45774d4e-e621-476a-a317-b3d3015f6dc6",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8684.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-91b1899e323a",
+      "rss_guid": "98a315f8-6d90-414d-8425-b3d0012ac6fe",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3778.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-056553d03eaf",
+      "rss_guid": "93047284-e8a4-4af5-a61d-b3cd016e3246",
+      "published_date": "2026-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8699.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fa937882595e",
+      "rss_guid": "c1e61931-2cd5-465f-ab31-b3c8015ee84a",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3388.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b52c3d74a30c",
+      "rss_guid": "95617649-0bf2-41a5-966f-b3c200fbcacf",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3540.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9fdf4eb84e6e",
+      "rss_guid": "4417a9ec-33cb-4117-8f8d-b3bb011bcd52",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3599.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0ee4ff98340a",
+      "rss_guid": "b9a4e621-8273-4217-bf68-b3b7014a37f7",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8002.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-05bc6a7000fb",
+      "rss_guid": "69019fa8-e250-44a7-b1e1-b3b500fa3ae3",
+      "published_date": "2025-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3409.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e8a09cb1b23b",
+      "rss_guid": "d20dfecd-6410-458d-8375-b3b00104fbdc",
+      "published_date": "2025-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10678.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1da876d41810",
+      "rss_guid": "44d409f8-74c0-4044-9f35-b3ad0046982a",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3762.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-27c1eea33870",
+      "rss_guid": "6c1a833a-ceca-41fd-8507-b3a90175cb72",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 9963.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e1d5062505e9",
+      "rss_guid": "7516ab0c-5f6d-4ca8-abf0-b3a60132e853",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3410.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f4eb8c50dd51",
+      "rss_guid": "31d5d9d7-7f14-4c67-b052-b39f0128b539",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4016.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f511445c3d92",
+      "rss_guid": "c1b65ac8-5399-4178-83e0-b39b015cceba",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 10238.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fd8d3c0b8fa0",
+      "rss_guid": "a4956ee5-43aa-4ce5-b1be-b39900074629",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3456.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1fe37ec6b7bc",
+      "rss_guid": "04716756-372e-4952-bee2-b3940130219c",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7795.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1085d3cd7263",
+      "rss_guid": "e968275e-8d01-4e7e-a4e8-b3910123465e",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3843.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-840bdf8d9ea3",
+      "rss_guid": "0b3a5be8-6fe5-43d7-b744-b38e018498d9",
+      "published_date": "2025-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9277.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1aeeedc7838e",
+      "rss_guid": "8e11060c-5d60-4e1c-946d-b38a014472d6",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3692.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8c401b953ccf",
+      "rss_guid": "1651e93c-fd03-4bac-bb5f-b3870129cdee",
+      "published_date": "2025-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 9555.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4b4c34ac59fc",
+      "rss_guid": "a8277d54-35c3-4b4d-9ea9-b383011a9886",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3934.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3c77d2c8b584",
+      "rss_guid": "3aaac657-ac76-4ea1-87f4-b380013f4dc3",
+      "published_date": "2025-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7759.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b05b22b44203",
+      "rss_guid": "835f4f97-ebac-449d-a742-b37c011f227e",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3399.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-12858554c8e8",
+      "rss_guid": "3710b78e-1f14-4d82-9a5b-b378012bfdd2",
+      "published_date": "2025-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8172.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b5c6315c226f",
+      "rss_guid": "8c690261-ea89-4dc4-8ac4-b3750116da93",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1982.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1be96893dba1",
+      "rss_guid": "c859dbf1-f35c-4b04-89eb-b371014979fc",
+      "published_date": "2025-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 9871.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-63b5273bbc69",
+      "rss_guid": "dc2ecfd1-dc2d-4905-85b1-b36e01846bc3",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1692.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ddcbf30e28bf",
+      "rss_guid": "73b6888c-3f7a-402b-b6fb-b36a0172d184",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8210.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a74b041b6ebd",
+      "rss_guid": "8164b5cb-9255-47ba-a74a-b367013a39bf",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3715.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d422a135c61b",
+      "rss_guid": "84111371-53db-4403-9b3e-b360012402d9",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3941.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f8f54c7dea2a",
+      "rss_guid": "7ad4df7a-eb24-45b7-80f9-b35d0117f552",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10975.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e842b4325f0b",
+      "rss_guid": "205da089-f2ab-4f01-a41b-b359014488ff",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3980.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3a36c154b9fe",
+      "rss_guid": "9421b7d6-f14d-414b-8f36-b35501575da6",
+      "published_date": "2025-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8509.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-728f4d6fc597",
+      "rss_guid": "7ab28a4e-1022-47ae-a97e-b352014a83d4",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3171.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-622ece19373f",
+      "rss_guid": "734ae3e8-a933-435a-b760-b34e0153faad",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8619.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-db4038a3e4b4",
+      "rss_guid": "31b4ccb4-b610-4e90-867e-b34b013078db",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3940.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-33247e0eb285",
+      "rss_guid": "2b25f223-49a6-4ff8-882a-b347012dd592",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5548.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-00c97a9875ec",
+      "rss_guid": "b988a749-3499-4b90-82bf-b344011b746e",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3432.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9809a86127e2",
+      "rss_guid": "d75feb7a-5e3d-4938-bd63-b340011d0973",
+      "published_date": "2025-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7791.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-03871fcf6146",
+      "rss_guid": "c574519e-23f1-4113-9933-b33d0133502b",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3609.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-262f92a665ad",
+      "rss_guid": "e595a96f-09c8-4c4f-986d-b339015c15e6",
+      "published_date": "2025-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5725.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9cd7167e40f2",
+      "rss_guid": "f3eb69df-93df-4a23-af3d-b33600d31054",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3446.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-226e4d08128b",
+      "rss_guid": "6f0bf0c1-e916-4419-98bc-b33201551205",
+      "published_date": "2025-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5130.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-819af69db80a",
+      "rss_guid": "33df004d-3561-49cf-8a14-b32f00fc86ff",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4534.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-52d04ffbc9da",
+      "rss_guid": "b7208725-45b1-417b-94c5-b32b0135f7a5",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5117.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5b8e018f6d4a",
+      "rss_guid": "76c0f13b-3a65-4d45-9817-b328012a8447",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3992.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d67b055fa542",
+      "rss_guid": "f6323630-8a08-4515-b76d-b3240119753a",
+      "published_date": "2025-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6112.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-93a052d0a42e",
+      "rss_guid": "86ec2f3e-8d36-45e3-9e7f-b321012cf50b",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3179.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b2a12cf0aa9d",
+      "rss_guid": "140fc9f2-ad7c-4f67-9539-b31d0127b667",
+      "published_date": "2025-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5401.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b1e1a85fec02",
+      "rss_guid": "76ce6da1-5871-47de-9061-b31a0127c3f3",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3708.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f3348f373846",
+      "rss_guid": "78d49808-9bf0-48f2-8fe2-b3170126a44d",
+      "published_date": "2025-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7530.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fb1783a4f8e4",
+      "rss_guid": "5903014c-fc1a-4be2-8f75-b31301285178",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3668.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8baf7bd9d89b",
+      "rss_guid": "8cb4cb6c-adca-4aad-8cec-b30f01301923",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5886.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fa6e8fda324f",
+      "rss_guid": "ec50169c-1471-4709-812a-b30d01133836",
+      "published_date": "2025-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2804.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-270a859d97d7",
+      "rss_guid": "28911f51-abf1-4228-a266-b308012a6600",
+      "published_date": "2025-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5982.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-21d70ba40db3",
+      "rss_guid": "9a507195-45fb-42bc-ba71-b3050141f575",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3543.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-062093169f5e",
+      "rss_guid": "b59ff806-ce9c-4009-a9b7-b30101382c52",
+      "published_date": "2025-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7657.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-42dde0257508",
+      "rss_guid": "3b0e13c1-303e-4933-bad6-b2fe013b2f55",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3727.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c65cb8d6ec4b",
+      "rss_guid": "6b6a01b7-4e50-457e-a2f4-b2fa01418f6c",
+      "published_date": "2025-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6653.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a4aa538f6303",
+      "rss_guid": "3e6b17a6-1d78-4254-a5ac-b2f70125f6e8",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1530.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ca7a34c07895",
+      "rss_guid": "9030ef34-5ceb-4e47-8e48-b2f3014f0709",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5677.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2a24e6f83ea3",
+      "rss_guid": "bda6bb4c-69a0-442a-8786-b2f1015b2e17",
+      "published_date": "2025-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4270.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-aa4eb98240b8",
+      "rss_guid": "b2906ca4-e2a6-4d23-b0d0-b2ec013bd93b",
+      "published_date": "2025-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6188.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cae9330239c4",
+      "rss_guid": "d4a72247-8297-482f-b999-b2e9013924c0",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3477.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-02d983a3810c",
+      "rss_guid": "475babdd-445a-467e-9d0d-b2e5015d92f9",
+      "published_date": "2025-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5077.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5b12ac40606a",
+      "rss_guid": "fbb6171b-e3b3-409d-b6f0-b2e201255a31",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3402.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e2c211e5d304",
+      "rss_guid": "916603b2-7603-46fb-8afa-b2de0132ab86",
+      "published_date": "2025-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5735.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3bdceab3beb6",
+      "rss_guid": "ecc036ae-6907-41c4-9dd3-b2db0124c7c7",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3572.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-24d3c79c2508",
+      "rss_guid": "b591b634-d038-4f23-80dd-b2d70120eb68",
+      "published_date": "2025-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5798.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-dfcf548f5fb1",
+      "rss_guid": "8284a080-c5d7-4448-a526-b2d4011b272a",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3313.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b4c4af6c8e95",
+      "rss_guid": "81e5520a-520a-4a4c-96bf-b2d00143f438",
+      "published_date": "2025-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6707.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0ac45a55b4f5",
+      "rss_guid": "f3cd6d16-873a-40f5-8c7a-b2cd012d3d39",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1954.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8ab25d4287df",
+      "rss_guid": "3ff140ae-2613-4cd5-8dc2-b2c9011c164b",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6193.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b7cc82b7b568",
+      "rss_guid": "d799bd8b-7df9-40f1-80af-b2c6011a5c58",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2800.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4edf3dbce23e",
+      "rss_guid": "b397df59-4af5-450d-a8b7-b2c201354606",
+      "published_date": "2025-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5549.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4523f56a5143",
+      "rss_guid": "cf5181b3-687a-4ecf-89de-b2bf012fbd55",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3229.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8a1cd174929f",
+      "rss_guid": "d22c17c9-0a03-4f39-a48d-b2bb01230f5c",
+      "published_date": "2025-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5815.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4109e4e00ac5",
+      "rss_guid": "92b7d41c-77a4-4b1d-99cc-b2b8012258eb",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3742.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-122e0010b439",
+      "rss_guid": "c879b632-cc13-457b-a560-b2b4012a1733",
+      "published_date": "2025-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5726.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-729404a9206e",
+      "rss_guid": "fa317ab3-acab-46a4-9da5-b2b10123c905",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3570.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-081372670dd9",
+      "rss_guid": "27a36bfe-3654-4c90-849d-b2ad012571e6",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5983.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f728890d1c4c",
+      "rss_guid": "f90e85b7-20af-4456-a77c-b2aa015c1e4b",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3557.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bf17cae426ba",
+      "rss_guid": "95aa5a51-48fe-4743-81c9-b2a601512c95",
+      "published_date": "2025-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5022.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a11ab00ee8ae",
+      "rss_guid": "f7f3efdb-ad1d-4e59-b312-b2a3012377d0",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3726.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-85228da63733",
+      "rss_guid": "80b56de7-697b-4f26-b1c6-b29f014473b7",
+      "published_date": "2025-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5568.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-977ba71a2612",
+      "rss_guid": "4f8d23b5-a5db-4dbf-9b1b-b29c01099246",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3982.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c48eb0fe5856",
+      "rss_guid": "0387cd5d-a566-4055-a632-b298009ab097",
+      "published_date": "2025-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4904.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-95a0ff389b46",
+      "rss_guid": "3d64059e-4963-4a97-89a2-b295013d7bd7",
+      "published_date": "2025-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4237.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-07f8668bb1b3",
+      "rss_guid": "b3fbd0ca-2b37-4692-afde-b29100a5dd06",
+      "published_date": "2025-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5737.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7e9c49140383",
+      "rss_guid": "96674341-2ff8-4d0b-8921-b28e01271c2d",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2730.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a4154131b40c",
+      "rss_guid": "d9a5c2e2-1133-4eae-bc32-b28a0112c48d",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5114.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9ac670d0bd08",
+      "rss_guid": "b5b06a3b-225e-4c11-9299-b287012ff0bb",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3811.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ddfffbefd9a9",
+      "rss_guid": "ee40837c-42c7-4fca-98b5-b2830147b47d",
+      "published_date": "2025-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5214.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e3a56d8d6e60",
+      "rss_guid": "bf14452a-9472-4419-a08a-b280013410d0",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3998.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c7b32b260d6e",
+      "rss_guid": "314d286e-3b8a-441b-8f26-b27d01297944",
+      "published_date": "2025-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 8229.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fe8b90b65746",
+      "rss_guid": "ab0d6a5e-cde6-4610-83f9-b27a012f37a9",
+      "published_date": "2025-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3476.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bd0df1b751f2",
+      "rss_guid": "b7e50710-580c-4004-bd8c-b275014f20e8",
+      "published_date": "2025-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5108.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7868beef8f54",
+      "rss_guid": "5c1ef1bd-de01-4ae6-a4de-b272012ddd83",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3933.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0e405d20142c",
+      "rss_guid": "765eb335-889b-4ab9-ba7d-b26f012d93ba",
+      "published_date": "2025-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9669.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-68ccb6ab2aba",
+      "rss_guid": "02d7d40d-0bbc-4d88-898f-b26b013bd219",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3512.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d735eaaecb32",
+      "rss_guid": "a7f3cf3f-86f0-428d-8edf-b2670107520f",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8556.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5848e185dfce",
+      "rss_guid": "0e1412e3-8b5b-4914-be58-b2640142db1c",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3233.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c1fa1b393af5",
+      "rss_guid": "db06edc9-112b-4c76-aaec-b2610169c62a",
+      "published_date": "2025-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8944.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0c578003b343",
+      "rss_guid": "97b3910e-8530-4c36-99e9-b25e000e4eab",
+      "published_date": "2025-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2830.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-25c7f4f972e1",
+      "rss_guid": "7e8de1a9-8c53-47b3-88f6-b25a01547803",
+      "published_date": "2025-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8642.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-20fc6857973c",
+      "rss_guid": "6f1e2793-858d-4cda-99bd-b25701003f8f",
+      "published_date": "2024-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3060.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7f8f4a168c06",
+      "rss_guid": "9210d438-6a54-4ce3-8cc0-b2530166564a",
+      "published_date": "2024-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7886.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4d27c7ff34a0",
+      "rss_guid": "be2980c5-53a6-475e-af42-b24f01590768",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3327.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-53c4347b29a9",
+      "rss_guid": "3e4d8e4a-ad5e-4803-9cd0-b24b014f598e",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 10286.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d3c9bb574d57",
+      "rss_guid": "2801f582-b1e0-4bcd-b338-b248014feab6",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3392.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-adb07a554ccf",
+      "rss_guid": "3c34d441-b614-4e73-be1d-b24501362738",
+      "published_date": "2024-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8930.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-463d33ec54b8",
+      "rss_guid": "99dc29f2-0db2-4829-b978-b241013a167c",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3769.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c7f8dc3facc5",
+      "rss_guid": "260b1e19-0dbd-4626-a044-b23d0150d6ef",
+      "published_date": "2024-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7368.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7a7c2e67b236",
+      "rss_guid": "488a4bd7-7461-42d1-9ebb-b23a01393acc",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3614.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-59920a6290e3",
+      "rss_guid": "dbc5c96e-5168-4e8e-833c-b23301225c0c",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3859.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-652e313b6e1e",
+      "rss_guid": "921917fd-fa0d-4677-b042-b230014be2cd",
+      "published_date": "2024-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 9817.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-eb452a980769",
+      "rss_guid": "79599a0f-39d2-4d7c-bcfd-b22c0121f539",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3788.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ae07f4ca134e",
+      "rss_guid": "7a5fa431-1b3d-4084-84b9-b2280154e6ce",
+      "published_date": "2024-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9551.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9a006275a183",
+      "rss_guid": "e24846aa-d023-4ad6-b991-b226012366c6",
+      "published_date": "2024-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3358.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-538bb0e1c7f1",
+      "rss_guid": "501cc0be-d510-448c-b21a-b22101692d5d",
+      "published_date": "2024-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7788.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0a4d9f2c7367",
+      "rss_guid": "0400fc36-9f33-4a40-89b5-b21a0133ec45",
+      "published_date": "2024-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 10971.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-99b3df0e8660",
+      "rss_guid": "40fd6f28-90ad-403c-bfe1-b217012751f6",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4025.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-83d7e139855f",
+      "rss_guid": "e558fa9a-4f77-4e10-a009-b213013ab8c4",
+      "published_date": "2024-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 13127.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9b0654a42deb",
+      "rss_guid": "9d98f094-863b-4776-ab75-b210012633e4",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2532.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ed00ac365eda",
+      "rss_guid": "d5497646-76f6-453d-a5f1-b20c01563f0b",
+      "published_date": "2024-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 9368.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-103f0bb19eac",
+      "rss_guid": "e6a923de-cb67-42ff-990a-b20901293a66",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4409.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4d5d271af927",
+      "rss_guid": "75e09779-55e7-4f94-9b5b-b205011bb959",
+      "published_date": "2024-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10307.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0ae0e5bd6726",
+      "rss_guid": "dff9d82e-05d1-4598-af18-b202011f2a8f",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3742.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f4edf7943ea9",
+      "rss_guid": "296614ee-b0c0-4d99-b84c-b1fe014c3777",
+      "published_date": "2024-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8433.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-49d9779b552b",
+      "rss_guid": "4ceadffc-cd13-4b49-ac29-b1fb011461a6",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3737.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-41739fb42eca",
+      "rss_guid": "b2dc59d6-8a4e-4a93-8a8a-b1f70147f849",
+      "published_date": "2024-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7760.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-62d693453e0c",
+      "rss_guid": "c951b17a-862c-4645-b2da-b1f4011ade3c",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3076.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ec12277644fd",
+      "rss_guid": "969e891a-3606-4e78-b127-b1f001569768",
+      "published_date": "2024-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9039.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-db967e94d13b",
+      "rss_guid": "051bf04e-4525-4480-8822-b1e901619569",
+      "published_date": "2024-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6731.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-80739dfc3326",
+      "rss_guid": "5cff86bb-5871-4b73-acce-b1e6010765d4",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3442.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a0b48865f9e2",
+      "rss_guid": "0f8b5f87-d8e4-4558-afc0-b1e201427f06",
+      "published_date": "2024-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 9550.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1a51b01ec6c0",
+      "rss_guid": "a767a37d-85c4-41ce-82b7-b1df0135b05d",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4388.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7d4493f166ba",
+      "rss_guid": "3191591e-d699-4ca6-9ad9-b1db014463c1",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7518.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1bc0f783a74b",
+      "rss_guid": "3ed0a01b-5d71-4635-a25b-b1d80122af0d",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4602.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-708b9d5f27e3",
+      "rss_guid": "72eaa08a-6c3a-464f-8f28-b1d401202fc2",
+      "published_date": "2024-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7437.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-67abfa2ccf34",
+      "rss_guid": "e052fdd5-eecd-43fc-a60c-b1d201387913",
+      "published_date": "2024-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3828.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c1514d0f3f90",
+      "rss_guid": "5ce56cbd-f660-4986-a6d2-b1cd01171892",
+      "published_date": "2024-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7794.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4b4cd05d1641",
+      "rss_guid": "ad90a95c-eeae-4f37-9810-b1ca016b9fb4",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4098.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8b4210752864",
+      "rss_guid": "f2edb0f5-8c83-4b2e-9dc3-b1c60125c4c0",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6385.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-6f748bb10f63",
+      "rss_guid": "5546cf5b-e732-43a9-9918-b1c301354b6e",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3812.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8ad619598bfe",
+      "rss_guid": "c15028c8-a151-43a3-86fd-b1bf011257f7",
+      "published_date": "2024-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6354.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0b7dfdade90b",
+      "rss_guid": "dd1174c8-2478-4c77-8894-b1bc01168f3d",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4746.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-34e0f9bd323e",
+      "rss_guid": "8ee86b42-f111-45c8-875f-b1b8012773ae",
+      "published_date": "2024-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6752.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1a77863c5825",
+      "rss_guid": "a8807c9a-b78f-4ee5-b35b-b1b5011c7c00",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3225.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ca5d488cb182",
+      "rss_guid": "35be6878-4692-402f-a32d-b1b2011b8cd1",
+      "published_date": "2024-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5939.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-75ea9338733f",
+      "rss_guid": "723eb4e5-a684-45b3-9fc8-b1ae00df7831",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3608.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cbfeb77dabbd",
+      "rss_guid": "8d5bfa69-2d49-41ef-b98b-b1aa0119fd7d",
+      "published_date": "2024-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5875.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-001bfd08e2b7",
+      "rss_guid": "23200919-2c13-4f41-b7fa-b1a700fa6079",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3524.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2726852c1a27",
+      "rss_guid": "f42bbbd6-df12-4ab3-9487-b1a3011e72b5",
+      "published_date": "2024-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5910.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-28a60cc67c50",
+      "rss_guid": "212dccc6-d785-4a0f-8cc9-b1a000cf5cb3",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2838.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f12b1708136a",
+      "rss_guid": "a9dc7744-7f78-44f4-b248-b19c011eb071",
+      "published_date": "2024-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6160.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c38426bbb936",
+      "rss_guid": "df925ccc-0290-498a-b809-b199010f9412",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4280.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7db32a76086d",
+      "rss_guid": "996de105-9753-49fc-9e96-b19501362e78",
+      "published_date": "2024-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5257.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-faa54d578291",
+      "rss_guid": "41d866e2-9af5-4ced-82c8-b1930119f53b",
+      "published_date": "2024-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2946.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b57ba3bc976e",
+      "rss_guid": "013a88e0-efe7-471d-b19a-b18e01353c63",
+      "published_date": "2024-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5840.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ac6fa3098ec9",
+      "rss_guid": "6b8abc9c-db21-4c51-9734-b18b01369129",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4562.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-62958ec52adc",
+      "rss_guid": "c005b529-95b9-4e2a-a980-b187012b3a19",
+      "published_date": "2024-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6062.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a7a889aae358",
+      "rss_guid": "4ae6861a-c494-4555-a803-b1840132d479",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3642.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-6d6a2a62c74e",
+      "rss_guid": "624f73d7-1e15-49dd-99a4-b180012dbfef",
+      "published_date": "2024-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5525.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5d8ff6c4db4d",
+      "rss_guid": "3a414d82-4642-4ed9-a3af-b17d0131e2bf",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3746.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-689b1163d0f6",
+      "rss_guid": "e8d57ff7-0296-40aa-9794-b1780131c81c",
+      "published_date": "2024-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7014.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b62f33804931",
+      "rss_guid": "bff82cdd-9640-4db9-b720-b17601286af8",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3532.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8571946af401",
+      "rss_guid": "23c174d5-4d98-4374-b7cc-b1710132d2e6",
+      "published_date": "2024-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7018.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-042e08f2827e",
+      "rss_guid": "733bbe88-c5d7-4ade-a9d8-b16f01220281",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3608.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-98e5c85b5035",
+      "rss_guid": "ee852e64-27bd-419d-8981-b16b0159e90b",
+      "published_date": "2024-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6661.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-edcfd81f691c",
+      "rss_guid": "74e489d4-1295-4b63-a455-b1680122b367",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3772.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-55e17137edb5",
+      "rss_guid": "1fbdbe56-748c-4a8e-b62e-b1640145fecd",
+      "published_date": "2024-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6068.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9c5bc6f2f202",
+      "rss_guid": "7613ede6-55f9-422a-bd4f-b161012c803b",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3827.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a3fc5d7c082c",
+      "rss_guid": "4b648d65-596f-4111-9f58-b15d011849c7",
+      "published_date": "2024-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5280.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-dde4d699e784",
+      "rss_guid": "04f5767c-35a4-4fbd-a8ec-b15a01162303",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3654.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-deaf356e5ef2",
+      "rss_guid": "59e64fcb-3642-47b5-8fc9-b156013657d6",
+      "published_date": "2024-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5755.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-68c20c62d9b7",
+      "rss_guid": "f8f70167-bdef-484e-a799-b15301382f50",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3788.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b8ad7336fcab",
+      "rss_guid": "9391a476-6892-4fe5-bf86-b14f013bcc56",
+      "published_date": "2024-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6183.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f0668d771ed8",
+      "rss_guid": "bef64b96-ef21-4fbe-8db8-b14d0125b9fd",
+      "published_date": "2024-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3218.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e7c1e4a5e122",
+      "rss_guid": "23ae0ac5-b0b1-4959-87c2-b14801290a75",
+      "published_date": "2024-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6161.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c03a087e807d",
+      "rss_guid": "3ee409bd-7cd3-44ce-94ac-b145011c1be7",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3449.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0d98588a0ec1",
+      "rss_guid": "0fdf5787-d151-4472-a15b-b142011ae1ee",
+      "published_date": "2024-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5557.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b51b1d08cc0c",
+      "rss_guid": "5d1d9734-d80d-4d35-b283-b13e01271b00",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4246.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a3038f9a20d0",
+      "rss_guid": "b18d1f1a-145b-4e7d-b9a3-b13a012da96f",
+      "published_date": "2024-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6677.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5f46e9c0100a",
+      "rss_guid": "de7fe8b5-05a0-4652-b492-b1370126dfd1",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3429.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e333bbc0d0f4",
+      "rss_guid": "bb5e7cc8-86a5-4446-96be-b133014c5564",
+      "published_date": "2024-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6903.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-625d1eedef41",
+      "rss_guid": "22b2166b-e805-4852-9b20-b13001315d66",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3612.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e8d5e4a74457",
+      "rss_guid": "2023565b-4610-4396-ab21-b12c012d277c",
+      "published_date": "2024-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5664.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-748016b820eb",
+      "rss_guid": "ef07a1ab-f8e6-42cb-a599-b12901206544",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3494.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-718cb7435249",
+      "rss_guid": "b211e4f3-41d1-4dc4-8177-b129010cc6ff",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5551.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-173c6f07036c",
+      "rss_guid": "0457f887-77d3-4468-b726-b1220131b35f",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3694.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7d701f2ef0e8",
+      "rss_guid": "7616ef96-a47b-47fb-9b09-b11e012d3918",
+      "published_date": "2024-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6540.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-766b54f34c29",
+      "rss_guid": "9c10b450-56d6-4bf1-a838-b11b013d10c2",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3943.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-219e553491f3",
+      "rss_guid": "a80d47db-dc9c-49aa-9134-b118014eb599",
+      "published_date": "2024-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6520.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8e991995da41",
+      "rss_guid": "af604845-c0e8-46a9-82bd-b114012d7ae5",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3812.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-305fe335c637",
+      "rss_guid": "49bf0154-44bd-49ef-8113-b110017a858e",
+      "published_date": "2024-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8183.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d54370b3b58a",
+      "rss_guid": "792fc70d-79d3-4dcd-89ae-b10d0135b15d",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3534.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cb90c1eb57ac",
+      "rss_guid": "aea481df-0159-4aad-af64-b1090154c112",
+      "published_date": "2024-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7004.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-442553a09c7d",
+      "rss_guid": "3234004c-2e64-4ef2-bcc0-b10601465a06",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3440.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9692b84a0c3e",
+      "rss_guid": "10e48975-ed8b-43e0-9ca9-b1020159b3b7",
+      "published_date": "2024-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 9207.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a1d7132b3d91",
+      "rss_guid": "bfd11796-a22a-424e-8766-b0ff013fda4f",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3960.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8353faa3d29e",
+      "rss_guid": "f6de7d37-89a8-40d9-928b-b0fc014b5dcb",
+      "published_date": "2024-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7504.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-365126ac1769",
+      "rss_guid": "1e4729d4-dec6-4ae1-838d-b0f9011a93ab",
+      "published_date": "2024-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3650.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4455845c5aa1",
+      "rss_guid": "51826fe8-bb00-4868-b038-b0f4014b7949",
+      "published_date": "2024-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8357.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-74050bcb00a4",
+      "rss_guid": "45040f2a-ba24-4865-a706-b0f1012915a9",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3682.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2f711ef871db",
+      "rss_guid": "f1307bdb-b616-4169-af36-b0ed017198f4",
+      "published_date": "2024-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8598.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-86572dacffc7",
+      "rss_guid": "35754098-9815-4746-99c4-b0eb01500ba4",
+      "published_date": "2024-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3549.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7b92c52d9efa",
+      "rss_guid": "c305e9fb-4a46-4c82-b3ee-b0e7014d651b",
+      "published_date": "2023-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8207.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e7cfaab9fa23",
+      "rss_guid": "9a65808a-b2ec-4c78-9d94-b0e500fd45c8",
+      "published_date": "2023-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3687.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7b9fbc3b2639",
+      "rss_guid": "0d752a0e-7c74-4837-9b30-b0df0173704b",
+      "published_date": "2023-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7790.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-242c87e25f85",
+      "rss_guid": "7559e002-c21a-4e7e-86c6-b0dc010237a0",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4006.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-70cfb6ca99fc",
+      "rss_guid": "58c851b6-fd06-45ae-a2f6-b0d8015015bb",
+      "published_date": "2023-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7947.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-dc44cafe0f7f",
+      "rss_guid": "3899ae16-074a-4e40-b0e1-b0d5011a43b1",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3850.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a97e660e56cd",
+      "rss_guid": "6546f2b2-09ad-4503-b81f-b0d1015567e9",
+      "published_date": "2023-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 10792.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8e05933282c8",
+      "rss_guid": "a5a3eec9-c25d-4ad0-b104-b0ce0124dda0",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3609.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b02d9430e0fd",
+      "rss_guid": "2d290c3d-037d-44ac-b258-b0cb013a8662",
+      "published_date": "2023-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6949.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cfc05fc42742",
+      "rss_guid": "6d977a76-0e14-4170-a133-b0c7011a7569",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3636.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ddc1dec8dd52",
+      "rss_guid": "5268130e-45ab-4066-a6ef-b0c4014255c8",
+      "published_date": "2023-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 9604.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5fa948dfab7b",
+      "rss_guid": "9d1921f9-0734-4920-a94e-b0c0012d0e8d",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3249.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-233f4cb75cb7",
+      "rss_guid": "85175338-a04b-4c75-9197-b0bd01442f96",
+      "published_date": "2023-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7962.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cfaeabb1b7b1",
+      "rss_guid": "96fd9b52-ef9e-43b9-8805-b0ba0001a795",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3736.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f7af40df17a8",
+      "rss_guid": "05565b39-8dd1-49f5-adcc-b0b5014c7b43",
+      "published_date": "2023-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7298.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1506cff2da5e",
+      "rss_guid": "7dd1a30e-c9ac-4ebc-974b-b0b201312df6",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3480.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1b850dcae33c",
+      "rss_guid": "96ed02b8-65da-4fc3-bae4-b0ae014093db",
+      "published_date": "2023-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8319.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0a269f2084f1",
+      "rss_guid": "b6fc35be-1174-4488-9ebf-b0ab012d4cf8",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3422.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7c0bc2970d9f",
+      "rss_guid": "a6f20e6d-587f-4a25-b521-b0a70115fb78",
+      "published_date": "2023-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7626.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c073a01ea0f0",
+      "rss_guid": "c813f158-8c26-4625-baab-b0a4013b03b8",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3280.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-139dca785710",
+      "rss_guid": "bda051b0-7f4c-4c4f-9353-b0a00141a50d",
+      "published_date": "2023-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7992.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-33a44b574355",
+      "rss_guid": "af727fef-c1c2-4c74-986a-b09d011c8bdf",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4505.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f75f6145bf11",
+      "rss_guid": "bdf466c2-968e-49df-b6d2-b09901565b3b",
+      "published_date": "2023-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7095.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-970c14045b85",
+      "rss_guid": "6e42534b-68eb-45e1-b74f-b096011aef4d",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3759.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ff5d0f2c984c",
+      "rss_guid": "131886b3-66ff-4e4a-af01-b0920153d9bb",
+      "published_date": "2023-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7206.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ceff01e5d2e7",
+      "rss_guid": "91add645-74da-475a-aae6-b08f00e5c592",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3239.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a7f245e1f8d6",
+      "rss_guid": "ed4800e9-378b-49e9-98d8-b08c014a2cf6",
+      "published_date": "2023-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8252.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b90577cd6afc",
+      "rss_guid": "e09ac830-1a4c-4133-ad23-b0870189fda4",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3919.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2fe8c8159ead",
+      "rss_guid": "63a0ef68-ff01-4f3f-948b-b06c01100f0d",
+      "published_date": "2023-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 9587.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8bd348b714f1",
+      "rss_guid": "fa50377a-a1e1-4a36-b24a-b08101819ce3",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4463.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-454fef6ddc04",
+      "rss_guid": "fc8895cc-03f0-4eb6-a3ac-b07e001230a0",
+      "published_date": "2023-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8327.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8aa86dc97601",
+      "rss_guid": "299bcd3a-ff20-4797-8d79-b07a00f103cf",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3261.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5c0240079f73",
+      "rss_guid": "7a60be33-53fb-4f8a-b937-b06c010ce941",
+      "published_date": "2023-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 11615.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7a53a900aa2b",
+      "rss_guid": "b7ec9453-2786-4ec0-bca5-b0730104542b",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4594.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f5b77dc431f3",
+      "rss_guid": "dc2f38ec-a624-4de2-bb13-b06c01329949",
+      "published_date": "2023-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7475.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4b985e9c1ff5",
+      "rss_guid": "f955332a-75da-470a-9558-b06e01440d1a",
+      "published_date": "2023-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 19.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e0649d96de14",
+      "rss_guid": "1839af91-9624-4f1f-aa31-b06c010b6950",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3713.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-78ad0fc4f921",
+      "rss_guid": "a27e7e9d-b077-4903-97ae-b0680120d353",
+      "published_date": "2023-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8966.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0a4ddd0dcf56",
+      "rss_guid": "811b1b73-01dc-411e-a2c6-b06501125343",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3972.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9858ea43d9ec",
+      "rss_guid": "9de36192-338d-4859-b321-b0610126fc22",
+      "published_date": "2023-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5993.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bad68d94b8fa",
+      "rss_guid": "2ea460c7-1602-4ffc-89b5-b05e013dbd16",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3868.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-40f7b10d2df3",
+      "rss_guid": "75cd59ce-f3ad-43f9-aeb8-b05a013adf02",
+      "published_date": "2023-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5468.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-df25ca367fb3",
+      "rss_guid": "e78d2e34-7817-4abb-b991-b0570128b186",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3514.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0e6136801dff",
+      "rss_guid": "b90baa13-b54f-4092-95c4-b053011c5e81",
+      "published_date": "2023-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6885.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-eaab7060025c",
+      "rss_guid": "14c8e6e8-c83a-4833-98ea-b05001270326",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3488.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-40391eb9bc27",
+      "rss_guid": "58cf47f0-0f08-450f-a13e-b04a011c79dd",
+      "published_date": "2023-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5741.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d7414d22b2f1",
+      "rss_guid": "7c6d4e05-6247-43f4-8e97-b0490118b1ec",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3304.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d26d6fe53526",
+      "rss_guid": "8b893d5e-7b38-4225-9a03-b04401328e8e",
+      "published_date": "2023-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6650.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7ceb07ea1cd9",
+      "rss_guid": "b2c8f732-c9c7-408d-992c-b043011b46da",
+      "published_date": "2023-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3259.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-15d0d2b131a5",
+      "rss_guid": "e44edab8-d045-4ec4-b5ed-b03e011ffddc",
+      "published_date": "2023-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7341.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ca7703458f01",
+      "rss_guid": "39376728-75ab-4bf2-9f93-b03b012e1712",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3264.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7241169e63d6",
+      "rss_guid": "bc49a5da-f5ee-4306-9227-b038012d8aa8",
+      "published_date": "2023-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5428.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ea43e8862a37",
+      "rss_guid": "44dfbe07-5f66-408a-81d0-b0340134309a",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4220.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-508b6cf6fc52",
+      "rss_guid": "a5a8fbc4-c0ec-4084-99fe-b0310127173e",
+      "published_date": "2023-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6225.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c3c0e1f42ee2",
+      "rss_guid": "623c59aa-4c04-4ca9-b8ef-b02d01399e8c",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3265.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5cce7ba39d93",
+      "rss_guid": "0a40352a-86e4-4490-9236-b02900f395c7",
+      "published_date": "2023-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5889.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-46c5447cf05f",
+      "rss_guid": "0aea0ecf-e815-42c0-bbe2-b02601286c76",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4184.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2ccb4d150150",
+      "rss_guid": "71a11450-23bb-48be-99f5-b022016366fc",
+      "published_date": "2023-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7262.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0fc1c391347c",
+      "rss_guid": "c77231d0-7894-4804-8a21-b01f013f1c81",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3672.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-dd6791f5584e",
+      "rss_guid": "82047ddc-7313-411d-b0d9-b01b012e6ed9",
+      "published_date": "2023-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7648.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8a1c7bff5fb3",
+      "rss_guid": "30a0fee8-3d63-474d-92f3-b017017cf8a6",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3730.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1338a0e3db85",
+      "rss_guid": "87e1613b-c8b2-430b-91c3-b014012ab16f",
+      "published_date": "2023-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6816.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bb9aba4e1c13",
+      "rss_guid": "bf6f885c-9e26-44b8-b2d6-b011012fd717",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3645.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-05c4c3508dce",
+      "rss_guid": "b499cc3a-a5f8-4545-ae39-b00d0168c5b5",
+      "published_date": "2023-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7043.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-1c590e7413ae",
+      "rss_guid": "ee6e7ec1-322e-476e-80e8-b00a017a30d2",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3546.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-300cd251d529",
+      "rss_guid": "37072e4a-81ce-48a7-aad0-b00501254a83",
+      "published_date": "2023-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2880.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3ebf76daed49",
+      "rss_guid": "de1fd5de-c808-46e0-bdcc-b00301090ce7",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3606.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a8a602bef1fb",
+      "rss_guid": "332f34a4-3f53-4c34-ac66-afff01298861",
+      "published_date": "2023-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6938.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-906b99c83b67",
+      "rss_guid": "29db2bac-1b45-4f17-bdc7-affc012ab709",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3931.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bf52b3cdcfde",
+      "rss_guid": "371c09aa-817d-4fe4-8bf1-aff801339e3b",
+      "published_date": "2023-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6343.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-58eaf37af945",
+      "rss_guid": "0d1b7d6d-4f68-4608-a1f4-aff5012f1055",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4310.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c771565fa158",
+      "rss_guid": "672c6949-901b-4943-89ab-aff10139b374",
+      "published_date": "2023-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5716.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d6d021011d30",
+      "rss_guid": "1ff821fd-c22a-4952-b26d-afee01394f81",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3388.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3e0d0c67c70a",
+      "rss_guid": "89575abe-4f05-4e64-a74c-afeb0115f847",
+      "published_date": "2023-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5947.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-34d0f8382b01",
+      "rss_guid": "923b05f1-632d-48d6-8313-afe701440af9",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3ac31770da67",
+      "rss_guid": "01fdce9d-6a24-4317-abfe-afe30140b289",
+      "published_date": "2023-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4965.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4c33a9d73a82",
+      "rss_guid": "61b301eb-c89a-437d-85d0-afe001301964",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3443.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ea70abd065fd",
+      "rss_guid": "ebdc4804-811e-427e-a35e-afdc0168e2f9",
+      "published_date": "2023-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6349.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4d4129c619b0",
+      "rss_guid": "8d53b3de-8f1c-4fda-8c4f-afd90151a9fe",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3778.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-df899f9ecbc0",
+      "rss_guid": "88b3ee40-e20c-4363-bcd0-afd5014928cf",
+      "published_date": "2023-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5353.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-76e82047b852",
+      "rss_guid": "840b18b8-8d1e-4216-9f5f-afd20142ca57",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3345.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-356c405a69da",
+      "rss_guid": "31b7eac4-f79c-4c91-94f3-afce012b1b56",
+      "published_date": "2023-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4991.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-72abbd73f558",
+      "rss_guid": "d04565d6-1c67-4822-a7e0-afcb013388ac",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3180.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ac261a88a166",
+      "rss_guid": "f52a53eb-78ee-4ba2-ad4c-afc801304575",
+      "published_date": "2023-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5691.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-6ccc206ded40",
+      "rss_guid": "e8f34668-317a-46f0-99b1-afc40121934f",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3722.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bfebfad4185f",
+      "rss_guid": "d090daba-9645-435e-a3ff-afc001477091",
+      "published_date": "2023-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6765.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-6a7058118bde",
+      "rss_guid": "94dc80a3-8c32-4219-9b93-afbd011d2914",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4201.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7fa17744c37d",
+      "rss_guid": "bf7b4d6f-092f-4882-b7c6-afb9013c3919",
+      "published_date": "2023-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5489.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-26ce367dcb1d",
+      "rss_guid": "80f84403-c62b-44f9-897f-afb6017153eb",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3615.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-45ec8f016dd8",
+      "rss_guid": "3e37940b-ba67-4c3f-9468-afb201486867",
+      "published_date": "2023-02-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6215.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-cc8571766543",
+      "rss_guid": "4eb7a1b9-dd82-46b2-b3f1-afaf01289f97",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3273.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-10dced76b4f6",
+      "rss_guid": "a2a01fc7-863c-47f3-a7f6-afaa015cfe18",
+      "published_date": "2023-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7592.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c401f3f6cd5b",
+      "rss_guid": "494c707e-435d-4df9-80b0-afa80146a2df",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3293.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a36057b5afc2",
+      "rss_guid": "370db695-f042-46f4-a473-afa500086151",
+      "published_date": "2023-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7493.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0baae7787055",
+      "rss_guid": "58a2034f-87de-4832-a847-afa1018453d2",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4239.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-14e56b9a0c87",
+      "rss_guid": "1b7aac1c-fac7-474c-b8d2-af9e013fe1c3",
+      "published_date": "2023-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5716.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-77e8a4adfa95",
+      "rss_guid": "2a6895c6-3f4f-43ee-bb71-af9b01213092",
+      "published_date": "2023-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3624.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b6817e0b7223",
+      "rss_guid": "e6c6f465-bee2-4d5b-ab3d-af96013fb1c4",
+      "published_date": "2023-01-26",
+      "guest_name": "Guest",
+      "duration_seconds": 9066.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-11df0e0c8596",
+      "rss_guid": "6af11e73-df63-44f5-a0b6-af93012c306c",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3677.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-557eae0f671a",
+      "rss_guid": "8a4db335-6eb2-4379-913f-af8f014f8b32",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9452.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-912b5bc1a370",
+      "rss_guid": "430e2b62-9e41-4ba4-beaa-af8c013dfc69",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3167.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-18d64fda68f5",
+      "rss_guid": "e1498159-612d-45e6-965d-af8901438f22",
+      "published_date": "2023-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 9530.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3cbd1494e602",
+      "rss_guid": "f9b5a316-c67f-4ee3-a6ee-af8500d70868",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3874.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5757a1675adc",
+      "rss_guid": "fc4d9570-904e-425e-ad32-af810156cb5d",
+      "published_date": "2023-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5433.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ccdde95ce20b",
+      "rss_guid": "2d584116-168b-41c9-b43c-af7e011580e9",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4182.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fd9c50d56db1",
+      "rss_guid": "0589edba-2dca-4295-97ab-af7b01353bec",
+      "published_date": "2022-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9167.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-43305123667c",
+      "rss_guid": "f7c47011-ae9a-4e98-bc63-af7701430c45",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3408.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-00c1cfd8e789",
+      "rss_guid": "5e4c0be6-0438-4aad-a44d-af7301711082",
+      "published_date": "2022-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8771.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-05f1b71992f9",
+      "rss_guid": "5344ab46-1e41-4dc4-b2e8-af70018661ea",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3621.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-959b71113c73",
+      "rss_guid": "451d1fe7-1c7c-4224-9e07-af6c014a31f3",
+      "published_date": "2022-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 11338.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8b666eb45e37",
+      "rss_guid": "d92e8f20-3969-4afb-a0f6-af69012e943e",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4036.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f4ceeae45cab",
+      "rss_guid": "1c2ccc06-cc5f-4af6-8b2e-af6501541262",
+      "published_date": "2022-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8367.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-42df7c07922e",
+      "rss_guid": "a5fa6ca6-7eb8-47e4-ad55-af62012301ff",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3535.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fc834a6979c8",
+      "rss_guid": "114077ea-a419-4888-b473-af5e014c7755",
+      "published_date": "2022-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8700.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-baaf8048ca25",
+      "rss_guid": "8f3b394c-5212-4fa0-8765-af5b01376c40",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3405.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ff0b70ace58e",
+      "rss_guid": "97adf7b0-ac99-4763-aa53-af570137e2c4",
+      "published_date": "2022-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8616.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-30a6f8f29942",
+      "rss_guid": "b45ea29f-1a5a-4b0d-8bbe-af51013533f4",
+      "published_date": "2022-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8884.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7e0b7c373e73",
+      "rss_guid": "2a7e2ca0-561c-40da-b260-af4d011ec048",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3756.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-2d1f7aaca2be",
+      "rss_guid": "ddc7d188-46de-4d93-b3af-af4c0144cea0",
+      "published_date": "2022-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7186.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4478c8f36ec2",
+      "rss_guid": "3949726d-58e3-4896-aabf-af46013cc18c",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3993.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-224ca897f2a3",
+      "rss_guid": "d0924373-13b6-4fb9-94f4-af42015186ee",
+      "published_date": "2022-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 8982.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4cd116b36740",
+      "rss_guid": "a28e68a2-24ac-4464-b74b-af3f012ac3ec",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3681.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fc9ee2861bd2",
+      "rss_guid": "d77afae0-dbc1-4b41-a712-af3b0158c793",
+      "published_date": "2022-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 9202.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0d9ecf00beb5",
+      "rss_guid": "3067acb3-c027-4b47-ad7d-af38010409ff",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3626.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-57c7035a1689",
+      "rss_guid": "a72cddc5-69fb-438c-bac4-af3401397313",
+      "published_date": "2022-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7570.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b8f2df9f5a28",
+      "rss_guid": "3ebed5f2-9cd9-448e-835c-af3101362839",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3896.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e04763106ee3",
+      "rss_guid": "3ba199d7-c855-4d32-9eb2-af2d013e77f0",
+      "published_date": "2022-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7282.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-83156bed4bff",
+      "rss_guid": "e8037ee8-1880-4582-92a2-af2a0145047e",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4516.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f62407025053",
+      "rss_guid": "565e90c3-4a26-495e-9542-af25012438c5",
+      "published_date": "2022-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8595.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bbfcdf52e532",
+      "rss_guid": "22b937fc-1246-4c39-a260-af230134abba",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3698.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-9821c959b0c3",
+      "rss_guid": "0375dc19-13af-4875-9409-af1f0162f080",
+      "published_date": "2022-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8332.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4d4e0f3c3b1b",
+      "rss_guid": "5dfb18ec-b0b5-471b-a950-af1c014926ce",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3510.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f9be72f9bc7f",
+      "rss_guid": "f3a4d72f-2952-4ece-b0ae-af180120dee9",
+      "published_date": "2022-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6411.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-addcdc1024f0",
+      "rss_guid": "48200689-7682-45f1-9b65-af15012a354b",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3710.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4585eb05c8eb",
+      "rss_guid": "9df23060-a983-407e-8d3d-af110128c5ff",
+      "published_date": "2022-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8168.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0165be6b6e3d",
+      "rss_guid": "1ba04621-f90a-4d56-8f25-af0e0110c0dc",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3790.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c60b612ab701",
+      "rss_guid": "9547dc40-d323-4b63-aa0d-af0a01280174",
+      "published_date": "2022-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 10186.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-63420120103e",
+      "rss_guid": "1797f4e0-e23a-4afc-9afb-af0601378c37",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3966.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-975b552bfeb5",
+      "rss_guid": "4c9f1216-8a72-42db-9e7d-af04013383b3",
+      "published_date": "2022-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6176.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7f4639637a17",
+      "rss_guid": "c256965c-b02b-4762-a51a-af000125addc",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3794.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7c9750822edd",
+      "rss_guid": "7b401b92-b6d2-4190-815a-aefc0136ca90",
+      "published_date": "2022-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6378.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8de388fa3720",
+      "rss_guid": "1d4617db-b1c7-47c6-ae12-aefa011430dc",
+      "published_date": "2022-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4116.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-25d2b734ff20",
+      "rss_guid": "11fac4a2-1059-48e3-904b-aef5013bdb62",
+      "published_date": "2022-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7290.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-abe94735541c",
+      "rss_guid": "9746266a-2777-4db8-a5a3-aef20107289c",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2963.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0416f096a1e3",
+      "rss_guid": "d0c8f437-f763-4045-90f7-aeef01342f88",
+      "published_date": "2022-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5674.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e85c63c46cbb",
+      "rss_guid": "2a07b913-ece3-45ba-966d-aeeb0122b082",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3742.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f3277152725c",
+      "rss_guid": "b758057e-2b87-4e72-b111-aee6011b1882",
+      "published_date": "2022-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6161.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5bd02532f7d9",
+      "rss_guid": "6bba7afb-2602-48c5-bd22-aee400f1f2d4",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3660.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-392d3535c880",
+      "rss_guid": "5d360d2d-6f84-486e-b134-aee00115b96d",
+      "published_date": "2022-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6856.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-85ba224d4e85",
+      "rss_guid": "8837f2e4-c3d5-4de6-bcb3-aedd00d0c7f2",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3552.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-12b4efd2d3f8",
+      "rss_guid": "c6d9f063-b691-417b-b56c-aed901036cd6",
+      "published_date": "2022-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6999.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0964ad77087d",
+      "rss_guid": "7c54e76b-c600-49a2-8faa-aed6008991fd",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3605.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-919f1c9a75fd",
+      "rss_guid": "dd063630-61a3-4c13-a6ca-aed2007b8d16",
+      "published_date": "2022-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6192.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-30a7a83485ba",
+      "rss_guid": "16cd9d23-4798-4dfb-b436-aece013a23af",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4118.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ab17a663b5c9",
+      "rss_guid": "64b37951-9477-4318-8ae8-aecb010141ef",
+      "published_date": "2022-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6818.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-28e75bd80a40",
+      "rss_guid": "e43aa18b-0129-43e0-ab1a-aec90121e3e2",
+      "published_date": "2022-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4372.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-af0894bf2c96",
+      "rss_guid": "346a0bc0-d30a-4ec7-be37-aebd011f98d7",
+      "published_date": "2022-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7820.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-952b3cbbcc4f",
+      "rss_guid": "4b6260c8-34f5-40da-9c09-aeba0124072d",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3233.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-621c5b244fc0",
+      "rss_guid": "51326122-a47f-4e0b-9660-aeb60120d2be",
+      "published_date": "2022-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6752.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e7691615b192",
+      "rss_guid": "13993e22-a19d-4b5a-b2e2-aeb3012a7888",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3724.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-58d2b0b0323b",
+      "rss_guid": "264f122e-b29e-4aa7-9865-aeaf014361a2",
+      "published_date": "2022-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8582.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-afbf5f768a63",
+      "rss_guid": "ce964ff7-540d-4638-88f8-aeac014ba2e2",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3151.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-8b8466b82ac0",
+      "rss_guid": "00cbbe64-2895-4c22-8637-aea8011f1f22",
+      "published_date": "2022-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8590.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-73d03d724d04",
+      "rss_guid": "cc2bcc00-4a06-4b2f-8d79-aea600048183",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3330.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3ac7ec7922c9",
+      "rss_guid": "daaed459-396c-483b-8c7a-aea1012594a8",
+      "published_date": "2022-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6052.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0abde5bc822f",
+      "rss_guid": "202586f7-db72-4063-bc5e-ae9e01249567",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4056.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-27eb05337442",
+      "rss_guid": "9fc69cbc-d9c3-4682-910f-ae9a01324863",
+      "published_date": "2022-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6851.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-73c2a2514608",
+      "rss_guid": "2b8fa811-4ea5-4a23-ba21-ae97012d3ba2",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3653.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-04436c251649",
+      "rss_guid": "c6701a4e-8a1e-412e-973e-ae93013ae424",
+      "published_date": "2022-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5676.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ffc0b761a2d4",
+      "rss_guid": "82a8035c-ec9b-4910-99d3-ae90010f5efd",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3134.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5561d56d91c8",
+      "rss_guid": "1b3c2783-e266-4c95-bc56-ae8c01264f8b",
+      "published_date": "2022-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7570.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-aa53f9b71b47",
+      "rss_guid": "9cd4d91f-2b3b-486a-a1e5-ae8901054bd3",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3674.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-786a3e4605da",
+      "rss_guid": "7d807fbe-24b9-465d-b28f-ae8501248982",
+      "published_date": "2022-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6102.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bedb3fcf1eb8",
+      "rss_guid": "6f54329b-25cc-4514-b75b-ae82002dbee2",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3372.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-dbc0e2a55742",
+      "rss_guid": "beb6f0cb-53d9-424e-a88a-ae7e010e28c1",
+      "published_date": "2022-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6024.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-088d362a5386",
+      "rss_guid": "9c4ba374-04fb-4929-ae3e-ae7b010d8196",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3361.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-775afd25f32f",
+      "rss_guid": "0857e26e-7f28-46b8-9bae-ae7701213a31",
+      "published_date": "2022-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5204.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-45f725844afa",
+      "rss_guid": "7121adeb-eba9-4ba1-a1f3-ae740049163b",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3349.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c51c077a86b2",
+      "rss_guid": "88c98f01-921b-415e-bef4-ae7001647401",
+      "published_date": "2022-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6998.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5913b6e4fb30",
+      "rss_guid": "2b5fdc5d-7837-40ba-8f2a-ae6d0119bea6",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1857.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-308f40d00dbb",
+      "rss_guid": "3853661d-e6df-42bf-9b5f-ae69012f0f08",
+      "published_date": "2022-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5786.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-da3c6811232d",
+      "rss_guid": "52e8ee65-1574-4d89-b2a4-ae6701180b68",
+      "published_date": "2022-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1942.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-6692762e693a",
+      "rss_guid": "796b739c-bc75-41f3-8451-ae62013994a8",
+      "published_date": "2022-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5872.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a887c81420af",
+      "rss_guid": "ba935ff2-2671-4e15-8b08-ae5f00148cd9",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1956.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c3fb04f7a6a7",
+      "rss_guid": "49f2cc53-8cc8-44c5-916d-ae5b014e6cbb",
+      "published_date": "2022-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7255.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-eed6cce10a12",
+      "rss_guid": "227faecc-5994-4a7c-be02-ae59012d87cf",
+      "published_date": "2022-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2654.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bbd6f28c9ab1",
+      "rss_guid": "a39a250e-7d47-4d15-809d-ae5401346ed0",
+      "published_date": "2022-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6142.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-64a830c11078",
+      "rss_guid": "6dea2a0f-a6ee-44a6-b4d1-ae51014cae93",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3548.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-57352b711c16",
+      "rss_guid": "2694f98e-7be7-4eb5-9a2e-ae4c016ac790",
+      "published_date": "2022-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8108.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-bcea1d7bff18",
+      "rss_guid": "27c8f1a5-0af2-4ee4-998f-ae4a0124715b",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3229.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fe149f2cc3fa",
+      "rss_guid": "7f4f2391-07a6-4389-a2bc-ae46011fc373",
+      "published_date": "2022-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6352.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d19488fa500d",
+      "rss_guid": "127b9645-4a08-4eea-97db-ae43012b767d",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3383.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-470de8638329",
+      "rss_guid": "a90908d3-de44-4c66-85aa-ae3f013b81cc",
+      "published_date": "2022-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6186.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-26fb1d20ac6d",
+      "rss_guid": "c23aadff-0df0-460c-ba53-ae3c011c8c9d",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3511.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-05623ca9066f",
+      "rss_guid": "cdf8ef52-bcf9-41bc-86f6-ae38013f3035",
+      "published_date": "2022-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 9151.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e07e7d985d1b",
+      "rss_guid": "864e285b-63c6-456e-98f8-ae350147964a",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3614.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5092980069e4",
+      "rss_guid": "1f0941fc-f9ba-4b58-ae9a-ae310146857d",
+      "published_date": "2022-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7110.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-826510b48336",
+      "rss_guid": "99994bbb-f405-4220-a5b9-ae2e0124e2aa",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3667.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e893dff08d22",
+      "rss_guid": "bdf06f36-11ed-4819-b7ef-ae2a013b70a6",
+      "published_date": "2022-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7910.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-ffa99364c8ce",
+      "rss_guid": "5351d97e-a746-4802-b132-ae27006b46d1",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3415.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5745a5c46226",
+      "rss_guid": "e662ac75-6120-43ac-a59b-ae23017e9994",
+      "published_date": "2022-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7765.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7cc221723444",
+      "rss_guid": "63afd7a3-0be5-4503-b7a1-ae2001205a04",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3646.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c491868b9a9f",
+      "rss_guid": "fb0cf5a1-d3dc-4ef6-a65c-ae1c015ceb18",
+      "published_date": "2022-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8825.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-5d5715168d58",
+      "rss_guid": "75ef62a0-6f32-4d59-a1a8-ae19012e539e",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4170.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-96a5646ed3ad",
+      "rss_guid": "60b7872f-29cd-43df-a0e6-ae1600010aee",
+      "published_date": "2022-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8859.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-212af897f207",
+      "rss_guid": "b6a8578f-dbf0-412a-bcba-ae1200f61114",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3798.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-30e833861998",
+      "rss_guid": "cb9fcbc0-60c4-4b2c-a111-ae0e012c26eb",
+      "published_date": "2021-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 9391.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-c2e441bd0416",
+      "rss_guid": "92782d37-4eb3-49ff-9496-ae0b01259d52",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4580.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f23536ff7e10",
+      "rss_guid": "6d160084-753f-413e-8f01-ae07017cf53b",
+      "published_date": "2021-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7728.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0fd05e8d436d",
+      "rss_guid": "a707c015-d42b-44fe-be3a-ae040108d510",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4014.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0105f937dc63",
+      "rss_guid": "1413f3d7-dfe3-4290-ab7c-ae00011e60fe",
+      "published_date": "2021-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9760.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4356ae8ebe04",
+      "rss_guid": "76d60f5e-44cb-4212-ba93-adfd010e2712",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4393.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f31ce1fd127a",
+      "rss_guid": "de293471-9d89-4477-863f-adf8015d090f",
+      "published_date": "2021-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7507.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e3151fd8b8fa",
+      "rss_guid": "bd33ef91-5bf5-4082-975a-adf6006d83a8",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3912.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-7534dc7af4d1",
+      "rss_guid": "b4aed466-8e62-47c1-a1ba-adf20154175b",
+      "published_date": "2021-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7210.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-00f94d02a944",
+      "rss_guid": "1ea8682c-c66a-445c-bb24-adef01326e46",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3428.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-a9fb5ef8a01b",
+      "rss_guid": "ae9ee2e5-ce23-46b9-bef1-adea014bde8c",
+      "published_date": "2021-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8748.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-62fae380b312",
+      "rss_guid": "4ce69cc5-a671-4886-be0f-ade801435991",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3602.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-57b8cd9c7cd8",
+      "rss_guid": "75755552-2823-491d-b26c-ade40158faaa",
+      "published_date": "2021-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8397.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-e8462824e1c2",
+      "rss_guid": "45e0a490-3a42-40e7-89f5-ade1012326b6",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3808.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4c02e4a1391f",
+      "rss_guid": "3f22e931-fd5e-4ac6-8897-adde00030ac9",
+      "published_date": "2021-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2380.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b1ede8a62007",
+      "rss_guid": "c64dd3c8-7a82-409d-8802-addd01698d38",
+      "published_date": "2021-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 11552.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-f3e063cef81c",
+      "rss_guid": "b216ff12-e50b-4285-90db-adda012069bd",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3660.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-d453d5b714c0",
+      "rss_guid": "eacb36b8-0ee3-469c-9a38-add501841036",
+      "published_date": "2021-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8556.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-4780ef795a06",
+      "rss_guid": "801d0ab1-b8ee-4038-ba19-add301115fc8",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3692.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-74492d2854e3",
+      "rss_guid": "fa80ad16-062c-452d-8190-adcf013afcd0",
+      "published_date": "2021-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 8666.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-58353a90a726",
+      "rss_guid": "e8262f08-40e6-41f2-8809-adcc0130a9fa",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3793.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-3119c1f5fb85",
+      "rss_guid": "3d9fd81c-c80f-438b-977b-adc801308dc0",
+      "published_date": "2021-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7073.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-fc18bb0a7664",
+      "rss_guid": "13c38e14-e060-4381-8c5c-adc5011ce312",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4342.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-02837e9c7cc3",
+      "rss_guid": "a315c717-631d-4b26-a284-adc101316748",
+      "published_date": "2021-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7535.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-b0afdd7afe71",
+      "rss_guid": "5f5fbca5-cf8b-4100-a5a1-adbe012b9e1a",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4188.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-87d8a7570465",
+      "rss_guid": "a22d0272-cc92-4011-a1c5-adba013d906a",
+      "published_date": "2021-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9906.0
+    },
+    {
+      "episode_id": "monday_morning_podcast-0402ecf79b76",
+      "rss_guid": "0cfd2f38-31d4-4c5d-97e3-adb7011a0c45",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3944.0
+    }
+  ]
+}

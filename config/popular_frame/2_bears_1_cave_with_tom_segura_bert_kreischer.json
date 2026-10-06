@@ -1,0 +1,1696 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_2_bears_1_cave_with_tom_segura_bert_kreischer_20261002T193807Z",
+  "show_id": "2_bears_1_cave_with_tom_segura_bert_kreischer",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/YMH8516456556",
+    "snapshot_relative_path": "data/raw/rss/2_bears_1_cave_with_tom_segura_bert_kreischer/2_bears_1_cave_with_tom_segura_bert_kreischer_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "26936cf579e5d8a00476b8cca908ee81d291306fbaa7cf729412611220251651",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7d8e8bc4e388",
+      "rss_guid": "10f08ccc-b93a-11f1-ae94-dbbbf045e919",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6754.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2f32a9e3960b",
+      "rss_guid": "efbf95cc-b3a1-11f1-9045-9bd56ff06896",
+      "published_date": "2026-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4406.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-755dae785caa",
+      "rss_guid": "d767ac5a-af80-11f1-bcbc-2bbfedeeb57d",
+      "published_date": "2026-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4378.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2972c757131d",
+      "rss_guid": "a79c1940-a8b7-11f1-be79-6fcb3ce33942",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4450.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-21225a2d874e",
+      "rss_guid": "294ca398-a411-11f1-bad9-9b690fe1b169",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6383.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-93e977382462",
+      "rss_guid": "4b02f56e-9dd6-11f1-b6f7-53f0b6cf8990",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5141.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d09c7d0a7461",
+      "rss_guid": "b8a3e70e-92b4-11f1-b461-b79e921bb3b0",
+      "published_date": "2026-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3716.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-10636a2e9b10",
+      "rss_guid": "d6f36d30-8f5c-11f0-ab92-8306453a5f6a",
+      "published_date": "2026-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3806.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a5b6738aa1b8",
+      "rss_guid": "d6b9c80a-8f5c-11f0-ab92-231e6f357983",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4457.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-bd779fdcfaec",
+      "rss_guid": "d6801588-8f5c-11f0-ab92-23aa2d921497",
+      "published_date": "2026-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4008.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-20c465e045c5",
+      "rss_guid": "d646adde-8f5c-11f0-ab92-175d05446cb1",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4584.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-9e937a2b6169",
+      "rss_guid": "d60ad32c-8f5c-11f0-ab92-6b82ac3c6fd4",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6314.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a38d4dbb33a5",
+      "rss_guid": "d5ce9182-8f5c-11f0-ab92-8b62c42922af",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4340.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-507bd6dd1d11",
+      "rss_guid": "919a3d90-459b-11f1-8d44-5bb2608f6bc2",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4583.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-fd838b092279",
+      "rss_guid": "49dd6e68-3a7a-11f1-b277-43db10f932b8",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4330.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c42e5a1cb36c",
+      "rss_guid": "d51cacf6-8f5c-11f0-ab92-5f07eecf68a8",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4501.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-32d60fe3202e",
+      "rss_guid": "d4bd8b68-8f5c-11f0-ab92-1bd8237470b2",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4625.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7370a5e90bd4",
+      "rss_guid": "241f7ac0-03a9-11f1-bb0d-b30b55ad3875",
+      "published_date": "2026-02-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3749.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a87c870bd4bf",
+      "rss_guid": "e8e409a2-5441-11ef-9c32-c3da0a87d552",
+      "published_date": "2026-01-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3783.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-4b51aeb84d57",
+      "rss_guid": "e8d2fbee-5441-11ef-9c32-0b9c60937d3c",
+      "published_date": "2026-01-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4062.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-36ae033fad2d",
+      "rss_guid": "e8c0e544-5441-11ef-9c32-33607121d573",
+      "published_date": "2025-12-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3978.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-9f32c827fb38",
+      "rss_guid": "e8af70f2-5441-11ef-9c32-9f4100dbf662",
+      "published_date": "2025-12-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4191.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-0fe9911750ba",
+      "rss_guid": "e89cc3f8-5441-11ef-9c32-9bb8ba952365",
+      "published_date": "2025-12-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4225.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a169d6f6266c",
+      "rss_guid": "e88a97fa-5441-11ef-9c32-b3ef358d955f",
+      "published_date": "2025-12-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4039.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-67977beeb9de",
+      "rss_guid": "e878ae32-5441-11ef-9c32-73f3bc0f9c1c",
+      "published_date": "2025-12-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5286.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a174d67b8e7e",
+      "rss_guid": "e866b470-5441-11ef-9c32-eb7ed2731bdc",
+      "published_date": "2025-11-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4140.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ee5e3a9868b3",
+      "rss_guid": "e85530ba-5441-11ef-9c32-03190af396e3",
+      "published_date": "2025-11-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4147.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-fd61f25a1d7b",
+      "rss_guid": "e8438bee-5441-11ef-9c32-73344566e261",
+      "published_date": "2025-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7154.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-754728f3ccb2",
+      "rss_guid": "e831b022-5441-11ef-9c32-f7cac185d858",
+      "published_date": "2025-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4687.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7a54a9c8fe55",
+      "rss_guid": "e81f7a56-5441-11ef-9c32-0b8b2c44bd4a",
+      "published_date": "2025-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4258.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-bd236859c53a",
+      "rss_guid": "e80cacdc-5441-11ef-9c32-9363839e340b",
+      "published_date": "2025-10-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5078.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c16664b34864",
+      "rss_guid": "e7fa5dde-5441-11ef-9c32-c3b398248b88",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6104.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5bdb7310dc48",
+      "rss_guid": "7920e072-a24c-11f0-9ab5-e34d035f2c53",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3961.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-9eaa14a15d10",
+      "rss_guid": "e7d5e0d0-5441-11ef-9c32-b343093d04b6",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4567.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-f0c74f79efaa",
+      "rss_guid": "e7c33a84-5441-11ef-9c32-cf45f96d197d",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4774.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c0f529e9351b",
+      "rss_guid": "e7b0cc0a-5441-11ef-9c32-1f47a5ecdd94",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4014.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-eb9c4fe218a4",
+      "rss_guid": "e79e3aea-5441-11ef-9c32-07caaf420462",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4087.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-b56e67216c1a",
+      "rss_guid": "e78c83e0-5441-11ef-9c32-db725c6c749b",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4046.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2782d4c94ced",
+      "rss_guid": "e77a254c-5441-11ef-9c32-873c0a5c2228",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4053.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-fd80a64660fd",
+      "rss_guid": "e7689638-5441-11ef-9c32-bf1bbd5067c7",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4543.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-49d5b933127e",
+      "rss_guid": "e756ce80-5441-11ef-9c32-ff75c384ea0e",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4261.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-8cd1547c2b1f",
+      "rss_guid": "e74496e8-5441-11ef-9c32-eb916fb42d80",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4277.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-b3867536178e",
+      "rss_guid": "e7327eae-5441-11ef-9c32-3300e8da2d68",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4096.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ba35345c146a",
+      "rss_guid": "e72133b0-5441-11ef-9c32-53a4c6ae2521",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4447.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-60d2eb2e2ebb",
+      "rss_guid": "e70d877a-5441-11ef-9c32-e344a2ecec26",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4440.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-1b388c8024ae",
+      "rss_guid": "e6fb7134-5441-11ef-9c32-b73ae8946296",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4312.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5c234f45cdfe",
+      "rss_guid": "e6e97e70-5441-11ef-9c32-0b52be10d4a8",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4147.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-85166baa7532",
+      "rss_guid": "e6d630e0-5441-11ef-9c32-f36f103ef7cf",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4287.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-399d02873ae7",
+      "rss_guid": "e6c3e46c-5441-11ef-9c32-ef398e775ffd",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5143.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-baab8285da75",
+      "rss_guid": "e6b0cbe8-5441-11ef-9c32-03192f8b4aa7",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4009.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-474bb8c28878",
+      "rss_guid": "e69e2b46-5441-11ef-9c32-a740fec3054f",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5993.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ed1deed015b6",
+      "rss_guid": "e68ca7cc-5441-11ef-9c32-9f47efdb72b5",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4719.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3f32810db957",
+      "rss_guid": "e67ae5a0-5441-11ef-9c32-a7ba727733bf",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4099.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7d95f46c2ad1",
+      "rss_guid": "e668b9e8-5441-11ef-9c32-5f6843c3ba4b",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4157.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-1f6986285449",
+      "rss_guid": "e657595a-5441-11ef-9c32-f358e2e6139c",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4708.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-960b210e3b03",
+      "rss_guid": "e644a954-5441-11ef-9c32-c7778099ecbb",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7372.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-27be911c167d",
+      "rss_guid": "e631f476-5441-11ef-9c32-7bd693157f8f",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4585.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-672b35347594",
+      "rss_guid": "e620221e-5441-11ef-9c32-932a138eb73a",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4791.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-57bbbbd8940e",
+      "rss_guid": "e60e6e70-5441-11ef-9c32-67536f3074fe",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4756.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-873882c904a2",
+      "rss_guid": "e5fcb842-5441-11ef-9c32-cf019e9b09f7",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5797.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2c36489264da",
+      "rss_guid": "e5ea9734-5441-11ef-9c32-b3a312ce3710",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4204.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-0543b1c3f56d",
+      "rss_guid": "e5d974ea-5441-11ef-9c32-e7aafe03a48c",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4490.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3818ccd3cb3e",
+      "rss_guid": "e5c7e7f2-5441-11ef-9c32-53cbb268d63d",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4240.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-77334eb56885",
+      "rss_guid": "e5b5f33a-5441-11ef-9c32-af326660ec79",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5761.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c1007caf5faf",
+      "rss_guid": "e5a45152-5441-11ef-9c32-47a85517e78a",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4497.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-6d532045f0f8",
+      "rss_guid": "e592ca68-5441-11ef-9c32-dbbb06a1172d",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6003.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-efe40641be98",
+      "rss_guid": "e54fd1d6-5441-11ef-9c32-c356d60a7798",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4364.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-15ea928b4fc5",
+      "rss_guid": "b3d07254-c51d-11ee-95a3-37fb5348a919",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5237.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ef2afbd706ef",
+      "rss_guid": "b3957b9a-c51d-11ee-95a3-73278bfb36f9",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4665.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-374fadb32b92",
+      "rss_guid": "b35b1874-c51d-11ee-95a3-b7a5a343bb31",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4055.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2603b2381a59",
+      "rss_guid": "b32084f2-c51d-11ee-95a3-ef35da6fa015",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4433.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-4e598a1575a6",
+      "rss_guid": "b2bc6706-c51d-11ee-95a3-472591bb6d1d",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4916.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ffb002e91f18",
+      "rss_guid": "8c24a828-99f9-11ee-8405-43b2ca74e88e",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5075.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-093a643635fd",
+      "rss_guid": "8bf479a0-99f9-11ee-8405-53bbb6fb4023",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3901.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d6a91884b15a",
+      "rss_guid": "8bc551d4-99f9-11ee-8405-67202e489b4f",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4306.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-525a1a2618d8",
+      "rss_guid": "8b964e52-99f9-11ee-8405-db6d4eda3f1c",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5964.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-f3367a988377",
+      "rss_guid": "8b67c29e-99f9-11ee-8405-7f2323e04140",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4402.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-28b7208a6e63",
+      "rss_guid": "8b39029c-99f9-11ee-8405-2bb6205d2576",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3647.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-8ab81cb50ca2",
+      "rss_guid": "8b0a38ea-99f9-11ee-8405-3b488b2c9ca8",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5529.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-b2411aedad61",
+      "rss_guid": "8adb78a2-99f9-11ee-8405-3f831283d367",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3926.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e94fbf818f15",
+      "rss_guid": "8aacac48-99f9-11ee-8405-6f71f3e11005",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4270.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d3911a5a86af",
+      "rss_guid": "8a7d83a0-99f9-11ee-8405-db6b7af0a596",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5607.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c3d7cae403ca",
+      "rss_guid": "8a4f2406-99f9-11ee-8405-6b14dbd91863",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4170.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e4be877a5d96",
+      "rss_guid": "8a208aec-99f9-11ee-8405-c7e597b4b1cd",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4054.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-de8a34e91416",
+      "rss_guid": "89f220c6-99f9-11ee-8405-a7e42fe90aa3",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3970.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-6d7c4a94416a",
+      "rss_guid": "89c295c2-99f9-11ee-8405-ef7d8e6523b6",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3808.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-01c7926481f8",
+      "rss_guid": "89925f4c-99f9-11ee-8405-131b4bc3ea3a",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4808.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-687d3d284e12",
+      "rss_guid": "8963ceb6-99f9-11ee-8405-03d93cf339eb",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4254.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c5cbf890e065",
+      "rss_guid": "8934a4ec-99f9-11ee-8405-f371b2c0ae29",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3048.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-eeb626453e96",
+      "rss_guid": "8904fc6a-99f9-11ee-8405-0325219229b7",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3848.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-f78036460c0f",
+      "rss_guid": "88d5b2fc-99f9-11ee-8405-6b147e10ecca",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4834.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-87cf24be2dca",
+      "rss_guid": "88a62ea6-99f9-11ee-8405-7f99ac8d0926",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3871.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ce2f914f2a44",
+      "rss_guid": "88776418-99f9-11ee-8405-a79d22726a8f",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4467.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a96781adc448",
+      "rss_guid": "88489246-99f9-11ee-8405-4b541fe5e0b0",
+      "published_date": "2024-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3389.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ed67c4e6b86b",
+      "rss_guid": "881a0bf6-99f9-11ee-8405-d74fed4cc7c7",
+      "published_date": "2024-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4387.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-732f4fdeccf5",
+      "rss_guid": "87bbe94a-99f9-11ee-8405-8bccc5c444a0",
+      "published_date": "2024-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4438.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e8f8ca8ea2e1",
+      "rss_guid": "87ea939e-99f9-11ee-8405-43d1a8abcf2d",
+      "published_date": "2024-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4905.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7c7caf5680c2",
+      "rss_guid": "878d6a16-99f9-11ee-8405-afa5a3fb12ef",
+      "published_date": "2024-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5098.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ad01c676c50d",
+      "rss_guid": "875e208a-99f9-11ee-8405-bbb50bf89b22",
+      "published_date": "2024-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4077.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2bd683f06765",
+      "rss_guid": "872f63a8-99f9-11ee-8405-83fbb8b22b8a",
+      "published_date": "2024-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4072.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-830eda0ed248",
+      "rss_guid": "8700e294-99f9-11ee-8405-37ac2dde53fd",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4066.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-aff3a291ce31",
+      "rss_guid": "86d1a114-99f9-11ee-8405-fbe8b54b93aa",
+      "published_date": "2024-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4620.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-247f18bdfd41",
+      "rss_guid": "86a29310-99f9-11ee-8405-bf48798def2b",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4371.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-1a02fa02da03",
+      "rss_guid": "86741fbc-99f9-11ee-8405-db48eea376c3",
+      "published_date": "2024-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5289.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3e39433f99d7",
+      "rss_guid": "8643f490-99f9-11ee-8405-bb2cd6cd0d4d",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4573.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a3bc4e1c059a",
+      "rss_guid": "8614bd74-99f9-11ee-8405-5fb78ce4626a",
+      "published_date": "2024-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4849.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-fcae8722f3ee",
+      "rss_guid": "85e64e44-99f9-11ee-8405-17a45f3fd632",
+      "published_date": "2024-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4020.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d68ec343793e",
+      "rss_guid": "85b76b4c-99f9-11ee-8405-fb1ae0f2e01e",
+      "published_date": "2024-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4749.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-fae54a9a53fe",
+      "rss_guid": "858867e8-99f9-11ee-8405-1f07e5a522a8",
+      "published_date": "2024-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4039.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3c4d098a0d5d",
+      "rss_guid": "8558f4d6-99f9-11ee-8405-47b06d2572f1",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4008.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ea83ce8704a5",
+      "rss_guid": "8529fe10-99f9-11ee-8405-eb59626dc1f1",
+      "published_date": "2024-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4763.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-20f2b2818837",
+      "rss_guid": "84fa7ab4-99f9-11ee-8405-e3f03fd5f111",
+      "published_date": "2024-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4840.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-06000fc11571",
+      "rss_guid": "84cad07a-99f9-11ee-8405-7ffde41d050e",
+      "published_date": "2024-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4584.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-69673594a5ba",
+      "rss_guid": "849bdaa4-99f9-11ee-8405-1f854c6983d7",
+      "published_date": "2024-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4382.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-37926da1954e",
+      "rss_guid": "846cea46-99f9-11ee-8405-0f05bea1fb75",
+      "published_date": "2024-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4368.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-8c073ec6ef5d",
+      "rss_guid": "843dce32-99f9-11ee-8405-1f1499263cb1",
+      "published_date": "2024-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3878.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3d5990d3e6d4",
+      "rss_guid": "840e9770-99f9-11ee-8405-5b999080d7f2",
+      "published_date": "2024-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4853.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-4f66e8fa807d",
+      "rss_guid": "83df6702-99f9-11ee-8405-db0682fdf4f5",
+      "published_date": "2024-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4063.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-395d4d7422fd",
+      "rss_guid": "83b00822-99f9-11ee-8405-b38b85433d25",
+      "published_date": "2024-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4146.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-9d88e958d665",
+      "rss_guid": "8380a578-99f9-11ee-8405-e75d11274616",
+      "published_date": "2024-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3863.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-063f3b763e67",
+      "rss_guid": "8351a99e-99f9-11ee-8405-0f819b8c35ca",
+      "published_date": "2024-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8511.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d4cdb516df03",
+      "rss_guid": "83225a0e-99f9-11ee-8405-377fcad750c9",
+      "published_date": "2024-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4631.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3d377fe81a35",
+      "rss_guid": "82f227a8-99f9-11ee-8405-4b9cccb52f28",
+      "published_date": "2024-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4736.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-633d34fa24d6",
+      "rss_guid": "82ae15a4-99f9-11ee-8405-77068d237719",
+      "published_date": "2024-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5369.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-061cdbe82585",
+      "rss_guid": "612a112a-90d9-41b0-957f-ba825c7db7cf",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4894.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-12616753d087",
+      "rss_guid": "b3988946-8533-4195-ac16-139afa68582e",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5039.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-83a2ee018762",
+      "rss_guid": "da1db155-7fa2-4c29-a8b9-43ab4f248f21",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4272.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-16941feca7f3",
+      "rss_guid": "c0b3c59a-ba9b-4bdd-ab0f-57efab78fba0",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4305.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e486f0fe98df",
+      "rss_guid": "7858042e-d32d-473a-8441-90ce245b9fc5",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4847.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-dc557dcab130",
+      "rss_guid": "c922435a-5321-410e-95e6-d5f2402c7c7e",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5101.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-08f9e6071c0f",
+      "rss_guid": "81fe479c-c31d-4f51-b80f-2ae667cc02aa",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4462.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-74a3d36d3dd1",
+      "rss_guid": "2862e931-3037-445f-a196-d5d4c4b2654e",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7204.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7ad68155ba02",
+      "rss_guid": "8916a908-089d-4150-828c-71cbfa942fd0",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5262.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ccb57acf29cb",
+      "rss_guid": "5b02cf3d-5975-4a37-8492-648cd3c88172",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5711.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-33cbe12ba4ef",
+      "rss_guid": "986e3b57-34eb-452a-a60b-a128a73670e0",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5692.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-89033f38f1f6",
+      "rss_guid": "694c13a2-fe61-4d03-be33-bec88b05e81a",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6449.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-17adf441304e",
+      "rss_guid": "694de1e8-0a8f-4e9c-84ca-fe60db20ad31",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4829.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e056c63dd8d7",
+      "rss_guid": "acbc0c2c-be12-4fc6-a24f-2aa219ff9142",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7549.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7740b41be64e",
+      "rss_guid": "db7bb180-e168-4cd0-bff6-3a5eac04df22",
+      "published_date": "2023-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5318.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-025499fea95d",
+      "rss_guid": "535875e0-625a-4577-855e-e5897004a1ee",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4375.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-587c032240d7",
+      "rss_guid": "4bc0a2cb-b048-40d0-8be8-bda544be0f3a",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3850.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-440eb7c2f8ce",
+      "rss_guid": "68dbc57e-73cf-4e05-bb0d-f7d71bff49dd",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4358.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-232a31e1ad61",
+      "rss_guid": "9d560f6d-5f10-4ce0-9cd1-2a7eb3caaefd",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4928.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-bd0bc3c24f01",
+      "rss_guid": "26561590-9da8-4f43-8679-f867269434bd",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6282.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e8c7378b9de3",
+      "rss_guid": "4f343075-92c2-4294-88f0-878aa39b8e70",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4562.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-bf21a282a0c8",
+      "rss_guid": "e7c44c34-ada5-4c89-9425-e61a147c81e2",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6746.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-55b8eebcd09d",
+      "rss_guid": "0bbbe6fd-4575-459a-b444-11f5359bcbe6",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4271.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-bd04597e8dbd",
+      "rss_guid": "3e30e509-a362-4a2c-aed0-3c2e6d7d4fef",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4985.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-427bef717442",
+      "rss_guid": "0f57cb9f-77ee-4665-8a5c-25df2b97d5a3",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4004.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ab2a542651d9",
+      "rss_guid": "301680cc-a709-4d44-8df9-0686ab542342",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3930.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-443c8cf3d42e",
+      "rss_guid": "3e412071-9122-499d-b0fd-191fde6c306c",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4287.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-40176d746a66",
+      "rss_guid": "267c735c-f547-42ce-adf6-2cb9b21f83a8",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3993.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e0c06fd7f63e",
+      "rss_guid": "57a3641a-0931-4f16-875f-c4a12150b643",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3894.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a36901434c66",
+      "rss_guid": "182eb342-6ab7-443f-8d5a-cf08695c83ba",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 9603.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-cd99c735b16b",
+      "rss_guid": "251c73a9-7224-4881-9fe6-1886ca38e3d3",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4818.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ac3c8f2d9d98",
+      "rss_guid": "e5cf0092-e37d-4f29-91b6-3a21f07644bb",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6647.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ad44eb35e44f",
+      "rss_guid": "b140c759-492f-4f80-9341-ce50e0291a81",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4950.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-aa89641872ef",
+      "rss_guid": "a579b588-5d0f-4120-b8ef-7525e11a675e",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5154.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7fe4bc2fb707",
+      "rss_guid": "9f8909c8-3584-4754-b63e-19e04c64af1f",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5064.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7f5861c45bbf",
+      "rss_guid": "812e33ef-41de-4f09-8c6f-23433091cac4",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4278.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-60b78d9ec39b",
+      "rss_guid": "34290984-30d4-479d-bec0-8469821ccb25",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4630.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-71ce528c0a0f",
+      "rss_guid": "d991e562-2dbc-4ea9-a431-ed452ebdebcb",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5148.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ff5477e3058d",
+      "rss_guid": "d7bc63f5-3f99-42a4-a240-407167103bcf",
+      "published_date": "2023-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4231.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-b7f533d48e85",
+      "rss_guid": "0bce5669-4122-4738-be7b-b1c8995e3c06",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5006.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c565a59352d6",
+      "rss_guid": "b49e3d45-74e8-4ed7-8c6e-825da549b4ba",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5952.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-49889d3ee321",
+      "rss_guid": "56f99d01-26f9-4bb0-b64d-d156a318d470",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4951.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-07570ed07fd2",
+      "rss_guid": "c8e07ec1-6849-48a5-ba36-ced938fffb77",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7395.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-cc30f7939ee1",
+      "rss_guid": "d7b540b2-06b9-4848-a10c-3c52f73b27b7",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6958.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-da104a103e1e",
+      "rss_guid": "3b97eb22-1b97-44ea-8b3f-f0c964d7f800",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5979.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-1df41785b5f4",
+      "rss_guid": "4bd99d59-b956-4e04-afaf-b0318051066c",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4910.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2e75ed97954f",
+      "rss_guid": "a6135231-1ab0-40de-bd8d-451c53db1d76",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5588.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2267e5ae57dd",
+      "rss_guid": "3569eacf-5ada-4c59-97ee-3695c00dc0dc",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5819.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c02f77450405",
+      "rss_guid": "86fed5cb-551a-402f-8b89-df51d8bdf881",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9780.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-02a83c30b363",
+      "rss_guid": "772bd6ab-76f4-44be-b478-2262a7af20dc",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4341.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3a34e78fb93e",
+      "rss_guid": "fcf543cf-00d7-4f1c-a92c-fb219cb9a606",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4619.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5d28e23466af",
+      "rss_guid": "39d8b150-404b-46d5-9b99-986dda8b78fc",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4066.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7876addc86e3",
+      "rss_guid": "fc26ce3b-4797-4191-8d28-facb2fe383a6",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6009.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-8072f4e537ed",
+      "rss_guid": "02f83087-6747-4dc7-80f1-387a83021e11",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3929.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-47b814cd43a7",
+      "rss_guid": "d8cf2bea-aa70-4913-b13a-20a26215f3a9",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7454.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-177bd6efaa86",
+      "rss_guid": "e9d6fea7-10a3-40e4-8ffb-cda76e89a32f",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4853.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-18bf722a1120",
+      "rss_guid": "b10097ce-fd82-47e8-bf98-e50c1499344d",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5326.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-540d58a1909e",
+      "rss_guid": "c079b85e-13ac-4e7f-a6e3-31140871122f",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7678.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-9fd27fb1084c",
+      "rss_guid": "8c3a6021-df5a-4876-9553-51475012b2e6",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4837.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-64d190458ccd",
+      "rss_guid": "4a8dcfcf-8bd7-4228-829a-39c2092bfb77",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5011.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5cb80ca6217e",
+      "rss_guid": "81f334f2-24e0-442a-b0c6-3efbedd70019",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4805.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ce6dc19d44aa",
+      "rss_guid": "235bf9d3-3917-4d82-9ac8-ae4b77a864f3",
+      "published_date": "2022-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4605.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-cc01680e1360",
+      "rss_guid": "31c82f0a-db13-480a-85f0-76288c763ece",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5678.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-bfcbc737f10d",
+      "rss_guid": "523b5b1f-b15e-438f-9a82-da04fc52a598",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5135.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d42aafe31ce9",
+      "rss_guid": "5156faa2-0580-4962-9800-18fcb565abc7",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6451.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d251830641aa",
+      "rss_guid": "47d5c16f-de30-4c1d-aac4-276fc6c1a76e",
+      "published_date": "2022-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4668.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5cb6a493cb4a",
+      "rss_guid": "877d0356-5bfd-4659-a9eb-a276ca2c291e",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4039.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-1bb4cda51b7a",
+      "rss_guid": "9cee2f6e-ca08-45e8-973b-997412aecf35",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4166.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-010700fa2f2a",
+      "rss_guid": "da40c1bd-9294-4174-827e-4be05d9589d4",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4816.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-f4f8c7c073ac",
+      "rss_guid": "9b46d11b-ad76-45d8-85f7-578037ec85f3",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7008.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-3dd3ed1efb79",
+      "rss_guid": "d0dbba55-5385-4a15-a723-1b3ac763adde",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6177.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-223eaa9cf137",
+      "rss_guid": "157ada68-e8da-4e28-9d33-3af6ea5b55b8",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4163.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-418b55d4ed05",
+      "rss_guid": "95df9612-e58e-4788-bbc9-9d3c3f3bed20",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3863.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-cd68820e37b9",
+      "rss_guid": "337a3aaf-a018-4b98-920b-0e52cb265f96",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4944.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-62c98cf098dd",
+      "rss_guid": "2ef2eba7-43b3-45f0-9043-74af6186201e",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6563.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-fcc07274c6d2",
+      "rss_guid": "89cee09a-24db-4a89-ad19-3735231eb235",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4177.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-a66fae677675",
+      "rss_guid": "d011fe25-6f82-4feb-bbb6-64cf7c9ec8d7",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7652.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-664111b9f141",
+      "rss_guid": "90ffce9c-2e17-49ca-8d55-094c4f3a41d1",
+      "published_date": "2022-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4393.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-f8d4a30e7ac5",
+      "rss_guid": "72570aa8-67a6-4719-bf24-5c01f85e3f5d",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5146.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-0858e8b4a0f3",
+      "rss_guid": "ab5b2e92-96fa-4b9b-98e3-bb66ce94c2dd",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5227.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-d8b65cc59123",
+      "rss_guid": "01e78c2d-289a-4f80-84b7-20ec19a18776",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4819.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-b2050f4bda65",
+      "rss_guid": "eb83197f-da9e-454c-a11d-9b573a480724",
+      "published_date": "2022-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4705.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5044bc001765",
+      "rss_guid": "c5728080-eb5f-4af6-b57b-9b84485e7d05",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4813.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7d1f185368ad",
+      "rss_guid": "8dfeb9aa-fc0d-4eba-994d-d12430b35e47",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7159.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-6b377b462f0f",
+      "rss_guid": "b291b2f3-84cd-4646-86a6-19098b03efd6",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5092.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-e2f9f859a22b",
+      "rss_guid": "d67baaf0-e4ca-4c09-84b3-5e8781505f49",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4752.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-2ba9bba4104f",
+      "rss_guid": "6d9332b7-e775-4aac-93e3-2ec707d5158b",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4449.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c6e294406b24",
+      "rss_guid": "6c819874-0eb3-4cac-aacb-091c8f94e099",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4028.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-696cb5dfcfdb",
+      "rss_guid": "8d2e8da8-2913-4efb-bb48-9b9c09f1a6b4",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4525.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-b1b3dca4fce7",
+      "rss_guid": "256ad721-ad43-454e-985f-973e3196859c",
+      "published_date": "2022-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4711.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-f49127a00478",
+      "rss_guid": "818776a0-dae9-4e0e-b063-5e8b92e83fba",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4102.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-686961cf8f52",
+      "rss_guid": "864961bd-37a3-44c8-8dad-8959441f45c4",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4767.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-1f1f152514f5",
+      "rss_guid": "66022337-92a0-4361-9558-57a290373f1f",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4907.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-9d3170da8ac8",
+      "rss_guid": "0708e6b4-63eb-4109-8ced-6c643d10b824",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5060.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-c816b5406835",
+      "rss_guid": "0bb3262a-7837-4621-9f85-0816d1fc6985",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4817.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-eef433127340",
+      "rss_guid": "dbf0642c-7963-440e-b7ba-0df301fe744f",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5034.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-cee67d357e0d",
+      "rss_guid": "c42bf24b-61ee-4953-af03-6a2d101e9591",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4399.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-49d8628de890",
+      "rss_guid": "557dcf08-6d73-443c-b215-b96115df7fba",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5172.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-7ec44bd552a6",
+      "rss_guid": "588ef726-a8c9-4a03-aeb2-630f1c3a500e",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4546.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-6698ee2bac33",
+      "rss_guid": "56cf0cec-ddfd-425f-a58b-b365fb7eaa77",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5209.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-f20e4d5ee2fe",
+      "rss_guid": "3774e6f6-61ee-4db6-a4d5-bb96deae8924",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4831.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-33c93bd11579",
+      "rss_guid": "fdfe1514-1a4c-439b-b020-a6a06f372001",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5012.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-9bc6b51f6f6a",
+      "rss_guid": "1540f836-e305-4572-9d3d-16757c8d81b6",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4506.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-752996ced9e4",
+      "rss_guid": "27e1dc7c-a670-4bed-b6dd-b077ef458aa5",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4785.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-fd4ebd5c767d",
+      "rss_guid": "0d79896f-cb64-4d2f-bc9a-7d9c03170a5e",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5164.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5e046d8b2d93",
+      "rss_guid": "ce58d5f9-76dd-4cb1-ba9c-b68df7a7a45a",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4676.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-dbc03c2e242e",
+      "rss_guid": "8aa95720-3326-45a0-8509-54dbf04e9ef0",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5147.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-0fe768297647",
+      "rss_guid": "165d7228-666d-47d0-a830-28f5c6f42aff",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4763.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-4fb19f00c182",
+      "rss_guid": "3a11f011-f9f0-4120-ae91-415d111e6c57",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5147.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-4fbaa74cadce",
+      "rss_guid": "112df2e2-95f4-40b9-834b-0064607b190b",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4843.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-5415f072830c",
+      "rss_guid": "0ddad505-775a-4a9d-9fa9-24907b81f630",
+      "published_date": "2021-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4327.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-10e86fa2248b",
+      "rss_guid": "539967c0-48a1-44dc-95ef-90d83d265c5a",
+      "published_date": "2021-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4268.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-42aa5745669b",
+      "rss_guid": "9158a2d6-7ec8-437a-b7e1-a08559455b31",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5090.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-4c2b419887bf",
+      "rss_guid": "63344b0c-79bb-48cf-a389-1647fe02c316",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3858.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-8953563f2003",
+      "rss_guid": "2d22a130-c2fd-4960-bab1-aaf52abd172e",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4148.0
+    },
+    {
+      "episode_id": "2_bears_1_cave_with_tom_segura_bert_kreischer-ee4e414e941a",
+      "rss_guid": "037db824-fd33-4667-9163-b133a7927e0f",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5185.0
+    }
+  ]
+}

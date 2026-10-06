@@ -231,5 +231,52 @@ class SparseStorageTests(unittest.TestCase):
         self.assertNotIn("enclosure_url", details)
 
 
+class MaxSpeakersTest(unittest.TestCase):
+    def test_default_and_per_show_limit(self) -> None:
+        max_speakers = MODULE["max_speakers"]
+        self.assertEqual(max_speakers({"podcast": {}}), 4)
+        self.assertEqual(max_speakers({"podcast": {"max_speakers_expected": 6}}), 6)
+        with self.assertRaises(MODULE["TranscriptionError"]):
+            max_speakers({"podcast": {"max_speakers_expected": 40}})
+
+    def test_role_guest_roster(self) -> None:
+        speakers = MODULE["known_speakers"](
+            {"podcast": {"hosts": ["Host One", "Host Two"], "guest_label_candidate": "Guest"}}
+        )
+        self.assertEqual([item["role"] for item in speakers], ["Host", "Host", "Guest"])
+        self.assertEqual(speakers[-1]["name"], "Guest")
+
+
+class ClassifySpeakerTest(unittest.TestCase):
+    roles = {"Andrew Huberman": "Host", "Guest": "Guest"}
+
+    def test_rules(self) -> None:
+        classify = MODULE["classify_speaker"]
+        self.assertEqual(classify("A", "Andrew Huberman", self.roles), ("Andrew Huberman", "Host", "roster"))
+        self.assertEqual(classify("C", "Andrew Huberman - 2", self.roles),
+                         ("Andrew Huberman", "Host", "roster_split_voice_merged"))
+        self.assertEqual(classify("B", "Guest - 1", self.roles), ("Guest - 1", "Guest", "roster"))
+        self.assertEqual(classify("D", "Joey Diaz", self.roles),
+                         ("Joey Diaz", "Guest", "named_by_provider_not_in_roster"))
+        self.assertEqual(classify("E", "E", self.roles), ("E", "Unidentified", "diarization_label_only"))
+
+    def test_merged_host_is_applied_to_utterances_and_words(self) -> None:
+        response = {
+            "speech_understanding": {"response": {"speaker_identification": {
+                "status": "success", "mapping": {"B": "Andrew Huberman - 1", "C": "Andrew Huberman - 2"}}}},
+            "utterances": [{"speaker": "Andrew Huberman - 2", "text": "Hi",
+                            "words": [{"text": "Hi", "speaker": "Andrew Huberman - 2"}]}],
+        }
+        document = MODULE["normalized_document"](
+            response, {"episode": {}}, [{"name": "Andrew Huberman", "role": "Host"}], None,
+            base_response={"id": "t1", "audio_duration": 60},
+        )
+        self.assertEqual(document["utterances"][0]["speaker"], "Andrew Huberman")
+        self.assertEqual(document["utterances"][0]["words"][0]["speaker"], "Andrew Huberman")
+        self.assertEqual({item["role"] for item in document["speakers"]}, {"Host"})
+        self.assertEqual(document["transcription"]["transcript_id"], "t1")
+        self.assertEqual(document["transcription"]["audio_duration_seconds"], 60)
+
+
 if __name__ == "__main__":
     unittest.main()

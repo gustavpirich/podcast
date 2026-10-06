@@ -1,0 +1,1913 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_kill_tony_20261002T193807Z",
+  "show_id": "kill_tony",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.simplecast.com/JZSQrle9",
+    "snapshot_relative_path": "data/raw/rss/kill_tony/kill_tony_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "d6c00769030cf24d720c38e8d2c185f8072901ac6d7cf54607485092a10b17bf",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "kill_tony-85f3bc8d691b",
+      "rss_guid": "ec1a9d9b-0d09-487d-b264-0efbd9e69a67",
+      "published_date": "2026-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 8096.0
+    },
+    {
+      "episode_id": "kill_tony-a5f698d94d5a",
+      "rss_guid": "c9c30741-df1b-4e2d-980a-5db0f2fcc990",
+      "published_date": "2026-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3301.0
+    },
+    {
+      "episode_id": "kill_tony-86119baa72c2",
+      "rss_guid": "d2eb26ca-a879-48b0-8bd8-2a258c91e8cf",
+      "published_date": "2026-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 9400.0
+    },
+    {
+      "episode_id": "kill_tony-f3e74057d028",
+      "rss_guid": "8054b84d-f0f8-4fbc-993f-e4a8001737c1",
+      "published_date": "2026-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3417.0
+    },
+    {
+      "episode_id": "kill_tony-52668ebd94a4",
+      "rss_guid": "5eb97b79-4382-41ce-bea2-3a43d4c6d21f",
+      "published_date": "2026-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 8050.0
+    },
+    {
+      "episode_id": "kill_tony-37ebefff380c",
+      "rss_guid": "8cb622e7-43e3-42ca-959a-3ffa1e94e1e1",
+      "published_date": "2026-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2988.0
+    },
+    {
+      "episode_id": "kill_tony-82f489cb52ae",
+      "rss_guid": "973a09ea-f298-405c-a42b-875d17755806",
+      "published_date": "2026-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 8222.0
+    },
+    {
+      "episode_id": "kill_tony-bc07fc54b8aa",
+      "rss_guid": "3bf883eb-547a-43cf-bcb6-3cd4500ad58b",
+      "published_date": "2026-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3195.0
+    },
+    {
+      "episode_id": "kill_tony-d951463bbf0c",
+      "rss_guid": "0eb9887d-4ff5-41b6-aac0-af2ce66db183",
+      "published_date": "2026-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7964.0
+    },
+    {
+      "episode_id": "kill_tony-76a637fe0509",
+      "rss_guid": "ea5bf0c9-bf94-4fe2-bac4-4a5e7a0e486f",
+      "published_date": "2026-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3341.0
+    },
+    {
+      "episode_id": "kill_tony-5aa1e73849ed",
+      "rss_guid": "278866ef-fcd6-46a9-8d79-6d5d415045dc",
+      "published_date": "2026-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7834.0
+    },
+    {
+      "episode_id": "kill_tony-1c23c3187f77",
+      "rss_guid": "d34dbc93-9c07-4f58-b551-e65583ee6abe",
+      "published_date": "2026-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3389.0
+    },
+    {
+      "episode_id": "kill_tony-2b68d17a3bc6",
+      "rss_guid": "1561bc30-ff89-4e95-940f-31e52ad7fa50",
+      "published_date": "2026-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8652.0
+    },
+    {
+      "episode_id": "kill_tony-eb42841b2cd8",
+      "rss_guid": "58a2231a-9717-4dca-91e8-28077a6b45e1",
+      "published_date": "2026-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4245.0
+    },
+    {
+      "episode_id": "kill_tony-197346801b46",
+      "rss_guid": "c907608b-fa7b-4f71-a439-29878b24d9df",
+      "published_date": "2026-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 9706.0
+    },
+    {
+      "episode_id": "kill_tony-487c9e2a76b6",
+      "rss_guid": "4789e728-1907-4e21-9ec4-bd8db664f77d",
+      "published_date": "2026-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2552.0
+    },
+    {
+      "episode_id": "kill_tony-fcbd80d78838",
+      "rss_guid": "93ba576c-b77b-4220-bad1-56dc0ef44a79",
+      "published_date": "2026-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 8652.0
+    },
+    {
+      "episode_id": "kill_tony-804194b8b8f1",
+      "rss_guid": "0319d2eb-8f70-4ca2-957e-29f6525c0003",
+      "published_date": "2026-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7880.0
+    },
+    {
+      "episode_id": "kill_tony-1abae32269eb",
+      "rss_guid": "58f70d3e-c95c-4c6f-8062-79fb45ed66de",
+      "published_date": "2026-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7560.0
+    },
+    {
+      "episode_id": "kill_tony-87a82665c21b",
+      "rss_guid": "d73561e5-b950-4ff3-9324-1b3483316f9c",
+      "published_date": "2026-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7908.0
+    },
+    {
+      "episode_id": "kill_tony-fd1c7cacfd58",
+      "rss_guid": "6e7bfece-24e9-4f52-ab3b-af0cf86e8ed6",
+      "published_date": "2026-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7212.0
+    },
+    {
+      "episode_id": "kill_tony-31c2927e558d",
+      "rss_guid": "922049bb-57ba-43d3-883a-c3e0bc582253",
+      "published_date": "2026-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7412.0
+    },
+    {
+      "episode_id": "kill_tony-20f0ccebc24b",
+      "rss_guid": "a79714f5-54ae-48fc-862c-d74c2b5f6202",
+      "published_date": "2026-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7406.0
+    },
+    {
+      "episode_id": "kill_tony-a143a28c017d",
+      "rss_guid": "adffa00b-4ac6-47d1-a5a0-8c8693381d1e",
+      "published_date": "2026-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 9188.0
+    },
+    {
+      "episode_id": "kill_tony-ef65f5d10c3d",
+      "rss_guid": "3ab4b1e9-fe75-4b8a-ba16-22deb396b871",
+      "published_date": "2026-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7760.0
+    },
+    {
+      "episode_id": "kill_tony-7cbd2230f532",
+      "rss_guid": "cdba02c6-3ae9-43bc-864d-ecafa5939018",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7862.0
+    },
+    {
+      "episode_id": "kill_tony-5c3782512cdb",
+      "rss_guid": "e4ffb130-0b41-11f0-8aeb-771d524c934b",
+      "published_date": "2026-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 8382.0
+    },
+    {
+      "episode_id": "kill_tony-2a1cf1819346",
+      "rss_guid": "12260e46-53c3-11f1-94b5-4ba9ec75c40f",
+      "published_date": "2026-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8199.0
+    },
+    {
+      "episode_id": "kill_tony-9c6ae56c6824",
+      "rss_guid": "0c91df46-53c3-11f1-94b5-db21e2a6fe56",
+      "published_date": "2026-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 8296.0
+    },
+    {
+      "episode_id": "kill_tony-ab5765ba638c",
+      "rss_guid": "157bff06-53c3-11f1-94b5-0f97f92640dc",
+      "published_date": "2026-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8274.0
+    },
+    {
+      "episode_id": "kill_tony-698212fba4af",
+      "rss_guid": "12e56890-53c3-11f1-94b5-2bd3ddbb251e",
+      "published_date": "2026-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7933.0
+    },
+    {
+      "episode_id": "kill_tony-20f2787a9e12",
+      "rss_guid": "139b3382-53c3-11f1-94b5-3b5b426b7693",
+      "published_date": "2026-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 8058.0
+    },
+    {
+      "episode_id": "kill_tony-152ac9b3eb19",
+      "rss_guid": "1521c734-53c3-11f1-94b5-ffa17568556b",
+      "published_date": "2026-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7900.0
+    },
+    {
+      "episode_id": "kill_tony-2e78e520d492",
+      "rss_guid": "10546ebe-53c3-11f1-94b5-ff8536c82055",
+      "published_date": "2026-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7986.0
+    },
+    {
+      "episode_id": "kill_tony-dc258cf4cd31",
+      "rss_guid": "c8d86b9e-53c2-11f1-94b5-8be7906e3a7e",
+      "published_date": "2026-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8969.0
+    },
+    {
+      "episode_id": "kill_tony-62e46bd222c1",
+      "rss_guid": "14cb841e-53c3-11f1-94b5-f713678c8ea0",
+      "published_date": "2026-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 8132.0
+    },
+    {
+      "episode_id": "kill_tony-e22c4facb4dc",
+      "rss_guid": "c5fd0ace-53c2-11f1-94b5-3f9290a99a21",
+      "published_date": "2026-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6088.0
+    },
+    {
+      "episode_id": "kill_tony-3fa65f696f97",
+      "rss_guid": "c555699a-53c2-11f1-94b5-e35fc8d104cc",
+      "published_date": "2026-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6687.0
+    },
+    {
+      "episode_id": "kill_tony-82bcdd89a8bc",
+      "rss_guid": "150503d8-53c3-11f1-94b5-7b963d76d539",
+      "published_date": "2026-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7580.0
+    },
+    {
+      "episode_id": "kill_tony-7a34984b13d7",
+      "rss_guid": "15ced8d4-53c3-11f1-94b5-9f1adf8d3583",
+      "published_date": "2026-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7655.0
+    },
+    {
+      "episode_id": "kill_tony-834ba4d1b2a4",
+      "rss_guid": "15afcec6-53c3-11f1-94b5-5b9f69c0ccca",
+      "published_date": "2026-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8440.0
+    },
+    {
+      "episode_id": "kill_tony-4747cbc01d12",
+      "rss_guid": "c4a09f60-53c2-11f1-94b5-57fb9323980a",
+      "published_date": "2026-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7241.0
+    },
+    {
+      "episode_id": "kill_tony-9aeb29a6fba0",
+      "rss_guid": "c17e95b2-53c2-11f1-94b5-8f8bbbd39d6b",
+      "published_date": "2026-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7649.0
+    },
+    {
+      "episode_id": "kill_tony-dfbeded9273d",
+      "rss_guid": "c8ba4858-53c2-11f1-94b5-43922a9cf267",
+      "published_date": "2026-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6832.0
+    },
+    {
+      "episode_id": "kill_tony-6583dcbee3ae",
+      "rss_guid": "112cdbfa-53c3-11f1-94b5-976a2ddead32",
+      "published_date": "2026-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7251.0
+    },
+    {
+      "episode_id": "kill_tony-1fee0d25f23e",
+      "rss_guid": "153f5a92-53c3-11f1-94b5-b36a486e3bf0",
+      "published_date": "2025-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7012.0
+    },
+    {
+      "episode_id": "kill_tony-bce3d74ff9d7",
+      "rss_guid": "140e48d6-53c3-11f1-94b5-3f97dac46f99",
+      "published_date": "2025-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7401.0
+    },
+    {
+      "episode_id": "kill_tony-f9bd23aef79a",
+      "rss_guid": "1595616c-53c3-11f1-94b5-bfe25c0f91f4",
+      "published_date": "2025-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8113.0
+    },
+    {
+      "episode_id": "kill_tony-d4dd6d42dcb4",
+      "rss_guid": "c1978540-53c2-11f1-94b5-9b85dda33399",
+      "published_date": "2025-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7122.0
+    },
+    {
+      "episode_id": "kill_tony-b75b8866afb6",
+      "rss_guid": "13d6eef4-53c3-11f1-94b5-9f44de8935c5",
+      "published_date": "2025-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8153.0
+    },
+    {
+      "episode_id": "kill_tony-3fd65a23fb45",
+      "rss_guid": "c76ba24e-53c2-11f1-94b5-abd5d4f3fd91",
+      "published_date": "2025-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7820.0
+    },
+    {
+      "episode_id": "kill_tony-f81ea59c281e",
+      "rss_guid": "155d2e46-53c3-11f1-94b5-0f08653022c1",
+      "published_date": "2025-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 8325.0
+    },
+    {
+      "episode_id": "kill_tony-971e21a443ee",
+      "rss_guid": "d0ba2e24-53c2-11f1-94b5-6b2e6ff4a710",
+      "published_date": "2025-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7363.0
+    },
+    {
+      "episode_id": "kill_tony-017a1dc5e3a2",
+      "rss_guid": "1492d876-53c3-11f1-94b5-634fa9d764d1",
+      "published_date": "2025-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7642.0
+    },
+    {
+      "episode_id": "kill_tony-c88fc075b210",
+      "rss_guid": "0e219522-53c3-11f1-94b5-6fc1f30aa517",
+      "published_date": "2025-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7944.0
+    },
+    {
+      "episode_id": "kill_tony-530a50b71777",
+      "rss_guid": "12938a0c-53c3-11f1-94b5-c718a2ba3b55",
+      "published_date": "2025-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 8197.0
+    },
+    {
+      "episode_id": "kill_tony-80accbf8db81",
+      "rss_guid": "d07d937e-53c2-11f1-94b5-7b1fe03787bc",
+      "published_date": "2025-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7904.0
+    },
+    {
+      "episode_id": "kill_tony-fda9c8298668",
+      "rss_guid": "d09d065a-53c2-11f1-94b5-0bc38a1be534",
+      "published_date": "2025-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 8468.0
+    },
+    {
+      "episode_id": "kill_tony-88d90fac4b22",
+      "rss_guid": "14e7084c-53c3-11f1-94b5-bb0e0e7f849f",
+      "published_date": "2025-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7573.0
+    },
+    {
+      "episode_id": "kill_tony-4ecbfc977de0",
+      "rss_guid": "c65304ec-53c2-11f1-94b5-c3c40b629d2a",
+      "published_date": "2025-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7644.0
+    },
+    {
+      "episode_id": "kill_tony-7140f1366c8e",
+      "rss_guid": "12ca93bc-53c3-11f1-94b5-8778d9f19551",
+      "published_date": "2025-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6676.0
+    },
+    {
+      "episode_id": "kill_tony-93aa591d0c72",
+      "rss_guid": "d045d97a-53c2-11f1-94b5-5b8992bffca9",
+      "published_date": "2025-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 7099.0
+    },
+    {
+      "episode_id": "kill_tony-eb8809f4ce6a",
+      "rss_guid": "14b1d80c-53c3-11f1-94b5-bbefc347281c",
+      "published_date": "2025-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8521.0
+    },
+    {
+      "episode_id": "kill_tony-3dd8c1b67909",
+      "rss_guid": "d0635572-53c2-11f1-94b5-23d459975101",
+      "published_date": "2025-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7551.0
+    },
+    {
+      "episode_id": "kill_tony-20c44884c5f5",
+      "rss_guid": "cb8ff6a4-53c2-11f1-94b5-8712a199075b",
+      "published_date": "2025-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7358.0
+    },
+    {
+      "episode_id": "kill_tony-8aa9dfd8a73c",
+      "rss_guid": "d0287d76-53c2-11f1-94b5-9335e79d4f1e",
+      "published_date": "2025-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7779.0
+    },
+    {
+      "episode_id": "kill_tony-7ac2bc699938",
+      "rss_guid": "cfd22d54-53c2-11f1-94b5-2fa1abf20b7f",
+      "published_date": "2025-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7709.0
+    },
+    {
+      "episode_id": "kill_tony-ae6c2688aa67",
+      "rss_guid": "cf7a0ffc-53c2-11f1-94b5-c71d2376feac",
+      "published_date": "2025-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7243.0
+    },
+    {
+      "episode_id": "kill_tony-421eaa7b0b1f",
+      "rss_guid": "cf60f3a0-53c2-11f1-94b5-d32b6818ee16",
+      "published_date": "2025-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7323.0
+    },
+    {
+      "episode_id": "kill_tony-f995f3baa5c8",
+      "rss_guid": "bfed01f2-53c2-11f1-94b5-3bdab337b409",
+      "published_date": "2025-07-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7349.0
+    },
+    {
+      "episode_id": "kill_tony-d4110f80068c",
+      "rss_guid": "d00b5bc4-53c2-11f1-94b5-1723d8ab24ac",
+      "published_date": "2025-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 9009.0
+    },
+    {
+      "episode_id": "kill_tony-a08b9ab958de",
+      "rss_guid": "cb3690be-53c2-11f1-94b5-8fbdc0c086c3",
+      "published_date": "2025-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7573.0
+    },
+    {
+      "episode_id": "kill_tony-625553cf60c5",
+      "rss_guid": "145f6888-53c3-11f1-94b5-db7380ef2ceb",
+      "published_date": "2025-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7217.0
+    },
+    {
+      "episode_id": "kill_tony-358c89447b90",
+      "rss_guid": "cfed66dc-53c2-11f1-94b5-c3db53989e10",
+      "published_date": "2025-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6733.0
+    },
+    {
+      "episode_id": "kill_tony-bb6dcc8f2487",
+      "rss_guid": "c74ead2e-53c2-11f1-94b5-d3425697609c",
+      "published_date": "2025-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7534.0
+    },
+    {
+      "episode_id": "kill_tony-70cf9dce19d0",
+      "rss_guid": "cfb45ab8-53c2-11f1-94b5-6fbd12d36ee2",
+      "published_date": "2025-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8459.0
+    },
+    {
+      "episode_id": "kill_tony-31c7d87a37bc",
+      "rss_guid": "cf96ea82-53c2-11f1-94b5-cbf0c6e0aae9",
+      "published_date": "2025-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 8993.0
+    },
+    {
+      "episode_id": "kill_tony-32bb4af1e8b4",
+      "rss_guid": "cb027040-53c2-11f1-94b5-837b02f9bd3c",
+      "published_date": "2025-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 8050.0
+    },
+    {
+      "episode_id": "kill_tony-718b8d0c3c6b",
+      "rss_guid": "cf42af1c-53c2-11f1-94b5-97a796e0d5a6",
+      "published_date": "2025-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8610.0
+    },
+    {
+      "episode_id": "kill_tony-98506f1c991a",
+      "rss_guid": "cf256a06-53c2-11f1-94b5-772a0f2cf8de",
+      "published_date": "2025-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 7271.0
+    },
+    {
+      "episode_id": "kill_tony-7a187f7d5bc0",
+      "rss_guid": "cf06d9a6-53c2-11f1-94b5-ef075c18e290",
+      "published_date": "2025-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 8388.0
+    },
+    {
+      "episode_id": "kill_tony-d4b0f06adb6c",
+      "rss_guid": "cdc81f0a-53c2-11f1-94b5-ef476ed2e0a5",
+      "published_date": "2025-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7122.0
+    },
+    {
+      "episode_id": "kill_tony-2fd2061c45eb",
+      "rss_guid": "cb75e7dc-53c2-11f1-94b5-4bb428d57966",
+      "published_date": "2025-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 8430.0
+    },
+    {
+      "episode_id": "kill_tony-21aad59dbb4a",
+      "rss_guid": "cec8d8f4-53c2-11f1-94b5-336e31d61545",
+      "published_date": "2025-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8217.0
+    },
+    {
+      "episode_id": "kill_tony-051592f3e824",
+      "rss_guid": "ce044c6e-53c2-11f1-94b5-4b5f2f7890b2",
+      "published_date": "2025-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7940.0
+    },
+    {
+      "episode_id": "kill_tony-686857414ff6",
+      "rss_guid": "cde631f2-53c2-11f1-94b5-5bba1f5fc2f8",
+      "published_date": "2025-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6994.0
+    },
+    {
+      "episode_id": "kill_tony-be7af1c6f1a9",
+      "rss_guid": "ce38ab58-53c2-11f1-94b5-bf8c95acb8f5",
+      "published_date": "2025-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7188.0
+    },
+    {
+      "episode_id": "kill_tony-35a941d9bd5b",
+      "rss_guid": "cee6c40e-53c2-11f1-94b5-9375b780f973",
+      "published_date": "2025-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7191.0
+    },
+    {
+      "episode_id": "kill_tony-3196692e1f69",
+      "rss_guid": "ce1efe24-53c2-11f1-94b5-abf098952af7",
+      "published_date": "2025-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 9976.0
+    },
+    {
+      "episode_id": "kill_tony-685e8f5fdf1f",
+      "rss_guid": "c57078ac-53c2-11f1-94b5-37410ea5018d",
+      "published_date": "2025-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 11365.0
+    },
+    {
+      "episode_id": "kill_tony-e733dc82a97f",
+      "rss_guid": "c7304636-53c2-11f1-94b5-17f26a0e366b",
+      "published_date": "2025-02-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7115.0
+    },
+    {
+      "episode_id": "kill_tony-9f570f3bb3e0",
+      "rss_guid": "d0d88a54-53c2-11f1-94b5-ef0cb30c8bc2",
+      "published_date": "2025-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 9679.0
+    },
+    {
+      "episode_id": "kill_tony-1f6155dc5d2c",
+      "rss_guid": "ceab2fa2-53c2-11f1-94b5-9f3b0fc04067",
+      "published_date": "2025-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7697.0
+    },
+    {
+      "episode_id": "kill_tony-7a268e0f49ab",
+      "rss_guid": "ce8d11f2-53c2-11f1-94b5-cb892e107d38",
+      "published_date": "2025-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7634.0
+    },
+    {
+      "episode_id": "kill_tony-1db417878f2a",
+      "rss_guid": "ce6ff392-53c2-11f1-94b5-470cd38f5e20",
+      "published_date": "2025-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6620.0
+    },
+    {
+      "episode_id": "kill_tony-2103b18d879f",
+      "rss_guid": "cda76dbe-53c2-11f1-94b5-c7de0773cdcf",
+      "published_date": "2025-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6902.0
+    },
+    {
+      "episode_id": "kill_tony-eeb19492df64",
+      "rss_guid": "cd8ba16a-53c2-11f1-94b5-c3d325b5db5a",
+      "published_date": "2025-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7474.0
+    },
+    {
+      "episode_id": "kill_tony-feec02a434b7",
+      "rss_guid": "cd6ac7f6-53c2-11f1-94b5-27786e31c323",
+      "published_date": "2024-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7530.0
+    },
+    {
+      "episode_id": "kill_tony-2ec92fc1d241",
+      "rss_guid": "cd4f968e-53c2-11f1-94b5-9bec5202f894",
+      "published_date": "2024-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7320.0
+    },
+    {
+      "episode_id": "kill_tony-a2f5e4b3b2f7",
+      "rss_guid": "cc871aba-53c2-11f1-94b5-57a9709dc796",
+      "published_date": "2024-12-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7390.0
+    },
+    {
+      "episode_id": "kill_tony-7c77b3fe37a5",
+      "rss_guid": "de4e91ba-53c2-11f1-94b5-4f1ba6dd4421",
+      "published_date": "2024-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7285.0
+    },
+    {
+      "episode_id": "kill_tony-b150df81ce35",
+      "rss_guid": "cd32a966-53c2-11f1-94b5-134e0dac0458",
+      "published_date": "2024-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7237.0
+    },
+    {
+      "episode_id": "kill_tony-ff657a29aafd",
+      "rss_guid": "cd0bb518-53c2-11f1-94b5-87da0ecea79d",
+      "published_date": "2024-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7397.0
+    },
+    {
+      "episode_id": "kill_tony-70455c9b43c5",
+      "rss_guid": "ccf19354-53c2-11f1-94b5-a7b26795b2e0",
+      "published_date": "2024-11-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7509.0
+    },
+    {
+      "episode_id": "kill_tony-395a1774efdb",
+      "rss_guid": "ccd7cab4-53c2-11f1-94b5-53fc8e893dcd",
+      "published_date": "2024-11-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7277.0
+    },
+    {
+      "episode_id": "kill_tony-a7a8c1c35c47",
+      "rss_guid": "ccb9d590-53c2-11f1-94b5-f3e2b5e01314",
+      "published_date": "2024-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6590.0
+    },
+    {
+      "episode_id": "kill_tony-6b977719d390",
+      "rss_guid": "cca0baa6-53c2-11f1-94b5-477fba1a302c",
+      "published_date": "2024-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 10025.0
+    },
+    {
+      "episode_id": "kill_tony-a944a9df882d",
+      "rss_guid": "cbe106fc-53c2-11f1-94b5-3f59ddccdc26",
+      "published_date": "2024-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 7265.0
+    },
+    {
+      "episode_id": "kill_tony-4e4378e74ffc",
+      "rss_guid": "cc6e07dc-53c2-11f1-94b5-43ac6e195cbb",
+      "published_date": "2024-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7704.0
+    },
+    {
+      "episode_id": "kill_tony-eed15ecba78b",
+      "rss_guid": "cc4fef36-53c2-11f1-94b5-ab749ee3d50b",
+      "published_date": "2024-10-08",
+      "guest_name": "Guest",
+      "duration_seconds": 7998.0
+    },
+    {
+      "episode_id": "kill_tony-14ff13a68115",
+      "rss_guid": "cc167bde-53c2-11f1-94b5-b33cb9bafa0d",
+      "published_date": "2024-10-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7942.0
+    },
+    {
+      "episode_id": "kill_tony-4d566372a596",
+      "rss_guid": "0014e52e-53c3-11f1-94b5-c31dce786467",
+      "published_date": "2024-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 8062.0
+    },
+    {
+      "episode_id": "kill_tony-452470dd2001",
+      "rss_guid": "de3683f4-53c2-11f1-94b5-77fe2550c3fd",
+      "published_date": "2024-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7893.0
+    },
+    {
+      "episode_id": "kill_tony-6fa1b794f24d",
+      "rss_guid": "cba953ec-53c2-11f1-94b5-ab3a227415ce",
+      "published_date": "2024-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 9253.0
+    },
+    {
+      "episode_id": "kill_tony-05134cb1b106",
+      "rss_guid": "cb1c87be-53c2-11f1-94b5-cf751fbcc60b",
+      "published_date": "2024-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 8150.0
+    },
+    {
+      "episode_id": "kill_tony-eb201f17863e",
+      "rss_guid": "cbc722dc-53c2-11f1-94b5-9720efd095e2",
+      "published_date": "2024-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 9214.0
+    },
+    {
+      "episode_id": "kill_tony-10ed8f6cfcdd",
+      "rss_guid": "0e8fe1b2-53c3-11f1-94b5-c3168485ac35",
+      "published_date": "2024-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7399.0
+    },
+    {
+      "episode_id": "kill_tony-43d1ef509cf6",
+      "rss_guid": "cc30ae5a-53c2-11f1-94b5-bb2a757f03f6",
+      "published_date": "2024-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7835.0
+    },
+    {
+      "episode_id": "kill_tony-9b1b3f1ab311",
+      "rss_guid": "cae4dce2-53c2-11f1-94b5-d7874fe8c59b",
+      "published_date": "2024-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6919.0
+    },
+    {
+      "episode_id": "kill_tony-64586144d684",
+      "rss_guid": "cacc13c4-53c2-11f1-94b5-5b37dd14fdb0",
+      "published_date": "2024-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7957.0
+    },
+    {
+      "episode_id": "kill_tony-7e4a1a138772",
+      "rss_guid": "fffb1cca-53c2-11f1-94b5-f33b3a35a9e1",
+      "published_date": "2024-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8033.0
+    },
+    {
+      "episode_id": "kill_tony-cc9749f7af3d",
+      "rss_guid": "cab17d7a-53c2-11f1-94b5-dbb113f4873a",
+      "published_date": "2024-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7528.0
+    },
+    {
+      "episode_id": "kill_tony-87ef6ce4006d",
+      "rss_guid": "c0c3b4ea-53c2-11f1-94b5-cb8decf46c96",
+      "published_date": "2024-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6891.0
+    },
+    {
+      "episode_id": "kill_tony-ea31e5e24713",
+      "rss_guid": "0e550e7a-53c3-11f1-94b5-9f5c3a4d6ae2",
+      "published_date": "2024-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8625.0
+    },
+    {
+      "episode_id": "kill_tony-2d028313b410",
+      "rss_guid": "ca975350-53c2-11f1-94b5-73e98167720b",
+      "published_date": "2024-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8057.0
+    },
+    {
+      "episode_id": "kill_tony-be012dd6a05c",
+      "rss_guid": "c0a5d0ce-53c2-11f1-94b5-833f42b66452",
+      "published_date": "2024-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8372.0
+    },
+    {
+      "episode_id": "kill_tony-0c1b2543d312",
+      "rss_guid": "c0e0be1e-53c2-11f1-94b5-b7a399ed04ef",
+      "published_date": "2024-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7842.0
+    },
+    {
+      "episode_id": "kill_tony-9ee54a7c64df",
+      "rss_guid": "ffe2d610-53c2-11f1-94b5-b3eb8d40d7e0",
+      "published_date": "2024-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7161.0
+    },
+    {
+      "episode_id": "kill_tony-ed02ec57fa9d",
+      "rss_guid": "ca787d0e-53c2-11f1-94b5-a781dedc01ce",
+      "published_date": "2024-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 10094.0
+    },
+    {
+      "episode_id": "kill_tony-d07db1cd7b86",
+      "rss_guid": "119d3102-53c3-11f1-94b5-1f5ff93593d2",
+      "published_date": "2024-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 11065.0
+    },
+    {
+      "episode_id": "kill_tony-e32ec37beb44",
+      "rss_guid": "ffc42012-53c2-11f1-94b5-2f01ad927378",
+      "published_date": "2024-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6676.0
+    },
+    {
+      "episode_id": "kill_tony-cab95a67cc68",
+      "rss_guid": "ffa72ca0-53c2-11f1-94b5-335f5da5fc55",
+      "published_date": "2024-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7428.0
+    },
+    {
+      "episode_id": "kill_tony-5f8d44fd6003",
+      "rss_guid": "cbfb33ba-53c2-11f1-94b5-b372dfa55116",
+      "published_date": "2024-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7163.0
+    },
+    {
+      "episode_id": "kill_tony-262f3b7579f7",
+      "rss_guid": "c9e5022c-53c2-11f1-94b5-e76512dc13e6",
+      "published_date": "2024-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 7874.0
+    },
+    {
+      "episode_id": "kill_tony-c71a43dbfe45",
+      "rss_guid": "ca1dd2a0-53c2-11f1-94b5-c3224869ec50",
+      "published_date": "2024-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6844.0
+    },
+    {
+      "episode_id": "kill_tony-7cc001247a94",
+      "rss_guid": "0e03a724-53c3-11f1-94b5-e7ee776b2a89",
+      "published_date": "2024-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8043.0
+    },
+    {
+      "episode_id": "kill_tony-923f19d30026",
+      "rss_guid": "ca5a5004-53c2-11f1-94b5-df58cad00286",
+      "published_date": "2024-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7924.0
+    },
+    {
+      "episode_id": "kill_tony-ab044935d732",
+      "rss_guid": "0de52e0c-53c3-11f1-94b5-bfb982bcdbdd",
+      "published_date": "2024-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6856.0
+    },
+    {
+      "episode_id": "kill_tony-f1fd14643b71",
+      "rss_guid": "ca3c2e58-53c2-11f1-94b5-5bbd48feea48",
+      "published_date": "2024-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7403.0
+    },
+    {
+      "episode_id": "kill_tony-db6280192982",
+      "rss_guid": "0dc54a88-53c3-11f1-94b5-af13cb1ccce6",
+      "published_date": "2024-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6658.0
+    },
+    {
+      "episode_id": "kill_tony-f0038752e0fb",
+      "rss_guid": "0dab812a-53c3-11f1-94b5-a70078850dfd",
+      "published_date": "2024-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 8061.0
+    },
+    {
+      "episode_id": "kill_tony-f9acb4d968a2",
+      "rss_guid": "c6fa3690-53c2-11f1-94b5-eb958b61ddfb",
+      "published_date": "2024-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7142.0
+    },
+    {
+      "episode_id": "kill_tony-df3a64b971bb",
+      "rss_guid": "ff696bcc-53c2-11f1-94b5-5b854c5ada3e",
+      "published_date": "2024-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 7765.0
+    },
+    {
+      "episode_id": "kill_tony-969c4a58aed9",
+      "rss_guid": "ca03a038-53c2-11f1-94b5-7febcdd0d4b9",
+      "published_date": "2024-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7300.0
+    },
+    {
+      "episode_id": "kill_tony-dbb84bbdb7a0",
+      "rss_guid": "c8f23290-53c2-11f1-94b5-f7b082b59034",
+      "published_date": "2024-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7187.0
+    },
+    {
+      "episode_id": "kill_tony-095fc46f0633",
+      "rss_guid": "c9687acc-53c2-11f1-94b5-8376513a917d",
+      "published_date": "2024-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6494.0
+    },
+    {
+      "episode_id": "kill_tony-455aaf776c97",
+      "rss_guid": "c987314c-53c2-11f1-94b5-cf2336d5d6e6",
+      "published_date": "2024-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7346.0
+    },
+    {
+      "episode_id": "kill_tony-077636f4f944",
+      "rss_guid": "ff425776-53c2-11f1-94b5-d31f7526834e",
+      "published_date": "2024-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 11032.0
+    },
+    {
+      "episode_id": "kill_tony-7109fa764f83",
+      "rss_guid": "0e72242e-53c3-11f1-94b5-ab9706bf2e38",
+      "published_date": "2024-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 10829.0
+    },
+    {
+      "episode_id": "kill_tony-3ee70c4b4217",
+      "rss_guid": "cb541e86-53c2-11f1-94b5-437a513c0392",
+      "published_date": "2024-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6091.0
+    },
+    {
+      "episode_id": "kill_tony-9e90ced6f259",
+      "rss_guid": "c94d3848-53c2-11f1-94b5-2b2ec7ec0586",
+      "published_date": "2024-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7137.0
+    },
+    {
+      "episode_id": "kill_tony-61a4f2765fae",
+      "rss_guid": "c9c5cfd8-53c2-11f1-94b5-a7563d8a1429",
+      "published_date": "2024-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8453.0
+    },
+    {
+      "episode_id": "kill_tony-d3cec5b94fa4",
+      "rss_guid": "00a56b3a-53c3-11f1-94b5-2f2ce4378aca",
+      "published_date": "2024-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 8330.0
+    },
+    {
+      "episode_id": "kill_tony-28f4a002eaae",
+      "rss_guid": "0089855a-53c3-11f1-94b5-73da673fc533",
+      "published_date": "2023-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8540.0
+    },
+    {
+      "episode_id": "kill_tony-e1507614c1ef",
+      "rss_guid": "006a67ce-53c3-11f1-94b5-2bc17fda561a",
+      "published_date": "2023-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7474.0
+    },
+    {
+      "episode_id": "kill_tony-4962430bca42",
+      "rss_guid": "ff89c732-53c2-11f1-94b5-731dd1c23088",
+      "published_date": "2023-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7350.0
+    },
+    {
+      "episode_id": "kill_tony-b00843f83fd8",
+      "rss_guid": "d15074b5-8ac8-44d1-8d33-d4d595d12318",
+      "published_date": "2023-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7472.0
+    },
+    {
+      "episode_id": "kill_tony-898dc1659f2c",
+      "rss_guid": "9dd55fbb-d1da-46c5-9b2e-5e9de5bc986e",
+      "published_date": "2023-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7528.0
+    },
+    {
+      "episode_id": "kill_tony-cdf0de5360b1",
+      "rss_guid": "966f1f09-e6eb-4647-a244-216820871c42",
+      "published_date": "2023-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7670.0
+    },
+    {
+      "episode_id": "kill_tony-85addede44b4",
+      "rss_guid": "402c9076-41ed-4c0f-af1c-a7d2cbbf2ca2",
+      "published_date": "2023-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7628.0
+    },
+    {
+      "episode_id": "kill_tony-71e5313e1829",
+      "rss_guid": "e65d1214-6625-4d0f-a376-35ce4963ab57",
+      "published_date": "2023-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 8424.0
+    },
+    {
+      "episode_id": "kill_tony-9906c93e0f51",
+      "rss_guid": "491b391f-8e49-49b0-a6f1-8806a6ba7bb6",
+      "published_date": "2023-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7734.0
+    },
+    {
+      "episode_id": "kill_tony-eedd061002d4",
+      "rss_guid": "793fd910-8bcb-446f-8312-3b14a5001017",
+      "published_date": "2023-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 8510.0
+    },
+    {
+      "episode_id": "kill_tony-16bf79e860d1",
+      "rss_guid": "e89eb431-39bc-4bfb-a3ab-47919272a525",
+      "published_date": "2023-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7728.0
+    },
+    {
+      "episode_id": "kill_tony-ea9bb76831a2",
+      "rss_guid": "b5cca0c4-62a8-4b36-8150-719ce51b7c0b",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 8144.0
+    },
+    {
+      "episode_id": "kill_tony-25fcde685c74",
+      "rss_guid": "16db2412-27b8-4c54-9c64-d257af9965e9",
+      "published_date": "2023-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7180.0
+    },
+    {
+      "episode_id": "kill_tony-6064f5c41c0c",
+      "rss_guid": "26055944-549a-43bf-92d7-e934907d87c3",
+      "published_date": "2023-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6962.0
+    },
+    {
+      "episode_id": "kill_tony-a1d78465bf22",
+      "rss_guid": "75cadf02-ac4d-4ac7-abb5-18dd396875d5",
+      "published_date": "2023-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6162.0
+    },
+    {
+      "episode_id": "kill_tony-6e7337b3fb3b",
+      "rss_guid": "17fa9e31-3276-4c04-8ced-d75a4fd86edb",
+      "published_date": "2023-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6302.0
+    },
+    {
+      "episode_id": "kill_tony-0fb0b17df997",
+      "rss_guid": "62883c4e-055d-4bca-b6ff-3214b81510ff",
+      "published_date": "2023-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6196.0
+    },
+    {
+      "episode_id": "kill_tony-7cca7d954b45",
+      "rss_guid": "e98480ea-e05f-4702-a2d0-311d0d13e5c4",
+      "published_date": "2023-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6276.0
+    },
+    {
+      "episode_id": "kill_tony-5e41cbb08427",
+      "rss_guid": "c4c2ab2f-585e-40ab-9798-11ae23e0f172",
+      "published_date": "2023-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6944.0
+    },
+    {
+      "episode_id": "kill_tony-8d94a58ad4ee",
+      "rss_guid": "97e9bf10-3615-4db8-ab9c-1bd1d182cb13",
+      "published_date": "2023-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7328.0
+    },
+    {
+      "episode_id": "kill_tony-591fed3006b3",
+      "rss_guid": "af5d4c99-67cf-482c-b837-3fa43d5f48b6",
+      "published_date": "2023-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6976.0
+    },
+    {
+      "episode_id": "kill_tony-7d68faa279dc",
+      "rss_guid": "ca99a95e-717e-4887-b531-2f4b7f8ddd91",
+      "published_date": "2023-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 7022.0
+    },
+    {
+      "episode_id": "kill_tony-6516607b31a1",
+      "rss_guid": "5ab03c31-a405-4ce8-bccf-926fbce5774b",
+      "published_date": "2023-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7552.0
+    },
+    {
+      "episode_id": "kill_tony-b17b81dee959",
+      "rss_guid": "6dfeca61-616b-44ae-a4be-c9ffb492beab",
+      "published_date": "2023-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7126.0
+    },
+    {
+      "episode_id": "kill_tony-12b6a91288bc",
+      "rss_guid": "690c6340-ec41-4f50-88ba-adabe23675e9",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6520.0
+    },
+    {
+      "episode_id": "kill_tony-358f0bff1236",
+      "rss_guid": "de7a9520-429e-4057-912b-0bc1b50c886b",
+      "published_date": "2023-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7104.0
+    },
+    {
+      "episode_id": "kill_tony-8e9cbd9093c4",
+      "rss_guid": "3356fd64-6b1c-4e10-aadc-33d11728931c",
+      "published_date": "2023-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7468.0
+    },
+    {
+      "episode_id": "kill_tony-c6e05c3f1589",
+      "rss_guid": "151087fa-c61e-42b0-8ef6-74db87099898",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 7072.0
+    },
+    {
+      "episode_id": "kill_tony-b2602fae764c",
+      "rss_guid": "d9c724a3-791d-4f49-8fb6-34d44bd064a9",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7970.0
+    },
+    {
+      "episode_id": "kill_tony-65c177ddc772",
+      "rss_guid": "3d0c18ea-44de-4219-a041-abc36d2a97a5",
+      "published_date": "2023-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7672.0
+    },
+    {
+      "episode_id": "kill_tony-6bd7919ad99c",
+      "rss_guid": "0b421ecf-deff-468e-b491-2ddeb1d6a689",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6394.0
+    },
+    {
+      "episode_id": "kill_tony-a86b2af27eeb",
+      "rss_guid": "a64670fc-0c98-481f-80ce-f526d4e06ded",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6728.0
+    },
+    {
+      "episode_id": "kill_tony-6d3eacb08aef",
+      "rss_guid": "0684b89c-1727-467c-addf-95787a725034",
+      "published_date": "2023-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6728.0
+    },
+    {
+      "episode_id": "kill_tony-801f427970ad",
+      "rss_guid": "709afa4a-8c88-41c2-94e5-67deac44e56b",
+      "published_date": "2023-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7016.0
+    },
+    {
+      "episode_id": "kill_tony-dbd8f02c4aef",
+      "rss_guid": "1affb180-a1b3-4cc1-86c5-49a134700ec5",
+      "published_date": "2023-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6996.0
+    },
+    {
+      "episode_id": "kill_tony-7efbb8e528a6",
+      "rss_guid": "4bc40398-fc71-42ac-9d07-96ed85b9e375",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7170.0
+    },
+    {
+      "episode_id": "kill_tony-9059a3f36867",
+      "rss_guid": "11316ed6-8d11-453a-badd-882566e55f65",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 7624.0
+    },
+    {
+      "episode_id": "kill_tony-7da38e970e24",
+      "rss_guid": "d2534924-45fd-4a87-9de4-d105fe06a361",
+      "published_date": "2023-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6584.0
+    },
+    {
+      "episode_id": "kill_tony-17a79804cb37",
+      "rss_guid": "cfb56c46-fcaf-4a37-805a-6a25b881962a",
+      "published_date": "2023-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6696.0
+    },
+    {
+      "episode_id": "kill_tony-ffa7a1af578f",
+      "rss_guid": "ef7084b3-065d-48d5-910c-d2a475e6014a",
+      "published_date": "2023-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6874.0
+    },
+    {
+      "episode_id": "kill_tony-d6110d0be64d",
+      "rss_guid": "70130bb7-19ca-4a75-86b5-46c3916f0f3c",
+      "published_date": "2023-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 7740.0
+    },
+    {
+      "episode_id": "kill_tony-35e796d683e5",
+      "rss_guid": "b54a9f6f-e313-4cc5-aaa3-82878a395bb1",
+      "published_date": "2023-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6432.0
+    },
+    {
+      "episode_id": "kill_tony-f56c6ba60757",
+      "rss_guid": "c8fe9ffc-4699-484e-b0c0-69c4168ff00f",
+      "published_date": "2023-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7164.0
+    },
+    {
+      "episode_id": "kill_tony-bebd06649b26",
+      "rss_guid": "21c250f7-b948-443a-952e-e52532330e75",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7286.0
+    },
+    {
+      "episode_id": "kill_tony-04f3a9065cdb",
+      "rss_guid": "5044ca5c-25a8-4a7c-ad60-c6e572ef2c37",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6452.0
+    },
+    {
+      "episode_id": "kill_tony-2fbaee97bed6",
+      "rss_guid": "55ecb0f9-db86-4b50-abe8-dcd4aabf9ca1",
+      "published_date": "2023-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 7206.0
+    },
+    {
+      "episode_id": "kill_tony-5595de62b861",
+      "rss_guid": "b7651af8-92d2-44d4-a88d-af9c6c7dc9c5",
+      "published_date": "2023-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 9096.0
+    },
+    {
+      "episode_id": "kill_tony-491947ec2453",
+      "rss_guid": "67fc4fca-00e9-4c52-91a8-f3ea03086d1e",
+      "published_date": "2023-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6808.0
+    },
+    {
+      "episode_id": "kill_tony-4b81ff2b680a",
+      "rss_guid": "5c8c469f-1232-43db-8eaa-31a666f9bd54",
+      "published_date": "2023-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 7036.0
+    },
+    {
+      "episode_id": "kill_tony-a67696712dde",
+      "rss_guid": "a1a6b1bb-c096-4225-8d07-07e9c1c04cd4",
+      "published_date": "2023-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7092.0
+    },
+    {
+      "episode_id": "kill_tony-ab1c92c51231",
+      "rss_guid": "06bdc315-f0f2-43e4-91da-2812ae196e16",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6176.0
+    },
+    {
+      "episode_id": "kill_tony-615c9a79021f",
+      "rss_guid": "e0222493-c9cc-41b8-b5a7-01af1907a9d8",
+      "published_date": "2023-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6212.0
+    },
+    {
+      "episode_id": "kill_tony-a43af5458dc5",
+      "rss_guid": "a316262b-c80b-47ed-b360-18bbb0899acc",
+      "published_date": "2023-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5698.0
+    },
+    {
+      "episode_id": "kill_tony-1902ef85bed8",
+      "rss_guid": "855bfedb-248d-4cc0-ab7a-d3abe470992a",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5400.0
+    },
+    {
+      "episode_id": "kill_tony-62d48910a9d4",
+      "rss_guid": "b3ae02db-94e7-47c2-8b42-4e9dc7b9109c",
+      "published_date": "2022-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6016.0
+    },
+    {
+      "episode_id": "kill_tony-b05ba22c10a2",
+      "rss_guid": "35e82985-b83c-42c0-9f70-862927ba7760",
+      "published_date": "2022-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5602.0
+    },
+    {
+      "episode_id": "kill_tony-a0a975cf3663",
+      "rss_guid": "45aef4ef-6a90-4dad-a75e-1bfe518d230b",
+      "published_date": "2022-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5938.0
+    },
+    {
+      "episode_id": "kill_tony-8c54c4ff07dc",
+      "rss_guid": "6ec8b8f2-1d0c-426a-b3d5-3b87b80f8592",
+      "published_date": "2022-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6088.0
+    },
+    {
+      "episode_id": "kill_tony-49b2db6fceac",
+      "rss_guid": "89326db8-569d-4c28-96fd-e847ac8e2850",
+      "published_date": "2022-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6606.0
+    },
+    {
+      "episode_id": "kill_tony-e1a988be2aa5",
+      "rss_guid": "911b259b-e9e6-485e-bd77-57f5e7e36aa3",
+      "published_date": "2022-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6204.0
+    },
+    {
+      "episode_id": "kill_tony-aa1a58a0c1a9",
+      "rss_guid": "6e719819-8c09-4524-8264-32b18ab75a56",
+      "published_date": "2022-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6314.0
+    },
+    {
+      "episode_id": "kill_tony-4ec8fe0b1fd8",
+      "rss_guid": "ebcc3cd5-ef41-4a3f-b951-fdb90f293c67",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5898.0
+    },
+    {
+      "episode_id": "kill_tony-21bb383b2edf",
+      "rss_guid": "90b6cc64-1b2b-40fe-906b-439e49e2b3e2",
+      "published_date": "2022-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6302.0
+    },
+    {
+      "episode_id": "kill_tony-f33babe2e816",
+      "rss_guid": "1c48794b-75aa-4934-b246-ee252692976a",
+      "published_date": "2022-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6328.0
+    },
+    {
+      "episode_id": "kill_tony-64c659107e7b",
+      "rss_guid": "a2567d94-b10c-43f6-ae0e-4a636082fa92",
+      "published_date": "2022-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6122.0
+    },
+    {
+      "episode_id": "kill_tony-8ba0a4c8028b",
+      "rss_guid": "0e5b3deb-3680-46da-beb4-f5ddb07fa59b",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6494.0
+    },
+    {
+      "episode_id": "kill_tony-ecbe8a05569c",
+      "rss_guid": "bd0b74b6-ca76-45b8-91fa-3c8f819914ce",
+      "published_date": "2022-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6102.0
+    },
+    {
+      "episode_id": "kill_tony-8d150604f8f4",
+      "rss_guid": "925c67d0-9bb7-46a2-8681-674d879002c2",
+      "published_date": "2022-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6840.0
+    },
+    {
+      "episode_id": "kill_tony-26f7f8bd1223",
+      "rss_guid": "2fa6e330-f678-4c95-a3d3-b775b6416dd6",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 7494.0
+    },
+    {
+      "episode_id": "kill_tony-dfd95b482902",
+      "rss_guid": "664067dc-dee9-4fbf-83d7-881414397cab",
+      "published_date": "2022-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6342.0
+    },
+    {
+      "episode_id": "kill_tony-c2780838582d",
+      "rss_guid": "38f056b1-c752-4852-a848-3920474f8cf9",
+      "published_date": "2022-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5822.0
+    },
+    {
+      "episode_id": "kill_tony-bef372277522",
+      "rss_guid": "fdd00b96-18bb-486b-a987-7061bed1761a",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5830.0
+    },
+    {
+      "episode_id": "kill_tony-444b19ff34a4",
+      "rss_guid": "a1fe94b5-5b4a-47aa-b3d8-a43a9d11f2ca",
+      "published_date": "2022-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 6422.0
+    },
+    {
+      "episode_id": "kill_tony-e3ccfd0873ee",
+      "rss_guid": "8201a95c-1fe2-429b-a787-6659dabda4a7",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 6138.0
+    },
+    {
+      "episode_id": "kill_tony-bebff2c16fb1",
+      "rss_guid": "3038204f-e0db-4e64-a260-c484a8a0c9fe",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 6222.0
+    },
+    {
+      "episode_id": "kill_tony-787ae1db5ea7",
+      "rss_guid": "c9cf085d-6ba7-41ec-8663-d583ba07e589",
+      "published_date": "2022-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6556.0
+    },
+    {
+      "episode_id": "kill_tony-c7f47f80176d",
+      "rss_guid": "f2777fe2-49bb-4f2a-aa63-e3314c64b07b",
+      "published_date": "2022-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 6994.0
+    },
+    {
+      "episode_id": "kill_tony-f124ba81cbd8",
+      "rss_guid": "2a780834-caed-4dd5-a677-496264175ac5",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 6994.0
+    },
+    {
+      "episode_id": "kill_tony-a1832999063c",
+      "rss_guid": "0c54e723-468b-41d8-bf82-947e7b340f1b",
+      "published_date": "2022-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6164.0
+    },
+    {
+      "episode_id": "kill_tony-53e9d91e58d7",
+      "rss_guid": "7f90c85a-2a4e-42f0-82a1-96fd6918fc50",
+      "published_date": "2022-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6300.0
+    },
+    {
+      "episode_id": "kill_tony-6f966aae73ab",
+      "rss_guid": "91c33709-9382-4201-ab3f-62979bd29195",
+      "published_date": "2022-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6462.0
+    },
+    {
+      "episode_id": "kill_tony-71b5e533924a",
+      "rss_guid": "afe86505-9fab-4a34-9390-30d753669760",
+      "published_date": "2022-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 7334.0
+    },
+    {
+      "episode_id": "kill_tony-8e6f44062021",
+      "rss_guid": "fa9d7027-9b2a-4e27-9af9-f4d2da9b9d08",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6450.0
+    },
+    {
+      "episode_id": "kill_tony-be6cbfa22965",
+      "rss_guid": "ca649cc4-5c5e-4da5-bd84-acab2a04c198",
+      "published_date": "2022-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6252.0
+    },
+    {
+      "episode_id": "kill_tony-9460effb1381",
+      "rss_guid": "92b44b98-cfd8-419d-a4e6-f9ec222be34c",
+      "published_date": "2022-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6036.0
+    },
+    {
+      "episode_id": "kill_tony-7f2e5685a9c6",
+      "rss_guid": "37f853ba-d11e-4f52-87fe-d3c762961b0d",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5872.0
+    },
+    {
+      "episode_id": "kill_tony-76b6dcc93f0f",
+      "rss_guid": "f53eaf7e-cb08-4fc8-8f41-890dfec962cb",
+      "published_date": "2022-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 6264.0
+    },
+    {
+      "episode_id": "kill_tony-8413a2374f00",
+      "rss_guid": "6f19a55e-87cb-4c1a-8bcf-60f0105fe724",
+      "published_date": "2022-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 6376.0
+    },
+    {
+      "episode_id": "kill_tony-2092fbbdba78",
+      "rss_guid": "dcf8e30d-7ba7-4f9f-9ee0-78a541b5433c",
+      "published_date": "2022-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6348.0
+    },
+    {
+      "episode_id": "kill_tony-aac3bc0e7987",
+      "rss_guid": "67c93a00-cc46-4d96-a433-ae2332cef484",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5728.0
+    },
+    {
+      "episode_id": "kill_tony-33d004152141",
+      "rss_guid": "58cd1de3-0dd9-44e6-a297-236c63e047b6",
+      "published_date": "2022-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5972.0
+    },
+    {
+      "episode_id": "kill_tony-5e3ecd731917",
+      "rss_guid": "2a5a290c-3953-4603-b04b-7e37eee8493b",
+      "published_date": "2022-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6332.0
+    },
+    {
+      "episode_id": "kill_tony-b4dfb1323a14",
+      "rss_guid": "a0fed280-708d-47af-bfed-3012e44797f8",
+      "published_date": "2022-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7024.0
+    },
+    {
+      "episode_id": "kill_tony-66f6b4af8944",
+      "rss_guid": "9c5f0114-86fd-4f4a-90cb-016e715bf1fb",
+      "published_date": "2022-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5946.0
+    },
+    {
+      "episode_id": "kill_tony-b04a612269d0",
+      "rss_guid": "43f34e1b-e990-4729-bae8-0cc885616137",
+      "published_date": "2022-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6040.0
+    },
+    {
+      "episode_id": "kill_tony-e2b8d7d25594",
+      "rss_guid": "f4f2ba89-c91d-476a-b6bd-51b078ab7501",
+      "published_date": "2022-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6148.0
+    },
+    {
+      "episode_id": "kill_tony-7eb2af6dd837",
+      "rss_guid": "dc6a99c1-b734-4827-b98c-47f973e3b6ab",
+      "published_date": "2022-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 5862.0
+    },
+    {
+      "episode_id": "kill_tony-9377812c09d5",
+      "rss_guid": "fb25428c-6bcd-435b-8dec-ef90b6b5a308",
+      "published_date": "2022-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 6424.0
+    },
+    {
+      "episode_id": "kill_tony-e45916c2fccd",
+      "rss_guid": "6f5e7513-ab17-42a9-be13-108368b13006",
+      "published_date": "2022-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 5936.0
+    },
+    {
+      "episode_id": "kill_tony-a1f05085d8e6",
+      "rss_guid": "fbcce13c-34ff-412a-a680-72a24edd3cdf",
+      "published_date": "2022-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6582.0
+    },
+    {
+      "episode_id": "kill_tony-44c1bc97ea44",
+      "rss_guid": "5eb9c38f-8012-4d7e-9e52-142e12d03224",
+      "published_date": "2022-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5942.0
+    },
+    {
+      "episode_id": "kill_tony-ffd8f0b6c1f2",
+      "rss_guid": "7494f568-4aea-4d30-9d44-6b8b7bb54055",
+      "published_date": "2022-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6744.0
+    },
+    {
+      "episode_id": "kill_tony-b94fe7c03d65",
+      "rss_guid": "abe69ddb-0121-431a-b0ff-d66aed42a9fb",
+      "published_date": "2022-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6278.0
+    },
+    {
+      "episode_id": "kill_tony-a28a33cdce4d",
+      "rss_guid": "43558ff1-906a-447c-b1cb-7301d10ad738",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5910.0
+    },
+    {
+      "episode_id": "kill_tony-4926983307ee",
+      "rss_guid": "3dd6eaac-84ce-4b6c-9e37-ed83eb1ca19b",
+      "published_date": "2022-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5912.0
+    },
+    {
+      "episode_id": "kill_tony-6849c938ba95",
+      "rss_guid": "d10d2bb9-ca37-44c3-89d6-2babbad7904b",
+      "published_date": "2021-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6530.0
+    },
+    {
+      "episode_id": "kill_tony-805cb8677629",
+      "rss_guid": "ff0f4423-c96d-44eb-88b8-5830a83ca7a7",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6812.0
+    },
+    {
+      "episode_id": "kill_tony-5722cbe3d0f5",
+      "rss_guid": "66f8a7a9-4d13-4b21-a8c2-cb021713b0ab",
+      "published_date": "2021-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 6106.0
+    },
+    {
+      "episode_id": "kill_tony-925257619d3a",
+      "rss_guid": "33531288-6451-458b-8794-224683f8c58d",
+      "published_date": "2021-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6048.0
+    },
+    {
+      "episode_id": "kill_tony-3d020962c68b",
+      "rss_guid": "9f194602-d9c7-4501-b1e8-8116647a0469",
+      "published_date": "2021-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6614.0
+    },
+    {
+      "episode_id": "kill_tony-8db429d1a5b8",
+      "rss_guid": "56bde05e-cc38-4152-9f92-4ec0ef3c9916",
+      "published_date": "2021-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 6394.0
+    },
+    {
+      "episode_id": "kill_tony-d68e640196c1",
+      "rss_guid": "21a4c92b-7d98-4a8e-be2a-a1679b92943c",
+      "published_date": "2021-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7542.0
+    },
+    {
+      "episode_id": "kill_tony-218742de54af",
+      "rss_guid": "a2aa9b3e-5db2-4264-8ad1-a7d7dea43096",
+      "published_date": "2021-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 7452.0
+    },
+    {
+      "episode_id": "kill_tony-0e09c2e56f06",
+      "rss_guid": "98e1aba4-bc79-4ee2-8fd0-f6386a134bf1",
+      "published_date": "2021-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 6816.0
+    },
+    {
+      "episode_id": "kill_tony-b3a41e843859",
+      "rss_guid": "39ed3bab-f63a-4350-aefc-ceea1a22b0ba",
+      "published_date": "2021-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7216.0
+    },
+    {
+      "episode_id": "kill_tony-dce8669f6d1a",
+      "rss_guid": "4f2258dd-9a34-4854-9825-51c8c7cda14b",
+      "published_date": "2021-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 7096.0
+    },
+    {
+      "episode_id": "kill_tony-02575642456f",
+      "rss_guid": "d4c10505-4ede-4efa-a064-0e871d8917ee",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 7138.0
+    },
+    {
+      "episode_id": "kill_tony-9accdd88ae54",
+      "rss_guid": "fc0a64cd-5a43-4863-8c27-4a1b5e505440",
+      "published_date": "2021-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6936.0
+    }
+  ]
+}

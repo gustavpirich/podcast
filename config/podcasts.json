@@ -10,7 +10,8 @@
       ],
       "hosts": [
         "Joe Rogan"
-      ]
+      ],
+      "max_speakers_expected": 4
     },
     "doac": {
       "name": "The Diary Of A CEO with Steven Bartlett",
@@ -22,6 +23,362 @@
       "hosts": [
         "Steven Bartlett"
       ]
+    },
+    "h3_podcast": {
+      "name": "H3 Podcast",
+      "raw_directory": "h3_podcast",
+      "rss_url": "https://feeds.megaphone.fm/h3podcast",
+      "youtube_channels": [],
+      "hosts": [
+        "Ethan Klein",
+        "Hila Klein"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "armchair_expert_with_dax_shepard": {
+      "name": "Armchair Expert with Dax Shepard",
+      "raw_directory": "armchair_expert_with_dax_shepard",
+      "rss_url": "https://rss.art19.com/armchair-expert",
+      "youtube_channels": [],
+      "hosts": [
+        "Dax Shepard"
+      ],
+      "hosts_source": "feed description (other regular voices are labelled Guest) in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "small_town_murder": {
+      "name": "Small Town Murder",
+      "raw_directory": "small_town_murder",
+      "rss_url": "https://rss.libsyn.com/shows/580095/destinations/5028715.xml",
+      "youtube_channels": [],
+      "hosts": [
+        "James Pietragallo",
+        "Jimmie Whisman"
+      ],
+      "hosts_source": "feed author field in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "huberman_lab": {
+      "name": "Huberman Lab",
+      "raw_directory": "huberman_lab",
+      "rss_url": "https://feeds.megaphone.fm/hubermanlab",
+      "youtube_channels": [],
+      "hosts": [
+        "Andrew Huberman"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "monday_morning_podcast": {
+      "name": "Monday Morning Podcast",
+      "raw_directory": "monday_morning_podcast",
+      "rss_url": "https://rss.art19.com/monday-morning",
+      "youtube_channels": [],
+      "hosts": [
+        "Bill Burr"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "on_purpose_with_jay_shetty": {
+      "name": "On Purpose with Jay Shetty",
+      "raw_directory": "on_purpose_with_jay_shetty",
+      "rss_url": "https://feeds.megaphone.fm/on-purpose",
+      "youtube_channels": [],
+      "hosts": [
+        "Jay Shetty"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "wtf_with_marc_maron_podcast": {
+      "name": "WTF with Marc Maron Podcast",
+      "raw_directory": "wtf_with_marc_maron_podcast",
+      "rss_url": "https://feeds.acast.com/public/shows/62a222737c02140013aa4c03",
+      "youtube_channels": [],
+      "hosts": [
+        "Marc Maron"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "this_past_weekend_w_theo_von": {
+      "name": "This Past Weekend w/ Theo Von",
+      "raw_directory": "this_past_weekend_w_theo_von",
+      "rss_url": "https://feeds.megaphone.fm/thispastweekend",
+      "youtube_channels": [],
+      "hosts": [
+        "Theo Von"
+      ],
+      "hosts_source": "feed author field in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "the_85_south_show_with_karlous_miller_dc_young_f": {
+      "name": "The 85 South Show with Karlous Miller, DC Young Fly and Chico Bean",
+      "raw_directory": "the_85_south_show_with_karlous_miller_dc_young_f",
+      "rss_url": "https://feeds.megaphone.fm/TPC1168475191",
+      "youtube_channels": [],
+      "hosts": [
+        "DC Young Fly",
+        "Karlous Miller",
+        "Chico Bean"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 6,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "kill_tony": {
+      "name": "KILL TONY",
+      "raw_directory": "kill_tony",
+      "rss_url": "https://feeds.simplecast.com/JZSQrle9",
+      "youtube_channels": [],
+      "hosts": [
+        "Tony Hinchcliffe",
+        "Brian Redban"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 10,
+      "max_speakers_reason": "many one-minute performers per episode"
+    },
+    "the_mel_robbins_podcast": {
+      "name": "The Mel Robbins Podcast",
+      "raw_directory": "the_mel_robbins_podcast",
+      "rss_url": "https://feeds.simplecast.com/UCwaTX1J",
+      "youtube_channels": [],
+      "hosts": [
+        "Mel Robbins"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "two_hot_takes": {
+      "name": "Two Hot Takes",
+      "raw_directory": "two_hot_takes",
+      "rss_url": "https://feeds.megaphone.fm/GLT3561373177",
+      "youtube_channels": [],
+      "hosts": [
+        "Morgan Absher"
+      ],
+      "hosts_source": "feed description (rotating co-hosts are not named and are labelled Guest) in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "dumb_blonde": {
+      "name": "Dumb Blonde",
+      "raw_directory": "dumb_blonde",
+      "rss_url": "https://rss.amperwave.net/v2/feed/audacynetwork/fa4e8283cfd9be5c58b3376e4c3dffcb",
+      "youtube_channels": [],
+      "hosts": [
+        "Bunnie XO"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "distractible": {
+      "name": "Distractible",
+      "raw_directory": "distractible",
+      "rss_url": "https://feeds.megaphone.fm/QCD8163454930",
+      "youtube_channels": [],
+      "hosts": [
+        "Mark Fischbach",
+        "Wade Barnes",
+        "Bob Muyskens"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 6,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "office_ladies": {
+      "name": "Office Ladies",
+      "raw_directory": "office_ladies",
+      "rss_url": "https://rss.amperwave.net/v2/feed/audacynetwork/office-ladies",
+      "youtube_channels": [],
+      "hosts": [
+        "Jenna Fischer",
+        "Angela Kinsey"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "your_mom_s_house_with_christina_p_and_tom_segura": {
+      "name": "Your Mom's House with Christina P. and Tom Segura",
+      "raw_directory": "your_mom_s_house_with_christina_p_and_tom_segura",
+      "rss_url": "https://feeds.megaphone.fm/YMH5847489315",
+      "youtube_channels": [],
+      "hosts": [
+        "Christina Pazsitzky",
+        "Tom Segura"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "matt_and_shane_s_secret_podcast": {
+      "name": "Matt and Shane's Secret Podcast",
+      "raw_directory": "matt_and_shane_s_secret_podcast",
+      "rss_url": "https://feeds.megaphone.fm/GLT1158789509",
+      "youtube_channels": [],
+      "hosts": [
+        "Matt McCusker",
+        "Shane Gillis"
+      ],
+      "hosts_source": "feed author field in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "the_lol_podcast": {
+      "name": "The LOL Podcast",
+      "raw_directory": "the_lol_podcast",
+      "rss_url": "https://feeds.megaphone.fm/ADV4439824390",
+      "youtube_channels": [],
+      "hosts": [
+        "Cash",
+        "Maverick",
+        "Kate",
+        "Harper",
+        "Kenzie"
+      ],
+      "hosts_source": "feed author field (first names only) in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 8,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "2_bears_1_cave_with_tom_segura_bert_kreischer": {
+      "name": "2 Bears, 1 Cave with Tom Segura & Bert Kreischer",
+      "raw_directory": "2_bears_1_cave_with_tom_segura_bert_kreischer",
+      "rss_url": "https://feeds.megaphone.fm/YMH8516456556",
+      "youtube_channels": [],
+      "hosts": [
+        "Tom Segura",
+        "Bert Kreischer"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "bad_friends": {
+      "name": "Bad Friends",
+      "raw_directory": "bad_friends",
+      "rss_url": "https://feeds.megaphone.fm/TPC1602991613",
+      "youtube_channels": [],
+      "hosts": [
+        "Andrew Santino",
+        "Bobby Lee"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "the_basement_yard": {
+      "name": "The Basement Yard",
+      "raw_directory": "the_basement_yard",
+      "rss_url": "https://feeds.megaphone.fm/TPC9330816620",
+      "youtube_channels": [],
+      "hosts": [
+        "Joe Santagato",
+        "Frank Alvarez"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "you_should_know_podcast": {
+      "name": "You Should Know Podcast",
+      "raw_directory": "you_should_know_podcast",
+      "rss_url": "https://feeds.megaphone.fm/QCD2885527533",
+      "youtube_channels": [],
+      "hosts": [
+        "Peyton Hardin",
+        "Cameron Kennedy"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "shxtsngigs": {
+      "name": "ShxtsNGigs",
+      "raw_directory": "shxtsngigs",
+      "rss_url": "https://feeds.acast.com/public/shows/6477204262b0900011c3fb37",
+      "youtube_channels": [],
+      "hosts": [
+        "James",
+        "Fuhad"
+      ],
+      "hosts_source": "feed description (first names only) in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "impaulsive_with_logan_paul": {
+      "name": "Impaulsive with Logan Paul",
+      "raw_directory": "impaulsive_with_logan_paul",
+      "rss_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/acd3f8a1-3824-4e5f-ab92-b4b300f0cf57/f4ff3c4f-5606-4c61-9c5a-b4b300f0cf7a/podcast.rss",
+      "youtube_channels": [],
+      "hosts": [
+        "Logan Paul"
+      ],
+      "hosts_source": "show title in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "ear_biscuits_with_rhett_link": {
+      "name": "Ear Biscuits with Rhett & Link",
+      "raw_directory": "ear_biscuits_with_rhett_link",
+      "rss_url": "https://rss.amperwave.net/v2/feed/audacynetwork/ear-biscuits",
+      "youtube_channels": [],
+      "hosts": [
+        "Rhett",
+        "Link"
+      ],
+      "hosts_source": "feed description (first names only) in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 5,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "full_send_podcast": {
+      "name": "FULL SEND PODCAST",
+      "raw_directory": "full_send_podcast",
+      "rss_url": "https://feeds.megaphone.fm/fullsend",
+      "youtube_channels": [],
+      "hosts": [
+        "Host"
+      ],
+      "hosts_source": "feed names no hosts; generic Host label in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 6,
+      "max_speakers_reason": "several unnamed hosts"
+    },
+    "dropouts": {
+      "name": "Dropouts",
+      "raw_directory": "dropouts",
+      "rss_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/24f40f28-dcb5-4b94-a356-b4a40123b496/2b027f27-d706-4ef9-9cff-b4a40123b4a3/podcast.rss",
+      "youtube_channels": [],
+      "hosts": [
+        "Zach Justice"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
+    },
+    "good_hang_with_amy_poehler": {
+      "name": "Good Hang with Amy Poehler",
+      "raw_directory": "good_hang_with_amy_poehler",
+      "rss_url": "https://feeds.megaphone.fm/good-hang-with-amy-poehler",
+      "youtube_channels": [],
+      "hosts": [
+        "Amy Poehler"
+      ],
+      "hosts_source": "feed description in RSS snapshot 20261002T193807Z; not human-verified",
+      "max_speakers_expected": 4,
+      "max_speakers_reason": "rule: hosts + 3, between 4 and 10"
     }
   }
 }

@@ -1,0 +1,2326 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_the_lol_podcast_20261002T193807Z",
+  "show_id": "the_lol_podcast",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://feeds.megaphone.fm/ADV4439824390",
+    "snapshot_relative_path": "data/raw/rss/the_lol_podcast/the_lol_podcast_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "c20e9b9256395acd8013af892d9b50e53b67b92e8d8dd3709615669b7b8b9972",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "the_lol_podcast-7cff667081c8",
+      "rss_guid": "d4a75ca0-bd08-11f1-9134-c70ffe77f80c",
+      "published_date": "2026-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3524.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f357959a22fc",
+      "rss_guid": "98b59268-b932-11f1-9105-3b384ef6aad7",
+      "published_date": "2026-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3256.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7b6cbc45176b",
+      "rss_guid": "4b9091b0-b7b4-11f1-8207-53e2f16581d4",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3431.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bfe8f0cc36a2",
+      "rss_guid": "f63238f6-b374-11f1-a686-7fd421955059",
+      "published_date": "2026-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3473.0
+    },
+    {
+      "episode_id": "the_lol_podcast-872db7bc36c5",
+      "rss_guid": "5a91e496-b202-11f1-83a5-2b56b05e912c",
+      "published_date": "2026-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4004.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6019d07b98d1",
+      "rss_guid": "6d9fc388-aec3-11f1-a6c0-8f9142384c3d",
+      "published_date": "2026-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3535.0
+    },
+    {
+      "episode_id": "the_lol_podcast-80f2fb4c90e1",
+      "rss_guid": "d36fdc2a-ac89-11f1-9efd-3f6dddfb0645",
+      "published_date": "2026-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3818.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7a9ad6f965ad",
+      "rss_guid": "ee607cc4-a8c9-11f1-8035-5fb30b5364e7",
+      "published_date": "2026-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3558.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4236b5373753",
+      "rss_guid": "d7b507b0-a702-11f1-b330-03173f8bf7a4",
+      "published_date": "2026-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3698.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bd1f5e1da4ea",
+      "rss_guid": "00998064-a3c2-11f1-855f-3777d1735428",
+      "published_date": "2026-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3607.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4abfae30b4f4",
+      "rss_guid": "74a9c944-a176-11f1-b565-47720a67819d",
+      "published_date": "2026-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3629.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1a2c091dbd07",
+      "rss_guid": "36740e6e-9d7f-11f1-ba86-67ee15fd22d2",
+      "published_date": "2026-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3797.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d2b304a1ab40",
+      "rss_guid": "72d7db2a-9c0c-11f1-ab3d-4b5fdebf0b3a",
+      "published_date": "2026-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3454.0
+    },
+    {
+      "episode_id": "the_lol_podcast-20a8fc80aaeb",
+      "rss_guid": "f644b954-9808-11f1-918b-6f720cae28a4",
+      "published_date": "2026-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3637.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c8992933497a",
+      "rss_guid": "36167098-968f-11f1-98c3-df8816056a21",
+      "published_date": "2026-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3654.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b11a4c5c8165",
+      "rss_guid": "c8e3e102-9343-11f1-87ac-77b6ff845b88",
+      "published_date": "2026-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3354.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e6c6b961762c",
+      "rss_guid": "a9e7528c-90e3-11f1-8a83-0b0ea333a629",
+      "published_date": "2026-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4006.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c1e6e1a2a0e6",
+      "rss_guid": "285b2274-8d10-11f1-8204-3369a206d0de",
+      "published_date": "2026-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3625.0
+    },
+    {
+      "episode_id": "the_lol_podcast-52571a7487c1",
+      "rss_guid": "2980607e-8b76-11f1-95f7-c7e0e80df1bb",
+      "published_date": "2026-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3427.0
+    },
+    {
+      "episode_id": "the_lol_podcast-cc587e7dd548",
+      "rss_guid": "93e56a20-8795-11f1-8689-d736ecd169f0",
+      "published_date": "2026-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3506.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b0da643a3d8a",
+      "rss_guid": "29403c7e-8603-11f1-aa32-6f1ff6097c24",
+      "published_date": "2026-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3871.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f60daddeda0f",
+      "rss_guid": "157182b8-82c3-11f1-b64b-7b830644cea1",
+      "published_date": "2026-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3452.0
+    },
+    {
+      "episode_id": "the_lol_podcast-02766e7a1a38",
+      "rss_guid": "6cd6f0ec-8075-11f1-809b-4330db8e7b91",
+      "published_date": "2026-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4417.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b5f448413ae9",
+      "rss_guid": "6c088d0a-7b08-11f1-96b3-738fde1130d3",
+      "published_date": "2026-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3700.0
+    },
+    {
+      "episode_id": "the_lol_podcast-20c57a59bf18",
+      "rss_guid": "e4a31200-7c8c-11f1-abd6-9729bacd7710",
+      "published_date": "2026-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3548.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2a2fd4be1e42",
+      "rss_guid": "efffd0d4-7723-11f1-b458-176d95757468",
+      "published_date": "2026-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3826.0
+    },
+    {
+      "episode_id": "the_lol_podcast-fc5cf1b0ea2e",
+      "rss_guid": "597c1dca-7598-11f1-93f5-f77d40acb310",
+      "published_date": "2026-07-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3558.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9f668193b31b",
+      "rss_guid": "a9989710-71a7-11f1-a13b-2b2ebe09e133",
+      "published_date": "2026-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4393.0
+    },
+    {
+      "episode_id": "the_lol_podcast-dcf7b462f68f",
+      "rss_guid": "7d147a34-7007-11f1-a245-83b5be152e93",
+      "published_date": "2026-06-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4023.0
+    },
+    {
+      "episode_id": "the_lol_podcast-63d9ca9d3296",
+      "rss_guid": "69afd654-6ccf-11f1-84b1-1f398d686b4f",
+      "published_date": "2026-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3429.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0437d43bbc45",
+      "rss_guid": "f60d8080-6a66-11f1-b113-7f01e7182caa",
+      "published_date": "2026-06-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4883.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e4f9bc844a22",
+      "rss_guid": "5d2c86de-66a8-11f1-bee4-2bba7d0eeec9",
+      "published_date": "2026-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 2686.0
+    },
+    {
+      "episode_id": "the_lol_podcast-baa772a37054",
+      "rss_guid": "fb4cbcf0-64e9-11f1-b361-67d1b46706e7",
+      "published_date": "2026-06-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3930.0
+    },
+    {
+      "episode_id": "the_lol_podcast-995d95d49646",
+      "rss_guid": "c3ef78fe-612b-11f1-8cb7-9bba97bacf86",
+      "published_date": "2026-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4067.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4ff7b567c191",
+      "rss_guid": "aa572bda-5f87-11f1-a98a-7bc4aa171330",
+      "published_date": "2026-06-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4153.0
+    },
+    {
+      "episode_id": "the_lol_podcast-50a3b2e2ad0e",
+      "rss_guid": "97a1a52c-5b92-11f1-a2d7-7b5d187a39e0",
+      "published_date": "2026-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3802.0
+    },
+    {
+      "episode_id": "the_lol_podcast-74d4f88faece",
+      "rss_guid": "6ae539ce-59e2-11f1-ba72-13b4e72068dd",
+      "published_date": "2026-05-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3037.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ab099ac9ddb9",
+      "rss_guid": "681d1e28-561d-11f1-bdf9-bf028fb39d74",
+      "published_date": "2026-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3462.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f070ed5bfec9",
+      "rss_guid": "394cd9ee-50a5-11f1-acd4-0b91a5c6cead",
+      "published_date": "2026-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3665.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3114def9d688",
+      "rss_guid": "8bb75596-5498-11f1-928e-677b0a501c07",
+      "published_date": "2026-05-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5747.0
+    },
+    {
+      "episode_id": "the_lol_podcast-784d3ee5aae9",
+      "rss_guid": "ad94947e-4ef5-11f1-be8a-2384e91183b6",
+      "published_date": "2026-05-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4079.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e86f039adca9",
+      "rss_guid": "f7d68044-4af2-11f1-81b1-7f63754a12ae",
+      "published_date": "2026-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3699.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c4b24efe62e4",
+      "rss_guid": "79b258ea-48a0-11f1-81c6-5bddc33cb4ed",
+      "published_date": "2026-05-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4182.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6974654d1fa8",
+      "rss_guid": "40913b3e-45a4-11f1-a900-63c8cd500795",
+      "published_date": "2026-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4223.0
+    },
+    {
+      "episode_id": "the_lol_podcast-59493c5394b9",
+      "rss_guid": "73bb7f76-4408-11f1-84e9-3fcaa35bd7d7",
+      "published_date": "2026-04-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3316.0
+    },
+    {
+      "episode_id": "the_lol_podcast-77594e932d67",
+      "rss_guid": "f5ab76e4-4016-11f1-bf64-275d9025416a",
+      "published_date": "2026-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3382.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8612b02f8552",
+      "rss_guid": "3effd678-3e5a-11f1-b1c6-5fad77bc9b56",
+      "published_date": "2026-04-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3329.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b55b3d87be8c",
+      "rss_guid": "5168e0c4-3aaa-11f1-9109-5bec6dd7b5bd",
+      "published_date": "2026-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3642.0
+    },
+    {
+      "episode_id": "the_lol_podcast-673f6506e3c9",
+      "rss_guid": "02201a14-3906-11f1-b415-e359f334779e",
+      "published_date": "2026-04-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3447.0
+    },
+    {
+      "episode_id": "the_lol_podcast-32dd7a9387ee",
+      "rss_guid": "ce6c1672-35d2-11f1-8f4c-8b3e7fab4723",
+      "published_date": "2026-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3926.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d68d91853432",
+      "rss_guid": "8fa1f328-335f-11f1-98a7-97a8640bb44f",
+      "published_date": "2026-04-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3332.0
+    },
+    {
+      "episode_id": "the_lol_podcast-03298b165a67",
+      "rss_guid": "0be552e4-2f9c-11f1-a9cd-af55f7c9f21c",
+      "published_date": "2026-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2969.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8b8469ee7cdd",
+      "rss_guid": "398f42ec-2e05-11f1-a02f-673902491fe9",
+      "published_date": "2026-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4123.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e1ec9bbecd28",
+      "rss_guid": "56049c22-2add-11f1-8409-d367dc777a5a",
+      "published_date": "2026-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4371.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7a2b6b7c6f20",
+      "rss_guid": "63698f52-287c-11f1-baf5-27d55d2fac4b",
+      "published_date": "2026-03-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3419.0
+    },
+    {
+      "episode_id": "the_lol_podcast-dae236dd4322",
+      "rss_guid": "bbef782a-249a-11f1-9bd4-8f15657d3c2a",
+      "published_date": "2026-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3952.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2631e40f6ac6",
+      "rss_guid": "cf08f1f6-2306-11f1-b15e-eb4a4a231e3d",
+      "published_date": "2026-03-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3397.0
+    },
+    {
+      "episode_id": "the_lol_podcast-03841bc8e690",
+      "rss_guid": "309c7e42-1f0b-11f1-863e-5764813326ac",
+      "published_date": "2026-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3299.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6159e03a87e2",
+      "rss_guid": "4a294178-1d7c-11f1-bc43-974ce241f424",
+      "published_date": "2026-03-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4880.0
+    },
+    {
+      "episode_id": "the_lol_podcast-48e1954a11d5",
+      "rss_guid": "e7cb11c0-19b9-11f1-b4e9-9f1dce3b0c16",
+      "published_date": "2026-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4010.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2d6cbbe9edf7",
+      "rss_guid": "9ae654a6-1819-11f1-a5cf-6bd203d0e0ad",
+      "published_date": "2026-03-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3626.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f0c76cd45c54",
+      "rss_guid": "90285854-1407-11f1-b0e8-8f289b14b2af",
+      "published_date": "2026-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3053.0
+    },
+    {
+      "episode_id": "the_lol_podcast-678c84e625c6",
+      "rss_guid": "4ad0bc4e-11d0-11f1-9e28-0397a30436fb",
+      "published_date": "2026-02-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2997.0
+    },
+    {
+      "episode_id": "the_lol_podcast-26655e599fb1",
+      "rss_guid": "e9fbe068-0f56-11f1-8cb5-03ecb9650c26",
+      "published_date": "2026-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2215.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1f7c80885589",
+      "rss_guid": "e0f79480-0cf4-11f1-95a6-2facf993ec51",
+      "published_date": "2026-02-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2624.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2fbe59471dce",
+      "rss_guid": "b5915eee-0924-11f1-9cd1-a736e761e1c9",
+      "published_date": "2026-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2578.0
+    },
+    {
+      "episode_id": "the_lol_podcast-983276470b67",
+      "rss_guid": "d739747e-0775-11f1-a31f-bf8a804972d1",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3425.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c2e636b64529",
+      "rss_guid": "964894e4-03ac-11f1-a3be-934a19e574f8",
+      "published_date": "2026-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3056.0
+    },
+    {
+      "episode_id": "the_lol_podcast-40e4547a4b41",
+      "rss_guid": "728c340e-01f7-11f1-8f44-fbe1b20f3bd1",
+      "published_date": "2026-02-04",
+      "guest_name": "Guest",
+      "duration_seconds": 2948.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1069357bbf18",
+      "rss_guid": "803cc0b0-fec2-11f0-830d-074cc60762ee",
+      "published_date": "2026-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2040.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6214122bc46a",
+      "rss_guid": "2f3d38da-fc78-11f0-b813-33ae7112e86b",
+      "published_date": "2026-01-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2721.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0a4372744b13",
+      "rss_guid": "8a8e671a-f8ac-11f0-b53b-e3e276078e84",
+      "published_date": "2026-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3431.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1f718332e5ae",
+      "rss_guid": "9fda0960-f70f-11f0-95a5-6b0f1b013470",
+      "published_date": "2026-01-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1169.0
+    },
+    {
+      "episode_id": "the_lol_podcast-99d7fa290cc9",
+      "rss_guid": "49bac714-f3c1-11f0-8b0d-6ffda4ec7b60",
+      "published_date": "2026-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3040.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e1161c16dc74",
+      "rss_guid": "00259ae8-f254-11f0-8315-4feb18b62342",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 7568.0
+    },
+    {
+      "episode_id": "the_lol_podcast-5aaea53e11b8",
+      "rss_guid": "254d0a58-f188-11f0-a2a0-cbfcb875d241",
+      "published_date": "2026-01-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3153.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b11aed36da9b",
+      "rss_guid": "21be0ee0-ee0f-11f0-907e-33a143935c9f",
+      "published_date": "2026-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3310.0
+    },
+    {
+      "episode_id": "the_lol_podcast-29bb4d2629f0",
+      "rss_guid": "b333ddb4-ec16-11f0-89a4-7f07b86bdac4",
+      "published_date": "2026-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3471.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2d8923cc7d32",
+      "rss_guid": "13c61594-eb58-11f0-b1ce-0b8e24b09392",
+      "published_date": "2026-01-07",
+      "guest_name": "Guest",
+      "duration_seconds": 14183.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0de1d84ac8a9",
+      "rss_guid": "dbff3186-e8be-11f0-aecb-b31c62ff1b49",
+      "published_date": "2026-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3621.0
+    },
+    {
+      "episode_id": "the_lol_podcast-034450621564",
+      "rss_guid": "eab95622-e6a0-11f0-a3dd-3736836ea7be",
+      "published_date": "2025-12-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3215.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2a1bdbcfd93a",
+      "rss_guid": "10c0f7b8-e353-11f0-ad3f-abeeb0ea8279",
+      "published_date": "2025-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3147.0
+    },
+    {
+      "episode_id": "the_lol_podcast-968a42d1da22",
+      "rss_guid": "6f035ee0-e10c-11f0-b9f2-3b033b0cc1be",
+      "published_date": "2025-12-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3229.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e12a57754431",
+      "rss_guid": "ba2a8f96-ddf2-11f0-ad62-9bcd0c306476",
+      "published_date": "2025-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3469.0
+    },
+    {
+      "episode_id": "the_lol_podcast-770fcb82ea1c",
+      "rss_guid": "6e615010-db89-11f0-9bef-a7c79c5ede83",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3430.0
+    },
+    {
+      "episode_id": "the_lol_podcast-382b13bca1c9",
+      "rss_guid": "3b675260-d862-11f0-abc7-6f7e61f0a81a",
+      "published_date": "2025-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3025.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a6726bf47c46",
+      "rss_guid": "56bb4218-d602-11f0-820b-130c99ae8412",
+      "published_date": "2025-12-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2977.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4adf95de1db1",
+      "rss_guid": "1d47f35c-d2d1-11f0-93f5-73a9b3836126",
+      "published_date": "2025-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3738.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a8c705793bad",
+      "rss_guid": "888123a0-d088-11f0-8409-ab9fa6e8c344",
+      "published_date": "2025-12-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3396.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6a978158b688",
+      "rss_guid": "a5ecb66c-cd44-11f0-96c8-ebc846effed2",
+      "published_date": "2025-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3674.0
+    },
+    {
+      "episode_id": "the_lol_podcast-19e71089a7e7",
+      "rss_guid": "ad5de1d4-cb0d-11f0-a486-e3efc1fd406f",
+      "published_date": "2025-11-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3495.0
+    },
+    {
+      "episode_id": "the_lol_podcast-15ff8a63e447",
+      "rss_guid": "11366704-c7de-11f0-89d0-6b82e858134d",
+      "published_date": "2025-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3822.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1c6adabdfe4d",
+      "rss_guid": "1ecf26c6-c5a9-11f0-8d36-efddefc4ceaa",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3400.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4a6e3066800f",
+      "rss_guid": "24bd296a-c24e-11f0-803d-6ba3ab61b32e",
+      "published_date": "2025-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3367.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9d2640b7f7e6",
+      "rss_guid": "3eba6318-c042-11f0-9b2c-bf5704fb08af",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3406.0
+    },
+    {
+      "episode_id": "the_lol_podcast-cf414ec64a04",
+      "rss_guid": "14c9a2ba-bc7f-11f0-8c05-2f47a1c023eb",
+      "published_date": "2025-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3923.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8393d5ac9a95",
+      "rss_guid": "7f3f5b66-ba8c-11f0-ae84-13a91beedb38",
+      "published_date": "2025-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4496.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d552dee00cba",
+      "rss_guid": "51679260-b75f-11f0-a0f3-175d01470d43",
+      "published_date": "2025-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3773.0
+    },
+    {
+      "episode_id": "the_lol_podcast-21ad7fd779fc",
+      "rss_guid": "be6089fe-b4de-11f0-826e-973159e7c65a",
+      "published_date": "2025-10-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4175.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ca19a758bbaa",
+      "rss_guid": "9d63c740-b17b-11f0-910a-93a3571a4370",
+      "published_date": "2025-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3854.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ce4359fc7f5e",
+      "rss_guid": "272723f4-af93-11f0-bc49-8b71feb154ce",
+      "published_date": "2025-10-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2995.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0df35a29b780",
+      "rss_guid": "c916becc-ac32-11f0-b82a-0b76ca059bc6",
+      "published_date": "2025-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4596.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ace5c4d629a2",
+      "rss_guid": "249743c4-aa04-11f0-98ec-37d12a6a2cb7",
+      "published_date": "2025-10-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3852.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f74f81866656",
+      "rss_guid": "60a15b9e-a684-11f0-8f87-2faff319bc74",
+      "published_date": "2025-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3666.0
+    },
+    {
+      "episode_id": "the_lol_podcast-064076d5a662",
+      "rss_guid": "9cad7d20-a49f-11f0-8f9b-cb26d3e654e4",
+      "published_date": "2025-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3956.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4d260d8abe18",
+      "rss_guid": "9bd95b1e-a128-11f0-9836-4bf3da13b5ce",
+      "published_date": "2025-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3386.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7dfc2ae54856",
+      "rss_guid": "36b9b9b8-a038-11f0-aeb4-9b6b97c0ae82",
+      "published_date": "2025-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4255.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2201c0cd4597",
+      "rss_guid": "eda2ea70-9f0a-11f0-abd1-b735f3001fe9",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3583.0
+    },
+    {
+      "episode_id": "the_lol_podcast-96bd93d88167",
+      "rss_guid": "0b56363a-9dc6-11f0-8a9b-abe116155c4e",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3830.0
+    },
+    {
+      "episode_id": "the_lol_podcast-612b85b37fa9",
+      "rss_guid": "f0cf7852-9bc3-11f0-9214-7b0ef30abff7",
+      "published_date": "2025-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3205.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0153f80214f1",
+      "rss_guid": "259de2e4-997b-11f0-afdd-5f4d11d80a0a",
+      "published_date": "2025-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3391.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9d31b963f30e",
+      "rss_guid": "25fdb706-9641-11f0-977f-533e66e0877e",
+      "published_date": "2025-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3783.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a4e527f163a6",
+      "rss_guid": "938c602e-9416-11f0-9340-47f096fe8996",
+      "published_date": "2025-09-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4455.0
+    },
+    {
+      "episode_id": "the_lol_podcast-67cb7dce9c4b",
+      "rss_guid": "691e2e30-9092-11f0-96c1-2b597cb58f59",
+      "published_date": "2025-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3262.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1d0d4bf454b7",
+      "rss_guid": "8730151e-8e6c-11f0-9917-47bce3545875",
+      "published_date": "2025-09-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4300.0
+    },
+    {
+      "episode_id": "the_lol_podcast-af33f93d1d9d",
+      "rss_guid": "e9b64df6-8b3e-11f0-b536-f70a8a26c26a",
+      "published_date": "2025-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3426.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d5a68f75bfc7",
+      "rss_guid": "17ce5f82-88f9-11f0-b7dc-1f9080ec0ceb",
+      "published_date": "2025-09-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3706.0
+    },
+    {
+      "episode_id": "the_lol_podcast-06dabdcf4cf8",
+      "rss_guid": "be4c84a0-85b7-11f0-bf34-27b82102fa00",
+      "published_date": "2025-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4091.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6d6912532463",
+      "rss_guid": "22f75e2e-8307-11f0-90d5-bb69fdd098a2",
+      "published_date": "2025-08-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3611.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ef4c196add35",
+      "rss_guid": "ad6d140c-8007-11f0-8430-9f2f6380a965",
+      "published_date": "2025-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4295.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1270a683d79a",
+      "rss_guid": "a261f7e8-7e00-11f0-82ea-d705c9c8d2aa",
+      "published_date": "2025-08-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3812.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bf963b157685",
+      "rss_guid": "dc631eee-7ac3-11f0-8021-2323e3233691",
+      "published_date": "2025-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4003.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4f1f3832da71",
+      "rss_guid": "d7d39ae0-7887-11f0-bf59-1bc2066e01e7",
+      "published_date": "2025-08-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3804.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0750a06f4181",
+      "rss_guid": "737d4bc4-751a-11f0-a4d2-373e5d1f1f07",
+      "published_date": "2025-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3761.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1137f76cc331",
+      "rss_guid": "500821b4-7303-11f0-931b-2fe28b951828",
+      "published_date": "2025-08-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4168.0
+    },
+    {
+      "episode_id": "the_lol_podcast-486f2a6d76b6",
+      "rss_guid": "f37960b0-6f9d-11f0-84fa-37da0c2ff5e0",
+      "published_date": "2025-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3510.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ad2349fd5863",
+      "rss_guid": "5605a014-6d8b-11f0-a67f-67b611d8419d",
+      "published_date": "2025-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3934.0
+    },
+    {
+      "episode_id": "the_lol_podcast-48bcb4f6aa0f",
+      "rss_guid": "19ca8880-6a1b-11f0-8587-cbe1ed2dfef4",
+      "published_date": "2025-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4188.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7ce4c116fbfb",
+      "rss_guid": "cf7f2092-6812-11f0-841f-f301ca68d634",
+      "published_date": "2025-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3574.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3aaae6ad1b6a",
+      "rss_guid": "4cf8d930-6487-11f0-86b4-3338747f92f7",
+      "published_date": "2025-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4089.0
+    },
+    {
+      "episode_id": "the_lol_podcast-912da9734dfd",
+      "rss_guid": "970a5d52-627d-11f0-98e1-7705c550f7a0",
+      "published_date": "2025-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3667.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3d6a22c253a3",
+      "rss_guid": "343d4afa-5f39-11f0-bdaf-53ee2953eb84",
+      "published_date": "2025-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3558.0
+    },
+    {
+      "episode_id": "the_lol_podcast-90b004519ae0",
+      "rss_guid": "f1f81f46-5d0b-11f0-a77b-f30e4f12a8bf",
+      "published_date": "2025-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4184.0
+    },
+    {
+      "episode_id": "the_lol_podcast-44ed763da2fb",
+      "rss_guid": "063b2a44-59a0-11f0-9dda-5b8aca3845f5",
+      "published_date": "2025-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4221.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9b52ad61fb8b",
+      "rss_guid": "4e88034e-578e-11f0-8078-afc6d41b125e",
+      "published_date": "2025-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3733.0
+    },
+    {
+      "episode_id": "the_lol_podcast-659a5380cf99",
+      "rss_guid": "353497fa-5409-11f0-b0bf-cfe5dda1736a",
+      "published_date": "2025-06-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6426.0
+    },
+    {
+      "episode_id": "the_lol_podcast-45705be70ad0",
+      "rss_guid": "f08e3828-520e-11f0-ae18-2713df42dff4",
+      "published_date": "2025-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4038.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4417577547de",
+      "rss_guid": "5ef11e74-5062-11f0-aed4-83746849b365",
+      "published_date": "2025-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 7266.0
+    },
+    {
+      "episode_id": "the_lol_podcast-fc1ee6cb7109",
+      "rss_guid": "0eb72648-4e63-11f0-898a-4fdc168d1637",
+      "published_date": "2025-06-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3180.0
+    },
+    {
+      "episode_id": "the_lol_podcast-04918a55d72c",
+      "rss_guid": "286c0b4a-4c19-11f0-8105-2bf0c96893d7",
+      "published_date": "2025-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4124.0
+    },
+    {
+      "episode_id": "the_lol_podcast-89e6c0a00a63",
+      "rss_guid": "3f2dbe74-48fd-11f0-8064-7f9bb9fbe139",
+      "published_date": "2025-06-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3750.0
+    },
+    {
+      "episode_id": "the_lol_podcast-cdce62242293",
+      "rss_guid": "b7fd10ee-4703-11f0-bdea-2716864a62ec",
+      "published_date": "2025-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3827.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3b4bad45d029",
+      "rss_guid": "328d5d8e-4383-11f0-bd91-6b2ca4b26a92",
+      "published_date": "2025-06-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3834.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c2e69c439fee",
+      "rss_guid": "e8d827f4-412b-11f0-90b6-c31c3794e573",
+      "published_date": "2025-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4275.0
+    },
+    {
+      "episode_id": "the_lol_podcast-75f96977b462",
+      "rss_guid": "88b4a610-3dff-11f0-98ac-33d98d001258",
+      "published_date": "2025-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4555.0
+    },
+    {
+      "episode_id": "the_lol_podcast-733ddb442ddf",
+      "rss_guid": "abf76b2e-3bb8-11f0-9353-d7e1de2596ab",
+      "published_date": "2025-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3560.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7993a8a1be1a",
+      "rss_guid": "787cfabe-3886-11f0-abd7-43d36c2eef9a",
+      "published_date": "2025-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3450.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4d0d018d0cc4",
+      "rss_guid": "cbcb41f8-3624-11f0-a6b2-fb7532fac86f",
+      "published_date": "2025-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3414.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c0dc88b465f5",
+      "rss_guid": "14d5582e-3338-11f0-bd1d-b78bdc8a8760",
+      "published_date": "2025-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "the_lol_podcast-587aac5d76a5",
+      "rss_guid": "888522f0-308f-11f0-968a-03c128d1c456",
+      "published_date": "2025-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3937.0
+    },
+    {
+      "episode_id": "the_lol_podcast-839dc6da18c5",
+      "rss_guid": "e0d8b7b6-2d68-11f0-9722-cf469b994606",
+      "published_date": "2025-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3843.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bc6f77efc064",
+      "rss_guid": "6d8ecfe6-2b67-11f0-9105-fb150b912632",
+      "published_date": "2025-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3801.0
+    },
+    {
+      "episode_id": "the_lol_podcast-fad343d34109",
+      "rss_guid": "1aabbf22-27fd-11f0-8171-c328e622ac36",
+      "published_date": "2025-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3883.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e1f4c06826d4",
+      "rss_guid": "753bc652-224f-11f0-8f18-c39baf598729",
+      "published_date": "2025-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3907.0
+    },
+    {
+      "episode_id": "the_lol_podcast-88d9677965fd",
+      "rss_guid": "3d2f9c66-207e-11f0-8dfe-9fe6a3c3fb2a",
+      "published_date": "2025-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3872.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2d1b68a8551c",
+      "rss_guid": "8a3cc1b4-1d09-11f0-9166-07e20682a409",
+      "published_date": "2025-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4348.0
+    },
+    {
+      "episode_id": "the_lol_podcast-438b8efe9a70",
+      "rss_guid": "16675f54-1a9a-11f0-b5e1-4b76474e2fd1",
+      "published_date": "2025-04-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4039.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c8dd25940591",
+      "rss_guid": "2e134446-178a-11f0-a2a9-f7c0fa258fe6",
+      "published_date": "2025-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3824.0
+    },
+    {
+      "episode_id": "the_lol_podcast-22532962fa8a",
+      "rss_guid": "1d19d7e4-1583-11f0-9136-13e7b30b0f6e",
+      "published_date": "2025-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3533.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0437e93608ae",
+      "rss_guid": "bf11a7fe-1257-11f0-9aa7-177e938d71cf",
+      "published_date": "2025-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3629.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b2da19ac5ba4",
+      "rss_guid": "d5780c0e-0f41-11f0-af7c-5b83c16bf8d5",
+      "published_date": "2025-04-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4034.0
+    },
+    {
+      "episode_id": "the_lol_podcast-60c65ee64fac",
+      "rss_guid": "16648474-0cca-11f0-9e73-8f41004b03bb",
+      "published_date": "2025-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4174.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d8e6d2a501f7",
+      "rss_guid": "eb467964-0cc9-11f0-95eb-333f75462400",
+      "published_date": "2025-03-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4154.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b6d458d5f743",
+      "rss_guid": "2955a8cb-ef3f-4905-9321-7850dc3b2dd7",
+      "published_date": "2025-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3716.0
+    },
+    {
+      "episode_id": "the_lol_podcast-60cefbb6c446",
+      "rss_guid": "b047f785-47ce-4afe-8188-d1a7ddb3728b",
+      "published_date": "2025-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4129.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e9e54f547d2d",
+      "rss_guid": "0c73275b-5516-42a0-a88d-feeeb0a44fba",
+      "published_date": "2025-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4150.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d62bce57bef1",
+      "rss_guid": "466fdc9f-6908-409c-b6d5-f21648d6de68",
+      "published_date": "2025-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3989.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d6879ae8c66a",
+      "rss_guid": "334ecbc7-349f-491f-9c0c-3e2d0f8dd6d6",
+      "published_date": "2025-03-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3525.0
+    },
+    {
+      "episode_id": "the_lol_podcast-74b13870596c",
+      "rss_guid": "4fa66b69-9990-429f-9cc4-09c17914eae0",
+      "published_date": "2025-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4430.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8c753b57abc4",
+      "rss_guid": "e42689ab-67ec-4ddc-8cbd-48597fee0308",
+      "published_date": "2025-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3851.0
+    },
+    {
+      "episode_id": "the_lol_podcast-123e8a19c266",
+      "rss_guid": "c1818323-6d9a-4a0c-b7a5-757700aee6d4",
+      "published_date": "2025-02-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2954.0
+    },
+    {
+      "episode_id": "the_lol_podcast-fa4d5ea9ba78",
+      "rss_guid": "cd6b607b-5755-481f-9390-1dd3ce4bca96",
+      "published_date": "2025-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3746.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9432111fb932",
+      "rss_guid": "2bd549e6-70e3-4489-8d45-f1753b85348b",
+      "published_date": "2025-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4490.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e6855f0b365e",
+      "rss_guid": "4cd35b22-b91f-4729-9006-7f12930a2259",
+      "published_date": "2025-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4113.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bda7fcb0c1d2",
+      "rss_guid": "1c7d858e-1474-45f0-a896-049dadc9eab2",
+      "published_date": "2025-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4411.0
+    },
+    {
+      "episode_id": "the_lol_podcast-315dab6c9c60",
+      "rss_guid": "f1bd8779-1d26-4d62-a7a2-605185762f11",
+      "published_date": "2025-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3702.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a1e3dabf8b70",
+      "rss_guid": "6799322b-689a-4535-ac88-e07b7caab58a",
+      "published_date": "2025-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4992.0
+    },
+    {
+      "episode_id": "the_lol_podcast-41aa35f4b309",
+      "rss_guid": "4a0cdca2-d6da-4ba5-99b0-990fed90b971",
+      "published_date": "2025-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3338.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b887723b5a62",
+      "rss_guid": "b4a7e068-554b-482c-a8d5-ba826b4adbf8",
+      "published_date": "2025-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4095.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2ece1a678251",
+      "rss_guid": "006d1210-d88f-411e-b170-3ddeb81d509c",
+      "published_date": "2025-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3656.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bd36db2e96d6",
+      "rss_guid": "eed339d8-9fd3-473f-8b72-5e59023596e0",
+      "published_date": "2025-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5821.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1f4841d56b64",
+      "rss_guid": "8dbf1253-42d9-446c-98c5-449722b99cb7",
+      "published_date": "2025-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3651.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6a3a57f48cbf",
+      "rss_guid": "f1b6e964-1a65-41ed-8cf0-d49bf1fff33b",
+      "published_date": "2025-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4014.0
+    },
+    {
+      "episode_id": "the_lol_podcast-faf374a1c0ba",
+      "rss_guid": "40091e0c-eeea-4c66-8f78-81bb3e481549",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 12278.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0be552090316",
+      "rss_guid": "e45bebab-c4c0-43b1-9c00-93304429d8f6",
+      "published_date": "2025-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4413.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b414a0879efd",
+      "rss_guid": "bcdccc48-efa2-4543-b445-3b77f8915f1a",
+      "published_date": "2025-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3840.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e9ccacf3a06b",
+      "rss_guid": "d5f59ecb-8e5c-48c3-b029-d686865a9c1d",
+      "published_date": "2025-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3817.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3ebbe7f65ab4",
+      "rss_guid": "a718099e-edb6-45ea-8aab-8f60c9c5dc5f",
+      "published_date": "2025-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3628.0
+    },
+    {
+      "episode_id": "the_lol_podcast-91611deaaa92",
+      "rss_guid": "c6466897-3e05-40b9-bba4-703411b41011",
+      "published_date": "2024-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4049.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1f06464ebdf2",
+      "rss_guid": "34ca8a59-a482-46f5-a300-b88fe42f4957",
+      "published_date": "2024-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5140.0
+    },
+    {
+      "episode_id": "the_lol_podcast-03bd57bfd671",
+      "rss_guid": "8fcd6605-4b4c-43f0-a018-faaa2b3b225d",
+      "published_date": "2024-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4822.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4f007d217053",
+      "rss_guid": "ef973e12-02b1-4a03-8584-cfb4802ed33a",
+      "published_date": "2024-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4106.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a3dda20aef14",
+      "rss_guid": "dd49c9e8-3c0d-470b-a367-04fa1f84cb43",
+      "published_date": "2024-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4076.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8016f3f6d81e",
+      "rss_guid": "eafcb697-7dd6-4f31-852c-8e4aa85fd27e",
+      "published_date": "2024-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4589.0
+    },
+    {
+      "episode_id": "the_lol_podcast-df1261bd7164",
+      "rss_guid": "c2e7ab77-de57-4558-beeb-1ace2466118a",
+      "published_date": "2024-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4057.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a3de93e25840",
+      "rss_guid": "9a6fb82a-98da-4a8a-8623-14fc0325ed29",
+      "published_date": "2024-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4606.0
+    },
+    {
+      "episode_id": "the_lol_podcast-71c472f43b1b",
+      "rss_guid": "0b5d2574-1026-459b-982c-6ceb54b873cd",
+      "published_date": "2024-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4396.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7b416e802746",
+      "rss_guid": "55f333b0-d869-4987-9ca9-9fdcf207bd16",
+      "published_date": "2024-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3812.0
+    },
+    {
+      "episode_id": "the_lol_podcast-5f4a9d262a9f",
+      "rss_guid": "f03141af-87c9-4285-bcca-aaf645c8e445",
+      "published_date": "2024-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5193.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2ec5fbd73a19",
+      "rss_guid": "711c5771-69d3-4b35-8af2-7b474f50a25f",
+      "published_date": "2024-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 4010.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b74c7e0b3d03",
+      "rss_guid": "061bb6d3-06d1-43b7-bf99-777d83a18063",
+      "published_date": "2024-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4456.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9f5b29f44e1a",
+      "rss_guid": "1a46f054-e6bd-42ee-b6c2-2289d002f12f",
+      "published_date": "2024-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4191.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e31634fb1120",
+      "rss_guid": "588ac471-621e-47ff-812c-63f967d6c151",
+      "published_date": "2024-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3873.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1a1413be5b6f",
+      "rss_guid": "4143fbd8-01ed-4540-ae47-b542ef8f4811",
+      "published_date": "2024-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4088.0
+    },
+    {
+      "episode_id": "the_lol_podcast-153ceb6c5769",
+      "rss_guid": "21ed292f-d8ee-45d2-a539-34d8b77e8d3b",
+      "published_date": "2024-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4219.0
+    },
+    {
+      "episode_id": "the_lol_podcast-5c72e82e251a",
+      "rss_guid": "cebf1dc9-7177-4bc6-a0cd-3f35adbb2671",
+      "published_date": "2024-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3680.0
+    },
+    {
+      "episode_id": "the_lol_podcast-88e2ac40283a",
+      "rss_guid": "641d5d9f-bae9-44d5-8173-13ee6e69ac67",
+      "published_date": "2024-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4222.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3f73a318dc1e",
+      "rss_guid": "f4890895-eb08-412a-87f2-c4eac028f56c",
+      "published_date": "2024-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4616.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3c44ce190b71",
+      "rss_guid": "ed8e9077-2ae8-4c5a-b175-889e1df08d2f",
+      "published_date": "2024-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4410.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8d1660eda852",
+      "rss_guid": "8912efaa-f11f-4650-a216-7a7443ea38c8",
+      "published_date": "2024-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2958.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e7bbf9eb1041",
+      "rss_guid": "2aa9895b-e379-4ecd-93db-1599317fae90",
+      "published_date": "2024-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4133.0
+    },
+    {
+      "episode_id": "the_lol_podcast-93eef6052703",
+      "rss_guid": "781148f3-b5ce-4a06-a80f-dbab646decf8",
+      "published_date": "2024-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3920.0
+    },
+    {
+      "episode_id": "the_lol_podcast-648badaebb8f",
+      "rss_guid": "434d8643-99f5-43a3-8997-db675d874678",
+      "published_date": "2024-10-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4139.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bd61174ba998",
+      "rss_guid": "aff1c291-32de-4e56-9854-ada079b94146",
+      "published_date": "2024-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3753.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0412b5ba21fe",
+      "rss_guid": "25be01f6-ea41-44cc-b52f-3f743142568a",
+      "published_date": "2024-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4693.0
+    },
+    {
+      "episode_id": "the_lol_podcast-11fb525ac28a",
+      "rss_guid": "fdeb38ab-b129-4e4d-90a6-1474c7845968",
+      "published_date": "2024-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4273.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a28c559b6656",
+      "rss_guid": "98c7227d-1de4-4af7-9e84-f64d4f519ead",
+      "published_date": "2024-09-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4523.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a93044e7c6c2",
+      "rss_guid": "e5b48256-b435-4401-9b28-ba31a435681d",
+      "published_date": "2024-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2758.0
+    },
+    {
+      "episode_id": "the_lol_podcast-5019e73e8bca",
+      "rss_guid": "b40aedaf-068e-4cf2-be64-a997ff0e67a1",
+      "published_date": "2024-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3440.0
+    },
+    {
+      "episode_id": "the_lol_podcast-09a5f49b52b6",
+      "rss_guid": "952ea14a-c81d-4841-ade3-9f5fcda7f21a",
+      "published_date": "2024-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4873.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2d1b7d692bad",
+      "rss_guid": "0fe07ab8-dc3f-45a3-aff7-f4eafd71f4cc",
+      "published_date": "2024-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3316.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1c9bf81a3a08",
+      "rss_guid": "5a8c1d43-f25c-43e6-9389-732530d293c0",
+      "published_date": "2024-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4178.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8a85d5cf6e04",
+      "rss_guid": "ef0f1ea1-3c74-4ba5-bc12-b0e91fe910bb",
+      "published_date": "2024-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4682.0
+    },
+    {
+      "episode_id": "the_lol_podcast-320ec6b344fb",
+      "rss_guid": "836dd40e-3270-4298-987f-95b60f8c0463",
+      "published_date": "2024-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3895.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ae709a702c35",
+      "rss_guid": "fd016624-85c8-4ea8-b9ff-eeb2b3df3b65",
+      "published_date": "2024-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4174.0
+    },
+    {
+      "episode_id": "the_lol_podcast-266b57844ff5",
+      "rss_guid": "431f9848-7467-4176-92bc-561a33246938",
+      "published_date": "2024-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3918.0
+    },
+    {
+      "episode_id": "the_lol_podcast-6c848398866f",
+      "rss_guid": "a7110e64-639c-41de-b881-820f07337a75",
+      "published_date": "2024-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3777.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8fa15689d20c",
+      "rss_guid": "cf7512fa-d91e-4764-b2d6-635c3638346f",
+      "published_date": "2024-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4237.0
+    },
+    {
+      "episode_id": "the_lol_podcast-88a7126c939f",
+      "rss_guid": "5e0cac07-ac28-4dc4-9deb-dab44ac2b132",
+      "published_date": "2024-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4354.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0b52d9073bce",
+      "rss_guid": "90442f82-ed4a-419c-b9f6-736868574722",
+      "published_date": "2024-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3205.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9e1816ab7fdf",
+      "rss_guid": "8ebdfe83-47a1-45b7-9299-6767779c6969",
+      "published_date": "2024-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3979.0
+    },
+    {
+      "episode_id": "the_lol_podcast-dd5ad698f265",
+      "rss_guid": "494490ae-dd62-4020-b64f-a211b0d445c8",
+      "published_date": "2024-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4396.0
+    },
+    {
+      "episode_id": "the_lol_podcast-26fd970b80a3",
+      "rss_guid": "3d4c8301-6a6f-42d8-b859-d46735347da8",
+      "published_date": "2024-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4012.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bffe40d0c405",
+      "rss_guid": "91f08e47-b310-4a78-a38e-1bfcaa213466",
+      "published_date": "2024-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4091.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1633df989c3f",
+      "rss_guid": "11992a09-6f90-40b0-b47b-d35c610508bb",
+      "published_date": "2024-07-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3511.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c176cdd0b66b",
+      "rss_guid": "395f62ec-80bb-420e-9bab-7a5699dd3c7d",
+      "published_date": "2024-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4187.0
+    },
+    {
+      "episode_id": "the_lol_podcast-222d8f066cfa",
+      "rss_guid": "0258146a-d6e8-4b18-ab5a-6969e75ff588",
+      "published_date": "2024-07-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3879.0
+    },
+    {
+      "episode_id": "the_lol_podcast-fa83e23d69f5",
+      "rss_guid": "d5116eb2-b756-496a-89f4-5aed8fc2a3e9",
+      "published_date": "2024-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3968.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c6833e54516f",
+      "rss_guid": "f4f85621-f0ea-41b3-ad1f-d95dfbbbc2b1",
+      "published_date": "2024-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3714.0
+    },
+    {
+      "episode_id": "the_lol_podcast-cc46608a6ebf",
+      "rss_guid": "ae4fc0e2-da4b-49e4-8b2d-486aba5f6ff6",
+      "published_date": "2024-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4155.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0c9e8a5bb9ef",
+      "rss_guid": "221b4e1d-88a5-40e6-8946-be619f3140f4",
+      "published_date": "2024-06-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3948.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e164807de34e",
+      "rss_guid": "881597b8-394c-4207-b76f-ed7d2532adcd",
+      "published_date": "2024-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3287.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e4263e8ae868",
+      "rss_guid": "9ab36a65-a28b-4f9b-89a4-608f9cf9ae40",
+      "published_date": "2024-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3688.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0f0da50e42ec",
+      "rss_guid": "fb7d034d-4e3c-4c27-957f-ef0520681039",
+      "published_date": "2024-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3121.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9c0f59d285ab",
+      "rss_guid": "f14aeb1e-5fad-40d2-afc3-e0ae17b436e2",
+      "published_date": "2024-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3148.0
+    },
+    {
+      "episode_id": "the_lol_podcast-dbafe72a4454",
+      "rss_guid": "523478c8-b7c2-4e1c-b1ba-9ceb94f3adec",
+      "published_date": "2024-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3588.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a89f972f74fa",
+      "rss_guid": "989ab91a-03c8-47d5-b753-7ac2289a26b8",
+      "published_date": "2024-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3508.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e332fcf5f3b1",
+      "rss_guid": "3bda3bb4-2869-4b07-b814-6b1b7579975f",
+      "published_date": "2024-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3370.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ba4d39c55a23",
+      "rss_guid": "6c4d8288-74f8-4c93-9d39-d795092fadc5",
+      "published_date": "2024-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3188.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ba4d85f93e60",
+      "rss_guid": "4cc27962-6a52-477e-93b3-9f6e5929696e",
+      "published_date": "2024-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4541.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7e2f6956608c",
+      "rss_guid": "682230ed-4aaa-481e-a074-fcffe15a9eb7",
+      "published_date": "2024-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3743.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e5dc5b3f9337",
+      "rss_guid": "9e67e0ef-8603-4087-bd95-f4a065f62ce5",
+      "published_date": "2024-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3281.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b561da3d799d",
+      "rss_guid": "d0910439-fca6-4c7f-aef8-97a9bb3c0591",
+      "published_date": "2024-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3455.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d36031bd8db4",
+      "rss_guid": "acab4bca-fdfd-4e8e-b6f8-e5c3940e3f9a",
+      "published_date": "2024-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3526.0
+    },
+    {
+      "episode_id": "the_lol_podcast-86e812e02ffb",
+      "rss_guid": "59b2b0ec-ec37-4be8-a137-56189ae2be38",
+      "published_date": "2024-05-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3796.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ba9ab070ea5a",
+      "rss_guid": "1c81fad6-2cec-4b78-a0f8-bc7a456b5a00",
+      "published_date": "2024-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3520.0
+    },
+    {
+      "episode_id": "the_lol_podcast-487c35a0f855",
+      "rss_guid": "0f515b93-94c9-40c7-9c5b-454838c39cf0",
+      "published_date": "2024-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4228.0
+    },
+    {
+      "episode_id": "the_lol_podcast-334bb4548a7b",
+      "rss_guid": "4e3532c9-fcf5-4f70-b8c0-3336856d029e",
+      "published_date": "2024-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3240.0
+    },
+    {
+      "episode_id": "the_lol_podcast-b188af51fc51",
+      "rss_guid": "1ec1a2fa-ea37-493e-ae3e-2cf8b1b69fd1",
+      "published_date": "2024-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3339.0
+    },
+    {
+      "episode_id": "the_lol_podcast-12ff82bedc35",
+      "rss_guid": "b8ed2392-6b7c-47a2-8263-52676ab7e84a",
+      "published_date": "2024-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4207.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8f83c5b92762",
+      "rss_guid": "6ee4e38a-3d86-4312-901d-33e230b98935",
+      "published_date": "2024-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3294.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c9a3f8111023",
+      "rss_guid": "4a179a1e-560d-466d-9af8-e7396e54fd20",
+      "published_date": "2024-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4183.0
+    },
+    {
+      "episode_id": "the_lol_podcast-669d09f41d62",
+      "rss_guid": "3228cfa7-f91d-4f57-84f3-73fed6434236",
+      "published_date": "2024-04-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3486.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a9eb5b61076e",
+      "rss_guid": "ed979d00-e0c9-432e-ae2d-1410559f173c",
+      "published_date": "2024-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3331.0
+    },
+    {
+      "episode_id": "the_lol_podcast-38484ea38569",
+      "rss_guid": "83a75196-7521-4a65-9117-92486954bb99",
+      "published_date": "2024-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3286.0
+    },
+    {
+      "episode_id": "the_lol_podcast-95fae594145f",
+      "rss_guid": "89128747-9de6-47d0-b26c-316f7126f22f",
+      "published_date": "2024-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3500.0
+    },
+    {
+      "episode_id": "the_lol_podcast-016eb8e93e9e",
+      "rss_guid": "d74d3e51-55a6-4b93-b02d-3437bcd02bf5",
+      "published_date": "2024-03-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3523.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4cc8143ebd40",
+      "rss_guid": "f16b317a-cfba-4b96-8f18-7076aea0a66c",
+      "published_date": "2024-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3936.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f7aad1bd2441",
+      "rss_guid": "5879e43b-3de5-42d1-bdcb-d86e6c87bba2",
+      "published_date": "2024-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3206.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e04a52b0a05e",
+      "rss_guid": "b3597116-58cd-4c69-ab2b-bb1a5cda6aff",
+      "published_date": "2024-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3532.0
+    },
+    {
+      "episode_id": "the_lol_podcast-424693ee2920",
+      "rss_guid": "cb512b21-8d6c-4fd5-ab3d-7e8b70db426c",
+      "published_date": "2024-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3221.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bdcea5a6f9b0",
+      "rss_guid": "6321324f-2e1a-48a2-8057-13c34bee12fe",
+      "published_date": "2024-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3549.0
+    },
+    {
+      "episode_id": "the_lol_podcast-cf543c053976",
+      "rss_guid": "6e953e45-fca9-4d3f-b319-50d866f1f226",
+      "published_date": "2024-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3558.0
+    },
+    {
+      "episode_id": "the_lol_podcast-50893cd8664b",
+      "rss_guid": "4b3a26b1-aa44-457c-a17f-51da383188ed",
+      "published_date": "2024-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4382.0
+    },
+    {
+      "episode_id": "the_lol_podcast-7a183818635b",
+      "rss_guid": "a8273d41-b26e-4f59-b25e-55e59b86ef9b",
+      "published_date": "2024-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3654.0
+    },
+    {
+      "episode_id": "the_lol_podcast-aef10ca8f46e",
+      "rss_guid": "4e8e0199-7900-4020-b1db-8a8fb91d91a1",
+      "published_date": "2024-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3230.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f7bd1759430d",
+      "rss_guid": "ec622ccf-5c21-4481-9a70-38281566c52c",
+      "published_date": "2024-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3163.0
+    },
+    {
+      "episode_id": "the_lol_podcast-48b8a148ec51",
+      "rss_guid": "1a74d614-47cc-42f8-a1d2-9ca820171465",
+      "published_date": "2024-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3739.0
+    },
+    {
+      "episode_id": "the_lol_podcast-23d64e4954d7",
+      "rss_guid": "f6689e8c-028f-416c-bdf9-2a844496eac9",
+      "published_date": "2024-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3080.0
+    },
+    {
+      "episode_id": "the_lol_podcast-197d3af69112",
+      "rss_guid": "a8bcd4c6-a765-4578-affb-c995bdc0f104",
+      "published_date": "2024-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3773.0
+    },
+    {
+      "episode_id": "the_lol_podcast-05477534c937",
+      "rss_guid": "49e0893d-fdf2-4ca2-84f7-31b6e63263c3",
+      "published_date": "2024-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3130.0
+    },
+    {
+      "episode_id": "the_lol_podcast-74050dd6a5a5",
+      "rss_guid": "10f556c9-c28c-4256-929c-4ee5f1de4bba",
+      "published_date": "2024-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3240.0
+    },
+    {
+      "episode_id": "the_lol_podcast-280908e66f9a",
+      "rss_guid": "0b79e676-9b0b-47c9-99af-741cb263a88e",
+      "published_date": "2024-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2904.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e4375a886880",
+      "rss_guid": "9008bb35-c2aa-4fff-94cf-c120a4d0020b",
+      "published_date": "2024-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2714.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e12508aada7c",
+      "rss_guid": "cb20b411-9ca9-4348-8b89-245a6130fe7a",
+      "published_date": "2024-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2616.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e1bf2c699a25",
+      "rss_guid": "0c48054f-ea2b-4a3a-85a7-aba4e0559025",
+      "published_date": "2024-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2980.0
+    },
+    {
+      "episode_id": "the_lol_podcast-09a4b3109497",
+      "rss_guid": "dc94fa36-c2b9-4e9a-88cd-729fafaa9a51",
+      "published_date": "2024-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3530.0
+    },
+    {
+      "episode_id": "the_lol_podcast-4e96438246df",
+      "rss_guid": "a70f78ff-6ded-4472-848d-e6cb6bd9d3e1",
+      "published_date": "2024-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3135.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1bd0313e5913",
+      "rss_guid": "bfe4972b-802a-4273-ac8c-424ef586f314",
+      "published_date": "2024-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3384.0
+    },
+    {
+      "episode_id": "the_lol_podcast-dc21e8bf5722",
+      "rss_guid": "ef7e8512-384f-4dfd-a657-b50c16b76d6b",
+      "published_date": "2024-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3846.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c0b6cdc69f65",
+      "rss_guid": "c602eede-626a-407e-8e5b-3cb08f45b240",
+      "published_date": "2024-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 3039.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9f63be673086",
+      "rss_guid": "2474c2eb-e826-413f-a794-a30c85f65bee",
+      "published_date": "2023-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4152.0
+    },
+    {
+      "episode_id": "the_lol_podcast-121602feefa9",
+      "rss_guid": "795b992b-0630-4a56-a93a-8484a60eb5ec",
+      "published_date": "2023-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 3408.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c4d287403b32",
+      "rss_guid": "dfff712a-959c-4bd2-9c4c-87e115fd3f7c",
+      "published_date": "2023-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3448.0
+    },
+    {
+      "episode_id": "the_lol_podcast-26dc04bd625c",
+      "rss_guid": "4ddb37b1-666b-43a2-ada1-2cc78ca31aa9",
+      "published_date": "2023-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 14397.0
+    },
+    {
+      "episode_id": "the_lol_podcast-de2cf1829036",
+      "rss_guid": "68275090-32b5-4a15-8dc1-288415e0d90d",
+      "published_date": "2023-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2906.0
+    },
+    {
+      "episode_id": "the_lol_podcast-835ff2ee66bf",
+      "rss_guid": "282b218a-337c-4ade-9532-fc90aa0a4b00",
+      "published_date": "2023-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3050.0
+    },
+    {
+      "episode_id": "the_lol_podcast-62d197cc5bfd",
+      "rss_guid": "cf209e65-63ff-4e50-9c91-34c76510e385",
+      "published_date": "2023-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2769.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c50c4df51c61",
+      "rss_guid": "59a30fdd-63aa-4ecc-aca4-ec56afe34bbc",
+      "published_date": "2023-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3123.0
+    },
+    {
+      "episode_id": "the_lol_podcast-282cc2282fce",
+      "rss_guid": "ef236b07-e584-4540-883a-8ae5457164c8",
+      "published_date": "2023-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3135.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a1f03b812a14",
+      "rss_guid": "c655214a-39a4-4add-856f-6d972ef6e81e",
+      "published_date": "2023-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 2791.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d0819f5e1467",
+      "rss_guid": "abfdf294-fc8c-47b4-8011-40144aa49482",
+      "published_date": "2023-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3081.0
+    },
+    {
+      "episode_id": "the_lol_podcast-dde71c761dd1",
+      "rss_guid": "785dfb79-9d34-4ecf-ad38-ad5d71c1b8b5",
+      "published_date": "2023-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3315.0
+    },
+    {
+      "episode_id": "the_lol_podcast-11d1b45a003b",
+      "rss_guid": "6aeeb912-cbde-4cfa-a45b-d5fdf5173654",
+      "published_date": "2023-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3104.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0089b5ee4263",
+      "rss_guid": "c378e17b-46fd-4636-9b9d-4f27e5deaa7f",
+      "published_date": "2023-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2878.0
+    },
+    {
+      "episode_id": "the_lol_podcast-e22a820aa796",
+      "rss_guid": "c08188c6-18cc-421a-834f-f4ab92bdab3b",
+      "published_date": "2023-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2903.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a701af476176",
+      "rss_guid": "6911ca34-9b43-4d40-a23c-abd50d4fe1c1",
+      "published_date": "2023-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3179.0
+    },
+    {
+      "episode_id": "the_lol_podcast-305a641eb86f",
+      "rss_guid": "8ea3f693-1fc9-41ef-99ef-d3760664bcc9",
+      "published_date": "2023-11-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3527.0
+    },
+    {
+      "episode_id": "the_lol_podcast-9c04e6f6cee8",
+      "rss_guid": "0a8c9084-1207-4559-bef8-3375ff2e9839",
+      "published_date": "2023-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2852.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a9556bf278eb",
+      "rss_guid": "e10b6ade-f6bf-4b71-82a7-29cd30702963",
+      "published_date": "2023-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2433.0
+    },
+    {
+      "episode_id": "the_lol_podcast-862c4547f592",
+      "rss_guid": "34b5baf0-675f-4dd0-be56-50bb4038a7fd",
+      "published_date": "2023-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2865.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3d78a570cd67",
+      "rss_guid": "d39ddb9f-8de6-44db-9eb1-90898e31b3de",
+      "published_date": "2023-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4057.0
+    },
+    {
+      "episode_id": "the_lol_podcast-f7f66ab838a5",
+      "rss_guid": "8ce8875c-be88-4b52-8d97-8fbfcd79322d",
+      "published_date": "2023-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2908.0
+    },
+    {
+      "episode_id": "the_lol_podcast-15b734cb59ea",
+      "rss_guid": "03ed572f-3d56-4b31-9e18-fc1a163b0ac8",
+      "published_date": "2023-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3317.0
+    },
+    {
+      "episode_id": "the_lol_podcast-72487b234ed3",
+      "rss_guid": "12403826-e0dc-4a1a-93f3-778101aac462",
+      "published_date": "2023-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3238.0
+    },
+    {
+      "episode_id": "the_lol_podcast-3ec6cdfe706c",
+      "rss_guid": "278a6425-c139-4077-b4e7-0a32c072e320",
+      "published_date": "2023-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3514.0
+    },
+    {
+      "episode_id": "the_lol_podcast-aad72d725c48",
+      "rss_guid": "8f758de8-201b-4c96-91ff-b9f04f36d9ab",
+      "published_date": "2023-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3582.0
+    },
+    {
+      "episode_id": "the_lol_podcast-ffc1e4d57533",
+      "rss_guid": "ce225d97-1a1c-4905-85e0-ac66b05d1d74",
+      "published_date": "2023-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3691.0
+    },
+    {
+      "episode_id": "the_lol_podcast-2b7a91ac6d0e",
+      "rss_guid": "56e26a58-655e-4b0a-b15b-cc97b7db38b4",
+      "published_date": "2023-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3681.0
+    },
+    {
+      "episode_id": "the_lol_podcast-fc64899f587e",
+      "rss_guid": "87208795-5d6d-47e5-8ebe-a5ad2e7ef3e1",
+      "published_date": "2023-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3578.0
+    },
+    {
+      "episode_id": "the_lol_podcast-bfe496a20ea1",
+      "rss_guid": "8fdfcd5a-f94b-48d3-9de5-b0455f99dd91",
+      "published_date": "2023-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3781.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8e630fc2b17c",
+      "rss_guid": "f6563958-0913-4b63-867b-5f68747bb8a6",
+      "published_date": "2023-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3235.0
+    },
+    {
+      "episode_id": "the_lol_podcast-a3d502369859",
+      "rss_guid": "e0b8d9d7-2b29-4f6b-8cfe-821398a1fc32",
+      "published_date": "2023-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3074.0
+    },
+    {
+      "episode_id": "the_lol_podcast-8a97a0f24dd0",
+      "rss_guid": "816f7f69-36e3-4c2c-8bfa-191ed0c1a46d",
+      "published_date": "2023-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2776.0
+    },
+    {
+      "episode_id": "the_lol_podcast-0438ef2b7002",
+      "rss_guid": "680d5143-ed9b-4568-b009-919c64b58bb8",
+      "published_date": "2023-07-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3333.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1130b1a5dc0d",
+      "rss_guid": "72bb5fad-554c-4529-8b7b-1d6c243c713a",
+      "published_date": "2023-07-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3257.0
+    },
+    {
+      "episode_id": "the_lol_podcast-1620470f209c",
+      "rss_guid": "c2a95df8-57e5-403b-aebe-1f03436a4c2e",
+      "published_date": "2023-07-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2306.0
+    },
+    {
+      "episode_id": "the_lol_podcast-c715a6b30de0",
+      "rss_guid": "fe3e479f-70b2-4bdf-8aa4-9602c41c956f",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3236.0
+    },
+    {
+      "episode_id": "the_lol_podcast-418898f2b6e1",
+      "rss_guid": "707d326d-fc30-418a-8e56-70d6945dde84",
+      "published_date": "2023-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2654.0
+    },
+    {
+      "episode_id": "the_lol_podcast-d45357d4d552",
+      "rss_guid": "4484ad3a-c2ba-4fe9-89f3-88b2e60c1adb",
+      "published_date": "2023-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3439.0
+    }
+  ]
+}

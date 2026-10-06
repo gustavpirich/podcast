@@ -1,5 +1,77 @@
 # Analysis code
 
+The step-by-step map of the pipeline (which script, which folder, what has run)
+is [`notes/PIPELINE.md`](../notes/PIPELINE.md).
+
+## Guest dataset (popular frame, RSS only)
+
+`18_build_guest_dataset.py` lists the guests of every episode in the latest
+popular frame (`01_build_popular_episode_frame.py`, 2019-01-01 onward) using
+only the frozen RSS titles and descriptions and the rules in
+`config/guest_rules.json`. No network, no model, no cost.
+
+```bash
+python code/18_build_guest_dataset.py
+```
+
+Output in `data/derived/guest_dataset/<frame>/`: `episodes.csv` (one row per
+episode, `guests` separated by "; ", with the rule used and the Edison rank of
+the show in that year), `episode_guests.csv` (one row per episode-guest pair
+with the source text), `shows.csv` and `summary.md`. To fix a show, edit its
+rules or `extra_hosts` in the config and rerun.
+
+`19_flag_guest_topics.py` then adds `health_related` / `science_related`
+flags to every guest row (`episode_guests_topics.csv`) and episode
+(`episode_topics.csv`) by matching `config/rss_topic_terms.json` against the
+title and description, after removing ads and sentences repeated across a
+show's episodes. Guest-level flags use only the text naming the guest; the
+`episode_*` columns use the whole episode text. Free; not validated.
+
+Engagement (free, public data):
+
+```bash
+python code/20_snapshot_youtube_channels.py --yes        # list channel uploads
+python code/21_match_youtube_videos.py                   # RSS episode -> video
+python code/22_snapshot_youtube_video_metrics.py --yes   # views/likes/comments (hours; resumable, --shard K/N)
+python code/23_snapshot_apple_ratings.py --yes           # show-level Apple rating
+python code/24_build_engagement_dataset.py               # episodes_engagement.csv, episode_guests_engagement.csv
+```
+
+Use `yt_match_check` to filter matches (ok / reupload_likely / date_gap_check).
+
+## Pipeline status
+
+`00_pipeline_status.py` scans raw records, transcripts and collected
+classification runs and reports how far each episode has progressed and its next
+step. It is read-only and makes no API calls. Outputs are overwritten on each run:
+`data/derived/pipeline_status/episode_status.csv` and
+`output/pipeline_status/status_report.md`.
+
+```bash
+python code/00_pipeline_status.py
+```
+
+## Fringe supply dataset
+
+`14_build_fringe_supply_dataset.py` applies the 2026-10-01 fringe tier
+definition (emerging, speculative, contradicts consensus; exaggeration alone
+excluded) to the frozen pilot statements and attributes each verified claim to
+its diarized speaker by word index. It writes `statements.csv`, `speakers.csv`
+and `summary.json` to `data/derived/descriptives/`. No model calls are made.
+The analysis plan is in [`notes/DESCRIPTIVES_PLAN.md`](../notes/DESCRIPTIVES_PLAN.md).
+
+`15_snapshot_youtube_metrics.py` records public YouTube view, like and comment
+counts for frozen samples (dry run by default; `--yes` fetches) and writes a new
+timestamped snapshot under `data/raw/audience_metrics/youtube/`. Run it in the
+`podcast_observational` Conda environment, which provides yt-dlp.
+
+`16_draw_fringe_validation_sample.py` draws the blind, stratified 150-claim
+human validation sample. The coding guide is
+[`notes/FRINGE_VALIDATION_CODING.md`](../notes/FRINGE_VALIDATION_CODING.md).
+
+`17_mockup_descriptives.py` draws five draft figures to `output/descriptives_mockup/`.
+Figure 4 (host treatment) uses **simulated** data until host responses are coded.
+
 ## Health-claim veracity and danger
 
 `12_classify_veracity.py` augments existing Stage-10 statements using OpenAI Batch

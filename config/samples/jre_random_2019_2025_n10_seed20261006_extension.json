@@ -1,0 +1,85 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "jre_random_2019_2025_n10_seed20261006_extension",
+  "show_id": "jre",
+  "selected_at": "2026-10-05",
+  "selection_rule": "Random sample of 10 episodes published 2019-01-01 to 2025-12-31 with a declared duration of at least 20 minutes, stratified by publication year (proportional allocation, largest remainder), seed 20261006. Episodes in config/samples/jre_random_2019_2025_n10_seed20261003.json, config/samples/jre_random_2019_2025_n30_seed20261004_extension.json, config/samples/jre_random_2019_2025_n50_seed20261005_extension.json were excluded.",
+  "source": {
+    "path": "config/jre_full_archive_2026-09-15.json",
+    "sha256": "f65501ab535d5d2e02e877b30923020e30557c48810adbedd83284ea0c21b2ec",
+    "eligible_episodes": 1241
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "jre-1243-3dc1f010564e",
+      "rss_guid": "1e766459-58ba-3241-a13b-9de8c0de4681",
+      "published_date": "2019-02-10",
+      "guest_name": "Rafinha Bastos",
+      "duration_seconds": 7868.0
+    },
+    {
+      "episode_id": "jre-1358-8034c883f9fe",
+      "rss_guid": "f4cbc330-75f1-3671-a98d-195a24ae2bd3",
+      "published_date": "2019-09-30",
+      "guest_name": "Sober October 3",
+      "duration_seconds": 10008.0
+    },
+    {
+      "episode_id": "jre-mma-90-947225575977",
+      "rss_guid": "b215bed3-5530-38ae-bb3a-4e1b6733a176",
+      "published_date": "2020-02-10",
+      "guest_name": "Rashad Evans",
+      "duration_seconds": 8938.0
+    },
+    {
+      "episode_id": "jre-1488-04d25efbce83",
+      "rss_guid": "2c68f49a-cc17-3b63-bc07-112efb9b1f3a",
+      "published_date": "2020-06-08",
+      "guest_name": "Andrew Schulz",
+      "duration_seconds": 10283.0
+    },
+    {
+      "episode_id": "jre-1664-2fd48f843338",
+      "rss_guid": "ba27a588-17f5-4f50-9f10-e3a7b080cfeb",
+      "published_date": "2021-06-09",
+      "guest_name": "Josh Dubin",
+      "duration_seconds": 10427.0
+    },
+    {
+      "episode_id": "jre-1724-3af271a13961",
+      "rss_guid": "77e5c99d-355c-485c-be66-6ef23ecce6c3",
+      "published_date": "2021-10-25",
+      "guest_name": "Jewel",
+      "duration_seconds": 13547.0
+    },
+    {
+      "episode_id": "jre-1810-cbb7aad774d0",
+      "rss_guid": "77eaec59-480a-45a3-ace7-96b1faa7f053",
+      "published_date": "2022-04-28",
+      "guest_name": "Remi Warren",
+      "duration_seconds": 9708.0
+    },
+    {
+      "episode_id": "jre-2074-4d2831209255",
+      "rss_guid": "77bb7028-1fcb-4c45-8553-542f5f7c0604",
+      "published_date": "2023-12-12",
+      "guest_name": "Shane Gillis",
+      "duration_seconds": 9448.0
+    },
+    {
+      "episode_id": "jre-2144-1017f6f39b15",
+      "rss_guid": "702acfe8-08a4-11ef-9acd-bfe9263fb919",
+      "published_date": "2024-05-02",
+      "guest_name": "Chris Distefano",
+      "duration_seconds": 10278.0
+    },
+    {
+      "episode_id": "jre-2393-24a4ed09594a",
+      "rss_guid": "fd91a42c-a98b-11f0-9fae-cb7bbe3f41ad",
+      "published_date": "2025-10-15",
+      "guest_name": "Bryan Callen",
+      "duration_seconds": 10386.0
+    }
+  ]
+}

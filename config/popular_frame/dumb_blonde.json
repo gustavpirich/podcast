@@ -1,0 +1,2893 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "popular_frame_dumb_blonde_20261002T193807Z",
+  "show_id": "dumb_blonde",
+  "selected_at": "2026-10-02",
+  "selection_rule": "Popular frame (notes/PLAN.md, 2026-10-02): show in an Edison US Top-50 release Q4 2021-Q2 2026, primary RSS category Comedy, Health & Fitness or Education > Self-Improvement, median episode >= 60 min; all non-trailer episodes published 2021-10-01 to 2026-09-30.",
+  "source": {
+    "rss_url": "https://rss.amperwave.net/v2/feed/audacynetwork/fa4e8283cfd9be5c58b3376e4c3dffcb",
+    "snapshot_relative_path": "data/raw/rss/dumb_blonde/dumb_blonde_rss_20261002T193807Z.xml",
+    "snapshot_sha256": "c43fb630326b57c6ee62960936845d425d3d487a2e08df731812ec7ada09424b",
+    "frame": "data/derived/popular_frame/20261002T193807Z"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "dumb_blonde-d678729d66c4",
+      "rss_guid": "piFzLRf1NoJSZ5HFYAe8oBot8pH9GJyF",
+      "published_date": "2026-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2284.0
+    },
+    {
+      "episode_id": "dumb_blonde-d60a8f7d666d",
+      "rss_guid": "PDhvOBAVhnwV6EVIfzs59ez73L9N840e",
+      "published_date": "2026-09-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1494.0
+    },
+    {
+      "episode_id": "dumb_blonde-1e135023c9a9",
+      "rss_guid": "kjwDNiLcnxTGcwDr9kMQi1j5fWgpNWuN",
+      "published_date": "2026-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1669.0
+    },
+    {
+      "episode_id": "dumb_blonde-445a30655f9a",
+      "rss_guid": "Aq0dgx7hsxUl8Lzb8ZE9WQDPqM1fqlsE",
+      "published_date": "2026-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2672.0
+    },
+    {
+      "episode_id": "dumb_blonde-84b335cfadc3",
+      "rss_guid": "F4lRnNvhujlRTIQeKtmXbLmARFbBNYRv",
+      "published_date": "2026-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1322.0
+    },
+    {
+      "episode_id": "dumb_blonde-ebb9e94a6916",
+      "rss_guid": "7UleAjvmiNjR9jsrZ7TQmi32Lr2NYzUS",
+      "published_date": "2026-09-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2720.0
+    },
+    {
+      "episode_id": "dumb_blonde-5876e746ad43",
+      "rss_guid": "qAGpi1jixw1TkUstiCvWKbYwzOttfi1Q",
+      "published_date": "2026-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1243.0
+    },
+    {
+      "episode_id": "dumb_blonde-fcf3f2f22c26",
+      "rss_guid": "UUq0F7x5Rw7kN13nBpnti6n226ORRAfk",
+      "published_date": "2026-08-31",
+      "guest_name": "Guest",
+      "duration_seconds": 2891.0
+    },
+    {
+      "episode_id": "dumb_blonde-c91244953214",
+      "rss_guid": "61skiT15pATdwZveoFi0vEBqAjdjSRRH",
+      "published_date": "2026-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1383.0
+    },
+    {
+      "episode_id": "dumb_blonde-d0192bdd6128",
+      "rss_guid": "l2dC4gul6BDB1jQcGRJqHP860vM4xPZ3",
+      "published_date": "2026-08-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6350.0
+    },
+    {
+      "episode_id": "dumb_blonde-c35d25e77116",
+      "rss_guid": "HWu2u9gSA0651L6mpNa9TffVUpf1LprN",
+      "published_date": "2026-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1688.0
+    },
+    {
+      "episode_id": "dumb_blonde-7e9bbabab24b",
+      "rss_guid": "C2aSfov3ZfxwxJLPqhcdyzmM3lyicy98",
+      "published_date": "2026-08-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2992.0
+    },
+    {
+      "episode_id": "dumb_blonde-e20fc3db6571",
+      "rss_guid": "NARWbOdSvrG6TJsycDmbKvQ6IKmJoxYb",
+      "published_date": "2026-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1511.0
+    },
+    {
+      "episode_id": "dumb_blonde-55f5becbc7fd",
+      "rss_guid": "1Zj92N2fnX8zBiXMFTF3mDqUBy5mKR0J",
+      "published_date": "2026-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5663.0
+    },
+    {
+      "episode_id": "dumb_blonde-0f76884aa2aa",
+      "rss_guid": "TR22bMHlkrfFl81LvRCXvJRj6wF8jHIg",
+      "published_date": "2026-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1662.0
+    },
+    {
+      "episode_id": "dumb_blonde-a2bfee38a488",
+      "rss_guid": "xWIZRaVsUVO7if1dFSoa88nPiOJWHYHr",
+      "published_date": "2026-08-03",
+      "guest_name": "Guest",
+      "duration_seconds": 7103.0
+    },
+    {
+      "episode_id": "dumb_blonde-e8bb0ac4c4d0",
+      "rss_guid": "B5XA57HcewKc0UM4TG6vRjkhA3O1GN6Y",
+      "published_date": "2026-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1694.0
+    },
+    {
+      "episode_id": "dumb_blonde-a9b8dba8f93b",
+      "rss_guid": "gid://art19-episode-locator/V0/gOsf3ipWr3f9q47xun1iKnkoqIpuW68U9WfMc8JRU7o",
+      "published_date": "2026-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1847.0
+    },
+    {
+      "episode_id": "dumb_blonde-ed472e7492da",
+      "rss_guid": "gid://art19-episode-locator/V0/zKt0eeOsPL1pJwHFHKsea-1FZcoh302YRah2kiONf8s",
+      "published_date": "2026-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1461.0
+    },
+    {
+      "episode_id": "dumb_blonde-529405f29c7a",
+      "rss_guid": "gid://art19-episode-locator/V0/USAhJWFKgZz4Vl6xe-grTQ8NhAHVacEQDxBq5bmg0pY",
+      "published_date": "2026-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2588.0
+    },
+    {
+      "episode_id": "dumb_blonde-05341693d4ff",
+      "rss_guid": "gid://art19-episode-locator/V0/svJ4ukGSRKIT8By_Ktr5N7mNOj4CQTk_VNRFTsbCCAU",
+      "published_date": "2026-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3236.0
+    },
+    {
+      "episode_id": "dumb_blonde-1e9da34b061b",
+      "rss_guid": "gid://art19-episode-locator/V0/s5Z3QPbQPMSxD8L4Hy3bDrUDz-MNUii4WI3YWbDh-pI",
+      "published_date": "2026-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2093.0
+    },
+    {
+      "episode_id": "dumb_blonde-91f64cb41092",
+      "rss_guid": "gid://art19-episode-locator/V0/nn4YgRhw35HGvbF_Fn2yDoz-SxvqNfU-JtQksoY_Pkw",
+      "published_date": "2026-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1658.0
+    },
+    {
+      "episode_id": "dumb_blonde-ad1d28e21f15",
+      "rss_guid": "gid://art19-episode-locator/V0/suxlpis52w2Wy_v8fpdSnSHGz4e1cqxzNafpthjrwXg",
+      "published_date": "2026-06-25",
+      "guest_name": "Guest",
+      "duration_seconds": 8377.0
+    },
+    {
+      "episode_id": "dumb_blonde-89f649d7a34c",
+      "rss_guid": "gid://art19-episode-locator/V0/6HOIBZzgR5lnFRUlLhz6wSzNqnrCWKHQxlp3ntiC4TI",
+      "published_date": "2026-06-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5167.0
+    },
+    {
+      "episode_id": "dumb_blonde-5dc563a88b6d",
+      "rss_guid": "gid://art19-episode-locator/V0/o7EycXlC3ZNhBYyh7yMSnFjZ90jtNaax2Tee6Z8_Sbs",
+      "published_date": "2026-06-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4751.0
+    },
+    {
+      "episode_id": "dumb_blonde-352cb8de3a3f",
+      "rss_guid": "gid://art19-episode-locator/V0/7ijBGfmu7OWuh69V9rW0lj7Mx-DrAhEsoseOe9_dvDo",
+      "published_date": "2026-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2313.0
+    },
+    {
+      "episode_id": "dumb_blonde-f03374311ed5",
+      "rss_guid": "gid://art19-episode-locator/V0/dMnGFKhXfRXft__pqvrBCM9RYn1-lq6vOh317N4N364",
+      "published_date": "2026-06-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3957.0
+    },
+    {
+      "episode_id": "dumb_blonde-84355f63589f",
+      "rss_guid": "gid://art19-episode-locator/V0/ufBU1VTWF_mEY-0NlZX68ZLgiNeabfh5B9sXrxBC7-k",
+      "published_date": "2026-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3730.0
+    },
+    {
+      "episode_id": "dumb_blonde-4233166f2367",
+      "rss_guid": "gid://art19-episode-locator/V0/2QDcoEH45K86_YBOE3ZgTPtgTdE7FRbaNe5kmdk_wAM",
+      "published_date": "2026-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1791.0
+    },
+    {
+      "episode_id": "dumb_blonde-0d6fe5fb02e3",
+      "rss_guid": "gid://art19-episode-locator/V0/CS0kekC3EFlRTur8SviRl5CtUeR2t8mKmuKP1LC4ZpU",
+      "published_date": "2026-06-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6284.0
+    },
+    {
+      "episode_id": "dumb_blonde-e81399e94e58",
+      "rss_guid": "gid://art19-episode-locator/V0/V7EeeW4nISOgq0zhTW8lu7J40QVqn633hxGBHFn-Rvw",
+      "published_date": "2026-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2986.0
+    },
+    {
+      "episode_id": "dumb_blonde-b9ccfa5303a6",
+      "rss_guid": "gid://art19-episode-locator/V0/EXt2T0b9caosLK_J-TK_ZAUfntvTH1hukrS5-eA78ns",
+      "published_date": "2026-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1729.0
+    },
+    {
+      "episode_id": "dumb_blonde-afa6de909076",
+      "rss_guid": "gid://art19-episode-locator/V0/k1YwMXBpGUoaGNtWkarN026wjYCsChKVfrG5PIaL2MU",
+      "published_date": "2026-05-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3491.0
+    },
+    {
+      "episode_id": "dumb_blonde-629ac495899f",
+      "rss_guid": "gid://art19-episode-locator/V0/hr5bmZuLeYFTFTjfm4B98E2hCV1sHPq4nN0MUUzexhY",
+      "published_date": "2026-05-25",
+      "guest_name": "Guest",
+      "duration_seconds": 6939.0
+    },
+    {
+      "episode_id": "dumb_blonde-c2e9b572bc25",
+      "rss_guid": "gid://art19-episode-locator/V0/aAgw3-Qe2f_QRj6hnAxgCgDXXrd0OAVJD9kq61UU7hY",
+      "published_date": "2026-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1396.0
+    },
+    {
+      "episode_id": "dumb_blonde-c3cee0c40003",
+      "rss_guid": "gid://art19-episode-locator/V0/JuMbarmTVgBHPbI76EIOY4czuRUZt5QRIPWiOZC6ql4",
+      "published_date": "2026-05-21",
+      "guest_name": "Guest",
+      "duration_seconds": 9438.0
+    },
+    {
+      "episode_id": "dumb_blonde-6fa1621cdac1",
+      "rss_guid": "gid://art19-episode-locator/V0/Me933y8E3VZ3zeNiQ6v-3Vyg9tNefzSPsiDQz4V1RvA",
+      "published_date": "2026-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4267.0
+    },
+    {
+      "episode_id": "dumb_blonde-2f5449610e2c",
+      "rss_guid": "gid://art19-episode-locator/V0/w1RyPNHyoC8oA4MuA490qGrOe3TCKkQ-U6zAQuEIPKo",
+      "published_date": "2026-05-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1524.0
+    },
+    {
+      "episode_id": "dumb_blonde-bc87f31c4330",
+      "rss_guid": "gid://art19-episode-locator/V0/6L0lamxCJREJgs56TJ_NFxFAN8sbXKSOwGnvKZFKgro",
+      "published_date": "2026-05-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7833.0
+    },
+    {
+      "episode_id": "dumb_blonde-fe6a83d16018",
+      "rss_guid": "gid://art19-episode-locator/V0/YEp9wLKETIwnLIRY4qm4ebpf4_VyLBJq_EWkWprh9kM",
+      "published_date": "2026-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4471.0
+    },
+    {
+      "episode_id": "dumb_blonde-1c8101cfb0f9",
+      "rss_guid": "gid://art19-episode-locator/V0/zevL92_XMLNgSUHmhbTVLcxxNdZNPcsl4f1a2vX-NY8",
+      "published_date": "2026-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1811.0
+    },
+    {
+      "episode_id": "dumb_blonde-1bfa3f50f7f3",
+      "rss_guid": "gid://art19-episode-locator/V0/AN8n4CMfLnQj5x109ZNRulSr1LWG1p3CYszQuUMlGII",
+      "published_date": "2026-05-07",
+      "guest_name": "Guest",
+      "duration_seconds": 6355.0
+    },
+    {
+      "episode_id": "dumb_blonde-dce642bf4647",
+      "rss_guid": "gid://art19-episode-locator/V0/kNDCBbazU-DuMdeL2MDQ_WMhl8bqcO9MNWmg_y72wU0",
+      "published_date": "2026-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4088.0
+    },
+    {
+      "episode_id": "dumb_blonde-239dc6f70ec5",
+      "rss_guid": "gid://art19-episode-locator/V0/6351Z3I4rohgAHX_p2dFKWJhWX2eKeSOnVv5loV_qos",
+      "published_date": "2026-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1801.0
+    },
+    {
+      "episode_id": "dumb_blonde-832f31953303",
+      "rss_guid": "gid://art19-episode-locator/V0/PVjD1l0Rwk_TmxchMD3PeVpQo6dwd0LPxIpj-dxxUo0",
+      "published_date": "2026-04-30",
+      "guest_name": "Guest",
+      "duration_seconds": 5689.0
+    },
+    {
+      "episode_id": "dumb_blonde-2a034dfe329f",
+      "rss_guid": "gid://art19-episode-locator/V0/P8yf0ff7SVbt9o6gqU1dELxLWCQJSKBIJNi1MG7xqmk",
+      "published_date": "2026-04-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6334.0
+    },
+    {
+      "episode_id": "dumb_blonde-58f451f471fc",
+      "rss_guid": "gid://art19-episode-locator/V0/MZp5mdF_518nj0X9h56C1PiLysjbsiGuP9FQW7OqhAs",
+      "published_date": "2026-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1415.0
+    },
+    {
+      "episode_id": "dumb_blonde-b800e495edcf",
+      "rss_guid": "gid://art19-episode-locator/V0/6_Rl9hki0YAN0v_ttHElsBcIlHSre7NSH-r2IMDRfKs",
+      "published_date": "2026-04-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6268.0
+    },
+    {
+      "episode_id": "dumb_blonde-507474f603f8",
+      "rss_guid": "gid://art19-episode-locator/V0/dE0Rc8aNkdY6vo6p8OpadqGkV9rq_VS3Q3e23zxsJd0",
+      "published_date": "2026-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3911.0
+    },
+    {
+      "episode_id": "dumb_blonde-9f691fbc7c4f",
+      "rss_guid": "gid://art19-episode-locator/V0/i0_lCS5KWIrDRDej-E5GIncl9wzC3gHpbOr-qCaFSrc",
+      "published_date": "2026-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2183.0
+    },
+    {
+      "episode_id": "dumb_blonde-ebe2cab45e0e",
+      "rss_guid": "gid://art19-episode-locator/V0/FULX1l62KerqCcg_X-kQWG8JAM0N6DM2eTgxbH9GYl8",
+      "published_date": "2026-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2281.0
+    },
+    {
+      "episode_id": "dumb_blonde-0614b22e7059",
+      "rss_guid": "gid://art19-episode-locator/V0/N5KvpVY7CR2zsJophw7lfqvcMz5b3FwviOb9kB9MHZY",
+      "published_date": "2026-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2070.0
+    },
+    {
+      "episode_id": "dumb_blonde-96c6e3c34e41",
+      "rss_guid": "gid://art19-episode-locator/V0/itU97EsonW_ofyP_NCJYAsFhy0AfgmOwtGjrMZ29KgY",
+      "published_date": "2026-04-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3201.0
+    },
+    {
+      "episode_id": "dumb_blonde-73c5dd4d90d8",
+      "rss_guid": "gid://art19-episode-locator/V0/lpWlzm66DL1sRM4IVMGlyJM1WbR3uTbx9cKaJQvlTNo",
+      "published_date": "2026-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3282.0
+    },
+    {
+      "episode_id": "dumb_blonde-0d1f35b3d35a",
+      "rss_guid": "gid://art19-episode-locator/V0/ERW_D1QNJ4JCZBq95qyt_uKHvqnThpQF5seXGsC2oqo",
+      "published_date": "2026-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2480.0
+    },
+    {
+      "episode_id": "dumb_blonde-963e134dd421",
+      "rss_guid": "gid://art19-episode-locator/V0/lqNylccNfYr3UMnMFTQVSpECbhuQlXxsoWOuHnY2kEE",
+      "published_date": "2026-04-02",
+      "guest_name": "Guest",
+      "duration_seconds": 5173.0
+    },
+    {
+      "episode_id": "dumb_blonde-15dadbc70b59",
+      "rss_guid": "gid://art19-episode-locator/V0/q0z4mY3Ui9xW_cm9QhAH15v2_y6hdgyUpRWLduip0U4",
+      "published_date": "2026-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6923.0
+    },
+    {
+      "episode_id": "dumb_blonde-54965db72303",
+      "rss_guid": "gid://art19-episode-locator/V0/xPqZlpGgsGtxApERUVYMpadUaAaVHKlFEdS0FslJymo",
+      "published_date": "2026-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 7928.0
+    },
+    {
+      "episode_id": "dumb_blonde-22b24b6c8926",
+      "rss_guid": "gid://art19-episode-locator/V0/2v3kfbv3NPqDAEb1822aPjD9yDvTotYHYZi0vigsLFQ",
+      "published_date": "2026-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1350.0
+    },
+    {
+      "episode_id": "dumb_blonde-65eb283164b1",
+      "rss_guid": "gid://art19-episode-locator/V0/CpWNR3_rbRHBT8nDYKK4UCGNOTFA4PozhcrBIj_XSR0",
+      "published_date": "2026-03-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3375.0
+    },
+    {
+      "episode_id": "dumb_blonde-db00bac5c69c",
+      "rss_guid": "gid://art19-episode-locator/V0/mb0vLgyynReyttKDfNeZlqQxg5TSE-KPD-mkTpCY9xI",
+      "published_date": "2026-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 5077.0
+    },
+    {
+      "episode_id": "dumb_blonde-a6972848e635",
+      "rss_guid": "gid://art19-episode-locator/V0/RaEQl5CrwM_T5CMvVNmNiyzszDz0R4nV6WSGaNIcIas",
+      "published_date": "2026-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1702.0
+    },
+    {
+      "episode_id": "dumb_blonde-489557f7d466",
+      "rss_guid": "gid://art19-episode-locator/V0/OVnGQjuBbcFRjA7wx-qWT4PLidmuZOyibYH8DKRE64Y",
+      "published_date": "2026-03-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4855.0
+    },
+    {
+      "episode_id": "dumb_blonde-a5081f1aaeb2",
+      "rss_guid": "gid://art19-episode-locator/V0/T3Uc8USBAO_xVhXs8HleLUJEm1X_Q4cGvmd0Hadt0xM",
+      "published_date": "2026-03-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3822.0
+    },
+    {
+      "episode_id": "dumb_blonde-7383b2334e4d",
+      "rss_guid": "gid://art19-episode-locator/V0/RqHn8vUdGRLrQ73ssHFk13E9vkw2MlY2zln7twZJ_Zc",
+      "published_date": "2026-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1112.0
+    },
+    {
+      "episode_id": "dumb_blonde-2b231b3c695c",
+      "rss_guid": "gid://art19-episode-locator/V0/0w5-MBzuyN6nh6VrmigNEx4sosyYjmQ1L-VxhqdlEJc",
+      "published_date": "2026-03-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4308.0
+    },
+    {
+      "episode_id": "dumb_blonde-5095c9ccb8e1",
+      "rss_guid": "gid://art19-episode-locator/V0/QhpRMAJQ_M_tQVTKsE73KidNmolhgctrJT7UsyzIb6c",
+      "published_date": "2026-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4965.0
+    },
+    {
+      "episode_id": "dumb_blonde-0c1151159e12",
+      "rss_guid": "gid://art19-episode-locator/V0/t2QsXuJgeNoGrGlt0rJviH2YJcH3ESuQRVDShzAyx8w",
+      "published_date": "2026-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 5796.0
+    },
+    {
+      "episode_id": "dumb_blonde-e9526056596e",
+      "rss_guid": "gid://art19-episode-locator/V0/YkUH9cHimzsFwuuOr7jEPj7pMN8piJHbtL9SguPNxKw",
+      "published_date": "2026-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1541.0
+    },
+    {
+      "episode_id": "dumb_blonde-55ecc7853d18",
+      "rss_guid": "gid://art19-episode-locator/V0/J9pB_GDFyFWD5KW7zZDyjKYivFfDFnIy1EkVm4d12A0",
+      "published_date": "2026-02-19",
+      "guest_name": "Guest",
+      "duration_seconds": 2030.0
+    },
+    {
+      "episode_id": "dumb_blonde-eb19967bf3d9",
+      "rss_guid": "gid://art19-episode-locator/V0/Nt8JJzq3AHyxjz0LY4zFSlKuWpKNzGM_WzYRx6uVwmY",
+      "published_date": "2026-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5024.0
+    },
+    {
+      "episode_id": "dumb_blonde-c5dc3ed7da7c",
+      "rss_guid": "gid://art19-episode-locator/V0/UMZr7dt71Kn0krZzJtWNq0LJDlXE2nRTmfr-jDTibIA",
+      "published_date": "2026-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1153.0
+    },
+    {
+      "episode_id": "dumb_blonde-f09084608031",
+      "rss_guid": "gid://art19-episode-locator/V0/w3JPcd3FqtlEZQj79nGPnn2ieRi6KdJkf5BBDR3OPmQ",
+      "published_date": "2026-02-12",
+      "guest_name": "Guest",
+      "duration_seconds": 9467.0
+    },
+    {
+      "episode_id": "dumb_blonde-3b7e826ec360",
+      "rss_guid": "gid://art19-episode-locator/V0/9GOVyF4kbwYL-8Bz390TsgILtsQyzUtyYxFN8fwiPRI",
+      "published_date": "2026-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3428.0
+    },
+    {
+      "episode_id": "dumb_blonde-4f87f322d001",
+      "rss_guid": "gid://art19-episode-locator/V0/GQ1rxUFEo8YacjT2F_SX4UtCK4g4UvZZ6boGUjMP7do",
+      "published_date": "2026-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2120.0
+    },
+    {
+      "episode_id": "dumb_blonde-e5b4a521a3d3",
+      "rss_guid": "gid://art19-episode-locator/V0/pdrjGACZWTm5W9zpKR4lgEtvNoQgQ4qOMxO8KrXeMQ8",
+      "published_date": "2026-02-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6886.0
+    },
+    {
+      "episode_id": "dumb_blonde-e8813653e3a7",
+      "rss_guid": "gid://art19-episode-locator/V0/iDceuIND9QTViq8gV929nH766WwEKkSr01l9fGEbFTs",
+      "published_date": "2026-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 12778.0
+    },
+    {
+      "episode_id": "dumb_blonde-fd6fbc686421",
+      "rss_guid": "gid://art19-episode-locator/V0/bgi4MEq9p0K22neIFuxjW9NStByd9Jd7j33FJFujFk8",
+      "published_date": "2026-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1261.0
+    },
+    {
+      "episode_id": "dumb_blonde-5e9e2f093e0a",
+      "rss_guid": "gid://art19-episode-locator/V0/J9DG-A-ICrZxFye6bZlmN0kIG5cFySEANVTu5svBKOU",
+      "published_date": "2026-01-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3569.0
+    },
+    {
+      "episode_id": "dumb_blonde-26be01d5d055",
+      "rss_guid": "gid://art19-episode-locator/V0/PWzsk80tD5XQY8GQh-9neLyVYuc2zjKAkSvGCJTycYg",
+      "published_date": "2026-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4425.0
+    },
+    {
+      "episode_id": "dumb_blonde-13d45f17777c",
+      "rss_guid": "gid://art19-episode-locator/V0/8F8znyNCvsAjC0b42OszP99KEVsK9UhgXLLzmuVgWhk",
+      "published_date": "2026-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2296.0
+    },
+    {
+      "episode_id": "dumb_blonde-76e46881f6cb",
+      "rss_guid": "gid://art19-episode-locator/V0/Sdlvw7VGtam4MMQZTvJrSWwZ48LJtc4T_4SJlJznt1M",
+      "published_date": "2026-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3168.0
+    },
+    {
+      "episode_id": "dumb_blonde-ee7e061815d0",
+      "rss_guid": "gid://art19-episode-locator/V0/M7sFjsVpWnz1XAOULGHtKg8dp2oArHS7Pfs7HB6eHq8",
+      "published_date": "2026-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3621.0
+    },
+    {
+      "episode_id": "dumb_blonde-9ca876cef768",
+      "rss_guid": "gid://art19-episode-locator/V0/Y0qFew9oxn-boLoHtArGRxfIvH1wkUUAvi5K_DV8MK0",
+      "published_date": "2026-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4251.0
+    },
+    {
+      "episode_id": "dumb_blonde-d0b5a7873a7c",
+      "rss_guid": "gid://art19-episode-locator/V0/WjAN4JsnI6ft71Ue0owaxK-wdoAR3oJA3Akg7lEmK9s",
+      "published_date": "2026-01-15",
+      "guest_name": "Guest",
+      "duration_seconds": 3730.0
+    },
+    {
+      "episode_id": "dumb_blonde-9cbf54d3c4f2",
+      "rss_guid": "gid://art19-episode-locator/V0/kgivxdr9ql00AvHhW3A58hhsqXmV7pUWNB5yKh4buYs",
+      "published_date": "2026-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3805.0
+    },
+    {
+      "episode_id": "dumb_blonde-2b84f2711860",
+      "rss_guid": "gid://art19-episode-locator/V0/ZrrV_hghT89RyBUWy9bmw3v_z4V_SQ3mEuZ9z1VUv6I",
+      "published_date": "2026-01-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1872.0
+    },
+    {
+      "episode_id": "dumb_blonde-19c355dbaffd",
+      "rss_guid": "gid://art19-episode-locator/V0/pOB0cwTrieIpApGyylDv-D2xMOFC6MKX2gWHoJ3P05w",
+      "published_date": "2026-01-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5531.0
+    },
+    {
+      "episode_id": "dumb_blonde-9431752f888f",
+      "rss_guid": "gid://art19-episode-locator/V0/aJu2aFAPGvDqjIZ423ruDy9yKFnnz-P7hgDJK_biivQ",
+      "published_date": "2026-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6268.0
+    },
+    {
+      "episode_id": "dumb_blonde-d5567b36d7d2",
+      "rss_guid": "gid://art19-episode-locator/V0/qoTXFWnHkCwuDMww2mQLLurdIz4PQZ5H97OY6f1GWd0",
+      "published_date": "2026-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1086.0
+    },
+    {
+      "episode_id": "dumb_blonde-68c97f2f8d95",
+      "rss_guid": "gid://art19-episode-locator/V0/sBmUzQT7qreg0jrq_QWIMiEHPYKfLLAYIb14hubrr0U",
+      "published_date": "2026-01-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4033.0
+    },
+    {
+      "episode_id": "dumb_blonde-f772dc859bfe",
+      "rss_guid": "gid://art19-episode-locator/V0/TrhmP96g1adBm2jWsVYj37i9VlR_TPX3AtruW_JHAn0",
+      "published_date": "2025-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 6460.0
+    },
+    {
+      "episode_id": "dumb_blonde-014dd6e49600",
+      "rss_guid": "gid://art19-episode-locator/V0/M6xsjjiYYhS-9oHx8XrcfhuOny0ylgU33TZfCGECG64",
+      "published_date": "2025-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1050.0
+    },
+    {
+      "episode_id": "dumb_blonde-aa4c3b51ed8b",
+      "rss_guid": "gid://art19-episode-locator/V0/vLP3L_JUtt3_UGGtyx0H-hGhjnmJnSDQT-JRH1uwo1c",
+      "published_date": "2025-12-25",
+      "guest_name": "Guest",
+      "duration_seconds": 5673.0
+    },
+    {
+      "episode_id": "dumb_blonde-48b2133b35a7",
+      "rss_guid": "gid://art19-episode-locator/V0/PS4S3apqPRpXnauALeqZwlqZ2EvGevF0dX2N5SDK9PU",
+      "published_date": "2025-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 2818.0
+    },
+    {
+      "episode_id": "dumb_blonde-142f91db1783",
+      "rss_guid": "gid://art19-episode-locator/V0/wX6HsaUXV4gYTX1O3qmKGbtBSmsODNQOhnedv2AKXSM",
+      "published_date": "2025-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1416.0
+    },
+    {
+      "episode_id": "dumb_blonde-ad45ac32e03d",
+      "rss_guid": "gid://art19-episode-locator/V0/51BxsnMuZTinSMduDrRNPDuVxuaDyK5QUWf6lpEzbl0",
+      "published_date": "2025-12-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4239.0
+    },
+    {
+      "episode_id": "dumb_blonde-b92c3d548359",
+      "rss_guid": "gid://art19-episode-locator/V0/6opKWaOz1mBdwaGz7jNCXBsLxQzUNZDrCeX5v6xkkk8",
+      "published_date": "2025-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6355.0
+    },
+    {
+      "episode_id": "dumb_blonde-e91823715ba1",
+      "rss_guid": "gid://art19-episode-locator/V0/5XiAIOPrN0faBWk9ylR5b7OP-O74xeUTM7nMly7luPE",
+      "published_date": "2025-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1431.0
+    },
+    {
+      "episode_id": "dumb_blonde-7c92a35b6180",
+      "rss_guid": "gid://art19-episode-locator/V0/haxLXznsdlRKwkOe_ZMQ6DTVpUkBKTgXJkQAv1qx_sg",
+      "published_date": "2025-12-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3197.0
+    },
+    {
+      "episode_id": "dumb_blonde-c6538c49fc2e",
+      "rss_guid": "gid://art19-episode-locator/V0/Oc9lIgND49M76K66WeMThoB3IswJxqEsC5dqM9rDIb4",
+      "published_date": "2025-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 5069.0
+    },
+    {
+      "episode_id": "dumb_blonde-d5a107c5560c",
+      "rss_guid": "gid://art19-episode-locator/V0/v1AJ9j3-XFWawLmNSJwnNRmNC6xOpNNjudCrFP1V_8c",
+      "published_date": "2025-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1736.0
+    },
+    {
+      "episode_id": "dumb_blonde-7fa89c0abe56",
+      "rss_guid": "gid://art19-episode-locator/V0/DeutRcacTCdHmr8xr_FG2RCeHuYDuHnz9Qc_AFaY-gc",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4329.0
+    },
+    {
+      "episode_id": "dumb_blonde-63d5739b27ae",
+      "rss_guid": "gid://art19-episode-locator/V0/mvii_aLJZeFAEGlwoRkYIQB80e2JOhbZCgqhyJhofPY",
+      "published_date": "2025-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4855.0
+    },
+    {
+      "episode_id": "dumb_blonde-091b8c5edbbf",
+      "rss_guid": "gid://art19-episode-locator/V0/A8ghcmrY37iN6lHpOy-WLIWqLA5fd5jD2rfRywTEQ2w",
+      "published_date": "2025-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2587.0
+    },
+    {
+      "episode_id": "dumb_blonde-b0f1c19864da",
+      "rss_guid": "gid://art19-episode-locator/V0/C2j_1ds2kFGnQcmCD7q3HkGuGTWa5Y1J_LEg9SKm8ww",
+      "published_date": "2025-11-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4985.0
+    },
+    {
+      "episode_id": "dumb_blonde-311b3d1e0793",
+      "rss_guid": "gid://art19-episode-locator/V0/kAegMkOvbB0apf3gTN8vaaPC_VfeQvtbQXUNxExw04w",
+      "published_date": "2025-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1815.0
+    },
+    {
+      "episode_id": "dumb_blonde-453c4b9912df",
+      "rss_guid": "gid://art19-episode-locator/V0/fjcK9YaziFAiMeVsZuGTl65TygXsWPhg_lgkAdjT6Cs",
+      "published_date": "2025-11-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5160.0
+    },
+    {
+      "episode_id": "dumb_blonde-0beb9e72b881",
+      "rss_guid": "gid://art19-episode-locator/V0/qV8wzaOMcFBunujrKIVn869-q5EmAEKfwQGy4H0WYwc",
+      "published_date": "2025-11-16",
+      "guest_name": "Guest",
+      "duration_seconds": 7833.0
+    },
+    {
+      "episode_id": "dumb_blonde-ceb35b310c09",
+      "rss_guid": "gid://art19-episode-locator/V0/YXnfMM9mkPa6x1qbxh4RYKAIJrlCL48RICSQZZNr-9M",
+      "published_date": "2025-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2997.0
+    },
+    {
+      "episode_id": "dumb_blonde-be65e72ece6f",
+      "rss_guid": "gid://art19-episode-locator/V0/JTHmEuGdS2AHDAldC4rmx6cHXgC73kulmjFpx7mD6yA",
+      "published_date": "2025-11-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4773.0
+    },
+    {
+      "episode_id": "dumb_blonde-f4e89ed82725",
+      "rss_guid": "gid://art19-episode-locator/V0/Zgk40zSLMybAz9qCp4f8r6mWp9e9c9F4QtIBjV_B7Sg",
+      "published_date": "2025-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5466.0
+    },
+    {
+      "episode_id": "dumb_blonde-8bdf3f2c4128",
+      "rss_guid": "gid://art19-episode-locator/V0/zB6y8VkoTsGQjGzyoe9tmjtv8QZCga_CmD1J56wlSWU",
+      "published_date": "2025-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1252.0
+    },
+    {
+      "episode_id": "dumb_blonde-3579e7b2ecd2",
+      "rss_guid": "gid://art19-episode-locator/V0/9fTVWbTob-Lc08AUQ5mvqxNbEF-zIv-cBt-0UcIOYx8",
+      "published_date": "2025-11-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3159.0
+    },
+    {
+      "episode_id": "dumb_blonde-a16b224cf523",
+      "rss_guid": "gid://art19-episode-locator/V0/PHOOfXgETvkSGCv43W_gmVhPGhpxbbBYI9MlihOGTkI",
+      "published_date": "2025-11-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3201.0
+    },
+    {
+      "episode_id": "dumb_blonde-0fce9956324a",
+      "rss_guid": "gid://art19-episode-locator/V0/3RHuRc8Wce3qbg8JJNAounZZXSiX2VnL1Z_sWNxxELY",
+      "published_date": "2025-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 1805.0
+    },
+    {
+      "episode_id": "dumb_blonde-63152dd01962",
+      "rss_guid": "gid://art19-episode-locator/V0/WLhAWGkTmW4SOl3MZpdW7EY6PAh4dSWw5f7Zc-47Vfo",
+      "published_date": "2025-10-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3860.0
+    },
+    {
+      "episode_id": "dumb_blonde-f0ae7b1eb9a2",
+      "rss_guid": "gid://art19-episode-locator/V0/zO2ewse-HxxJ47fuFi91SLEpxEfs-70BbjrwAkMfUUg",
+      "published_date": "2025-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2143.0
+    },
+    {
+      "episode_id": "dumb_blonde-3d285e7eb01a",
+      "rss_guid": "gid://art19-episode-locator/V0/cT0r6KBh5lpY1-RS1TFszlgA-TpsKQBGATd-D_OltcI",
+      "published_date": "2025-10-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4111.0
+    },
+    {
+      "episode_id": "dumb_blonde-34cc74ebd926",
+      "rss_guid": "gid://art19-episode-locator/V0/uZf5E1U2D-Um3D6iwPoCdhhhIOPqUW92MXDKOElmvZg",
+      "published_date": "2025-10-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3267.0
+    },
+    {
+      "episode_id": "dumb_blonde-1cf05677507a",
+      "rss_guid": "gid://art19-episode-locator/V0/lRFHMT_JZODVVkDd7ozaGfyngZ4e1ZwSSeMDQXZF05g",
+      "published_date": "2025-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1344.0
+    },
+    {
+      "episode_id": "dumb_blonde-d81e1f70cd72",
+      "rss_guid": "gid://art19-episode-locator/V0/Oo4DI4vspJPpNZAUZe0NOdVNDdu8XnhxjFIFFQq6CH4",
+      "published_date": "2025-10-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6564.0
+    },
+    {
+      "episode_id": "dumb_blonde-29c9431d87e1",
+      "rss_guid": "gid://art19-episode-locator/V0/5QBfCUEQxgQVgrlyVPuNXgVvMCM6M-OFZsR6iw42_EA",
+      "published_date": "2025-10-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3551.0
+    },
+    {
+      "episode_id": "dumb_blonde-49af6cb10ad0",
+      "rss_guid": "gid://art19-episode-locator/V0/Ubhq0rqTiCJWwK6gZlfMGAnLMgAegNvAKYG1f0SNSPA",
+      "published_date": "2025-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1930.0
+    },
+    {
+      "episode_id": "dumb_blonde-ec6bd780d29a",
+      "rss_guid": "gid://art19-episode-locator/V0/jx7k-FggTAr2l6rWcbaACZpaHq9mkIkxIi2wPdkp7cs",
+      "published_date": "2025-10-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2841.0
+    },
+    {
+      "episode_id": "dumb_blonde-4adbfac70e8d",
+      "rss_guid": "gid://art19-episode-locator/V0/hz0c6Ahl_neZLmDBLwFFdQFNoEGrwBNQe1d8V4pfrf8",
+      "published_date": "2025-10-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4425.0
+    },
+    {
+      "episode_id": "dumb_blonde-846622f83ace",
+      "rss_guid": "gid://art19-episode-locator/V0/bxLstA8PIePqJvdwzICTS05gTZwlHRQmVdqQyplDd2E",
+      "published_date": "2025-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1997.0
+    },
+    {
+      "episode_id": "dumb_blonde-c42683461f83",
+      "rss_guid": "gid://art19-episode-locator/V0/6otgoJqUrdkDaF_F1uNYNgxKMMcEJ_FMghFPe_x8IDU",
+      "published_date": "2025-10-02",
+      "guest_name": "Guest",
+      "duration_seconds": 2919.0
+    },
+    {
+      "episode_id": "dumb_blonde-7b1ac224e3af",
+      "rss_guid": "gid://art19-episode-locator/V0/TRrSKmgGKJdZzO3JuM83EctBD4iRX5bjwVujIK0GbFM",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5173.0
+    },
+    {
+      "episode_id": "dumb_blonde-458a627ea62d",
+      "rss_guid": "gid://art19-episode-locator/V0/eG0RSGTyom56dfhUCLhCni-HPHmL48j4pO09uvsbE5w",
+      "published_date": "2025-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1320.0
+    },
+    {
+      "episode_id": "dumb_blonde-d45d4a83501e",
+      "rss_guid": "gid://art19-episode-locator/V0/3HhuNcJRdO4IySxewBG3wm-Ej4sLKG4UK5qyFIOdHpI",
+      "published_date": "2025-09-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4343.0
+    },
+    {
+      "episode_id": "dumb_blonde-ec5b032e498a",
+      "rss_guid": "gid://art19-episode-locator/V0/difvOm-BMlYo9h01qigK_zmdZ7rt3Txtxz4tRy_bwWg",
+      "published_date": "2025-09-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3403.0
+    },
+    {
+      "episode_id": "dumb_blonde-00322b47ec9e",
+      "rss_guid": "gid://art19-episode-locator/V0/WqDH7JvHJgbhlbS9e4bL2uRgKIO_3pEP8HEOO_348LM",
+      "published_date": "2025-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 1561.0
+    },
+    {
+      "episode_id": "dumb_blonde-ed9549a93cbc",
+      "rss_guid": "gid://art19-episode-locator/V0/0lEV2UM8Ju6naxqGpqD91glQSJu0b72bUEWzfApAuao",
+      "published_date": "2025-09-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4508.0
+    },
+    {
+      "episode_id": "dumb_blonde-a5db8955d25e",
+      "rss_guid": "gid://art19-episode-locator/V0/NUujOTVeNSTKWaX2jhSVNWSKDV0aTW20XsOuaDpcygQ",
+      "published_date": "2025-09-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4537.0
+    },
+    {
+      "episode_id": "dumb_blonde-a171393a1a8c",
+      "rss_guid": "gid://art19-episode-locator/V0/TO2wUXMKWmIkujo2m6l_UbPf02qxofLZwyhqamA_K5E",
+      "published_date": "2025-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 1670.0
+    },
+    {
+      "episode_id": "dumb_blonde-75343a3b73b9",
+      "rss_guid": "gid://art19-episode-locator/V0/D_Nrqqm1rTQJfr5XhaEWR8J8RBWHWOAkpoVpsR_yKa8",
+      "published_date": "2025-09-11",
+      "guest_name": "Guest",
+      "duration_seconds": 2781.0
+    },
+    {
+      "episode_id": "dumb_blonde-b8b5ce58fb46",
+      "rss_guid": "gid://art19-episode-locator/V0/H4VIzQLLpR2Om5cIMmKacYJkOooTufRS7fUQYoor3Gc",
+      "published_date": "2025-09-08",
+      "guest_name": "Guest",
+      "duration_seconds": 3985.0
+    },
+    {
+      "episode_id": "dumb_blonde-a1e5807d5d4e",
+      "rss_guid": "gid://art19-episode-locator/V0/9yB5cMN-SRG5E20NWIQD7K-a1B8ERLQITPrfATgKeb0",
+      "published_date": "2025-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 1608.0
+    },
+    {
+      "episode_id": "dumb_blonde-a29db6866f8b",
+      "rss_guid": "gid://art19-episode-locator/V0/qV7-ITPPqaJ5-D2b8ZVUezTk7jO81QpZ4Dift2D3HP0",
+      "published_date": "2025-09-04",
+      "guest_name": "Guest",
+      "duration_seconds": 12806.0
+    },
+    {
+      "episode_id": "dumb_blonde-891244db0ab3",
+      "rss_guid": "gid://art19-episode-locator/V0/lGQmQF00kip3huA1gOx-LEd3LXp9EpWRQ-b6xD3bPfo",
+      "published_date": "2025-09-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3649.0
+    },
+    {
+      "episode_id": "dumb_blonde-c2a3ec97a830",
+      "rss_guid": "gid://art19-episode-locator/V0/vKA-z6EhbsUG-eM0TkR_YUX6F36Z7jj-IpHua2dqmEk",
+      "published_date": "2025-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1449.0
+    },
+    {
+      "episode_id": "dumb_blonde-660144a31fd3",
+      "rss_guid": "gid://art19-episode-locator/V0/lES6Q-VI61Di3c6cKEuzgjmT49EJ6HuMfknw8rFf2eg",
+      "published_date": "2025-08-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4827.0
+    },
+    {
+      "episode_id": "dumb_blonde-8332fe58b2a2",
+      "rss_guid": "gid://art19-episode-locator/V0/a-U6RnrT0SvMrypN7aHrFK3qW2JfQhm0RrZ6eI6V0Qs",
+      "published_date": "2025-08-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4383.0
+    },
+    {
+      "episode_id": "dumb_blonde-7cb10c962b2a",
+      "rss_guid": "gid://art19-episode-locator/V0/mPYCezX0CRnUdKWvvwcAsvqcXhJnbVfplCFT6xh2Yls",
+      "published_date": "2025-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1594.0
+    },
+    {
+      "episode_id": "dumb_blonde-c8707ec89ced",
+      "rss_guid": "gid://art19-episode-locator/V0/ijaDEjykps90UrROKz04ECwqBO3mWR8z4nl4B5nGbCQ",
+      "published_date": "2025-08-21",
+      "guest_name": "Guest",
+      "duration_seconds": 3782.0
+    },
+    {
+      "episode_id": "dumb_blonde-eee904ed97f3",
+      "rss_guid": "gid://art19-episode-locator/V0/mH0aXsm-oAt5ttATr_ST7QBjVZAbRkQtarlXo9Opi3c",
+      "published_date": "2025-08-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5717.0
+    },
+    {
+      "episode_id": "dumb_blonde-bf95fc3d90c1",
+      "rss_guid": "gid://art19-episode-locator/V0/09v5iXH1hFaL3GoJfqHLq1UcnsZKWmv4qVXGw_5wsoQ",
+      "published_date": "2025-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1562.0
+    },
+    {
+      "episode_id": "dumb_blonde-584cd6e65cab",
+      "rss_guid": "gid://art19-episode-locator/V0/-pmna3IPO-BtYLPKHNYiDLBZXh6q9a3Xl46de1VN5nk",
+      "published_date": "2025-08-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6878.0
+    },
+    {
+      "episode_id": "dumb_blonde-89960c820c4c",
+      "rss_guid": "gid://art19-episode-locator/V0/8O4gjqkt8tDXW8htVuBsvfnkxKcfiYBVxoxXcVIzAh0",
+      "published_date": "2025-08-11",
+      "guest_name": "Guest",
+      "duration_seconds": 5519.0
+    },
+    {
+      "episode_id": "dumb_blonde-d7ac71a4ebc6",
+      "rss_guid": "gid://art19-episode-locator/V0/bvEWWgpwEq05g7F-cS80s1WTpQLwHStHoQQ4NZ47ZJA",
+      "published_date": "2025-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1585.0
+    },
+    {
+      "episode_id": "dumb_blonde-6102f8d47a13",
+      "rss_guid": "gid://art19-episode-locator/V0/Pe3NZOMdM8GSFBZo3yRTdHjKz6DQ9gdKH-PP3X9faeY",
+      "published_date": "2025-08-07",
+      "guest_name": "Guest",
+      "duration_seconds": 4280.0
+    },
+    {
+      "episode_id": "dumb_blonde-a057dcffdae9",
+      "rss_guid": "gid://art19-episode-locator/V0/OL3p9easSDHk6oBgX7ZDWx6gx5PUucKLC7en2ScoaPQ",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6524.0
+    },
+    {
+      "episode_id": "dumb_blonde-a1f4053e965c",
+      "rss_guid": "gid://art19-episode-locator/V0/ccyDKPjBuD9EwetCiN5m3QJ7JhitP1hGJMbF2VD4tuU",
+      "published_date": "2025-08-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1733.0
+    },
+    {
+      "episode_id": "dumb_blonde-e72523fbafcf",
+      "rss_guid": "gid://art19-episode-locator/V0/wxwXHfY3ZmMB1kkVHc3uSL7jYQfywJCpeZQ1FeZ2ZIM",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest",
+      "duration_seconds": 8572.0
+    },
+    {
+      "episode_id": "dumb_blonde-ff2cac95b296",
+      "rss_guid": "gid://art19-episode-locator/V0/n-ayhDZ0NGbqvSJ517jjuKV8e4p9DCOJQh8lw_L2zNA",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4610.0
+    },
+    {
+      "episode_id": "dumb_blonde-deef9ca24dca",
+      "rss_guid": "gid://art19-episode-locator/V0/WkdFXremWPDFX1Kz3iK3wGaDKRy-TeOW-XzE84wwRlI",
+      "published_date": "2025-07-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1871.0
+    },
+    {
+      "episode_id": "dumb_blonde-afb665fb056e",
+      "rss_guid": "gid://art19-episode-locator/V0/hvXPPoq9NLDrdOllXMuNSIgJNaJSH2lyHu7-TNIQECw",
+      "published_date": "2025-07-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6016.0
+    },
+    {
+      "episode_id": "dumb_blonde-53fafc20b51f",
+      "rss_guid": "gid://art19-episode-locator/V0/mHFiXgKVthpJz7U8TQYh0tfJ9RJ0H2hnzwqyc3swkDA",
+      "published_date": "2025-07-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4057.0
+    },
+    {
+      "episode_id": "dumb_blonde-f28eba2fb8bd",
+      "rss_guid": "gid://art19-episode-locator/V0/fF8hD6COdoD1mI_ATtH0Entxg6IkY0V74HXIgucGeBA",
+      "published_date": "2025-07-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1044.0
+    },
+    {
+      "episode_id": "dumb_blonde-18b9afa45bca",
+      "rss_guid": "gid://art19-episode-locator/V0/pdfVx3Y6iLET4JZ3Edg8hRZDbPEYJnNe-UEPC-PqLis",
+      "published_date": "2025-07-17",
+      "guest_name": "Guest",
+      "duration_seconds": 2719.0
+    },
+    {
+      "episode_id": "dumb_blonde-edd93c14bee8",
+      "rss_guid": "gid://art19-episode-locator/V0/4sCgfohY7F4KE9MqF3ToqHOB-i8woHXib_WHAF5zjUs",
+      "published_date": "2025-07-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3300.0
+    },
+    {
+      "episode_id": "dumb_blonde-55c399b46403",
+      "rss_guid": "gid://art19-episode-locator/V0/oW5kE3__kgqMso0NhmPqICKUJTmQaPVZtC0ZdmIWoGk",
+      "published_date": "2025-07-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1419.0
+    },
+    {
+      "episode_id": "dumb_blonde-a7b724144cc1",
+      "rss_guid": "gid://art19-episode-locator/V0/9__y-1dqKs-Q0ZDPnGZJzoR8FzRlYYq_z7te0FNmz9M",
+      "published_date": "2025-07-10",
+      "guest_name": "Guest",
+      "duration_seconds": 10867.0
+    },
+    {
+      "episode_id": "dumb_blonde-46f888ef43d3",
+      "rss_guid": "gid://art19-episode-locator/V0/M9eVN_TF__n0H7bWvv_mzU0mKDpYW4gUmIPa5ZpnG9o",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3758.0
+    },
+    {
+      "episode_id": "dumb_blonde-ede9a2bcac68",
+      "rss_guid": "gid://art19-episode-locator/V0/HTANUKAud_z9w1lMbv6zQR43XWPfwkKbLxFN2pBcsME",
+      "published_date": "2025-07-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1083.0
+    },
+    {
+      "episode_id": "dumb_blonde-4d93971cd9e2",
+      "rss_guid": "gid://art19-episode-locator/V0/LD84av7RQXK9V-AHsHtIsSlTOZkFzcRdlPV1Gka0uA0",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2459.0
+    },
+    {
+      "episode_id": "dumb_blonde-d46735987c20",
+      "rss_guid": "gid://art19-episode-locator/V0/iFw6sxFQwYZXO9eJBylXiA_R57Rd-ZMfORBIzSWei1E",
+      "published_date": "2025-06-30",
+      "guest_name": "Guest",
+      "duration_seconds": 2981.0
+    },
+    {
+      "episode_id": "dumb_blonde-17c0310b7356",
+      "rss_guid": "gid://art19-episode-locator/V0/vL5tsVal8otqukRDXQI3dJ4tE18fveW0gnitN1tdh8s",
+      "published_date": "2025-06-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1071.0
+    },
+    {
+      "episode_id": "dumb_blonde-d92623277602",
+      "rss_guid": "gid://art19-episode-locator/V0/FkaderUe-YdqpeU3UQxKMsVVpEHFAtNsJk_rLFsXaO4",
+      "published_date": "2025-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3994.0
+    },
+    {
+      "episode_id": "dumb_blonde-9c97bb773745",
+      "rss_guid": "gid://art19-episode-locator/V0/DBdAtqJLov9h1IFuBPo6i-S1EXMaue3Q2_cwB5r6qpA",
+      "published_date": "2025-06-23",
+      "guest_name": "Guest",
+      "duration_seconds": 4960.0
+    },
+    {
+      "episode_id": "dumb_blonde-14d3ecc591cc",
+      "rss_guid": "gid://art19-episode-locator/V0/QUA46D9eSzc31ZTRXPrc9puCbAFRwA12sN6uF_j6ZeM",
+      "published_date": "2025-06-20",
+      "guest_name": "Guest",
+      "duration_seconds": 799.0
+    },
+    {
+      "episode_id": "dumb_blonde-32c1548e3318",
+      "rss_guid": "gid://art19-episode-locator/V0/oRSu43zz58mP96PgBkkwRnVonQWDxiziIboNt8ePy5o",
+      "published_date": "2025-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4006.0
+    },
+    {
+      "episode_id": "dumb_blonde-d0707ec8638c",
+      "rss_guid": "gid://art19-episode-locator/V0/HGqqFxg63r8z0b2V8jqotVuJYHWTw08Xz55KItRhaoE",
+      "published_date": "2025-06-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4061.0
+    },
+    {
+      "episode_id": "dumb_blonde-4b1113cbb284",
+      "rss_guid": "gid://art19-episode-locator/V0/LghhzJJOBbj0G-GakUDYhFqWASuDqFtVfelnzfw0YHE",
+      "published_date": "2025-06-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1137.0
+    },
+    {
+      "episode_id": "dumb_blonde-c0c747516e91",
+      "rss_guid": "gid://art19-episode-locator/V0/FTjd9M7_36PX_YsxfwU_eElKtTC6K4fveE5HVVmwGiQ",
+      "published_date": "2025-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3449.0
+    },
+    {
+      "episode_id": "dumb_blonde-88e8a3affcfd",
+      "rss_guid": "gid://art19-episode-locator/V0/auf3jZWoyXIXAZ5xLMSyoqGGG6k-cvIkUUi8PaIValo",
+      "published_date": "2025-06-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3519.0
+    },
+    {
+      "episode_id": "dumb_blonde-ebe3ecf7d28f",
+      "rss_guid": "gid://art19-episode-locator/V0/DB4BkE31mSuflzEIhgXnpOd7pVWs6as7k4mpTRjuglY",
+      "published_date": "2025-06-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1114.0
+    },
+    {
+      "episode_id": "dumb_blonde-d2f67e92d0dc",
+      "rss_guid": "gid://art19-episode-locator/V0/WQgCrDIR5UqsdjsRidvLCw6iqhrhfN6fkZrqG7ICiCA",
+      "published_date": "2025-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 3962.0
+    },
+    {
+      "episode_id": "dumb_blonde-f869ecc12a8f",
+      "rss_guid": "gid://art19-episode-locator/V0/2dHzcrsUbSK1bWmAgH4JrqMCknCrPGf7MeNERgK17ec",
+      "published_date": "2025-06-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3196.0
+    },
+    {
+      "episode_id": "dumb_blonde-691204f94356",
+      "rss_guid": "gid://art19-episode-locator/V0/Q_DJOOmG4I9bvZR_199CxbZQ-nHTQmEs1LH0jFMRYac",
+      "published_date": "2025-05-30",
+      "guest_name": "Guest",
+      "duration_seconds": 957.0
+    },
+    {
+      "episode_id": "dumb_blonde-25ec0d044a52",
+      "rss_guid": "gid://art19-episode-locator/V0/tiz0JTYOJyqaDlh5v9QK2PBzPrHsJtazgjjCmriyHYY",
+      "published_date": "2025-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 6246.0
+    },
+    {
+      "episode_id": "dumb_blonde-a6ec82140cae",
+      "rss_guid": "gid://art19-episode-locator/V0/rLdHrNo6uJUvyI48xSH7GVyBJeNkAcNHslqAe7HsHUw",
+      "published_date": "2025-05-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2846.0
+    },
+    {
+      "episode_id": "dumb_blonde-50b46e441827",
+      "rss_guid": "gid://art19-episode-locator/V0/LpBZho_rLr34uH5XiOj6Y7OI5qJVJ5-UVH_o48DW0Rc",
+      "published_date": "2025-05-23",
+      "guest_name": "Guest",
+      "duration_seconds": 1104.0
+    },
+    {
+      "episode_id": "dumb_blonde-eeec8156cb99",
+      "rss_guid": "gid://art19-episode-locator/V0/OGXlQ7DImsJz4r7Ao25iXg4TnfEd8jCF4WoffSetokA",
+      "published_date": "2025-05-22",
+      "guest_name": "Guest",
+      "duration_seconds": 4105.0
+    },
+    {
+      "episode_id": "dumb_blonde-3052c1803369",
+      "rss_guid": "gid://art19-episode-locator/V0/X6JZ8VkOnNv7unvnMFBiUCbrP8IimfdPADMgbJSuvM0",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest",
+      "duration_seconds": 3651.0
+    },
+    {
+      "episode_id": "dumb_blonde-cbd1af4fdce9",
+      "rss_guid": "gid://art19-episode-locator/V0/2CV2MByicoWItxasblkP-hnKAXMCP2s_Mg76AMXAuqw",
+      "published_date": "2025-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 1272.0
+    },
+    {
+      "episode_id": "dumb_blonde-ace90355e0b1",
+      "rss_guid": "gid://art19-episode-locator/V0/SVSw8zYG-NX2cItf3QkCPW6FuflwvHrzDiElrw1cywg",
+      "published_date": "2025-05-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4752.0
+    },
+    {
+      "episode_id": "dumb_blonde-3eec67b41792",
+      "rss_guid": "gid://art19-episode-locator/V0/dMsTLBWCuxbXZMuRAHwETu98ITjY5UjAyR5OR9YiTwM",
+      "published_date": "2025-05-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6762.0
+    },
+    {
+      "episode_id": "dumb_blonde-eeab02cdf5dd",
+      "rss_guid": "gid://art19-episode-locator/V0/yIFOfb_9n9ERAUXlzjG11IdErTc1_9_3Zx84OPACv6s",
+      "published_date": "2025-05-09",
+      "guest_name": "Guest",
+      "duration_seconds": 1097.0
+    },
+    {
+      "episode_id": "dumb_blonde-b6f52ac34ef9",
+      "rss_guid": "gid://art19-episode-locator/V0/hWgfeGg_rzmuyd3KORcU9hlSTuLhR8u0a3meAbHgZPE",
+      "published_date": "2025-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4278.0
+    },
+    {
+      "episode_id": "dumb_blonde-a840a050fc1d",
+      "rss_guid": "gid://art19-episode-locator/V0/Qhq3lhznK-nOA-aArYJVSeRGCdeMnpn4_KwF-4lTaxQ",
+      "published_date": "2025-05-05",
+      "guest_name": "Guest",
+      "duration_seconds": 4942.0
+    },
+    {
+      "episode_id": "dumb_blonde-7d9d48be7ecc",
+      "rss_guid": "gid://art19-episode-locator/V0/KUDGwkvMKvylnNNZnDtva83t6NbYm4KeYbPGDt_K2Jc",
+      "published_date": "2025-05-02",
+      "guest_name": "Guest",
+      "duration_seconds": 1110.0
+    },
+    {
+      "episode_id": "dumb_blonde-0a47c403a52f",
+      "rss_guid": "gid://art19-episode-locator/V0/nbATO9ThBSWH400ER2tHUtlGFA6ZkqC06O3bLnp1BgM",
+      "published_date": "2025-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5389.0
+    },
+    {
+      "episode_id": "dumb_blonde-4c9249be9f39",
+      "rss_guid": "gid://art19-episode-locator/V0/jY9UWJYmNArok2HSriaK4g1wyi0G5VDBsy_SQ36z0bM",
+      "published_date": "2025-04-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3335.0
+    },
+    {
+      "episode_id": "dumb_blonde-b8c8a879ef37",
+      "rss_guid": "gid://art19-episode-locator/V0/-ZSiQEFQInR9cIJQ70Y8yBoEEM1TpukGbC_83hU2zrs",
+      "published_date": "2025-04-25",
+      "guest_name": "Guest",
+      "duration_seconds": 1289.0
+    },
+    {
+      "episode_id": "dumb_blonde-526ebec083f7",
+      "rss_guid": "gid://art19-episode-locator/V0/c4woLELWJyq2mRH5kSdSBnYltXMuK_UoWy2gl4Pe0yk",
+      "published_date": "2025-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4338.0
+    },
+    {
+      "episode_id": "dumb_blonde-dbdffbee8c1d",
+      "rss_guid": "gid://art19-episode-locator/V0/jbpWwA1L9q_FmARwYFByJvqnkuxNwK2rWCetghHlFzA",
+      "published_date": "2025-04-21",
+      "guest_name": "Guest",
+      "duration_seconds": 9460.0
+    },
+    {
+      "episode_id": "dumb_blonde-c6953973172b",
+      "rss_guid": "gid://art19-episode-locator/V0/hXj1HGIBZe9fJK6KCdMsNVtuZsJr3z6pgp8PFMUEvQI",
+      "published_date": "2025-04-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1310.0
+    },
+    {
+      "episode_id": "dumb_blonde-077d4560dc1c",
+      "rss_guid": "gid://art19-episode-locator/V0/ISdBrmvV9YsciCQC8xjaLNlepyiwAGzMegZSabLmQAI",
+      "published_date": "2025-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3479.0
+    },
+    {
+      "episode_id": "dumb_blonde-16e2ebdeb13b",
+      "rss_guid": "gid://art19-episode-locator/V0/JL9SgqqsY09Uegu4DQv3FdNFQY70iBnUnolCyFCIPoA",
+      "published_date": "2025-04-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3196.0
+    },
+    {
+      "episode_id": "dumb_blonde-fdeba0f31b9f",
+      "rss_guid": "gid://art19-episode-locator/V0/DHvIu9QMzTO4mKlEIZVDiyoVT8WesyB22Ho5zDQCoh8",
+      "published_date": "2025-04-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1821.0
+    },
+    {
+      "episode_id": "dumb_blonde-173dda0662d0",
+      "rss_guid": "gid://art19-episode-locator/V0/vGuMiqeHctakRlh2u3PxneoQ8RgNPVhX826ZCGlCeVM",
+      "published_date": "2025-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5507.0
+    },
+    {
+      "episode_id": "dumb_blonde-7f5156f9e0a1",
+      "rss_guid": "gid://art19-episode-locator/V0/d--IfjFIfM9nPmSd7WMkTPg9uWqn8i0xvBoaHOit7PA",
+      "published_date": "2025-04-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3067.0
+    },
+    {
+      "episode_id": "dumb_blonde-da8d40b774ca",
+      "rss_guid": "gid://art19-episode-locator/V0/FeaudBBg6p2to9NO0EMGNThlMJBfPsr74XdgEHnQSpc",
+      "published_date": "2025-04-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1198.0
+    },
+    {
+      "episode_id": "dumb_blonde-b43a5ba51038",
+      "rss_guid": "gid://art19-episode-locator/V0/p45ZJBK29LqwL_yQruP1QwE19IgazRxOrVBjD738U_M",
+      "published_date": "2025-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4799.0
+    },
+    {
+      "episode_id": "dumb_blonde-0a58bc809033",
+      "rss_guid": "gid://art19-episode-locator/V0/esKMH3RFShg7UVkTiwt2twfj9XIm1CjREG7Wx6TC-Nk",
+      "published_date": "2025-03-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3228.0
+    },
+    {
+      "episode_id": "dumb_blonde-53c326f408fa",
+      "rss_guid": "gid://art19-episode-locator/V0/73cZu9mh-GiSwgbZJUpGYarlhEvi912d3r2hQA4F5MI",
+      "published_date": "2025-03-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1575.0
+    },
+    {
+      "episode_id": "dumb_blonde-b339964a4182",
+      "rss_guid": "gid://art19-episode-locator/V0/8421Wrg3GPJYEp7ecQ4oUa92xQsDb1xvJkIjkORzBFI",
+      "published_date": "2025-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5167.0
+    },
+    {
+      "episode_id": "dumb_blonde-d8d44c902642",
+      "rss_guid": "gid://art19-episode-locator/V0/qbQp0FYdHEt4qboBxx740H4necnUbowNQ0f-GYfP3Rk",
+      "published_date": "2025-03-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3223.0
+    },
+    {
+      "episode_id": "dumb_blonde-6655b9b8214c",
+      "rss_guid": "gid://art19-episode-locator/V0/D9l4ZByKnjjRCLRMNexlCO_1_gUKvpZJtiNclN2TQ0g",
+      "published_date": "2025-03-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1545.0
+    },
+    {
+      "episode_id": "dumb_blonde-22c6b2822360",
+      "rss_guid": "gid://art19-episode-locator/V0/t-3lXekNvcosrzgJqNXZA32Ow3WxBs4GqacfZELBor4",
+      "published_date": "2025-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 6682.0
+    },
+    {
+      "episode_id": "dumb_blonde-292c46eaee26",
+      "rss_guid": "gid://art19-episode-locator/V0/3piJNq7_4lAQevql39tmcKVCLJjbnBkFziprZjQKs_8",
+      "published_date": "2025-03-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5586.0
+    },
+    {
+      "episode_id": "dumb_blonde-890c508870e7",
+      "rss_guid": "gid://art19-episode-locator/V0/DxaF-0y880gTFm9Ggns81sZ6z-UYIOcBkKnrd11zEE0",
+      "published_date": "2025-03-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1336.0
+    },
+    {
+      "episode_id": "dumb_blonde-879af590ae94",
+      "rss_guid": "gid://art19-episode-locator/V0/e2KaOIYJkJLf0m-wDB0b-FjG_eOAQcJMMMqShdc2qSg",
+      "published_date": "2025-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 3995.0
+    },
+    {
+      "episode_id": "dumb_blonde-3847452a4251",
+      "rss_guid": "gid://art19-episode-locator/V0/9ewaRKsbF9hh4HMw8vibOywkp5Mlhnn05h22zy7aAEw",
+      "published_date": "2025-03-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2615.0
+    },
+    {
+      "episode_id": "dumb_blonde-a5125ee77fc4",
+      "rss_guid": "gid://art19-episode-locator/V0/BEIO-yKRNy1aguLMKymeCXZuqs1Zp3xiyFll27U4l7c",
+      "published_date": "2025-03-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1499.0
+    },
+    {
+      "episode_id": "dumb_blonde-a7be8e733666",
+      "rss_guid": "gid://art19-episode-locator/V0/Hg_s4IE5a9TMWYtCm_PiVGB6V6iSEhD9Q5wGwbh5FuQ",
+      "published_date": "2025-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4016.0
+    },
+    {
+      "episode_id": "dumb_blonde-ede3886c5021",
+      "rss_guid": "gid://art19-episode-locator/V0/8TiAoezozmcPicUQqD69jqH-vrIdAeZ4QkEndzkhwws",
+      "published_date": "2025-03-03",
+      "guest_name": "Guest",
+      "duration_seconds": 6312.0
+    },
+    {
+      "episode_id": "dumb_blonde-31cb65eb67fa",
+      "rss_guid": "gid://art19-episode-locator/V0/nyVoYExRa-skyDQSp1g9F6XO_nue13mX2zGP8STIj7g",
+      "published_date": "2025-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1519.0
+    },
+    {
+      "episode_id": "dumb_blonde-26c8c1340679",
+      "rss_guid": "gid://art19-episode-locator/V0/bI1NeXFlVpW1d0aK8oiiSZ_AtBtP07QucAF_snyLGZU",
+      "published_date": "2025-02-27",
+      "guest_name": "Guest",
+      "duration_seconds": 8453.0
+    },
+    {
+      "episode_id": "dumb_blonde-17b1b3904aac",
+      "rss_guid": "gid://art19-episode-locator/V0/5sLJrShtnVE31HWWOR3L_J6H6Wm5m5xZ8nRqDYVtSw8",
+      "published_date": "2025-02-24",
+      "guest_name": "Guest",
+      "duration_seconds": 3782.0
+    },
+    {
+      "episode_id": "dumb_blonde-d4dbbd5c91a6",
+      "rss_guid": "gid://art19-episode-locator/V0/gx5HEHD1pA-n1cR-j3pU0DT48i17MYUGQ18yLowOEsE",
+      "published_date": "2025-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 1485.0
+    },
+    {
+      "episode_id": "dumb_blonde-e1e56a167ec3",
+      "rss_guid": "gid://art19-episode-locator/V0/vFzqftwmJzaxdZRBO6dxlocKvtcxAH4hUexeSqkVBSA",
+      "published_date": "2025-02-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5257.0
+    },
+    {
+      "episode_id": "dumb_blonde-039437f5e735",
+      "rss_guid": "gid://art19-episode-locator/V0/05NzC_A4jWaWPsQYO1IWezHvX0Rux_QK1_6lmJonMFU",
+      "published_date": "2025-02-17",
+      "guest_name": "Guest",
+      "duration_seconds": 6878.0
+    },
+    {
+      "episode_id": "dumb_blonde-c8bce48f380e",
+      "rss_guid": "gid://art19-episode-locator/V0/rakKf-5Hr5bymv_jzEox8tpZMqLj_O37K0XBQw90RF8",
+      "published_date": "2025-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 1238.0
+    },
+    {
+      "episode_id": "dumb_blonde-d10cd78bbf7d",
+      "rss_guid": "gid://art19-episode-locator/V0/pugvepj30K9nlYADtbApz8nkAHzMAIrqrSO6YZL2adc",
+      "published_date": "2025-02-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5673.0
+    },
+    {
+      "episode_id": "dumb_blonde-ad38c06c3fdc",
+      "rss_guid": "gid://art19-episode-locator/V0/Gj4bWHGlWBSurVuZhaPOsPUP3Rj9Qy7QZBy2CvwZO_M",
+      "published_date": "2025-02-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4529.0
+    },
+    {
+      "episode_id": "dumb_blonde-1314f5d9dd35",
+      "rss_guid": "gid://art19-episode-locator/V0/ks2qF5Me7DkCtcnirV-cegsiGIqxhLhkZZB2mSAp5Lg",
+      "published_date": "2025-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 1515.0
+    },
+    {
+      "episode_id": "dumb_blonde-233835388af5",
+      "rss_guid": "gid://art19-episode-locator/V0/0IFpGbT8BnM4pY706aLz7tFLc3lexK-JtTUlvIFKvtk",
+      "published_date": "2025-02-06",
+      "guest_name": "Guest",
+      "duration_seconds": 7090.0
+    },
+    {
+      "episode_id": "dumb_blonde-2e4480f9a9d3",
+      "rss_guid": "gid://art19-episode-locator/V0/sWjuiPXmXCwbNuLnltnfpcLc-aSdm_BpKdv6u_jgLDg",
+      "published_date": "2025-02-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4782.0
+    },
+    {
+      "episode_id": "dumb_blonde-db4780ed5439",
+      "rss_guid": "gid://art19-episode-locator/V0/ElnF8LM87XZfMi_wJZHwe6Ujrgz2B-lqzolPuaR82vs",
+      "published_date": "2025-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 1204.0
+    },
+    {
+      "episode_id": "dumb_blonde-ac013037ab7b",
+      "rss_guid": "gid://art19-episode-locator/V0/MWbqzSWbAOCSFY-VgwDUFoiIavzP_vhnibATTIXShDU",
+      "published_date": "2025-01-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4356.0
+    },
+    {
+      "episode_id": "dumb_blonde-035f71bf1a05",
+      "rss_guid": "gid://art19-episode-locator/V0/sz2hs_KtILkHKtYD0BUNGa9a684JhvfCc_12uYJ6oCY",
+      "published_date": "2025-01-27",
+      "guest_name": "Guest",
+      "duration_seconds": 2863.0
+    },
+    {
+      "episode_id": "dumb_blonde-2c632c423e84",
+      "rss_guid": "gid://art19-episode-locator/V0/6-PbwkNUs8iWkjr7DVnKJv07LVaZo5PaDMRG1DeqG60",
+      "published_date": "2025-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 1703.0
+    },
+    {
+      "episode_id": "dumb_blonde-4b888eebe7f3",
+      "rss_guid": "gid://art19-episode-locator/V0/W6OyM6uh8_s-mjOwcEfBQ66kBzvMIDzN1VV2eBiz3jY",
+      "published_date": "2025-01-23",
+      "guest_name": "Guest",
+      "duration_seconds": 5147.0
+    },
+    {
+      "episode_id": "dumb_blonde-e245263fe3ca",
+      "rss_guid": "gid://art19-episode-locator/V0/En62KdZy-ORK8HCycIYApzc9Z-ZgJ2FyQXcMcYdOFYs",
+      "published_date": "2025-01-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5639.0
+    },
+    {
+      "episode_id": "dumb_blonde-8d5261cc8f6a",
+      "rss_guid": "gid://art19-episode-locator/V0/AaPbSfQf_vsPEmoggwsm1YzbE4sj7s-n-RTCKXlBNVM",
+      "published_date": "2025-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 1518.0
+    },
+    {
+      "episode_id": "dumb_blonde-e471cb1b883f",
+      "rss_guid": "gid://art19-episode-locator/V0/DqYlJbRUmZUbtkExwRSNP9ebRI-nIV1IRsixjmkeFDg",
+      "published_date": "2025-01-16",
+      "guest_name": "Guest",
+      "duration_seconds": 8453.0
+    },
+    {
+      "episode_id": "dumb_blonde-1f3a10cd8974",
+      "rss_guid": "gid://art19-episode-locator/V0/x36rlnu5kjmQ8tpgVXJo81_Isb3Vt6ye8LfJpmj7yAg",
+      "published_date": "2025-01-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5067.0
+    },
+    {
+      "episode_id": "dumb_blonde-3a8be6f4f074",
+      "rss_guid": "gid://art19-episode-locator/V0/sBj7ICREVO6vp6pvusz-rFe0Holdq_iRHgDRkNXJa7g",
+      "published_date": "2025-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 1043.0
+    },
+    {
+      "episode_id": "dumb_blonde-5217fe98671d",
+      "rss_guid": "gid://art19-episode-locator/V0/Y5h-Zsl-UomjRVVJymCemf4cHalgJEmQmm9fAFOwKKA",
+      "published_date": "2025-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 7413.0
+    },
+    {
+      "episode_id": "dumb_blonde-327a0b21d299",
+      "rss_guid": "gid://art19-episode-locator/V0/rCC0m7H8CKPHXgOKQnOEzta9sDItJHtdmR9mY2E_QF0",
+      "published_date": "2025-01-06",
+      "guest_name": "Guest",
+      "duration_seconds": 5941.0
+    },
+    {
+      "episode_id": "dumb_blonde-a9208090bb37",
+      "rss_guid": "gid://art19-episode-locator/V0/iSvnbeM2fEGehE0u2sdYi9SgQJhZVanhQFwVEudRRxk",
+      "published_date": "2025-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 1832.0
+    },
+    {
+      "episode_id": "dumb_blonde-90669f85e54d",
+      "rss_guid": "gid://art19-episode-locator/V0/_oMqincNNagphOaLb-a79M3NjhU3KqLH-l31uzS8i0M",
+      "published_date": "2025-01-02",
+      "guest_name": "Guest",
+      "duration_seconds": 9543.0
+    },
+    {
+      "episode_id": "dumb_blonde-ca03b0191f26",
+      "rss_guid": "gid://art19-episode-locator/V0/9eqAmm-dNHv_AB5GIg3Pgv1wg6P6a91YNjiZLnG8LR0",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4280.0
+    },
+    {
+      "episode_id": "dumb_blonde-2b6eb0605f7f",
+      "rss_guid": "gid://art19-episode-locator/V0/S96HJGHkD3Vd1c-BNq4QK8fJnuvAqxmLwihtexdZZsE",
+      "published_date": "2024-12-27",
+      "guest_name": "Guest",
+      "duration_seconds": 1150.0
+    },
+    {
+      "episode_id": "dumb_blonde-285d6875b866",
+      "rss_guid": "gid://art19-episode-locator/V0/zea5yYYLfW-MXpZLF45iuGZve3IlmIIEinJPV4MN6Nw",
+      "published_date": "2024-12-26",
+      "guest_name": "Guest",
+      "duration_seconds": 6486.0
+    },
+    {
+      "episode_id": "dumb_blonde-7cfdd48c9929",
+      "rss_guid": "gid://art19-episode-locator/V0/zNgzLV7f5jn4i3M42nxq3PHZ1-cjB9jseElj4CGG8dA",
+      "published_date": "2024-12-23",
+      "guest_name": "Guest",
+      "duration_seconds": 12806.0
+    },
+    {
+      "episode_id": "dumb_blonde-5006c8d0f0ce",
+      "rss_guid": "gid://art19-episode-locator/V0/Jz2-R_AFZuVKoa8HLRJT-x4jU6BF5d21jfLnQfsXbwg",
+      "published_date": "2024-12-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1086.0
+    },
+    {
+      "episode_id": "dumb_blonde-a6ca764a8997",
+      "rss_guid": "gid://art19-episode-locator/V0/w2T-kyyhD8AhgojjC4hscigGHby3PvIwFlJVKsYZuTg",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest",
+      "duration_seconds": 6322.0
+    },
+    {
+      "episode_id": "dumb_blonde-af1e48671f5a",
+      "rss_guid": "gid://art19-episode-locator/V0/dmczQbAUCDI7JIsW_aN9yFFyuefE91bhXxA9hUHjK1k",
+      "published_date": "2024-12-16",
+      "guest_name": "Guest",
+      "duration_seconds": 6150.0
+    },
+    {
+      "episode_id": "dumb_blonde-d4601031599f",
+      "rss_guid": "gid://art19-episode-locator/V0/hnVFAtB56DgVi41TR9Exo_v732OCZya4KO69aRCMa_Q",
+      "published_date": "2024-12-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1415.0
+    },
+    {
+      "episode_id": "dumb_blonde-5ad696b23658",
+      "rss_guid": "gid://art19-episode-locator/V0/4j4VjakeGjyw1RBJuTR6JHM6cvxJvWIHfBdSqtw2YQY",
+      "published_date": "2024-12-12",
+      "guest_name": "Guest",
+      "duration_seconds": 6425.0
+    },
+    {
+      "episode_id": "dumb_blonde-6916ec6fdca0",
+      "rss_guid": "gid://art19-episode-locator/V0/9JGwMYMm91Mf5y05WuzpdcTAHjajqoR_ml3w2byw3SM",
+      "published_date": "2024-12-09",
+      "guest_name": "Guest",
+      "duration_seconds": 2781.0
+    },
+    {
+      "episode_id": "dumb_blonde-db0c6d94f4cd",
+      "rss_guid": "gid://art19-episode-locator/V0/xKu2kv3nAs1b37qP3qjGJwQmK8DiTR6hWkJzrF6NNTU",
+      "published_date": "2024-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 1293.0
+    },
+    {
+      "episode_id": "dumb_blonde-da50d4d13622",
+      "rss_guid": "gid://art19-episode-locator/V0/ms2ndb7bu_wo2Ia3SgHwafphG-eUTUKfRLt71gAyvvM",
+      "published_date": "2024-12-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2778.0
+    },
+    {
+      "episode_id": "dumb_blonde-c7faffbcd6ff",
+      "rss_guid": "gid://art19-episode-locator/V0/ZXxlTuVFRIBwFHf4diqZ0_Avn2q4zZ2yqLBrmeaSnsQ",
+      "published_date": "2024-12-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3187.0
+    },
+    {
+      "episode_id": "dumb_blonde-51644e1a057e",
+      "rss_guid": "gid://art19-episode-locator/V0/rGjZXtXrKZZrCIfNpegDgUhyLGHduEzdMieSpE09MT4",
+      "published_date": "2024-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1548.0
+    },
+    {
+      "episode_id": "dumb_blonde-5cd2b8a8cda5",
+      "rss_guid": "gid://art19-episode-locator/V0/xFY3zo5JbLEkjQxzM3N76sGLnp7cyarBqnBagfoDMhQ",
+      "published_date": "2024-11-28",
+      "guest_name": "Guest",
+      "duration_seconds": 2012.0
+    },
+    {
+      "episode_id": "dumb_blonde-4ea546ece2d1",
+      "rss_guid": "gid://art19-episode-locator/V0/JRVUvVN6ihxqCKDlXKAmTwtBiJ_kwPA29UmDFL6-o88",
+      "published_date": "2024-11-25",
+      "guest_name": "Guest",
+      "duration_seconds": 3860.0
+    },
+    {
+      "episode_id": "dumb_blonde-2c3468ac0262",
+      "rss_guid": "gid://art19-episode-locator/V0/f1EszEJjNciysv_6kpSUlPwPLkFqmSBNYpeWIbuQAjI",
+      "published_date": "2024-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1463.0
+    },
+    {
+      "episode_id": "dumb_blonde-eb5b0a3f1946",
+      "rss_guid": "gid://art19-episode-locator/V0/FPB4kk8JtdR5NxSIQtw9Gk_OWOerGK4atsJjIjf6EYc",
+      "published_date": "2024-11-21",
+      "guest_name": "Guest",
+      "duration_seconds": 5393.0
+    },
+    {
+      "episode_id": "dumb_blonde-4ac76b38e2cf",
+      "rss_guid": "gid://art19-episode-locator/V0/RSpct-YK2M8Zelfm4cfkYAog0IWtXMNlziUHsiioESQ",
+      "published_date": "2024-11-18",
+      "guest_name": "Guest",
+      "duration_seconds": 3140.0
+    },
+    {
+      "episode_id": "dumb_blonde-e82fe9ec5bac",
+      "rss_guid": "gid://art19-episode-locator/V0/6ulg9A8xpxe0J_vinh7ZnLwiR6ygvaoPJOLxhBommC8",
+      "published_date": "2024-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1067.0
+    },
+    {
+      "episode_id": "dumb_blonde-a9bc2f5bc032",
+      "rss_guid": "gid://art19-episode-locator/V0/7b5wmN5zotSTfIt5bTxmlzEJOPB7toB7EnsEO6KBcQ0",
+      "published_date": "2024-11-14",
+      "guest_name": "Guest",
+      "duration_seconds": 7066.0
+    },
+    {
+      "episode_id": "dumb_blonde-c994bb10e39d",
+      "rss_guid": "gid://art19-episode-locator/V0/2O4F2ovtLkm-sCKe3CyJXEEKRmPnbGXK9KEsqNyk7po",
+      "published_date": "2024-11-11",
+      "guest_name": "Guest",
+      "duration_seconds": 3499.0
+    },
+    {
+      "episode_id": "dumb_blonde-d6bd53aee83d",
+      "rss_guid": "gid://art19-episode-locator/V0/lXeQdTL4AUazcpu38L44J3cb84-aLMYdRPJ-kvxNV-k",
+      "published_date": "2024-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1563.0
+    },
+    {
+      "episode_id": "dumb_blonde-1ae1e014301b",
+      "rss_guid": "gid://art19-episode-locator/V0/wlxeBnK0FAJ9qJ86eoIxy4sdfIJS958COoqvIqTSGzc",
+      "published_date": "2024-11-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2860.0
+    },
+    {
+      "episode_id": "dumb_blonde-37b54c0ac73b",
+      "rss_guid": "gid://art19-episode-locator/V0/5zBp6LNEXU8gCTdBiw2ERN9lnyQzkWOCVEnMxW7F4Ew",
+      "published_date": "2024-11-04",
+      "guest_name": "Guest",
+      "duration_seconds": 4508.0
+    },
+    {
+      "episode_id": "dumb_blonde-c8d89b893671",
+      "rss_guid": "gid://art19-episode-locator/V0/nl6Yr1d1-LOWDqe4o5FTDJ7_wm4dpn9FUqmpI5V8LNk",
+      "published_date": "2024-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 1178.0
+    },
+    {
+      "episode_id": "dumb_blonde-c5fdadf36380",
+      "rss_guid": "gid://art19-episode-locator/V0/SzoUJHWfcECDf07RGDpVo2QDDTkhBP1DuVT2KU8ZIm8",
+      "published_date": "2024-10-31",
+      "guest_name": "Guest",
+      "duration_seconds": 3849.0
+    },
+    {
+      "episode_id": "dumb_blonde-e6d2236c3d53",
+      "rss_guid": "gid://art19-episode-locator/V0/hyubeCV8QYN7Hfj1k2wIH36ATk-WFHwJgSU4uk1rrTY",
+      "published_date": "2024-10-28",
+      "guest_name": "Guest",
+      "duration_seconds": 3445.0
+    },
+    {
+      "episode_id": "dumb_blonde-c7d26ffc41b3",
+      "rss_guid": "gid://art19-episode-locator/V0/gsN7s7k4wPm2Ac4U4jH2NYneNfbtqzTqm_GOTD3oo2s",
+      "published_date": "2024-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 976.0
+    },
+    {
+      "episode_id": "dumb_blonde-93f927ba3909",
+      "rss_guid": "gid://art19-episode-locator/V0/z4PAhmh7VibpJ3endhTfSptETJXbN3dhsTLXTuJ0WDs",
+      "published_date": "2024-10-24",
+      "guest_name": "Guest",
+      "duration_seconds": 2237.0
+    },
+    {
+      "episode_id": "dumb_blonde-dbf09518573f",
+      "rss_guid": "gid://art19-episode-locator/V0/6MDYNc07VrfpmKUR7ikuvLkvRtxJ61VMWVJg3M9W9N8",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest",
+      "duration_seconds": 7386.0
+    },
+    {
+      "episode_id": "dumb_blonde-801c23a2bb9c",
+      "rss_guid": "gid://art19-episode-locator/V0/_Ew317AuCiPt03-LmRNmGlAA5CB7Tp4K699iegy2_SE",
+      "published_date": "2024-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 1085.0
+    },
+    {
+      "episode_id": "dumb_blonde-af7c9f8223e8",
+      "rss_guid": "gid://art19-episode-locator/V0/uJRIxFX_w5csf4btTq9YIHAHE48Y_UaN4BlvnBOJTU0",
+      "published_date": "2024-10-17",
+      "guest_name": "Guest",
+      "duration_seconds": 7783.0
+    },
+    {
+      "episode_id": "dumb_blonde-05c5a16eef39",
+      "rss_guid": "gid://art19-episode-locator/V0/Efn-emwTZoJkijIycc3deGj4l8rJ_i-UVZXCOGlz2T0",
+      "published_date": "2024-10-14",
+      "guest_name": "Guest",
+      "duration_seconds": 6592.0
+    },
+    {
+      "episode_id": "dumb_blonde-3fdaf7decb59",
+      "rss_guid": "gid://art19-episode-locator/V0/p-MN9TdLlVss7fbjZoiuyLsWCBfikkk_l0cZRcaQ4IQ",
+      "published_date": "2024-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 1014.0
+    },
+    {
+      "episode_id": "dumb_blonde-02159bbe555b",
+      "rss_guid": "gid://art19-episode-locator/V0/l3kual_jzSYhhL0K81p-C0FO4s7m9dpXOGqKCbulXe4",
+      "published_date": "2024-10-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5582.0
+    },
+    {
+      "episode_id": "dumb_blonde-10d593cb9b27",
+      "rss_guid": "gid://art19-episode-locator/V0/LOCf14gR0RNCBfpG0nKSneCtQb1GFLV5DUTxMMZkcLI",
+      "published_date": "2024-10-07",
+      "guest_name": "Guest",
+      "duration_seconds": 2841.0
+    },
+    {
+      "episode_id": "dumb_blonde-9d25b0827bf8",
+      "rss_guid": "gid://art19-episode-locator/V0/ENjJuBtpvIaVk4NWPbmu9RJ9wFBWDqzmjb3ufR8Hunw",
+      "published_date": "2024-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 1052.0
+    },
+    {
+      "episode_id": "dumb_blonde-d8b2c989347b",
+      "rss_guid": "gid://art19-episode-locator/V0/LGLXs_vNZJBW11wEsr2Sc5HttKcBc5eM0PKRIUwmLoU",
+      "published_date": "2024-10-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5410.0
+    },
+    {
+      "episode_id": "dumb_blonde-5fef089429d5",
+      "rss_guid": "gid://art19-episode-locator/V0/3wb7FIM0Uu06mbk_A715IvTHjCsVSZDd-Uln7wBj6IE",
+      "published_date": "2024-09-30",
+      "guest_name": "Guest",
+      "duration_seconds": 4046.0
+    },
+    {
+      "episode_id": "dumb_blonde-5c54c59b762b",
+      "rss_guid": "gid://art19-episode-locator/V0/CyuL3Guz4GD4bmvoIdPCBUb7NpiYWvSTVexNkNv4DIo",
+      "published_date": "2024-09-26",
+      "guest_name": "Guest",
+      "duration_seconds": 1742.0
+    },
+    {
+      "episode_id": "dumb_blonde-d74da7b58c96",
+      "rss_guid": "gid://art19-episode-locator/V0/lpHFhMUBvmvIiLV9aDvMMo1SuaiMO0WG5p9qobFoq4k",
+      "published_date": "2024-09-23",
+      "guest_name": "Guest",
+      "duration_seconds": 6682.0
+    },
+    {
+      "episode_id": "dumb_blonde-d2f7a44ed6b3",
+      "rss_guid": "gid://art19-episode-locator/V0/Q0PMpYjN4iV59i9eOA5SxYQo922Leo16P0sUxABvj18",
+      "published_date": "2024-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 1081.0
+    },
+    {
+      "episode_id": "dumb_blonde-4c5fe28a0ca2",
+      "rss_guid": "gid://art19-episode-locator/V0/vu8mdppKlM8kh8tuPIerkjpb-y7EJlnPK67eK9HHXwU",
+      "published_date": "2024-09-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5348.0
+    },
+    {
+      "episode_id": "dumb_blonde-ec6f411f07e5",
+      "rss_guid": "gid://art19-episode-locator/V0/fc880h2Oz-YR9qCDEySNk58KWwv-NS7aMvYAV7Bg1QE",
+      "published_date": "2024-09-16",
+      "guest_name": "Guest",
+      "duration_seconds": 10867.0
+    },
+    {
+      "episode_id": "dumb_blonde-07385f16a9d0",
+      "rss_guid": "gid://art19-episode-locator/V0/41WevIEhAUYjAmE_fye77MC1eLCdcmPCLkSl00RuvZ8",
+      "published_date": "2024-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 1503.0
+    },
+    {
+      "episode_id": "dumb_blonde-bd699b75df07",
+      "rss_guid": "gid://art19-episode-locator/V0/t2x1qqbXcrVirjLc-nElbnfRh3fTx0nds8D9I_IbQj0",
+      "published_date": "2024-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4489.0
+    },
+    {
+      "episode_id": "dumb_blonde-2115d1b9c57c",
+      "rss_guid": "gid://art19-episode-locator/V0/Ek1ATkdO0y6W7oxpNv3kHa_Z5UWfxN5oqEZxIbMdO9c",
+      "published_date": "2024-09-09",
+      "guest_name": "Guest",
+      "duration_seconds": 5061.0
+    },
+    {
+      "episode_id": "dumb_blonde-5318ab9273da",
+      "rss_guid": "gid://art19-episode-locator/V0/jCsaXxSyz1dJcZVZqRAzcGqeaAxl2K5oR1sg9VFh8Rc",
+      "published_date": "2024-09-05",
+      "guest_name": "Guest",
+      "duration_seconds": 754.0
+    },
+    {
+      "episode_id": "dumb_blonde-cf35914aab9b",
+      "rss_guid": "gid://art19-episode-locator/V0/VNJrYCG0zyp-wR34BW5EjKc1lI9K-c1lu6K8-5aomOg",
+      "published_date": "2024-09-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3039.0
+    },
+    {
+      "episode_id": "dumb_blonde-12e6a487132c",
+      "rss_guid": "gid://art19-episode-locator/V0/YnY6H-hpsHQf2TOfLiGD3xxaP9BAhA5Zvw-XLTRIIgg",
+      "published_date": "2024-08-29",
+      "guest_name": "Guest",
+      "duration_seconds": 1125.0
+    },
+    {
+      "episode_id": "dumb_blonde-1a64e4a06da6",
+      "rss_guid": "gid://art19-episode-locator/V0/98lB0ljAR3-2nOkwftwlOURjTAqHlKOfcEiGLeNstLw",
+      "published_date": "2024-08-26",
+      "guest_name": "Guest",
+      "duration_seconds": 8572.0
+    },
+    {
+      "episode_id": "dumb_blonde-3d9a75da26c5",
+      "rss_guid": "gid://art19-episode-locator/V0/CTfOh9zPvb6hw_jf4YqUXMUGLiBjvQ9N_atpP7IJCVY",
+      "published_date": "2024-08-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1493.0
+    },
+    {
+      "episode_id": "dumb_blonde-dc360c5273f9",
+      "rss_guid": "gid://art19-episode-locator/V0/nbZklr_uWcgdhU8vqQP2CsIzFAIZgDiaSit0KONdjNQ",
+      "published_date": "2024-08-19",
+      "guest_name": "Guest",
+      "duration_seconds": 4343.0
+    },
+    {
+      "episode_id": "dumb_blonde-5df0b929aac9",
+      "rss_guid": "gid://art19-episode-locator/V0/KEzBHRUw2uYecaqPPoHArlDhYFCIp5eijvIs3A9iWQI",
+      "published_date": "2024-08-15",
+      "guest_name": "Guest",
+      "duration_seconds": 1111.0
+    },
+    {
+      "episode_id": "dumb_blonde-030c9f19f206",
+      "rss_guid": "gid://art19-episode-locator/V0/C7RNd84HnDw9ChG2sLLTRbyLAr8uMgGx8chnZ4OPwVE",
+      "published_date": "2024-08-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4827.0
+    },
+    {
+      "episode_id": "dumb_blonde-132d487ad089",
+      "rss_guid": "gid://art19-episode-locator/V0/c_DlTLIdELMQNOTnM4pX5jMrJJUbhvkTJBQXsuXnEKA",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest",
+      "duration_seconds": 1190.0
+    },
+    {
+      "episode_id": "dumb_blonde-dbc3065953f4",
+      "rss_guid": "gid://art19-episode-locator/V0/qLkU9VzwJ_nYI4VZ1safGE--_FmC0vhPMZBYuYhYRuE",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest",
+      "duration_seconds": 6425.0
+    },
+    {
+      "episode_id": "dumb_blonde-ef7ee7c1e7dc",
+      "rss_guid": "gid://art19-episode-locator/V0/kdrFxV-VMIffuxoupX59yHRDf48dNGQKtdQGa_a-4f4",
+      "published_date": "2024-07-30",
+      "guest_name": "Guest",
+      "duration_seconds": 1236.0
+    },
+    {
+      "episode_id": "dumb_blonde-6d9db5dd7b88",
+      "rss_guid": "gid://art19-episode-locator/V0/kO-8V8nrdC4tXu936HDFTufpkpS_m93Z3x0GCGD52-w",
+      "published_date": "2024-07-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2844.0
+    },
+    {
+      "episode_id": "dumb_blonde-dba1f4d3413d",
+      "rss_guid": "gid://art19-episode-locator/V0/TVesiT4tcIk4LZUros6pWWpdkD0T-gM8OwrvfA7PCSM",
+      "published_date": "2024-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4782.0
+    },
+    {
+      "episode_id": "dumb_blonde-7bfbff1bd919",
+      "rss_guid": "gid://art19-episode-locator/V0/GlqXfzpY3Sw_z5GL2j137fNDRVdlB8KgARjVqqAFpdE",
+      "published_date": "2024-07-09",
+      "guest_name": "Guest",
+      "duration_seconds": 3273.0
+    },
+    {
+      "episode_id": "dumb_blonde-5e554fcfdc2b",
+      "rss_guid": "gid://art19-episode-locator/V0/Qq1xYgECcV8DPI0K3lOw_uiAgusKhUSYTkX-Wfp_-mc",
+      "published_date": "2024-07-02",
+      "guest_name": "Guest",
+      "duration_seconds": 7212.0
+    },
+    {
+      "episode_id": "dumb_blonde-23f54223fa57",
+      "rss_guid": "gid://art19-episode-locator/V0/ma_1Hs5k151AoS7YnsCG5Uxh-tUQZI9QbilNoyb_reM",
+      "published_date": "2024-06-26",
+      "guest_name": "Guest",
+      "duration_seconds": 5260.0
+    },
+    {
+      "episode_id": "dumb_blonde-d7418415aecb",
+      "rss_guid": "gid://art19-episode-locator/V0/1Vh9SgeRKT-M_fNOWrUAqrpzwISWG5o3q2sNjmjgeMY",
+      "published_date": "2024-06-19",
+      "guest_name": "Guest",
+      "duration_seconds": 9543.0
+    },
+    {
+      "episode_id": "dumb_blonde-15bd51755732",
+      "rss_guid": "gid://art19-episode-locator/V0/dTG-nenum7tEO6yzYhaI4gA16TGWfEPLq8pOG8ohe3E",
+      "published_date": "2024-06-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4105.0
+    },
+    {
+      "episode_id": "dumb_blonde-4c1a02cda90a",
+      "rss_guid": "gid://art19-episode-locator/V0/cRLnLDrRIxAj13iRN1r8bz4sW9bzdZxRNjpXNhMrPTs",
+      "published_date": "2024-06-05",
+      "guest_name": "Guest",
+      "duration_seconds": 8453.0
+    },
+    {
+      "episode_id": "dumb_blonde-989975e1ba37",
+      "rss_guid": "gid://art19-episode-locator/V0/zTQEmT4aupW9ZeFsnDNge6uSUMw5viagf7UPo-gWSo0",
+      "published_date": "2024-05-29",
+      "guest_name": "Guest",
+      "duration_seconds": 5812.0
+    },
+    {
+      "episode_id": "dumb_blonde-e75910f236f9",
+      "rss_guid": "gid://art19-episode-locator/V0/pynmFqHjNWJRdyivwcAQIiD1foLfQJvUJbwdpsYUynI",
+      "published_date": "2024-05-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4338.0
+    },
+    {
+      "episode_id": "dumb_blonde-520c09700383",
+      "rss_guid": "gid://art19-episode-locator/V0/9Cfxd2W0PX892zB3GWP1T0c0Z_-Evt9gzJWhrCpvjCk",
+      "published_date": "2024-05-01",
+      "guest_name": "Guest",
+      "duration_seconds": 5389.0
+    },
+    {
+      "episode_id": "dumb_blonde-4ff04faf36d1",
+      "rss_guid": "gid://art19-episode-locator/V0/JDJlyj6wyvgKIaAs9UBTYZy141Zmt-TeGg0C2ZbJCI0",
+      "published_date": "2024-04-24",
+      "guest_name": "Guest",
+      "duration_seconds": 6285.0
+    },
+    {
+      "episode_id": "dumb_blonde-977596594899",
+      "rss_guid": "gid://art19-episode-locator/V0/7xF7TKmZ3ovIiQSjqGnFHlvOq7_utXJWBJs_ULgEEiY",
+      "published_date": "2024-04-17",
+      "guest_name": "Guest",
+      "duration_seconds": 5167.0
+    },
+    {
+      "episode_id": "dumb_blonde-df529cdb3f67",
+      "rss_guid": "gid://art19-episode-locator/V0/Cc0gTRqiWqD2vQCfJFkWPdHluH6ossC9pOOFoM-mMtA",
+      "published_date": "2024-04-10",
+      "guest_name": "Guest",
+      "duration_seconds": 4293.0
+    },
+    {
+      "episode_id": "dumb_blonde-a8650351c118",
+      "rss_guid": "gid://art19-episode-locator/V0/qkEhAE3rgIWc03AtiUB3NJiOQaiUrZuU2QLAO7liK8k",
+      "published_date": "2024-04-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5257.0
+    },
+    {
+      "episode_id": "dumb_blonde-f5b7f59314f7",
+      "rss_guid": "gid://art19-episode-locator/V0/bMb-xlHlNBvdgpEvw9y2RfgJUvR04Uh4cT4Y0ctGFzQ",
+      "published_date": "2024-03-27",
+      "guest_name": "Guest",
+      "duration_seconds": 6246.0
+    },
+    {
+      "episode_id": "dumb_blonde-9e00818652ab",
+      "rss_guid": "gid://art19-episode-locator/V0/hc0IXTvG0OVIOWlHUs8eXusBpK0GOAgBRyPGrfobxQs",
+      "published_date": "2024-03-20",
+      "guest_name": "Guest",
+      "duration_seconds": 5673.0
+    },
+    {
+      "episode_id": "dumb_blonde-854f38c577de",
+      "rss_guid": "gid://art19-episode-locator/V0/zlFKy9r_n_UhWYSmz8jYv08XNcO0V8Hpv0eiCeJrqSQ",
+      "published_date": "2024-03-13",
+      "guest_name": "Guest",
+      "duration_seconds": 4799.0
+    },
+    {
+      "episode_id": "dumb_blonde-25c14c260c74",
+      "rss_guid": "gid://art19-episode-locator/V0/RZ4BpPXVsBpvPj0xkshghI02tP3FFzkDsuPg6X1-aPk",
+      "published_date": "2024-03-06",
+      "guest_name": "Guest",
+      "duration_seconds": 6486.0
+    },
+    {
+      "episode_id": "dumb_blonde-5d5241c98334",
+      "rss_guid": "gid://art19-episode-locator/V0/SSVEK9Tx3r-uYBOmiSXMrLumVpwoAIKWEmqrubdoG0Y",
+      "published_date": "2024-02-28",
+      "guest_name": "Guest",
+      "duration_seconds": 7090.0
+    },
+    {
+      "episode_id": "dumb_blonde-cc5e0caf9a64",
+      "rss_guid": "gid://art19-episode-locator/V0/FM1F1aow7gMA75bABETsiuHi_9D9PKHNbdTpb7M-kmo",
+      "published_date": "2024-02-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4348.0
+    },
+    {
+      "episode_id": "dumb_blonde-69b4f5bcfe39",
+      "rss_guid": "gid://art19-episode-locator/V0/f9ITT47w39c4lOAgPiYJPkNv6rTCZIvWkVPwJYJAuYQ",
+      "published_date": "2024-02-14",
+      "guest_name": "Guest",
+      "duration_seconds": 4278.0
+    },
+    {
+      "episode_id": "dumb_blonde-2d7d51c91801",
+      "rss_guid": "gid://art19-episode-locator/V0/yXqp8j460MYlxpm8V8cAPMI0txRvaC4uKlj45n0sJSY",
+      "published_date": "2024-02-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3994.0
+    },
+    {
+      "episode_id": "dumb_blonde-372cde984735",
+      "rss_guid": "gid://art19-episode-locator/V0/SUEIOZ5-RS0_PzQv-E4Utlmm8l_0kEi3YBWBNx-S8-w",
+      "published_date": "2024-01-31",
+      "guest_name": "Guest",
+      "duration_seconds": 5230.0
+    },
+    {
+      "episode_id": "dumb_blonde-d5c6ad7af2ee",
+      "rss_guid": "gid://art19-episode-locator/V0/fNTT1iSMederRL0AUwcTSfy2LhIButlk94J1c7_lE4I",
+      "published_date": "2024-01-24",
+      "guest_name": "Guest",
+      "duration_seconds": 4223.0
+    },
+    {
+      "episode_id": "dumb_blonde-f9eaf5e7b1d3",
+      "rss_guid": "gid://art19-episode-locator/V0/dkRSmdjpyKwwqkthBib5zKwHmCydQOUFtudLlQPqs-Y",
+      "published_date": "2024-01-17",
+      "guest_name": "Guest",
+      "duration_seconds": 4162.0
+    },
+    {
+      "episode_id": "dumb_blonde-ab19a758a826",
+      "rss_guid": "gid://art19-episode-locator/V0/ShP-3rkHFoKtpn0jN73o_x8V2cfdU3DqUjNmV5I2Xn0",
+      "published_date": "2024-01-10",
+      "guest_name": "Guest",
+      "duration_seconds": 6322.0
+    },
+    {
+      "episode_id": "dumb_blonde-7afa648d43cd",
+      "rss_guid": "gid://art19-episode-locator/V0/Q-IPv9u4Ny3dD_vhYNmey-nhw3zOapeQSiO8zG_bwFY",
+      "published_date": "2024-01-03",
+      "guest_name": "Guest",
+      "duration_seconds": 5507.0
+    },
+    {
+      "episode_id": "dumb_blonde-446e0b2a69dc",
+      "rss_guid": "gid://art19-episode-locator/V0/noTIK4FqsVmS0INvBqMF50qBVU7b1GwG0AkItldKxyk",
+      "published_date": "2023-12-06",
+      "guest_name": "Guest",
+      "duration_seconds": 4558.0
+    },
+    {
+      "episode_id": "dumb_blonde-b88df658c3a1",
+      "rss_guid": "gid://art19-episode-locator/V0/blsHQh76u4iFsTyJjRtRdI3za80H-V8ztrhiq14wpMA",
+      "published_date": "2023-11-29",
+      "guest_name": "Guest",
+      "duration_seconds": 3546.0
+    },
+    {
+      "episode_id": "dumb_blonde-9a53cb42f878",
+      "rss_guid": "gid://art19-episode-locator/V0/zU2o-1JXpT13HRaSLtsKrusbWXs1eCjPCDRiC2FW9UM",
+      "published_date": "2023-11-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3531.0
+    },
+    {
+      "episode_id": "dumb_blonde-c4a19b8ae4e3",
+      "rss_guid": "gid://art19-episode-locator/V0/cF3SLluiZhAxh4pD8LLtQNnqygHkt-iW5VUceXRP9kQ",
+      "published_date": "2023-11-15",
+      "guest_name": "Guest",
+      "duration_seconds": 4855.0
+    },
+    {
+      "episode_id": "dumb_blonde-9f8baa7b1654",
+      "rss_guid": "gid://art19-episode-locator/V0/fy0aLybqM7Z7_eXorfMSgkghJIkc4v3VBlMFMA0J5cY",
+      "published_date": "2023-11-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4847.0
+    },
+    {
+      "episode_id": "dumb_blonde-b605c4e65305",
+      "rss_guid": "gid://art19-episode-locator/V0/H-7swF0cn8-q_Vmy2KbC8SVIo61_ConLgYURseKbYZk",
+      "published_date": "2023-11-01",
+      "guest_name": "Guest",
+      "duration_seconds": 7706.0
+    },
+    {
+      "episode_id": "dumb_blonde-1be3dcd40c87",
+      "rss_guid": "gid://art19-episode-locator/V0/M3kGxn0XpNJSiqYItYYzj204ZB4YWtqBOHq1DoHuqxk",
+      "published_date": "2023-10-25",
+      "guest_name": "Guest",
+      "duration_seconds": 4752.0
+    },
+    {
+      "episode_id": "dumb_blonde-e33db8401f64",
+      "rss_guid": "gid://art19-episode-locator/V0/2vaneeRQ6MzyOsIV6P_b1muhTulIEBrtcp_mpHsKwyM",
+      "published_date": "2023-10-18",
+      "guest_name": "Guest",
+      "duration_seconds": 2919.0
+    },
+    {
+      "episode_id": "dumb_blonde-fee962747346",
+      "rss_guid": "gid://art19-episode-locator/V0/sLbMedOlb5Q0iW_XbaY6KKI6yaDHU7dcg4KdIUC8mxA",
+      "published_date": "2023-10-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4138.0
+    },
+    {
+      "episode_id": "dumb_blonde-220e6c57439b",
+      "rss_guid": "gid://art19-episode-locator/V0/wgAH9QEDChGy5xYg0041nJirqsjDGJvumeorw6ljyjY",
+      "published_date": "2023-10-04",
+      "guest_name": "Guest",
+      "duration_seconds": 6788.0
+    },
+    {
+      "episode_id": "dumb_blonde-1c02cc5c8190",
+      "rss_guid": "gid://art19-episode-locator/V0/g9pKIF8yiUjo1Ts7wbFOQvVX-OTgr2IA_H8Fy21aKbs",
+      "published_date": "2023-09-27",
+      "guest_name": "Guest",
+      "duration_seconds": 4595.0
+    },
+    {
+      "episode_id": "dumb_blonde-605cc6993b50",
+      "rss_guid": "gid://art19-episode-locator/V0/uBbWJPLLzrbw_QsnHMXzAbD0fBXh_AuqxWtY5g3_u5Y",
+      "published_date": "2023-09-20",
+      "guest_name": "Guest",
+      "duration_seconds": 3776.0
+    },
+    {
+      "episode_id": "dumb_blonde-49ed8ddeaf4c",
+      "rss_guid": "gid://art19-episode-locator/V0/XYkfZG8kn-kWlIEmrk0afMWhNjusOhMcoV3B91ONusE",
+      "published_date": "2023-09-13",
+      "guest_name": "Guest",
+      "duration_seconds": 5393.0
+    },
+    {
+      "episode_id": "dumb_blonde-80865eeae9eb",
+      "rss_guid": "gid://art19-episode-locator/V0/Xi3PtdH-IHDDtM-0hTPgNg4BdOBovkHuDFlOcHhcbNs",
+      "published_date": "2023-09-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3163.0
+    },
+    {
+      "episode_id": "dumb_blonde-467a63b067f1",
+      "rss_guid": "gid://art19-episode-locator/V0/Z6iU4OgUttR86_b6uhaVQT5y3TaO5odTlTUNmOK8wYI",
+      "published_date": "2023-08-30",
+      "guest_name": "Guest",
+      "duration_seconds": 6016.0
+    },
+    {
+      "episode_id": "dumb_blonde-5521283aa4e9",
+      "rss_guid": "gid://art19-episode-locator/V0/SO5jt0T_TsHbD3p9iIPJGYE179ayYe6zrfkgnDrn1NA",
+      "published_date": "2023-08-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2085.0
+    },
+    {
+      "episode_id": "dumb_blonde-69a03835c383",
+      "rss_guid": "gid://art19-episode-locator/V0/iQd9Xw9bAAnP3qZ2Ry2mbqr6V_P0z9LYh3TkOoB5cao",
+      "published_date": "2023-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 2681.0
+    },
+    {
+      "episode_id": "dumb_blonde-508260a1537a",
+      "rss_guid": "gid://art19-episode-locator/V0/hlrDXCdiUVnduwIKh4_pZyMzAOYAyXyuz3yhbGbY3QE",
+      "published_date": "2023-08-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4016.0
+    },
+    {
+      "episode_id": "dumb_blonde-0cd3b6535857",
+      "rss_guid": "gid://art19-episode-locator/V0/QXFCCbaJ9sk2SDKTE5HCLEdfkgZfIdtmwAc2WKZjCCg",
+      "published_date": "2023-08-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3449.0
+    },
+    {
+      "episode_id": "dumb_blonde-d85144c19dc8",
+      "rss_guid": "gid://art19-episode-locator/V0/qmP3VRNp1SX_arrPNtRAjznhD4WlO2rsvKWP5Rq59_Q",
+      "published_date": "2023-07-26",
+      "guest_name": "Guest",
+      "duration_seconds": 3479.0
+    },
+    {
+      "episode_id": "dumb_blonde-6907179823bd",
+      "rss_guid": "gid://art19-episode-locator/V0/onqUcDhaWHMd1pjWBM9EGh6HcDuwrSdZf00VcrKnX50",
+      "published_date": "2023-07-19",
+      "guest_name": "Guest",
+      "duration_seconds": 7413.0
+    },
+    {
+      "episode_id": "dumb_blonde-fbb001f23bdb",
+      "rss_guid": "gid://art19-episode-locator/V0/Fi8esLu4UfW88-DOIBvAbWsWghi_p9iMk6VzttNFpW0",
+      "published_date": "2023-07-12",
+      "guest_name": "Guest",
+      "duration_seconds": 4806.0
+    },
+    {
+      "episode_id": "dumb_blonde-c8e98d82cbf2",
+      "rss_guid": "gid://art19-episode-locator/V0/Add2umoHbGEEnuKu8IjCPtcm-5gv8r1R6ljlmNGtHgo",
+      "published_date": "2023-07-05",
+      "guest_name": "Guest",
+      "duration_seconds": 5978.0
+    },
+    {
+      "episode_id": "dumb_blonde-b3a72ed7eb9f",
+      "rss_guid": "8df84381-399e-4095-9602-4bcb309010b5",
+      "published_date": "2023-05-31",
+      "guest_name": "Guest",
+      "duration_seconds": 4006.0
+    },
+    {
+      "episode_id": "dumb_blonde-55dca7240c73",
+      "rss_guid": "8cf683a2-04b6-46d4-98ae-08637b7b8eb3",
+      "published_date": "2023-05-24",
+      "guest_name": "Guest",
+      "duration_seconds": 5142.0
+    },
+    {
+      "episode_id": "dumb_blonde-a5dd3fa0430c",
+      "rss_guid": "3f0b33b6-664c-47c0-805d-870a4b781812",
+      "published_date": "2023-05-17",
+      "guest_name": "Guest",
+      "duration_seconds": 3256.0
+    },
+    {
+      "episode_id": "dumb_blonde-e18d9911deae",
+      "rss_guid": "8b55f35c-fd3e-40ea-a00b-172865ffebe3",
+      "published_date": "2023-05-10",
+      "guest_name": "Guest",
+      "duration_seconds": 5738.0
+    },
+    {
+      "episode_id": "dumb_blonde-07042eba5111",
+      "rss_guid": "1af08730-4b02-4081-b195-a4bab4bd7c3f",
+      "published_date": "2023-05-03",
+      "guest_name": "Guest",
+      "duration_seconds": 4356.0
+    },
+    {
+      "episode_id": "dumb_blonde-cc44254b537a",
+      "rss_guid": "287b3e96-d55a-499a-a434-b5511eaea4b6",
+      "published_date": "2023-04-26",
+      "guest_name": "Guest",
+      "duration_seconds": 2778.0
+    },
+    {
+      "episode_id": "dumb_blonde-2d8c1873cc49",
+      "rss_guid": "0536e73b-859e-46ad-8f71-423a9d109655",
+      "published_date": "2023-04-19",
+      "guest_name": "Guest",
+      "duration_seconds": 5361.0
+    },
+    {
+      "episode_id": "dumb_blonde-2f7055e08616",
+      "rss_guid": "aa373c79-50c4-4abd-a07b-669ecfeb10b0",
+      "published_date": "2023-04-12",
+      "guest_name": "Guest",
+      "duration_seconds": 2012.0
+    },
+    {
+      "episode_id": "dumb_blonde-434ecd6649d5",
+      "rss_guid": "2aa61927-48cd-4203-b8f0-89d7806de368",
+      "published_date": "2023-04-05",
+      "guest_name": "Guest",
+      "duration_seconds": 2316.0
+    },
+    {
+      "episode_id": "dumb_blonde-43f499506b13",
+      "rss_guid": "a2479673-23b0-47e7-8c21-b8782ae8ad63",
+      "published_date": "2023-03-29",
+      "guest_name": "Guest",
+      "duration_seconds": 4435.0
+    },
+    {
+      "episode_id": "dumb_blonde-4b3217c24a2b",
+      "rss_guid": "6fc9559d-aff0-4489-bd72-fda4698addc4",
+      "published_date": "2023-03-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3772.0
+    },
+    {
+      "episode_id": "dumb_blonde-d8c177bcd103",
+      "rss_guid": "4d06a71d-f548-4b67-bb38-2b85e2cb6137",
+      "published_date": "2023-03-15",
+      "guest_name": "Guest",
+      "duration_seconds": 5051.0
+    },
+    {
+      "episode_id": "dumb_blonde-35255e57fa62",
+      "rss_guid": "cd7f33b9-1822-4c65-b39e-b8af4af4bf59",
+      "published_date": "2023-03-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5303.0
+    },
+    {
+      "episode_id": "dumb_blonde-76685e5c6925",
+      "rss_guid": "bec0690a-50cb-47a7-ae27-810a79f37821",
+      "published_date": "2023-03-01",
+      "guest_name": "Guest",
+      "duration_seconds": 2458.0
+    },
+    {
+      "episode_id": "dumb_blonde-6bcd489e0e7b",
+      "rss_guid": "3a162e60-9e7c-4199-bd4b-63d7b7ecca87",
+      "published_date": "2023-02-22",
+      "guest_name": "Guest",
+      "duration_seconds": 3558.0
+    },
+    {
+      "episode_id": "dumb_blonde-f0dc4d96f37e",
+      "rss_guid": "71c266ff-55e2-4c79-995c-313cb9e6e4d8",
+      "published_date": "2023-02-15",
+      "guest_name": "Guest",
+      "duration_seconds": 2963.0
+    },
+    {
+      "episode_id": "dumb_blonde-6428ee1164cc",
+      "rss_guid": "71e7e384-6b1a-4ab1-a1d4-1f6112718de2",
+      "published_date": "2023-02-08",
+      "guest_name": "Guest",
+      "duration_seconds": 5580.0
+    },
+    {
+      "episode_id": "dumb_blonde-1a027e65906a",
+      "rss_guid": "cb3f3e3b-1dff-46f0-898f-fe7275d75ea1",
+      "published_date": "2023-02-01",
+      "guest_name": "Guest",
+      "duration_seconds": 4922.0
+    },
+    {
+      "episode_id": "dumb_blonde-91ed76a0f379",
+      "rss_guid": "aaa86d5a-61df-4867-9be4-b8cf419625a6",
+      "published_date": "2023-01-25",
+      "guest_name": "Guest",
+      "duration_seconds": 2336.0
+    },
+    {
+      "episode_id": "dumb_blonde-3009fd28526f",
+      "rss_guid": "24d42edf-de93-4cf0-acae-9b1283c84d25",
+      "published_date": "2023-01-18",
+      "guest_name": "Guest",
+      "duration_seconds": 5793.0
+    },
+    {
+      "episode_id": "dumb_blonde-970de728b5c6",
+      "rss_guid": "800924b7-92fe-4efc-918a-e912c6ae5ed9",
+      "published_date": "2023-01-11",
+      "guest_name": "Guest",
+      "duration_seconds": 4263.0
+    },
+    {
+      "episode_id": "dumb_blonde-053fb1fcb980",
+      "rss_guid": "f9bc543c-19d4-491b-b19e-8d358d8b90f7",
+      "published_date": "2023-01-04",
+      "guest_name": "Guest",
+      "duration_seconds": 5147.0
+    },
+    {
+      "episode_id": "dumb_blonde-f97433b42aac",
+      "rss_guid": "45b4507e-9e65-4ae8-8e01-d7ebb6b4d6ec",
+      "published_date": "2022-12-28",
+      "guest_name": "Guest",
+      "duration_seconds": 4052.0
+    },
+    {
+      "episode_id": "dumb_blonde-92d228dc133c",
+      "rss_guid": "8ed2a1d1-0887-4da5-8cbd-302e4735872f",
+      "published_date": "2022-12-21",
+      "guest_name": "Guest",
+      "duration_seconds": 4819.0
+    },
+    {
+      "episode_id": "dumb_blonde-41658a3b6394",
+      "rss_guid": "00201040-0da4-4bd0-91be-e344c5e0c789",
+      "published_date": "2022-12-14",
+      "guest_name": "Guest",
+      "duration_seconds": 2912.0
+    },
+    {
+      "episode_id": "dumb_blonde-95aec99965d1",
+      "rss_guid": "03726584-966e-4a34-b5dd-529435e14107",
+      "published_date": "2022-12-07",
+      "guest_name": "Guest",
+      "duration_seconds": 3703.0
+    },
+    {
+      "episode_id": "dumb_blonde-2d3787025d5b",
+      "rss_guid": "0d642cee-c5c1-4b80-9af2-86ae80e15042",
+      "published_date": "2022-11-30",
+      "guest_name": "Guest",
+      "duration_seconds": 3408.0
+    },
+    {
+      "episode_id": "dumb_blonde-4e05ab925acc",
+      "rss_guid": "2a0b0969-905c-4107-bd59-b1ab31218d16",
+      "published_date": "2022-11-23",
+      "guest_name": "Guest",
+      "duration_seconds": 2783.0
+    },
+    {
+      "episode_id": "dumb_blonde-2d853db8e0e4",
+      "rss_guid": "e10ad1f2-30ee-427e-b181-efc1944f6326",
+      "published_date": "2022-11-09",
+      "guest_name": "Guest",
+      "duration_seconds": 4368.0
+    },
+    {
+      "episode_id": "dumb_blonde-94c5ebed9e1a",
+      "rss_guid": "2be16b31-92e5-45cf-af0a-d92775e9d497",
+      "published_date": "2022-10-26",
+      "guest_name": "Guest",
+      "duration_seconds": 4148.0
+    },
+    {
+      "episode_id": "dumb_blonde-792e0ec3d7fb",
+      "rss_guid": "e83a2210-2c41-4eb4-af6e-17b7ed2e3723",
+      "published_date": "2022-10-12",
+      "guest_name": "Guest",
+      "duration_seconds": 3429.0
+    },
+    {
+      "episode_id": "dumb_blonde-4696acd5750d",
+      "rss_guid": "2c404775-8a0c-44e9-82fc-406cecb905fa",
+      "published_date": "2022-09-28",
+      "guest_name": "Guest",
+      "duration_seconds": 1725.0
+    },
+    {
+      "episode_id": "dumb_blonde-43d04a9eb354",
+      "rss_guid": "cc6f4a42-84c6-4190-a3d9-4bad1bd1e29a",
+      "published_date": "2022-09-14",
+      "guest_name": "Guest",
+      "duration_seconds": 3210.0
+    },
+    {
+      "episode_id": "dumb_blonde-d55611043592",
+      "rss_guid": "0224fdc5-5624-49f3-b6e2-5d6f93d55030",
+      "published_date": "2022-09-12",
+      "guest_name": "Guest",
+      "duration_seconds": 5352.0
+    },
+    {
+      "episode_id": "dumb_blonde-6fb24bf2e23f",
+      "rss_guid": "57307d93-ed96-4071-b9ad-b75d135285d1",
+      "published_date": "2022-08-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4767.0
+    },
+    {
+      "episode_id": "dumb_blonde-d29aef622043",
+      "rss_guid": "429d2e15-e0b2-4e7c-bcae-ed3e436bcfdb",
+      "published_date": "2022-08-10",
+      "guest_name": "Guest",
+      "duration_seconds": 3224.0
+    },
+    {
+      "episode_id": "dumb_blonde-8f4f4a3bd2de",
+      "rss_guid": "9fb6e27d-bfe0-4cdf-bcbf-31c63c18ee5a",
+      "published_date": "2022-07-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5123.0
+    },
+    {
+      "episode_id": "dumb_blonde-d0583da332bb",
+      "rss_guid": "80ae1fcc-ba89-4bc7-94b5-47d17f5ab1e9",
+      "published_date": "2022-07-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4176.0
+    },
+    {
+      "episode_id": "dumb_blonde-1c49cb680ce1",
+      "rss_guid": "f6e55d67-141d-44f0-bc71-60f34942ccc8",
+      "published_date": "2022-07-06",
+      "guest_name": "Guest",
+      "duration_seconds": 2392.0
+    },
+    {
+      "episode_id": "dumb_blonde-48c0d572e8bb",
+      "rss_guid": "56f9fcdf-3828-4a8a-bedf-1cf86cbb4813",
+      "published_date": "2022-06-22",
+      "guest_name": "Guest",
+      "duration_seconds": 1713.0
+    },
+    {
+      "episode_id": "dumb_blonde-d2dffee62a03",
+      "rss_guid": "5227b459-26d7-4184-a2f5-879c1fc4eaff",
+      "published_date": "2022-06-08",
+      "guest_name": "Guest",
+      "duration_seconds": 4432.0
+    },
+    {
+      "episode_id": "dumb_blonde-1d17c5dc1960",
+      "rss_guid": "d4c6340f-e3d3-4db3-9760-e3de1630f858",
+      "published_date": "2022-06-01",
+      "guest_name": "Guest",
+      "duration_seconds": 3995.0
+    },
+    {
+      "episode_id": "dumb_blonde-a210a8c07985",
+      "rss_guid": "5e4fceaf-3e2d-4a49-a79a-b8076f159c10",
+      "published_date": "2022-05-18",
+      "guest_name": "Guest",
+      "duration_seconds": 4952.0
+    },
+    {
+      "episode_id": "dumb_blonde-93eb9bf034d3",
+      "rss_guid": "88e04236-30c8-4629-bb7c-9bf402e4001c",
+      "published_date": "2022-05-04",
+      "guest_name": "Guest",
+      "duration_seconds": 3327.0
+    },
+    {
+      "episode_id": "dumb_blonde-dd229b728add",
+      "rss_guid": "8a7517fb-65cd-4cc9-a669-91e3aa012832",
+      "published_date": "2022-04-20",
+      "guest_name": "Guest",
+      "duration_seconds": 2832.0
+    },
+    {
+      "episode_id": "dumb_blonde-ee7f2c6dfe18",
+      "rss_guid": "ee4a3e7e-c040-4348-9c79-4aaba4893a05",
+      "published_date": "2022-04-06",
+      "guest_name": "Guest",
+      "duration_seconds": 3824.0
+    },
+    {
+      "episode_id": "dumb_blonde-36f3efc1e4c0",
+      "rss_guid": "45432023-1234-4400-a840-dbd7c1b47283",
+      "published_date": "2022-03-23",
+      "guest_name": "Guest",
+      "duration_seconds": 3410.0
+    },
+    {
+      "episode_id": "dumb_blonde-76a299f28a60",
+      "rss_guid": "f7baa02a-e573-4d9f-afac-6419fd0c16ad",
+      "published_date": "2022-03-16",
+      "guest_name": "Guest",
+      "duration_seconds": 4374.0
+    },
+    {
+      "episode_id": "dumb_blonde-6b7349568dfa",
+      "rss_guid": "19a7603f-2f82-41c8-927c-aff05b74c0d5",
+      "published_date": "2022-03-02",
+      "guest_name": "Guest",
+      "duration_seconds": 4447.0
+    },
+    {
+      "episode_id": "dumb_blonde-8c899a26c274",
+      "rss_guid": "03555b72-0016-4263-8596-e65f6e1561c6",
+      "published_date": "2022-02-16",
+      "guest_name": "Guest",
+      "duration_seconds": 3391.0
+    },
+    {
+      "episode_id": "dumb_blonde-cd7a6327020f",
+      "rss_guid": "1bf9916c-2ac1-452c-96af-0d918643dbbc",
+      "published_date": "2022-02-02",
+      "guest_name": "Guest",
+      "duration_seconds": 3713.0
+    },
+    {
+      "episode_id": "dumb_blonde-8bd238c3db8d",
+      "rss_guid": "b539168e-30b4-4a59-b6b8-8f09f892129c",
+      "published_date": "2022-01-22",
+      "guest_name": "Guest",
+      "duration_seconds": 2901.0
+    },
+    {
+      "episode_id": "dumb_blonde-d516cfd33a0f",
+      "rss_guid": "69d80620-08c5-4f34-9475-40600cb80171",
+      "published_date": "2021-11-10",
+      "guest_name": "Guest",
+      "duration_seconds": 2719.0
+    },
+    {
+      "episode_id": "dumb_blonde-2ca7c3579bfd",
+      "rss_guid": "f6c2f34d-9f54-4e5e-98c3-811b8d74a964",
+      "published_date": "2021-11-03",
+      "guest_name": "Guest",
+      "duration_seconds": 2385.0
+    },
+    {
+      "episode_id": "dumb_blonde-e7d1e4e5e285",
+      "rss_guid": "4e9a7375-f6a7-40a4-b78e-a4346038467a",
+      "published_date": "2021-10-27",
+      "guest_name": "Guest",
+      "duration_seconds": 5272.0
+    }
+  ]
+}
