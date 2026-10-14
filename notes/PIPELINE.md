@@ -46,7 +46,7 @@ stance, exaggeration and fringe tier.
 
 | Step | Script | Unit | Writes | Cost | Codebook |
 | --- | --- | --- | --- | --- | --- |
-| 01 Freeze episodes | `01_download.py` (YouTube audio, early pilots); `01_build_jre_rss_archive.py` (whole JRE feed) | episode | `data/raw/transcripts/…/rss_metadata.json`; sample list in `config/*.json` | free | `config/podcasts.json` |
+| 01 Freeze episodes | `01_download.py` (YouTube audio, early pilots); `01_build_jre_rss_archive.py` (whole JRE feed); `01_build_doac_rss_archive.py` (DOAC full-length interviews) | episode | `data/raw/transcripts/…/rss_metadata.json`; sample list in `config/*.json` | free | `config/podcasts.json` |
 | 02 Transcribe | `02_transcribe_assemblyai_batch.py` → runs `02_transcribe_assemblyai.py` per episode | episode | `transcript.md`, `transcript.json(.gz)`, `assemblyai_response.json(.gz)`, `assemblyai_job.json` | ~$0.33/hour | — |
 | 04 Screen | `04_classify_content_openai_batch_sample.py` (per sample) → `04_classify_content_openai_batch.py` (per episode) | 256-word window, 128-word step | per-episode `window_classification.csv`; combined CSV in `openai_batch_samples/<sample>/` | ~$0.04/episode | `OPENAI_BATCH_CLASSIFICATION.md` |
 | 05 Narrow claims | `05_classify_passage_content_openai_batch.py` | screen-positive window | `openai_passage_content/<sample>/<run>/window_claim_classification.csv` | similar to 08 | `PASSAGE_CONTENT_CLASSIFICATION.md` |
@@ -137,7 +137,7 @@ From `output/pipeline_status/status_report.md`:
 | Step | Ready now? |
 | --- | --- |
 | Add the show (RSS URL, hosts, folder) to `config/podcasts.json` | Yes |
-| Freeze its episode list and write `rss_metadata.json` per episode | JRE only (`01_build_jre_rss_archive.py`); other shows need a general version |
+| Freeze its episode list and write `rss_metadata.json` per episode | JRE (`01_build_jre_rss_archive.py`) and DOAC (`01_build_doac_rss_archive.py`); other shows need a general version |
 | Transcribe with `02_transcribe_assemblyai_batch.py --delivery rss-direct` | Yes, given a sample file with guest names |
 | Screen with `04_…_sample.py --sample …` | Yes |
 | Claims with `08` → `10` → `14` | Works per sample, but see gaps 4 and 5 |

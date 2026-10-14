@@ -1,0 +1,3844 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "doac_full_rss_archive_20261003T092332Z",
+  "show_id": "doac",
+  "selected_at": "2026-10-14",
+  "selection_rule": "Include DOAC RSS items with episode type 'full', a declared duration of at least 60 minutes and no clip title (Moment, Most Replayed/Shared/Played Moment, Key/Notable/Top/Best Moment, Highlight, This Stuck With Me, Your 1% Boost, Life Lesson, CEO Diaries, trailer).",
+  "source": {
+    "rss_url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+    "snapshot_relative_path": "data/raw/rss/doac/doac_rss_20261003T092332Z.xml",
+    "snapshot_sha256": "e3991ab8e8d1f61baa991662d24271af91faf81cd74e630f1befcca020413170"
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "doac-2026-10-01-608bb69ae332",
+      "rss_guid": "flightcast:01M32KE23H52RT1RTNT9EKC4JA",
+      "published_date": "2026-10-01",
+      "guest_name": "Shawn Ryan",
+      "duration_seconds": 5984.0
+    },
+    {
+      "episode_id": "doac-2026-09-28-7e18d87ad9ab",
+      "rss_guid": "flightcast:01M32K500669XNSP3RQZSWNC4M",
+      "published_date": "2026-09-28",
+      "guest_name": "Adam Neumann",
+      "duration_seconds": 8113.0
+    },
+    {
+      "episode_id": "doac-2026-09-24-6116f37ca943",
+      "rss_guid": "flightcast:01M26CBRW55X2EMED8438W3PW7",
+      "published_date": "2026-09-24",
+      "guest_name": "Druski",
+      "duration_seconds": 6538.0
+    },
+    {
+      "episode_id": "doac-2026-09-21-9a23ab9cf7f8",
+      "rss_guid": "flightcast:01M2RHNG0S1MZ1VD7AG18AGCZ7",
+      "published_date": "2026-09-21",
+      "guest_name": "Rick Rubin",
+      "duration_seconds": 9985.0
+    },
+    {
+      "episode_id": "doac-2026-09-17-40cc2c5de152",
+      "rss_guid": "flightcast:01M2GNJS32R11MFGEF3FZ4MFGV",
+      "published_date": "2026-09-17",
+      "guest_name": "The Great AI Debate",
+      "duration_seconds": 8797.0
+    },
+    {
+      "episode_id": "doac-2026-09-14-9b09fb4da246",
+      "rss_guid": "flightcast:01M243XAN33DBKT1N5844WSMAV",
+      "published_date": "2026-09-14",
+      "guest_name": "Professor Jiang",
+      "duration_seconds": 6499.0
+    },
+    {
+      "episode_id": "q2cg1gEYWJQ",
+      "rss_guid": "flightcast:01M23VE3XS205C0HMNRE4ENR58",
+      "published_date": "2026-09-10",
+      "guest_name": "Vanessa Van Edwards",
+      "duration_seconds": 8798.0
+    },
+    {
+      "episode_id": "AcK_zgJjnoo",
+      "rss_guid": "flightcast:01M1M9A59AFBGJG3WGBMW30A0F",
+      "published_date": "2026-09-07",
+      "guest_name": "Dr Leanne ten Brinke",
+      "duration_seconds": 6263.0
+    },
+    {
+      "episode_id": "MGxcosNuC8k",
+      "rss_guid": "flightcast:01M0ZPY4TQPFTDMTWWP68V36C9",
+      "published_date": "2026-09-03",
+      "guest_name": "Andrew Huberman",
+      "duration_seconds": 8177.0
+    },
+    {
+      "episode_id": "OYg6BTjb90E",
+      "rss_guid": "flightcast:01M0ECWWKZKQ93WCFTA6JV03WZ",
+      "published_date": "2026-08-31",
+      "guest_name": "David Friedberg",
+      "duration_seconds": 7460.0
+    },
+    {
+      "episode_id": "Lf5oqGOCRCM",
+      "rss_guid": "flightcast:01M0ZJXTQSPBEVY6X1T0EZ7M9C",
+      "published_date": "2026-08-27",
+      "guest_name": "Ed Zitron",
+      "duration_seconds": 8839.0
+    },
+    {
+      "episode_id": "Ppyt3MptX5k",
+      "rss_guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
+      "published_date": "2026-08-24",
+      "guest_name": "Testosterone Expert",
+      "duration_seconds": 5307.0
+    },
+    {
+      "episode_id": "Bu0xNDLNORU",
+      "rss_guid": "flightcast:01M011YXPMA7EXR82JB7CMWHJN",
+      "published_date": "2026-08-20",
+      "guest_name": "Financial Crash Expert",
+      "duration_seconds": 5626.0
+    },
+    {
+      "episode_id": "Qifsxitq_q4",
+      "rss_guid": "flightcast:01M011QCMPHN8FAV0XN9GXFS1N",
+      "published_date": "2026-08-17",
+      "guest_name": "Prof Brian Greene",
+      "duration_seconds": 7873.0
+    },
+    {
+      "episode_id": "dmz--DQty8o",
+      "rss_guid": "flightcast:01KZERQ8T6WKSG6169FR2YC3SZ",
+      "published_date": "2026-08-13",
+      "guest_name": "Dr Andy Galpin",
+      "duration_seconds": 7909.0
+    },
+    {
+      "episode_id": "g7AxxkywiFI",
+      "rss_guid": "flightcast:01KZEMW7JE1GT1EJ9WC74DKA3M",
+      "published_date": "2026-08-10",
+      "guest_name": "Seth Godin",
+      "duration_seconds": 6754.0
+    },
+    {
+      "episode_id": "doac-2026-08-06-0b62b33197fa",
+      "rss_guid": "flightcast:01KYMQ6P4DHXHH9EJVKVCKE4Q0",
+      "published_date": "2026-08-06",
+      "guest_name": "Michael Saylor",
+      "duration_seconds": 5980.0
+    },
+    {
+      "episode_id": "doac-2026-08-03-1304c4b315d5",
+      "rss_guid": "flightcast:01KYMPYHGY7WKDEBPBJQ2VRQPJ",
+      "published_date": "2026-08-03",
+      "guest_name": "Secretary Pete Buttigieg",
+      "duration_seconds": 6880.0
+    },
+    {
+      "episode_id": "doac-2026-07-30-003b9c78b203",
+      "rss_guid": "flightcast:01KYMPGERGG1X4WK6BC5ZR26HG",
+      "published_date": "2026-07-30",
+      "guest_name": "Ray Dalio",
+      "duration_seconds": 5402.0
+    },
+    {
+      "episode_id": "doac-2026-07-27-e767225011de",
+      "rss_guid": "flightcast:01KXY3ASSV2R56Y56QW6A4TN36",
+      "published_date": "2026-07-27",
+      "guest_name": "Vitamin D Expert",
+      "duration_seconds": 7206.0
+    },
+    {
+      "episode_id": "doac-2026-07-23-870aa7add8e5",
+      "rss_guid": "flightcast:01KY5REWH1TJGDP1MF1JREA3FM",
+      "published_date": "2026-07-23",
+      "guest_name": "Robert Pape",
+      "duration_seconds": 6059.0
+    },
+    {
+      "episode_id": "doac-2026-07-20-f9452a7b8b57",
+      "rss_guid": "flightcast:01KXQ966BYJY31CKTAV204K8EQ",
+      "published_date": "2026-07-20",
+      "guest_name": "Alex Hormozi",
+      "duration_seconds": 8525.0
+    },
+    {
+      "episode_id": "doac-2026-07-16-c3729627d1b4",
+      "rss_guid": "flightcast:01KXKGX4APAAVZ0QCDC1P5NR48",
+      "published_date": "2026-07-16",
+      "guest_name": "Leading Cancer Researcher",
+      "duration_seconds": 6304.0
+    },
+    {
+      "episode_id": "doac-2026-07-13-d1e341daff39",
+      "rss_guid": "flightcast:01KX94975E6V64DS1MKX3Q8C36",
+      "published_date": "2026-07-13",
+      "guest_name": "OpenAI Whistleblower FINALLY Speaks",
+      "duration_seconds": 7236.0
+    },
+    {
+      "episode_id": "doac-2026-07-09-becaece48352",
+      "rss_guid": "flightcast:01KX1X6PNN940X64G59HTJVSYQ",
+      "published_date": "2026-07-09",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6516.0
+    },
+    {
+      "episode_id": "doac-2026-07-06-dfe23815489f",
+      "rss_guid": "flightcast:01KWSAGPXWK99WCAKKXNFC5ZCG",
+      "published_date": "2026-07-06",
+      "guest_name": "UFC Legend Dustin Poirier",
+      "duration_seconds": 5589.0
+    },
+    {
+      "episode_id": "doac-2026-07-02-2c3ec9f225a7",
+      "rss_guid": "flightcast:01KWGKVP7CK70B0V0TBA66NDAA",
+      "published_date": "2026-07-02",
+      "guest_name": "Anti-Aging Expert",
+      "duration_seconds": 9637.0
+    },
+    {
+      "episode_id": "doac-2026-06-29-bb5e2bd0a2e5",
+      "rss_guid": "flightcast:01KW360AZ5EEA4D3QH5C6PC2XM",
+      "published_date": "2026-06-29",
+      "guest_name": "Dr. Stephanie Estima",
+      "duration_seconds": 5675.0
+    },
+    {
+      "episode_id": "doac-2026-06-25-1275e48a6203",
+      "rss_guid": "flightcast:01KVXG1G7HW6ASJR6EFJ3DQYBR",
+      "published_date": "2026-06-25",
+      "guest_name": "Billionaire's WARNING",
+      "duration_seconds": 6321.0
+    },
+    {
+      "episode_id": "doac-2026-06-22-26e494015090",
+      "rss_guid": "flightcast:01KVM73TKX1T1JQKD6K2KYYHJK",
+      "published_date": "2026-06-22",
+      "guest_name": "Dr Rachel Rubin",
+      "duration_seconds": 6448.0
+    },
+    {
+      "episode_id": "doac-2026-06-18-99494a2065aa",
+      "rss_guid": "flightcast:01KVBBAP1AZYT30Q74J6N4CM84",
+      "published_date": "2026-06-18",
+      "guest_name": "Vice President JD Vance",
+      "duration_seconds": 6433.0
+    },
+    {
+      "episode_id": "doac-2026-06-15-91979e42f7b8",
+      "rss_guid": "flightcast:01KV1ANNH3B159TVXZ55C6W851",
+      "published_date": "2026-06-15",
+      "guest_name": "Creatine Expert",
+      "duration_seconds": 4500.0
+    },
+    {
+      "episode_id": "doac-2026-06-11-67f18571cf20",
+      "rss_guid": "flightcast:01KTSQ9B3V53JFEGBR8DDYBSMM",
+      "published_date": "2026-06-11",
+      "guest_name": "Archaeology WARNING",
+      "duration_seconds": 6968.0
+    },
+    {
+      "episode_id": "doac-2026-06-08-3ad39f0d4db3",
+      "rss_guid": "flightcast:01KTHX7WCR8TV92TAF5Y99FM5M",
+      "published_date": "2026-06-08",
+      "guest_name": "Death of the Middle Class",
+      "duration_seconds": 9115.0
+    },
+    {
+      "episode_id": "doac-2026-06-04-e2dc17f17773",
+      "rss_guid": "flightcast:01KT7FYYCXJWMNJYVRCJ3RX9VP",
+      "published_date": "2026-06-04",
+      "guest_name": "Christian Apologist",
+      "duration_seconds": 5143.0
+    },
+    {
+      "episode_id": "doac-2026-06-01-ea0095d819b9",
+      "rss_guid": "flightcast:01KSZDQ99MMZ0TDAAC0EWY7T03",
+      "published_date": "2026-06-01",
+      "guest_name": "Tech Whistleblower",
+      "duration_seconds": 7287.0
+    },
+    {
+      "episode_id": "doac-2026-05-28-70d84277e374",
+      "rss_guid": "flightcast:01KSNMG2EPDSANF6F3EH346ZAJ",
+      "published_date": "2026-05-28",
+      "guest_name": "EMERGENCY DEBATE",
+      "duration_seconds": 6181.0
+    },
+    {
+      "episode_id": "doac-2026-05-25-8d51b1af65bc",
+      "rss_guid": "flightcast:01KSDJ6Z8QN3E3A9K5VXM0TD8S",
+      "published_date": "2026-05-25",
+      "guest_name": "Bruno Fernandes",
+      "duration_seconds": 5703.0
+    },
+    {
+      "episode_id": "doac-2026-05-21-9b7d899e6496",
+      "rss_guid": "flightcast:01KS3J8KQHH9HB44TJM37PBHZ3",
+      "published_date": "2026-05-21",
+      "guest_name": "World-Renowned Physicist",
+      "duration_seconds": 5920.0
+    },
+    {
+      "episode_id": "doac-2026-05-18-2904a5eb70f3",
+      "rss_guid": "flightcast:01KRVDFT0BAE6257WQWR76MWR6",
+      "published_date": "2026-05-18",
+      "guest_name": "Fatty Liver Expert",
+      "duration_seconds": 7853.0
+    },
+    {
+      "episode_id": "doac-2026-05-14-b9b49aeab881",
+      "rss_guid": "flightcast:01KRHZY6HBPB067YC206XC7ERF",
+      "published_date": "2026-05-14",
+      "guest_name": "UFO Roundtable",
+      "duration_seconds": 5240.0
+    },
+    {
+      "episode_id": "doac-2026-05-11-e83751794918",
+      "rss_guid": "flightcast:01KR97YM65PRYFHGRX6W8E0GNE",
+      "published_date": "2026-05-11",
+      "guest_name": "Pulitzer Prize Historian",
+      "duration_seconds": 6518.0
+    },
+    {
+      "episode_id": "doac-2026-05-07-047c37007710",
+      "rss_guid": "flightcast:01KR007TME4VJBSHMQSHHY34J4",
+      "published_date": "2026-05-07",
+      "guest_name": "WW3 Expert",
+      "duration_seconds": 7861.0
+    },
+    {
+      "episode_id": "doac-2026-05-04-501ebc9cbe03",
+      "rss_guid": "flightcast:01KQNHXQA2C1EYGWGH1G7VPF2C",
+      "published_date": "2026-05-04",
+      "guest_name": "Scott Galloway",
+      "duration_seconds": 7078.0
+    },
+    {
+      "episode_id": "doac-2026-04-30-7632042f1f9b",
+      "rss_guid": "flightcast:01KQDN7P374JRHZHW5ATSYRECC",
+      "published_date": "2026-04-30",
+      "guest_name": "Money Expert",
+      "duration_seconds": 6036.0
+    },
+    {
+      "episode_id": "doac-2026-04-27-9157999d66dc",
+      "rss_guid": "flightcast:01KQ00359JTYNQ0E9T9TTKG3SV",
+      "published_date": "2026-04-27",
+      "guest_name": "Sex Scientist",
+      "duration_seconds": 7183.0
+    },
+    {
+      "episode_id": "doac-2026-04-23-de3d6ef630ef",
+      "rss_guid": "flightcast:01KPV0GH4GHGBQT7BD84WEBAMS",
+      "published_date": "2026-04-23",
+      "guest_name": "Stanford Neuroscientist",
+      "duration_seconds": 5585.0
+    },
+    {
+      "episode_id": "doac-2026-04-20-f2d7d32ff191",
+      "rss_guid": "flightcast:01KPJQR48KNQ71A7C2HCY9PGPY",
+      "published_date": "2026-04-20",
+      "guest_name": "The Peptide Expert",
+      "duration_seconds": 5375.0
+    },
+    {
+      "episode_id": "doac-2026-04-16-9199f85b9b44",
+      "rss_guid": "flightcast:01KP9HAYP5R81VSSVBEPE3C926",
+      "published_date": "2026-04-16",
+      "guest_name": "World Collapse Expert (Ian Bremmer)",
+      "duration_seconds": 5968.0
+    },
+    {
+      "episode_id": "doac-2026-04-13-afc1952a8b9a",
+      "rss_guid": "flightcast:01KP1XGY1N8WW1CWHYZVW5VFWH",
+      "published_date": "2026-04-13",
+      "guest_name": "The Iran War Expert",
+      "duration_seconds": 5793.0
+    },
+    {
+      "episode_id": "doac-2026-04-09-f895f5a457b8",
+      "rss_guid": "flightcast:01KNQ1ND4MTVQ1ERFZHXEGAKC8",
+      "published_date": "2026-04-09",
+      "guest_name": "Ivanka Trump",
+      "duration_seconds": 5759.0
+    },
+    {
+      "episode_id": "doac-2026-04-06-3d95231068cc",
+      "rss_guid": "flightcast:01KNF6VSZK1MXKZRCKT9PQKSZW",
+      "published_date": "2026-04-06",
+      "guest_name": "Financial Crash Expert",
+      "duration_seconds": 5616.0
+    },
+    {
+      "episode_id": "doac-2026-04-02-e8dde5df0050",
+      "rss_guid": "flightcast:01KN553DYEH7M1NY416J0WGDY6",
+      "published_date": "2026-04-02",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6940.0
+    },
+    {
+      "episode_id": "doac-2026-03-30-61e0e5c88708",
+      "rss_guid": "flightcast:01KMX2ZYST1GW8403TSTEHW01R",
+      "published_date": "2026-03-30",
+      "guest_name": "Anti-Aging Expert",
+      "duration_seconds": 9577.0
+    },
+    {
+      "episode_id": "doac-2026-03-26-ea0f26d5d1bc",
+      "rss_guid": "flightcast:01KMK4XNRSHFPAKE6J014G9QDQ",
+      "published_date": "2026-03-26",
+      "guest_name": "AI Whistleblower",
+      "duration_seconds": 7739.0
+    },
+    {
+      "episode_id": "doac-2026-03-23-5cde250442c6",
+      "rss_guid": "flightcast:01KMB9ZWTM96X6RF03YCNBD0CT",
+      "published_date": "2026-03-23",
+      "guest_name": "David Sinclair",
+      "duration_seconds": 8942.0
+    },
+    {
+      "episode_id": "doac-2026-03-19-f5be38701540",
+      "rss_guid": "flightcast:01KM20WJPKVFHRVJZWTNA6Q1XT",
+      "published_date": "2026-03-19",
+      "guest_name": "Manipulation Expert",
+      "duration_seconds": 6978.0
+    },
+    {
+      "episode_id": "doac-2026-03-16-f9c120af1158",
+      "rss_guid": "flightcast:01KKQ4QF6BF92HK08C00ERA380",
+      "published_date": "2026-03-16",
+      "guest_name": "Daniel Priestley",
+      "duration_seconds": 7355.0
+    },
+    {
+      "episode_id": "doac-2026-03-12-1f824f82853d",
+      "rss_guid": "flightcast:01KKFSFNT057CTY8KP4W71XF2Z",
+      "published_date": "2026-03-12",
+      "guest_name": "The Iran War Expert",
+      "duration_seconds": 5342.0
+    },
+    {
+      "episode_id": "doac-2026-03-09-a6ec895a2150",
+      "rss_guid": "flightcast:01KK7HBK5VSPAWN6ZGYKRJT3PZ",
+      "published_date": "2026-03-09",
+      "guest_name": "No.1 Christianity Expert",
+      "duration_seconds": 8817.0
+    },
+    {
+      "episode_id": "doac-2026-03-04-54a225fd82ab",
+      "rss_guid": "flightcast:01KJVVZCW79SWY24W65JZVEZ4K",
+      "published_date": "2026-03-04",
+      "guest_name": "WW3 Threat Assessment",
+      "duration_seconds": 8222.0
+    },
+    {
+      "episode_id": "doac-2026-03-01-af070ae77484",
+      "rss_guid": "flightcast:01KJPAFF6Q76QYEJ6AYKVNA2WE",
+      "published_date": "2026-03-01",
+      "guest_name": "Top CIA Security Advisor",
+      "duration_seconds": 6292.0
+    },
+    {
+      "episode_id": "doac-2026-02-26-6125f648d58f",
+      "rss_guid": "flightcast:01KJBMV2VD6TCMGXHT2G1N93CG",
+      "published_date": "2026-02-26",
+      "guest_name": "Pregnancy Diet Expert",
+      "duration_seconds": 5777.0
+    },
+    {
+      "episode_id": "doac-2026-02-23-4cb80d4a5b34",
+      "rss_guid": "flightcast:01KJ4D989FAXK1H51XGGJJ17HN",
+      "published_date": "2026-02-23",
+      "guest_name": "Uber CEO",
+      "duration_seconds": 6201.0
+    },
+    {
+      "episode_id": "doac-2026-02-19-11a29821afe9",
+      "rss_guid": "flightcast:01KHSJW2YD8QAEM8VAYDQ1D64M",
+      "published_date": "2026-02-19",
+      "guest_name": "The Greatest Climber Alive",
+      "duration_seconds": 5828.0
+    },
+    {
+      "episode_id": "doac-2026-02-16-1cb8e465a11a",
+      "rss_guid": "flightcast:01KHBXZBAPJ3VHX1CANVAQNBPR",
+      "published_date": "2026-02-16",
+      "guest_name": "Brain Rot Emergency",
+      "duration_seconds": 8317.0
+    },
+    {
+      "episode_id": "doac-2026-02-12-ee05b754ac21",
+      "rss_guid": "flightcast:01KH6XSNQXNBMYJHW25PGJBHN1",
+      "published_date": "2026-02-12",
+      "guest_name": "World No.1 Divorce Lawyer",
+      "duration_seconds": 7528.0
+    },
+    {
+      "episode_id": "doac-2026-02-09-fbb252284234",
+      "rss_guid": "flightcast:01KGT2RCE89C2V37MW10W32C54",
+      "published_date": "2026-02-09",
+      "guest_name": "Human Sleep Expert",
+      "duration_seconds": 8646.0
+    },
+    {
+      "episode_id": "doac-2026-02-05-af3ae12637a8",
+      "rss_guid": "flightcast:01KGMM9PFD45HZDGY58KTK7D62",
+      "published_date": "2026-02-05",
+      "guest_name": "Cognitive Decline Expert",
+      "duration_seconds": 7509.0
+    },
+    {
+      "episode_id": "doac-2026-02-02-b8d5db080b0f",
+      "rss_guid": "flightcast:01KGA5AHQ9WBEKQMA6KMY9X4ZK",
+      "published_date": "2026-02-02",
+      "guest_name": "I Met An Uncontacted Tribe",
+      "duration_seconds": 9964.0
+    },
+    {
+      "episode_id": "doac-2026-01-29-f5c780830b74",
+      "rss_guid": "flightcast:01KG2R5JAE6VBFEG24Q5F6B1J6",
+      "published_date": "2026-01-29",
+      "guest_name": "Early Retirement Expert",
+      "duration_seconds": 6561.0
+    },
+    {
+      "episode_id": "doac-2026-01-26-991c20e6746c",
+      "rss_guid": "flightcast:01KFNDKZSSRVE1ZP6KGW6RVBT6",
+      "published_date": "2026-01-26",
+      "guest_name": "The Microbiome Doctor",
+      "duration_seconds": 5907.0
+    },
+    {
+      "episode_id": "doac-2026-01-22-d0ed1e3b94f3",
+      "rss_guid": "flightcast:01KFGZQFYAA7T8GC1RQSVAK2G5",
+      "published_date": "2026-01-22",
+      "guest_name": "The Man Warning The West",
+      "duration_seconds": 5674.0
+    },
+    {
+      "episode_id": "doac-2026-01-19-4b223b605e17",
+      "rss_guid": "flightcast:01KF8SBH53SKDKQ0MKGDS0QCTF",
+      "published_date": "2026-01-19",
+      "guest_name": "CIA Whistleblower",
+      "duration_seconds": 6338.0
+    },
+    {
+      "episode_id": "doac-2026-01-15-52dd9371681c",
+      "rss_guid": "flightcast:01KEW51SGHJ27N259TSQTC1B2F",
+      "published_date": "2026-01-15",
+      "guest_name": "Tony Robbins",
+      "duration_seconds": 7221.0
+    },
+    {
+      "episode_id": "doac-2026-01-12-0bb15a61c083",
+      "rss_guid": "flightcast:01KEHNK6795061VCS8DNPGQXA6",
+      "published_date": "2026-01-12",
+      "guest_name": "Passive Income Expert",
+      "duration_seconds": 8115.0
+    },
+    {
+      "episode_id": "doac-2026-01-08-79029792e20d",
+      "rss_guid": "flightcast:01KCV9B5581Y1CDTBEN58T6NJB",
+      "published_date": "2026-01-08",
+      "guest_name": "Top Insulin Expert",
+      "duration_seconds": 7320.0
+    },
+    {
+      "episode_id": "doac-2026-01-05-c5a603805338",
+      "rss_guid": "flightcast:01KCV98G7573AY96GJGCW1J3V0",
+      "published_date": "2026-01-05",
+      "guest_name": "Dopamine Expert",
+      "duration_seconds": 6394.0
+    },
+    {
+      "episode_id": "doac-2026-01-01-e1d5165e4e3e",
+      "rss_guid": "flightcast:01KCV96SQYFPGM5Y6TRZE6V029",
+      "published_date": "2026-01-01",
+      "guest_name": "Leaky Gut Expert",
+      "duration_seconds": 7908.0
+    },
+    {
+      "episode_id": "doac-2025-12-29-f983333056e0",
+      "rss_guid": "flightcast:01KCRJ1RKR3EJ70BSY4D2RFRF7",
+      "published_date": "2025-12-29",
+      "guest_name": "Chris Williamson",
+      "duration_seconds": 8888.0
+    },
+    {
+      "episode_id": "doac-2025-12-26-cb79b69a4f40",
+      "rss_guid": "flightcast:01KCV8KSH2WFNZ693RJ5N6MHDF",
+      "published_date": "2025-12-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 3916.0
+    },
+    {
+      "episode_id": "doac-2025-12-22-2d530b107439",
+      "rss_guid": "flightcast:01KCRHNBH04H1KF09HN3ZG7G1Y",
+      "published_date": "2025-12-22",
+      "guest_name": "The Gaslighting & Conversation Expert",
+      "duration_seconds": 10123.0
+    },
+    {
+      "episode_id": "doac-2025-12-18-8e0df3a070cc",
+      "rss_guid": "flightcast:01KCPZWZ40ZD56N494JVEHTVVK",
+      "published_date": "2025-12-18",
+      "guest_name": "Creator of AI",
+      "duration_seconds": 6000.0
+    },
+    {
+      "episode_id": "doac-2025-12-15-fb7005580268",
+      "rss_guid": "flightcast:01KC9G995CR5Y6Q7YKYMQ517Q3",
+      "published_date": "2025-12-15",
+      "guest_name": "Harvard’s Behaviour Expert",
+      "duration_seconds": 9107.0
+    },
+    {
+      "episode_id": "doac-2025-12-11-8511bb3ef73d",
+      "rss_guid": "flightcast:01KC50JX0E8DTDVPKDEG9KTDET",
+      "published_date": "2025-12-11",
+      "guest_name": "Discipline Expert",
+      "duration_seconds": 7892.0
+    },
+    {
+      "episode_id": "doac-2025-12-08-38e7d3080eb8",
+      "rss_guid": "flightcast:01KB272BHZZ8WVVPCVSRZXSE98",
+      "published_date": "2025-12-08",
+      "guest_name": "Passive Income Expert",
+      "duration_seconds": 7916.0
+    },
+    {
+      "episode_id": "doac-2025-12-04-d725d2bf2d39",
+      "rss_guid": "flightcast:01KBHT2424GHN72T5DCY82CJY8",
+      "published_date": "2025-12-04",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7459.0
+    },
+    {
+      "episode_id": "doac-2025-12-01-2c5542d6432e",
+      "rss_guid": "flightcast:01KB343R8B5MR5AQKK1PKC6YFG",
+      "published_date": "2025-12-01",
+      "guest_name": "Secret Service Agent",
+      "duration_seconds": 4896.0
+    },
+    {
+      "episode_id": "doac-2025-11-27-39423816ea96",
+      "rss_guid": "flightcast:01KB0GWEH6ZSMFCZ839D99A3F4",
+      "published_date": "2025-11-27",
+      "guest_name": "AI Expert",
+      "duration_seconds": 8553.0
+    },
+    {
+      "episode_id": "doac-2025-11-24-882763b328bf",
+      "rss_guid": "flightcast:01KAKXTJ06S60QN8YSENB9ZD3Q",
+      "published_date": "2025-11-24",
+      "guest_name": "Insulin Doctor",
+      "duration_seconds": 6711.0
+    },
+    {
+      "episode_id": "doac-2025-11-20-8e0077f20460",
+      "rss_guid": "flightcast:01KAE9SQY2AT930DMNY5VR4B4F",
+      "published_date": "2025-11-20",
+      "guest_name": "Kevin Hart",
+      "duration_seconds": 5804.0
+    },
+    {
+      "episode_id": "doac-2025-11-17-6cf36de2ae2a",
+      "rss_guid": "flightcast:01KA16HD3NA5GFPRVPRM7VZ1N2",
+      "published_date": "2025-11-17",
+      "guest_name": "No.1 Sleep Expert",
+      "duration_seconds": 8258.0
+    },
+    {
+      "episode_id": "doac-2025-11-13-f001ebea24f2",
+      "rss_guid": "flightcast:01K9WBDE8QBANR94D6GDCH73Q1",
+      "published_date": "2025-11-13",
+      "guest_name": "Tim Ferriss",
+      "duration_seconds": 4158.0
+    },
+    {
+      "episode_id": "doac-2025-11-10-82fea0c82798",
+      "rss_guid": "flightcast:01K9FAHWFPZR179E604GNVQ6YB",
+      "published_date": "2025-11-10",
+      "guest_name": "The Woman Who Makes Millionaires",
+      "duration_seconds": 7752.0
+    },
+    {
+      "episode_id": "doac-2025-11-06-93f5ce9c65e4",
+      "rss_guid": "flightcast:01K9AGR03G0VPB87DVACD5QK1S",
+      "published_date": "2025-11-06",
+      "guest_name": "No.1 Brain Scientist",
+      "duration_seconds": 5768.0
+    },
+    {
+      "episode_id": "doac-2025-11-03-cf381d6b95a9",
+      "rss_guid": "flightcast:01K8X5MEKWC7A7HPTJHG8JJ205",
+      "published_date": "2025-11-03",
+      "guest_name": "Brené  Brown",
+      "duration_seconds": 6654.0
+    },
+    {
+      "episode_id": "doac-2025-10-30-badeacad7e50",
+      "rss_guid": "flightcast:01K8QQSQ1H0JSKZGCT36SBDV6Q",
+      "published_date": "2025-10-30",
+      "guest_name": "Kamala Harris",
+      "duration_seconds": 6369.0
+    },
+    {
+      "episode_id": "doac-2025-10-27-bb6e3083a660",
+      "rss_guid": "flightcast:01K8BCF2KNCMJJDK7HV4Z75J24",
+      "published_date": "2025-10-27",
+      "guest_name": "Longevity Debate",
+      "duration_seconds": 9397.0
+    },
+    {
+      "episode_id": "doac-2025-10-23-ef669f035175",
+      "rss_guid": "flightcast:01K86DSS76PYRA293CPPWXHAN6",
+      "published_date": "2025-10-23",
+      "guest_name": "Oz Pearlman (Mentalist)",
+      "duration_seconds": 4782.0
+    },
+    {
+      "episode_id": "doac-2025-10-20-8d9e8c012bf3",
+      "rss_guid": "flightcast:01K7VY612HRQW188W4XT2YFQM6",
+      "published_date": "2025-10-20",
+      "guest_name": "Jürgen Klopp",
+      "duration_seconds": 8947.0
+    },
+    {
+      "episode_id": "doac-2025-10-16-a12e76f3c12c",
+      "rss_guid": "flightcast:01K7MCHGYBJ4PYZPCD26317G90",
+      "published_date": "2025-10-16",
+      "guest_name": "Women's Fertility & Lifestyle Debate",
+      "duration_seconds": 12861.0
+    },
+    {
+      "episode_id": "doac-2025-10-13-d3255a99cd1b",
+      "rss_guid": "flightcast:01K76KGJN3VWYRWY397G16SJ90",
+      "published_date": "2025-10-13",
+      "guest_name": "Neil deGrasse Tyson",
+      "duration_seconds": 7570.0
+    },
+    {
+      "episode_id": "doac-2025-10-09-8e6365646b7e",
+      "rss_guid": "flightcast:01K71JEY0737C66P4RF4FAWC91",
+      "published_date": "2025-10-09",
+      "guest_name": "Louis Tomlinson",
+      "duration_seconds": 7087.0
+    },
+    {
+      "episode_id": "doac-2025-10-06-76aa4c10c571",
+      "rss_guid": "flightcast:01K6MYMXM8QKS26FVWAVKEMKDB",
+      "published_date": "2025-10-06",
+      "guest_name": "Financial Expert",
+      "duration_seconds": 7642.0
+    },
+    {
+      "episode_id": "doac-2025-10-02-a9f51c281a50",
+      "rss_guid": "flightcast:01K6FVFRKA2P03FVAMREGNJRY2",
+      "published_date": "2025-10-02",
+      "guest_name": "No. 1 Sugar Expert",
+      "duration_seconds": 6634.0
+    },
+    {
+      "episode_id": "doac-2025-09-29-5a91c7fd3209",
+      "rss_guid": "flightcast:01K638Y95N9Q0BZ67MG6PQ13M1",
+      "published_date": "2025-09-29",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 12078.0
+    },
+    {
+      "episode_id": "doac-2025-09-25-8a2856c9cb17",
+      "rss_guid": "3767af4e-996e-11f0-ab1a-43852638d71f",
+      "published_date": "2025-09-25",
+      "guest_name": "Secret Agent (Evy Poumpouras)",
+      "duration_seconds": 9967.0
+    },
+    {
+      "episode_id": "doac-2025-09-22-9ca3e8b2ae17",
+      "rss_guid": "6c649bdc-93c7-11f0-b457-8f2b2c1a354c",
+      "published_date": "2025-09-22",
+      "guest_name": "The Insulin & Heart Doctor",
+      "duration_seconds": 6852.0
+    },
+    {
+      "episode_id": "doac-2025-09-18-7a2a1a3c31a4",
+      "rss_guid": "f36cf826-930f-11f0-ab0d-c710702c25d6",
+      "published_date": "2025-09-18",
+      "guest_name": "Matthew McConaughey",
+      "duration_seconds": 7572.0
+    },
+    {
+      "episode_id": "doac-2025-09-15-e2ef43984919",
+      "rss_guid": "a2b7b9e0-901a-11f0-b4b2-4383e554860d",
+      "published_date": "2025-09-15",
+      "guest_name": "No.1 Money Saving Experts",
+      "duration_seconds": 7796.0
+    },
+    {
+      "episode_id": "doac-2025-09-11-ed2c1489f3c5",
+      "rss_guid": "52b156b2-8e4a-11f0-a04a-1bf5ca5bf8bc",
+      "published_date": "2025-09-11",
+      "guest_name": "Ray Dalio",
+      "duration_seconds": 5669.0
+    },
+    {
+      "episode_id": "doac-2025-09-08-5608282d5dbe",
+      "rss_guid": "540ab6d6-8be6-11f0-b21b-8ff4a19071e7",
+      "published_date": "2025-09-08",
+      "guest_name": "The Diabetes Doctor",
+      "duration_seconds": 5499.0
+    },
+    {
+      "episode_id": "doac-2025-09-04-82b6db985bbf",
+      "rss_guid": "2cd5857e-88f2-11f0-bff5-378980dce7de",
+      "published_date": "2025-09-04",
+      "guest_name": "Roman Yampolskiy",
+      "duration_seconds": 5297.0
+    },
+    {
+      "episode_id": "doac-2025-09-01-9f730fdac861",
+      "rss_guid": "3f2622fc-84b4-11f0-b93c-fff52eaa9fc3",
+      "published_date": "2025-09-01",
+      "guest_name": "Water Fasting Scientist",
+      "duration_seconds": 4881.0
+    },
+    {
+      "episode_id": "doac-2025-08-28-f45494d4fa12",
+      "rss_guid": "556a91fa-8366-11f0-a0e6-af01a0423cf5",
+      "published_date": "2025-08-28",
+      "guest_name": "Former CIA Spies",
+      "duration_seconds": 9172.0
+    },
+    {
+      "episode_id": "doac-2025-08-25-f5ef1d43a5c1",
+      "rss_guid": "3090fbd2-7f40-11f0-ae75-cbbdc4c3aa73",
+      "published_date": "2025-08-25",
+      "guest_name": "Fat Burning Expert",
+      "duration_seconds": 7549.0
+    },
+    {
+      "episode_id": "doac-2025-08-21-9cdec6992973",
+      "rss_guid": "935fa726-7de8-11f0-8947-3fb99b5feed3",
+      "published_date": "2025-08-21",
+      "guest_name": "Mohnish Pabrai (Billionaire Investor)",
+      "duration_seconds": 6350.0
+    },
+    {
+      "episode_id": "doac-2025-08-18-6c3a7f21af8d",
+      "rss_guid": "370f1b78-73a2-11f0-bc4f-274c6ccaf026",
+      "published_date": "2025-08-18",
+      "guest_name": "ChatGPT Brain Rot Debate",
+      "duration_seconds": 5562.0
+    },
+    {
+      "episode_id": "doac-2025-08-14-fa8fd7b759ba",
+      "rss_guid": "43bbb134-73a1-11f0-b79d-ff1e06710017",
+      "published_date": "2025-08-14",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6241.0
+    },
+    {
+      "episode_id": "doac-2025-08-11-49da5915803d",
+      "rss_guid": "7ae938da-73a0-11f0-a8b8-ff84c60817bf",
+      "published_date": "2025-08-11",
+      "guest_name": "No.1 Herbal Medicine Expert",
+      "duration_seconds": 8048.0
+    },
+    {
+      "episode_id": "doac-2025-08-07-ea40c06bc2b6",
+      "rss_guid": "06d3924c-72dd-11f0-89a3-c7902f6e0f79",
+      "published_date": "2025-08-07",
+      "guest_name": "Money Making Experts",
+      "duration_seconds": 9158.0
+    },
+    {
+      "episode_id": "doac-2025-08-04-14a3e7725124",
+      "rss_guid": "85d73314-6ef0-11f0-8df6-ff67141012a1",
+      "published_date": "2025-08-04",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 9279.0
+    },
+    {
+      "episode_id": "doac-2025-07-31-dcc8424c3ba8",
+      "rss_guid": "38b63308-6d3f-11f0-9a3e-13a00964e4e1",
+      "published_date": "2025-07-31",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7399.0
+    },
+    {
+      "episode_id": "doac-2025-07-28-69297efcff60",
+      "rss_guid": "bb2d60d6-697a-11f0-964e-4f9744694a7d",
+      "published_date": "2025-07-28",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 10697.0
+    },
+    {
+      "episode_id": "doac-2025-07-24-b80e82467f36",
+      "rss_guid": "89c4605a-67bb-11f0-a2f4-abf9afb29d58",
+      "published_date": "2025-07-24",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6740.0
+    },
+    {
+      "episode_id": "doac-2025-07-21-963e71236f17",
+      "rss_guid": "416d1900-6405-11f0-89b0-dbec9bbe60e9",
+      "published_date": "2025-07-21",
+      "guest_name": "Finance Expert",
+      "duration_seconds": 7749.0
+    },
+    {
+      "episode_id": "doac-2025-07-17-2698ef700a75",
+      "rss_guid": "fc1fe098-6266-11f0-93d7-2fe17e812f3f",
+      "published_date": "2025-07-17",
+      "guest_name": "Vitamin D Expert",
+      "duration_seconds": 7544.0
+    },
+    {
+      "episode_id": "doac-2025-07-14-e9668af60ca0",
+      "rss_guid": "f246823a-5f2c-11f0-9d83-03a74e8b75c0",
+      "published_date": "2025-07-14",
+      "guest_name": "Eric Weinstein (Ex-Harvard Physicist)",
+      "duration_seconds": 9012.0
+    },
+    {
+      "episode_id": "doac-2025-07-10-dcdc26eefedc",
+      "rss_guid": "1b477374-5cee-11f0-9c6a-633d4ac6f319",
+      "published_date": "2025-07-10",
+      "guest_name": "WW3 Threat Assessment",
+      "duration_seconds": 9336.0
+    },
+    {
+      "episode_id": "doac-2025-07-07-c9c6d3f25297",
+      "rss_guid": "dbb28c26-58d8-11f0-8029-7b6ae3b0d586",
+      "published_date": "2025-07-07",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7037.0
+    },
+    {
+      "episode_id": "doac-2025-07-03-e09d7f4cef0c",
+      "rss_guid": "2e4d2844-5774-11f0-ab3a-33fd6491ff81",
+      "published_date": "2025-07-03",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 8421.0
+    },
+    {
+      "episode_id": "doac-2025-06-30-202947cd0a8b",
+      "rss_guid": "e1cfb226-533a-11f0-9c46-9b8312d4124f",
+      "published_date": "2025-06-30",
+      "guest_name": "Kevin O'Leary",
+      "duration_seconds": 6759.0
+    },
+    {
+      "episode_id": "doac-2025-06-26-7d36128f8843",
+      "rss_guid": "45b1b850-51e9-11f0-be8c-eb2c7b4ef2e4",
+      "published_date": "2025-06-26",
+      "guest_name": "Tom Aspinall",
+      "duration_seconds": 7957.0
+    },
+    {
+      "episode_id": "doac-2025-06-23-7c7ddc3aa4d3",
+      "rss_guid": "c7eecb16-4deb-11f0-8122-9ff529697b41",
+      "published_date": "2025-06-23",
+      "guest_name": "Buddhist Teacher",
+      "duration_seconds": 6699.0
+    },
+    {
+      "episode_id": "doac-2025-06-19-0d876aaf35fb",
+      "rss_guid": "c01ca65c-4c69-11f0-8c33-bbf5e67ad30a",
+      "published_date": "2025-06-19",
+      "guest_name": "THE FEMINISM DEBATE",
+      "duration_seconds": 8841.0
+    },
+    {
+      "episode_id": "doac-2025-06-16-f39b47c0302e",
+      "rss_guid": "70d851f0-4849-11f0-b9ec-8789748f28bf",
+      "published_date": "2025-06-16",
+      "guest_name": "Godfather of AI",
+      "duration_seconds": 5360.0
+    },
+    {
+      "episode_id": "doac-2025-06-12-6c208f7eeeb5",
+      "rss_guid": "692bf972-46cb-11f0-90b0-3f6029cb5205",
+      "published_date": "2025-06-12",
+      "guest_name": "The Sex Expert (Esther Perel)",
+      "duration_seconds": 5317.0
+    },
+    {
+      "episode_id": "doac-2025-06-09-22f604fe5c7a",
+      "rss_guid": "04f9e5ce-44a8-11f0-9e7d-d7a34708a2df",
+      "published_date": "2025-06-09",
+      "guest_name": "Scooter Braun",
+      "duration_seconds": 6780.0
+    },
+    {
+      "episode_id": "doac-2025-06-05-edc82fae0706",
+      "rss_guid": "4284e1b0-415f-11f0-8251-7724e885202f",
+      "published_date": "2025-06-05",
+      "guest_name": "World's No.1 Investing Expert",
+      "duration_seconds": 6093.0
+    },
+    {
+      "episode_id": "doac-2025-06-02-585bcd3a59cf",
+      "rss_guid": "5c955ba4-3d75-11f0-b87f-e3615408ac54",
+      "published_date": "2025-06-02",
+      "guest_name": "Jimmy Fallon",
+      "duration_seconds": 5986.0
+    },
+    {
+      "episode_id": "doac-2025-05-29-0a58ff44154d",
+      "rss_guid": "eaa1b62e-3bed-11f0-80a1-43c6f265fdac",
+      "published_date": "2025-05-29",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5463.0
+    },
+    {
+      "episode_id": "doac-2025-05-26-b81b689c1d10",
+      "rss_guid": "4836e5ee-37ec-11f0-a260-bbc4eb137de9",
+      "published_date": "2025-05-26",
+      "guest_name": "Simon Sinek",
+      "duration_seconds": 7614.0
+    },
+    {
+      "episode_id": "doac-2025-05-22-5e0754273ee3",
+      "rss_guid": "e592a5c4-3659-11f0-899b-0b2903718ab9",
+      "published_date": "2025-05-22",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6446.0
+    },
+    {
+      "episode_id": "doac-2025-05-19-60e5c31490cd",
+      "rss_guid": "35463304-3319-11f0-aed2-030c402015d0",
+      "published_date": "2025-05-19",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7589.0
+    },
+    {
+      "episode_id": "doac-2025-05-15-1e89849463c9",
+      "rss_guid": "d30e14ec-30e1-11f0-b030-1f9b704ac43c",
+      "published_date": "2025-05-15",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 8179.0
+    },
+    {
+      "episode_id": "doac-2025-05-12-d068e5568db2",
+      "rss_guid": "0055943a-2d9e-11f0-9f5e-0b93b9a64103",
+      "published_date": "2025-05-12",
+      "guest_name": "AI AGENTS EMERGENCY DEBATE",
+      "duration_seconds": 9152.0
+    },
+    {
+      "episode_id": "doac-2025-05-08-8451f2ed02fb",
+      "rss_guid": "b2597e84-2b60-11f0-9082-733aed723021",
+      "published_date": "2025-05-08",
+      "guest_name": "Chris Eubank Jr",
+      "duration_seconds": 6524.0
+    },
+    {
+      "episode_id": "doac-2025-05-05-c808319bb703",
+      "rss_guid": "0999ced6-25d7-11f0-9af7-33190bc0cc8e",
+      "published_date": "2025-05-05",
+      "guest_name": "The Woman That Makes Millionaires",
+      "duration_seconds": 8115.0
+    },
+    {
+      "episode_id": "doac-2025-05-01-aa6b51e2a3fd",
+      "rss_guid": "92eb5d82-25cb-11f0-91cb-a3f406d0aae1",
+      "published_date": "2025-05-01",
+      "guest_name": "Former First Lady (Michelle Obama)",
+      "duration_seconds": 5286.0
+    },
+    {
+      "episode_id": "doac-2025-04-28-2dfe3d920184",
+      "rss_guid": "76246c68-21e6-11f0-83ca-dbd6d8fd193d",
+      "published_date": "2025-04-28",
+      "guest_name": "The Savings Expert",
+      "duration_seconds": 8074.0
+    },
+    {
+      "episode_id": "doac-2025-04-24-d8d0d9ca1d1d",
+      "rss_guid": "5ebbf57e-202d-11f0-8c1a-57ba18072a8d",
+      "published_date": "2025-04-24",
+      "guest_name": "Shaolin Warrior Monk",
+      "duration_seconds": 8969.0
+    },
+    {
+      "episode_id": "doac-2025-04-21-aa39331745a4",
+      "rss_guid": "ed114f48-1bd9-11f0-a04a-d7015f1dc41a",
+      "published_date": "2025-04-21",
+      "guest_name": "Former FBI Agent",
+      "duration_seconds": 8723.0
+    },
+    {
+      "episode_id": "doac-2025-04-17-fbb161a9b23c",
+      "rss_guid": "3111fe72-1ad6-11f0-b6f6-af1d14dd3e21",
+      "published_date": "2025-04-17",
+      "guest_name": "Top Neuroscientist",
+      "duration_seconds": 7606.0
+    },
+    {
+      "episode_id": "doac-2025-04-14-c03a1b227359",
+      "rss_guid": "3c5e7d36-16ea-11f0-88fc-13e01c1c5c61",
+      "published_date": "2025-04-14",
+      "guest_name": "The Silenced Scientist",
+      "duration_seconds": 5181.0
+    },
+    {
+      "episode_id": "doac-2025-04-10-9082ac3b58de",
+      "rss_guid": "23f563d0-1551-11f0-915c-fff9863af0eb",
+      "published_date": "2025-04-10",
+      "guest_name": "*NEW* Body Language Expert",
+      "duration_seconds": 7754.0
+    },
+    {
+      "episode_id": "doac-2025-04-07-191c7fefa789",
+      "rss_guid": "eb67f0a2-1175-11f0-99b1-c753aff572e4",
+      "published_date": "2025-04-07",
+      "guest_name": "Anti-Aging Expert (Peter Attia)",
+      "duration_seconds": 6495.0
+    },
+    {
+      "episode_id": "doac-2025-04-03-40e147c29405",
+      "rss_guid": "e250608c-0fa2-11f0-8c3c-bfff9061b192",
+      "published_date": "2025-04-03",
+      "guest_name": "Corrupt Police Officer",
+      "duration_seconds": 5658.0
+    },
+    {
+      "episode_id": "doac-2025-03-31-821adc3023e2",
+      "rss_guid": "2cd9650e-0b2a-11f0-807c-435e05258767",
+      "published_date": "2025-03-31",
+      "guest_name": "Masculinity Debate",
+      "duration_seconds": 8726.0
+    },
+    {
+      "episode_id": "doac-2025-03-27-364f7601a734",
+      "rss_guid": "b998dfe4-0a74-11f0-a267-f7b184a4e8de",
+      "published_date": "2025-03-27",
+      "guest_name": "Menopause Expert",
+      "duration_seconds": 7113.0
+    },
+    {
+      "episode_id": "doac-2025-03-24-f536e9b57e53",
+      "rss_guid": "c6c1ac2e-0582-11f0-a087-2b17684717c1",
+      "published_date": "2025-03-24",
+      "guest_name": "Snapchat CEO",
+      "duration_seconds": 8938.0
+    },
+    {
+      "episode_id": "doac-2025-03-20-92028c21938e",
+      "rss_guid": "5d3b71f0-04dc-11f0-b45c-077de2fe9dbb",
+      "published_date": "2025-03-20",
+      "guest_name": "EMERGENCY DEBATE",
+      "duration_seconds": 8728.0
+    },
+    {
+      "episode_id": "doac-2025-03-17-eb6cd64bbfc1",
+      "rss_guid": "e086b478-00d8-11f0-b11a-57772a3c0709",
+      "published_date": "2025-03-17",
+      "guest_name": "The Speaking Coach",
+      "duration_seconds": 8241.0
+    },
+    {
+      "episode_id": "doac-2025-03-13-d300a50af689",
+      "rss_guid": "bde73d90-ff6e-11ef-85e9-c7300c8412c7",
+      "published_date": "2025-03-13",
+      "guest_name": "Dr. Joe Dispenza",
+      "duration_seconds": 6653.0
+    },
+    {
+      "episode_id": "doac-2025-03-10-49ef260f05a2",
+      "rss_guid": "74053146-fb9a-11ef-ae9c-af984b32b860",
+      "published_date": "2025-03-10",
+      "guest_name": "The Public Speaking Expert",
+      "duration_seconds": 8789.0
+    },
+    {
+      "episode_id": "doac-2025-03-06-7470ac0b501c",
+      "rss_guid": "97e1e5d6-f9c0-11ef-917c-e7c9d136d25b",
+      "published_date": "2025-03-06",
+      "guest_name": "The Ageing Doctor",
+      "duration_seconds": 6122.0
+    },
+    {
+      "episode_id": "doac-2025-03-03-3565aa515988",
+      "rss_guid": "0fb2955a-f5d5-11ef-9a55-f3dd9f1ecd84",
+      "published_date": "2025-03-03",
+      "guest_name": "Child Attachment Expert",
+      "duration_seconds": 9441.0
+    },
+    {
+      "episode_id": "doac-2025-02-27-a1c4ac4da289",
+      "rss_guid": "9fd0996e-f46a-11ef-953e-a7e9216c4378",
+      "published_date": "2025-02-27",
+      "guest_name": "The Manipulation Expert",
+      "duration_seconds": 9757.0
+    },
+    {
+      "episode_id": "doac-2025-02-24-2172fe8019b1",
+      "rss_guid": "2daf5504-f051-11ef-8cb0-832a22a7d86d",
+      "published_date": "2025-02-24",
+      "guest_name": "Former Spy",
+      "duration_seconds": 9541.0
+    },
+    {
+      "episode_id": "doac-2025-02-20-eba947b30a05",
+      "rss_guid": "d160d478-eebe-11ef-9805-2f1c091a3787",
+      "published_date": "2025-02-20",
+      "guest_name": "MrBeast",
+      "duration_seconds": 6205.0
+    },
+    {
+      "episode_id": "doac-2025-02-17-8a31711e6ff1",
+      "rss_guid": "ee068e16-e57b-11ef-87dc-8b7e9169e3d7",
+      "published_date": "2025-02-17",
+      "guest_name": "Behavioural Psychologist",
+      "duration_seconds": 6954.0
+    },
+    {
+      "episode_id": "doac-2025-02-13-813df0dbdb48",
+      "rss_guid": "c079d624-e57b-11ef-8056-0b2c7aa14e7b",
+      "published_date": "2025-02-13",
+      "guest_name": "The Man That Makes Millionaires",
+      "duration_seconds": 11645.0
+    },
+    {
+      "episode_id": "doac-2025-02-10-df4222bb4b74",
+      "rss_guid": "b56e42ac-e56b-11ef-aa19-a345fe5be77c",
+      "published_date": "2025-02-10",
+      "guest_name": "The No.1 Brain Doctor",
+      "duration_seconds": 8285.0
+    },
+    {
+      "episode_id": "doac-2025-02-06-2b405fc9f6c5",
+      "rss_guid": "929d410c-e3da-11ef-9949-9fdd1dc62cb0",
+      "published_date": "2025-02-06",
+      "guest_name": "The Insulin & Glucose Doctor",
+      "duration_seconds": 9831.0
+    },
+    {
+      "episode_id": "doac-2025-02-03-e38b572a0ab1",
+      "rss_guid": "af02c256-dfcd-11ef-9042-f32977d9fd0e",
+      "published_date": "2025-02-03",
+      "guest_name": "Charisma Teacher",
+      "duration_seconds": 8053.0
+    },
+    {
+      "episode_id": "doac-2025-01-30-c6725eb9ee1b",
+      "rss_guid": "5613324e-de78-11ef-a85c-93316fa42cca",
+      "published_date": "2025-01-30",
+      "guest_name": "Paul Brunson",
+      "duration_seconds": 9391.0
+    },
+    {
+      "episode_id": "doac-2025-01-27-67f5727d767d",
+      "rss_guid": "f832e2d8-da7a-11ef-8323-8ffcb5e9df01",
+      "published_date": "2025-01-27",
+      "guest_name": "Leading Nutritional Scientist",
+      "duration_seconds": 7889.0
+    },
+    {
+      "episode_id": "doac-2025-01-23-85712e1a3826",
+      "rss_guid": "3f0f76c8-d8da-11ef-8e51-17056cf00556",
+      "published_date": "2025-01-23",
+      "guest_name": "EMERGENCY DEBATE",
+      "duration_seconds": 6041.0
+    },
+    {
+      "episode_id": "doac-2025-01-20-dec5f7912ab3",
+      "rss_guid": "362a03cc-d4d7-11ef-b6d1-631e69b92112",
+      "published_date": "2025-01-20",
+      "guest_name": "The Money Making Expert",
+      "duration_seconds": 7961.0
+    },
+    {
+      "episode_id": "doac-2025-01-16-8e551e85f69b",
+      "rss_guid": "e93ec72e-d327-11ef-9385-9b649d98bd7a",
+      "published_date": "2025-01-16",
+      "guest_name": "Keto Diet Specialist",
+      "duration_seconds": 6434.0
+    },
+    {
+      "episode_id": "doac-2025-01-13-2941a4812e7f",
+      "rss_guid": "1e4cf216-cf80-11ef-97fc-27c22604ed93",
+      "published_date": "2025-01-13",
+      "guest_name": "Jordan B Peterson",
+      "duration_seconds": 8894.0
+    },
+    {
+      "episode_id": "doac-2025-01-09-141363f409de",
+      "rss_guid": "fbe1788c-cdcc-11ef-a337-f3a210b6eeb5",
+      "published_date": "2025-01-09",
+      "guest_name": "Sex & Infertility Expert",
+      "duration_seconds": 5925.0
+    },
+    {
+      "episode_id": "doac-2025-01-06-df2a64aa1981",
+      "rss_guid": "9e449fda-ca96-11ef-8f32-93f3f0360e33",
+      "published_date": "2025-01-06",
+      "guest_name": "The Exercise & Nutrition Scientist",
+      "duration_seconds": 7390.0
+    },
+    {
+      "episode_id": "doac-2025-01-02-5d360cf1fe6d",
+      "rss_guid": "b0bafb76-c755-11ef-8d08-23b9f21b35d8",
+      "published_date": "2025-01-02",
+      "guest_name": "The Dopamine Expert",
+      "duration_seconds": 7903.0
+    },
+    {
+      "episode_id": "doac-2024-12-30-c1a3214c012d",
+      "rss_guid": "d74aa0b4-4bfc-11ee-95d4-c791e2b1b8ae",
+      "published_date": "2024-12-30",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4869.0
+    },
+    {
+      "episode_id": "doac-2024-12-26-f42d023dac16",
+      "rss_guid": "d6c4b828-4bfc-11ee-95d4-2f8efd5f223a",
+      "published_date": "2024-12-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7526.0
+    },
+    {
+      "episode_id": "doac-2024-12-23-1f3c7061ecb1",
+      "rss_guid": "d7290148-4bfc-11ee-95d4-a375d206fb4d",
+      "published_date": "2024-12-23",
+      "guest_name": "The Body Trauma Expert",
+      "duration_seconds": 7439.0
+    },
+    {
+      "episode_id": "doac-2024-12-19-2a087e435a05",
+      "rss_guid": "d6a2cef2-4bfc-11ee-95d4-4b5692b775ea",
+      "published_date": "2024-12-19",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 8224.0
+    },
+    {
+      "episode_id": "doac-2024-12-16-0677121d4129",
+      "rss_guid": "d707c258-4bfc-11ee-95d4-df3389504259",
+      "published_date": "2024-12-16",
+      "guest_name": "Reid Hoffman, LinkedIn Founder",
+      "duration_seconds": 10293.0
+    },
+    {
+      "episode_id": "doac-2024-12-12-6ba42fe95426",
+      "rss_guid": "d681048e-4bfc-11ee-95d4-df629b191c86",
+      "published_date": "2024-12-12",
+      "guest_name": "MrBallen (Former Navy SEAL)",
+      "duration_seconds": 7365.0
+    },
+    {
+      "episode_id": "doac-2024-12-09-72fda56716c6",
+      "rss_guid": "d6e66d24-4bfc-11ee-95d4-7fa9966ca85a",
+      "published_date": "2024-12-09",
+      "guest_name": "The Body Language Expert",
+      "duration_seconds": 9831.0
+    },
+    {
+      "episode_id": "doac-2024-12-05-bec77eeb0535",
+      "rss_guid": "d65f206c-4bfc-11ee-95d4-6777fc5be86c",
+      "published_date": "2024-12-05",
+      "guest_name": "Orgasm Queen",
+      "duration_seconds": 6851.0
+    },
+    {
+      "episode_id": "doac-2024-12-02-7402f5f2928a",
+      "rss_guid": "d63d14a4-4bfc-11ee-95d4-1b87068febbd",
+      "published_date": "2024-12-02",
+      "guest_name": "Brian Keating",
+      "duration_seconds": 6551.0
+    },
+    {
+      "episode_id": "doac-2024-11-28-c6bca5dd819b",
+      "rss_guid": "d5b42b30-4bfc-11ee-95d4-abf82b94e192",
+      "published_date": "2024-11-28",
+      "guest_name": "Mike Baker (Ex-CIA Spy)",
+      "duration_seconds": 8057.0
+    },
+    {
+      "episode_id": "doac-2024-11-25-7c38c8f1c120",
+      "rss_guid": "d5d69346-4bfc-11ee-95d4-f36d91c62174",
+      "published_date": "2024-11-25",
+      "guest_name": "Oestrogen Expert",
+      "duration_seconds": 6786.0
+    },
+    {
+      "episode_id": "doac-2024-11-24-4a5eefdd0192",
+      "rss_guid": "c5cbf37a-a9e7-11ef-bc59-cf095a3392d6",
+      "published_date": "2024-11-24",
+      "guest_name": "Steven Shares His Secret Diary",
+      "duration_seconds": 3739.0
+    },
+    {
+      "episode_id": "doac-2024-11-21-af187e3f60ef",
+      "rss_guid": "d59211bc-4bfc-11ee-95d4-0bef32cb0887",
+      "published_date": "2024-11-21",
+      "guest_name": "The Savings Expert",
+      "duration_seconds": 8968.0
+    },
+    {
+      "episode_id": "doac-2024-11-18-9509909c2644",
+      "rss_guid": "d5f90af2-4bfc-11ee-95d4-937f040afea1",
+      "published_date": "2024-11-18",
+      "guest_name": "No.1 Toxicologist",
+      "duration_seconds": 7133.0
+    },
+    {
+      "episode_id": "doac-2024-11-14-f55d49822d8f",
+      "rss_guid": "d56eacea-4bfc-11ee-95d4-7bf3eda33953",
+      "published_date": "2024-11-14",
+      "guest_name": "Ex Google CEO",
+      "duration_seconds": 6494.0
+    },
+    {
+      "episode_id": "doac-2024-11-11-a75d744a6a15",
+      "rss_guid": "d61b45f4-4bfc-11ee-95d4-233c9977b1a5",
+      "published_date": "2024-11-11",
+      "guest_name": "The Functional Dentist",
+      "duration_seconds": 5632.0
+    },
+    {
+      "episode_id": "doac-2024-11-07-0afa4758a5e9",
+      "rss_guid": "d54b96ce-4bfc-11ee-95d4-efadd66d2df8",
+      "published_date": "2024-11-07",
+      "guest_name": "The Investing & Crypto Expert",
+      "duration_seconds": 7891.0
+    },
+    {
+      "episode_id": "doac-2024-11-04-e67f08b77a3c",
+      "rss_guid": "d525b652-4bfc-11ee-95d4-4f2a3db48d0d",
+      "published_date": "2024-11-04",
+      "guest_name": "Scott Galloway (US ELECTION SPECIAL)",
+      "duration_seconds": 6859.0
+    },
+    {
+      "episode_id": "doac-2024-10-31-3dca05d49e35",
+      "rss_guid": "d470b7b6-4bfc-11ee-95d4-6b8cf3202e61",
+      "published_date": "2024-10-31",
+      "guest_name": "Ex-Pentagon Official",
+      "duration_seconds": 5588.0
+    },
+    {
+      "episode_id": "doac-2024-10-28-20430902dd08",
+      "rss_guid": "d4fffe12-4bfc-11ee-95d4-6b66d659abfa",
+      "published_date": "2024-10-28",
+      "guest_name": "The Divorce Expert",
+      "duration_seconds": 9771.0
+    },
+    {
+      "episode_id": "doac-2024-10-24-2a94440b3855",
+      "rss_guid": "d44e70b6-4bfc-11ee-95d4-7f795840f090",
+      "published_date": "2024-10-24",
+      "guest_name": "Brain Doctor",
+      "duration_seconds": 3769.0
+    },
+    {
+      "episode_id": "doac-2024-10-21-9d370f0263c6",
+      "rss_guid": "d4dc3e96-4bfc-11ee-95d4-6bde479f55a0",
+      "published_date": "2024-10-21",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 8583.0
+    },
+    {
+      "episode_id": "doac-2024-10-17-3a350323b79c",
+      "rss_guid": "d42bebc2-4bfc-11ee-95d4-6f3dcf10291b",
+      "published_date": "2024-10-17",
+      "guest_name": "Trevor Noah",
+      "duration_seconds": 9509.0
+    },
+    {
+      "episode_id": "doac-2024-10-14-6c308d67fe3a",
+      "rss_guid": "d4b86d0e-4bfc-11ee-95d4-47a77584d19b",
+      "published_date": "2024-10-14",
+      "guest_name": "Ramit Sethi",
+      "duration_seconds": 6576.0
+    },
+    {
+      "episode_id": "doac-2024-10-11-ceb7f6562ab4",
+      "rss_guid": "63a267f4-4bfd-11ee-bcd4-bb1f0da13c5d",
+      "published_date": "2024-10-11",
+      "guest_name": "Extended Moment",
+      "duration_seconds": 4360.0
+    },
+    {
+      "episode_id": "doac-2024-10-10-33fbcf034a4e",
+      "rss_guid": "d4099928-4bfc-11ee-95d4-8bec36b2db92",
+      "published_date": "2024-10-10",
+      "guest_name": "(EXCLUSIVE) Boris Johnson",
+      "duration_seconds": 6789.0
+    },
+    {
+      "episode_id": "doac-2024-10-07-64e989288930",
+      "rss_guid": "d493a2c6-4bfc-11ee-95d4-a3d49b6a48f0",
+      "published_date": "2024-10-07",
+      "guest_name": "The Groundbreaking Cancer Expert",
+      "duration_seconds": 5829.0
+    },
+    {
+      "episode_id": "doac-2024-10-03-b55c2ee3a0e0",
+      "rss_guid": "d3e6874e-4bfc-11ee-95d4-8bbdeb76027d",
+      "published_date": "2024-10-03",
+      "guest_name": "The No.1 Eye Doctor",
+      "duration_seconds": 6077.0
+    },
+    {
+      "episode_id": "doac-2024-09-30-ef05b35b0b4a",
+      "rss_guid": "d33cc704-4bfc-11ee-95d4-bfb337014238",
+      "published_date": "2024-09-30",
+      "guest_name": "The Brain Rot Dr",
+      "duration_seconds": 9310.0
+    },
+    {
+      "episode_id": "doac-2024-09-26-9968bca50e89",
+      "rss_guid": "d35ea676-4bfc-11ee-95d4-93471ffa38f3",
+      "published_date": "2024-09-26",
+      "guest_name": "The Anti-Obesity Doctor",
+      "duration_seconds": 6786.0
+    },
+    {
+      "episode_id": "doac-2024-09-23-841a6604595f",
+      "rss_guid": "d31b2bee-4bfc-11ee-95d4-1b47520bd78f",
+      "published_date": "2024-09-23",
+      "guest_name": "The Anti-Woke Expert",
+      "duration_seconds": 6916.0
+    },
+    {
+      "episode_id": "doac-2024-09-19-17444a2fbb70",
+      "rss_guid": "d3810176-4bfc-11ee-95d4-9370f91cd93d",
+      "published_date": "2024-09-19",
+      "guest_name": "Glucose Goddess",
+      "duration_seconds": 5805.0
+    },
+    {
+      "episode_id": "doac-2024-09-16-5a5dbabe799f",
+      "rss_guid": "d2f9a938-4bfc-11ee-95d4-4741efc191ef",
+      "published_date": "2024-09-16",
+      "guest_name": "The Gottman Doctors",
+      "duration_seconds": 8083.0
+    },
+    {
+      "episode_id": "doac-2024-09-12-a1b12e171915",
+      "rss_guid": "d3a29048-4bfc-11ee-95d4-3f203ca2654d",
+      "published_date": "2024-09-12",
+      "guest_name": "The Muscle Building Expert",
+      "duration_seconds": 6930.0
+    },
+    {
+      "episode_id": "doac-2024-09-09-91e957ceb54b",
+      "rss_guid": "d2d752ca-4bfc-11ee-95d4-9baeb503fe37",
+      "published_date": "2024-09-09",
+      "guest_name": "The Cancelled Professor",
+      "duration_seconds": 10862.0
+    },
+    {
+      "episode_id": "doac-2024-09-05-7bd3809af55e",
+      "rss_guid": "d3c457fa-4bfc-11ee-95d4-37ce0ff690f0",
+      "published_date": "2024-09-05",
+      "guest_name": "Yuval Noah Harari",
+      "duration_seconds": 6692.0
+    },
+    {
+      "episode_id": "doac-2024-09-02-21a66019581d",
+      "rss_guid": "d2b5dd98-4bfc-11ee-95d4-5ffd5310fff6",
+      "published_date": "2024-09-02",
+      "guest_name": "David Epstein",
+      "duration_seconds": 7670.0
+    },
+    {
+      "episode_id": "doac-2024-08-29-515b126f4a16",
+      "rss_guid": "d20b7cae-4bfc-11ee-95d4-1f4ccfe8c142",
+      "published_date": "2024-08-29",
+      "guest_name": "Andrew Huberman",
+      "duration_seconds": 14408.0
+    },
+    {
+      "episode_id": "doac-2024-08-26-e1bdd3329e74",
+      "rss_guid": "d29460be-4bfc-11ee-95d4-9ff475820e05",
+      "published_date": "2024-08-26",
+      "guest_name": "The Dating Doctor",
+      "duration_seconds": 8388.0
+    },
+    {
+      "episode_id": "doac-2024-08-22-5f5c902f039f",
+      "rss_guid": "d1e8f008-4bfc-11ee-95d4-4b8af3b757f0",
+      "published_date": "2024-08-22",
+      "guest_name": "Arianna Huffington",
+      "duration_seconds": 6436.0
+    },
+    {
+      "episode_id": "doac-2024-08-19-b0b66b3a6f52",
+      "rss_guid": "d2727292-4bfc-11ee-95d4-b77b128af8d3",
+      "published_date": "2024-08-19",
+      "guest_name": "Former Mafia Boss",
+      "duration_seconds": 7605.0
+    },
+    {
+      "episode_id": "doac-2024-08-15-d938a14ef024",
+      "rss_guid": "d1c654da-4bfc-11ee-95d4-3f474cb20fae",
+      "published_date": "2024-08-15",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 10058.0
+    },
+    {
+      "episode_id": "doac-2024-08-12-5e79efcd324a",
+      "rss_guid": "d24ed800-4bfc-11ee-95d4-273fc1fce90b",
+      "published_date": "2024-08-12",
+      "guest_name": "Codie Sanchez",
+      "duration_seconds": 7243.0
+    },
+    {
+      "episode_id": "doac-2024-08-08-286a0ce42726",
+      "rss_guid": "d19b7526-4bfc-11ee-95d4-17158db7fee9",
+      "published_date": "2024-08-08",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7551.0
+    },
+    {
+      "episode_id": "doac-2024-08-05-d6b061246c37",
+      "rss_guid": "d22d4294-4bfc-11ee-95d4-d3466adfcd8b",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5613.0
+    },
+    {
+      "episode_id": "doac-2024-08-01-3dbc4ca35383",
+      "rss_guid": "d1790338-4bfc-11ee-95d4-07d483491ae5",
+      "published_date": "2024-08-01",
+      "guest_name": "Former Netflix CEO",
+      "duration_seconds": 7180.0
+    },
+    {
+      "episode_id": "doac-2024-07-29-e3bc236f5001",
+      "rss_guid": "d1120494-4bfc-11ee-95d4-f7ec374f62f1",
+      "published_date": "2024-07-29",
+      "guest_name": "The Manipulation Expert",
+      "duration_seconds": 10279.0
+    },
+    {
+      "episode_id": "doac-2024-07-25-d11f21a3af9b",
+      "rss_guid": "d135346e-4bfc-11ee-95d4-2f89acbd8553",
+      "published_date": "2024-07-25",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7450.0
+    },
+    {
+      "episode_id": "doac-2024-07-22-258c7b6b9d1e",
+      "rss_guid": "d0ecb7f2-4bfc-11ee-95d4-83a16a9c0b02",
+      "published_date": "2024-07-22",
+      "guest_name": "The Healthy Ageing Doctor",
+      "duration_seconds": 7535.0
+    },
+    {
+      "episode_id": "doac-2024-07-15-d172c835aaf9",
+      "rss_guid": "d0c7e404-4bfc-11ee-95d4-13f1332b6443",
+      "published_date": "2024-07-15",
+      "guest_name": "Josh Kaufman",
+      "duration_seconds": 7537.0
+    },
+    {
+      "episode_id": "doac-2024-07-11-249056db4dbb",
+      "rss_guid": "d07e7440-4bfc-11ee-95d4-839b43de178c",
+      "published_date": "2024-07-11",
+      "guest_name": "The Investing Expert",
+      "duration_seconds": 6449.0
+    },
+    {
+      "episode_id": "doac-2024-07-08-f6f6080bf4ab",
+      "rss_guid": "d0a349e6-4bfc-11ee-95d4-eb62900df20f",
+      "published_date": "2024-07-08",
+      "guest_name": "The Gender Expert",
+      "duration_seconds": 7421.0
+    },
+    {
+      "episode_id": "doac-2024-07-04-2870b86dc135",
+      "rss_guid": "d059d108-4bfc-11ee-95d4-c33ad01632d8",
+      "published_date": "2024-07-04",
+      "guest_name": "The Ozempic Expert",
+      "duration_seconds": 7000.0
+    },
+    {
+      "episode_id": "doac-2024-07-01-2d887e8292be",
+      "rss_guid": "d0351d18-4bfc-11ee-95d4-1f6805a8b6b0",
+      "published_date": "2024-07-01",
+      "guest_name": "The Sleep Scientist (NEW RESEARCH)",
+      "duration_seconds": 7036.0
+    },
+    {
+      "episode_id": "doac-2024-06-27-97746dea9752",
+      "rss_guid": "cfec7c20-4bfc-11ee-95d4-d3499957150e",
+      "published_date": "2024-06-27",
+      "guest_name": "The Fasting Expert",
+      "duration_seconds": 7053.0
+    },
+    {
+      "episode_id": "doac-2024-06-24-caa721092160",
+      "rss_guid": "cfa26c8e-4bfc-11ee-95d4-175ae0bed92c",
+      "published_date": "2024-06-24",
+      "guest_name": "Wim Hof",
+      "duration_seconds": 6187.0
+    },
+    {
+      "episode_id": "doac-2024-06-20-eea35f0b01fa",
+      "rss_guid": "d010d99e-4bfc-11ee-95d4-078b7c89bb70",
+      "published_date": "2024-06-20",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6548.0
+    },
+    {
+      "episode_id": "doac-2024-06-17-273f232b42ca",
+      "rss_guid": "cf7ce04a-4bfc-11ee-95d4-6b03c73250bc",
+      "published_date": "2024-06-17",
+      "guest_name": "Simon Sinek",
+      "duration_seconds": 7163.0
+    },
+    {
+      "episode_id": "doac-2024-06-13-df4b0e3fefc7",
+      "rss_guid": "cfc78bfe-4bfc-11ee-95d4-5f73382c13c2",
+      "published_date": "2024-06-13",
+      "guest_name": "The Menopause Doctor",
+      "duration_seconds": 7054.0
+    },
+    {
+      "episode_id": "doac-2024-06-10-30892c536813",
+      "rss_guid": "cf57b16c-4bfc-11ee-95d4-c3338d58b32f",
+      "published_date": "2024-06-10",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7928.0
+    },
+    {
+      "episode_id": "doac-2024-06-06-e86f9b0d30b1",
+      "rss_guid": "cf0de1d6-4bfc-11ee-95d4-73df6a9c3793",
+      "published_date": "2024-06-06",
+      "guest_name": "Secret Agent",
+      "duration_seconds": 7260.0
+    },
+    {
+      "episode_id": "doac-2024-06-03-33660b5455e2",
+      "rss_guid": "cf325476-4bfc-11ee-95d4-33ef6c19191d",
+      "published_date": "2024-06-03",
+      "guest_name": "The Pregnancy Doctor",
+      "duration_seconds": 8471.0
+    },
+    {
+      "episode_id": "doac-2024-05-30-270cc5bdcf29",
+      "rss_guid": "cee99736-4bfc-11ee-95d4-bf421d68a908",
+      "published_date": "2024-05-30",
+      "guest_name": "Dr Mike",
+      "duration_seconds": 6402.0
+    },
+    {
+      "episode_id": "doac-2024-05-27-0f4f0233fa8e",
+      "rss_guid": "ce3219bc-4bfc-11ee-95d4-63eb4b03e5de",
+      "published_date": "2024-05-27",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5524.0
+    },
+    {
+      "episode_id": "doac-2024-05-23-8c93824c9c75",
+      "rss_guid": "cec58490-4bfc-11ee-95d4-3f887ce178e6",
+      "published_date": "2024-05-23",
+      "guest_name": "The Exercise Neuroscientist",
+      "duration_seconds": 5354.0
+    },
+    {
+      "episode_id": "doac-2024-05-20-ce5902d52321",
+      "rss_guid": "ce0d6482-4bfc-11ee-95d4-63361d6fb74c",
+      "published_date": "2024-05-20",
+      "guest_name": "The Divorce Expert",
+      "duration_seconds": 8276.0
+    },
+    {
+      "episode_id": "doac-2024-05-16-49309e6031a4",
+      "rss_guid": "cea01a16-4bfc-11ee-95d4-c780ccce6f71",
+      "published_date": "2024-05-16",
+      "guest_name": "The Glucose Expert",
+      "duration_seconds": 6665.0
+    },
+    {
+      "episode_id": "doac-2024-05-13-3dbdea148dee",
+      "rss_guid": "cde8a764-4bfc-11ee-95d4-6f15df4cefb0",
+      "published_date": "2024-05-13",
+      "guest_name": "Nuclear War Expert",
+      "duration_seconds": 7821.0
+    },
+    {
+      "episode_id": "doac-2024-05-09-4e7b147bfc1a",
+      "rss_guid": "ce7b7a44-4bfc-11ee-95d4-afef95da7232",
+      "published_date": "2024-05-09",
+      "guest_name": "The Fertility Expert",
+      "duration_seconds": 5374.0
+    },
+    {
+      "episode_id": "doac-2024-05-06-f76ba557fda4",
+      "rss_guid": "cdc3a40a-4bfc-11ee-95d4-9f6c43418332",
+      "published_date": "2024-05-06",
+      "guest_name": "Rebel Wilson",
+      "duration_seconds": 5606.0
+    },
+    {
+      "episode_id": "doac-2024-05-02-2e78ddcab8df",
+      "rss_guid": "ce569dc8-4bfc-11ee-95d4-d3ac2e1a020d",
+      "published_date": "2024-05-02",
+      "guest_name": "Russ Cook (Hardest Geezer)",
+      "duration_seconds": 7296.0
+    },
+    {
+      "episode_id": "doac-2024-04-29-176e744426da",
+      "rss_guid": "cd9eef98-4bfc-11ee-95d4-e7e14eb521ea",
+      "published_date": "2024-04-29",
+      "guest_name": "Ozempic Expert",
+      "duration_seconds": 8782.0
+    },
+    {
+      "episode_id": "doac-2024-04-25-122171f56db3",
+      "rss_guid": "cd0b986a-4bfc-11ee-95d4-7f8097fd7319",
+      "published_date": "2024-04-25",
+      "guest_name": "Mo Gawdat",
+      "duration_seconds": 10285.0
+    },
+    {
+      "episode_id": "doac-2024-04-22-da125fb3ca98",
+      "rss_guid": "cd791c32-4bfc-11ee-95d4-5ffe312c15cd",
+      "published_date": "2024-04-22",
+      "guest_name": "World No. 1 Biohacking Expert",
+      "duration_seconds": 6178.0
+    },
+    {
+      "episode_id": "doac-2024-04-18-5e78a6c11ff7",
+      "rss_guid": "cce6e290-4bfc-11ee-95d4-4720e6bf291f",
+      "published_date": "2024-04-18",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6558.0
+    },
+    {
+      "episode_id": "doac-2024-04-15-21212e864475",
+      "rss_guid": "cd546086-4bfc-11ee-95d4-af392fe2be67",
+      "published_date": "2024-04-15",
+      "guest_name": "Jimmy Carr",
+      "duration_seconds": 6823.0
+    },
+    {
+      "episode_id": "doac-2024-04-11-570d6e3bae67",
+      "rss_guid": "ccc2a920-4bfc-11ee-95d4-7ff71919b5a6",
+      "published_date": "2024-04-11",
+      "guest_name": "The Longevity Expert",
+      "duration_seconds": 6092.0
+    },
+    {
+      "episode_id": "doac-2024-04-08-29f3170575aa",
+      "rss_guid": "cd2fca46-4bfc-11ee-95d4-b7ac321492a8",
+      "published_date": "2024-04-08",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5727.0
+    },
+    {
+      "episode_id": "doac-2024-04-04-1f338d71d5e6",
+      "rss_guid": "cc9dd988-4bfc-11ee-95d4-132de8d8adc3",
+      "published_date": "2024-04-04",
+      "guest_name": "Tim Dillon (Comedian)",
+      "duration_seconds": 6114.0
+    },
+    {
+      "episode_id": "doac-2024-04-01-dfddc2747acc",
+      "rss_guid": "cbe86e54-4bfc-11ee-95d4-7b4a0e3d20d7",
+      "published_date": "2024-04-01",
+      "guest_name": "The Better-Sex Doctor",
+      "duration_seconds": 6733.0
+    },
+    {
+      "episode_id": "doac-2024-03-28-e017cbcf8756",
+      "rss_guid": "cc7902e8-4bfc-11ee-95d4-7bad56f8b1e6",
+      "published_date": "2024-03-28",
+      "guest_name": "The Gottman Doctors",
+      "duration_seconds": 7430.0
+    },
+    {
+      "episode_id": "doac-2024-03-24-ffdee41a5083",
+      "rss_guid": "cbc44060-4bfc-11ee-95d4-b75707c373ce",
+      "published_date": "2024-03-24",
+      "guest_name": "George Heaton (Represent Founder)",
+      "duration_seconds": 6048.0
+    },
+    {
+      "episode_id": "doac-2024-03-21-4073a382fc5c",
+      "rss_guid": "cc54b528-4bfc-11ee-95d4-1bb72b132087",
+      "published_date": "2024-03-21",
+      "guest_name": "The Childhood Trauma Doctor",
+      "duration_seconds": 6369.0
+    },
+    {
+      "episode_id": "doac-2024-03-18-4655fb1d7233",
+      "rss_guid": "cb9fd9d2-4bfc-11ee-95d4-533233f00a83",
+      "published_date": "2024-03-18",
+      "guest_name": "The Manipulation Expert",
+      "duration_seconds": 7118.0
+    },
+    {
+      "episode_id": "doac-2024-03-14-4631315b2595",
+      "rss_guid": "cc30adae-4bfc-11ee-95d4-970bd25b9852",
+      "published_date": "2024-03-14",
+      "guest_name": "The Calories Expert",
+      "duration_seconds": 8912.0
+    },
+    {
+      "episode_id": "doac-2024-03-11-da77dbdb7bea",
+      "rss_guid": "cb7bca38-4bfc-11ee-95d4-e74fe86d8740",
+      "published_date": "2024-03-11",
+      "guest_name": "The Relationship Therapist",
+      "duration_seconds": 6368.0
+    },
+    {
+      "episode_id": "doac-2024-03-07-7f0a970c93a3",
+      "rss_guid": "cc0cbbba-4bfc-11ee-95d4-1b39ecaddb29",
+      "published_date": "2024-03-07",
+      "guest_name": "The Male Psychology Doctor",
+      "duration_seconds": 5395.0
+    },
+    {
+      "episode_id": "doac-2024-03-04-d8208d3f0a3b",
+      "rss_guid": "cb573128-4bfc-11ee-95d4-5333b67fac35",
+      "published_date": "2024-03-04",
+      "guest_name": "CIA Spy",
+      "duration_seconds": 7322.0
+    },
+    {
+      "episode_id": "doac-2024-02-29-7c8ee1e76d07",
+      "rss_guid": "cac2fea4-4bfc-11ee-95d4-0f28210e25ef",
+      "published_date": "2024-02-29",
+      "guest_name": "The Narcissism Doctor",
+      "duration_seconds": 5966.0
+    },
+    {
+      "episode_id": "doac-2024-02-26-52aafc3efdd1",
+      "rss_guid": "cb31cca8-4bfc-11ee-95d4-4b6b13c96b5a",
+      "published_date": "2024-02-26",
+      "guest_name": "The Muscle Growth Doctor",
+      "duration_seconds": 8737.0
+    },
+    {
+      "episode_id": "doac-2024-02-22-358436df4f30",
+      "rss_guid": "ca9da924-4bfc-11ee-95d4-1b9dcec51d3a",
+      "published_date": "2024-02-22",
+      "guest_name": "The Money Making Expert",
+      "duration_seconds": 6744.0
+    },
+    {
+      "episode_id": "doac-2024-02-19-f1b8c36b9bae",
+      "rss_guid": "cb0cfebe-4bfc-11ee-95d4-8f502f15d9c7",
+      "published_date": "2024-02-19",
+      "guest_name": "The Orgasm Expert",
+      "duration_seconds": 5632.0
+    },
+    {
+      "episode_id": "doac-2024-02-15-9da2fc3c5d0c",
+      "rss_guid": "ca788536-4bfc-11ee-95d4-034c5a4e39dd",
+      "published_date": "2024-02-15",
+      "guest_name": "Hinge Dating App CEO",
+      "duration_seconds": 5051.0
+    },
+    {
+      "episode_id": "doac-2024-02-12-67ce4e2f7f1b",
+      "rss_guid": "cae740c0-4bfc-11ee-95d4-b794f8b089a6",
+      "published_date": "2024-02-12",
+      "guest_name": "Adam Grant",
+      "duration_seconds": 6161.0
+    },
+    {
+      "episode_id": "doac-2024-02-08-9702fd193ffd",
+      "rss_guid": "ca52d87c-4bfc-11ee-95d4-075934a21694",
+      "published_date": "2024-02-08",
+      "guest_name": "The Brain Professor",
+      "duration_seconds": 4515.0
+    },
+    {
+      "episode_id": "doac-2024-02-05-df15aa36dbe7",
+      "rss_guid": "ca0922cc-4bfc-11ee-95d4-8fc023535ae6",
+      "published_date": "2024-02-05",
+      "guest_name": "The Vegan Dr",
+      "duration_seconds": 6167.0
+    },
+    {
+      "episode_id": "doac-2024-02-01-fa61ce61c56e",
+      "rss_guid": "ca2d8df6-4bfc-11ee-95d4-df65b8bc5dd6",
+      "published_date": "2024-02-01",
+      "guest_name": "Paul Brunson",
+      "duration_seconds": 7725.0
+    },
+    {
+      "episode_id": "doac-2024-01-29-d02b1d27063a",
+      "rss_guid": "c9560322-4bfc-11ee-95d4-c7dfa9140cc2",
+      "published_date": "2024-01-29",
+      "guest_name": "World's No. 1 Exercise Professor",
+      "duration_seconds": 5516.0
+    },
+    {
+      "episode_id": "doac-2024-01-25-a47dbff79c14",
+      "rss_guid": "c978394c-4bfc-11ee-95d4-c79ab4c3274e",
+      "published_date": "2024-01-25",
+      "guest_name": "Harvard Psychiatrist",
+      "duration_seconds": 6187.0
+    },
+    {
+      "episode_id": "doac-2024-01-22-aa31e3d866f3",
+      "rss_guid": "c9348242-4bfc-11ee-95d4-679e02c54b51",
+      "published_date": "2024-01-22",
+      "guest_name": "The Fasting Doctor",
+      "duration_seconds": 4934.0
+    },
+    {
+      "episode_id": "doac-2024-01-18-1431b4b36904",
+      "rss_guid": "c9995ad2-4bfc-11ee-95d4-3fcddced3501",
+      "published_date": "2024-01-18",
+      "guest_name": "No. 1 Happiness Expert",
+      "duration_seconds": 5188.0
+    },
+    {
+      "episode_id": "doac-2024-01-15-eccf6d076466",
+      "rss_guid": "c9123b6a-4bfc-11ee-95d4-c7e173b68783",
+      "published_date": "2024-01-15",
+      "guest_name": "The Mental Health Doctor",
+      "duration_seconds": 6864.0
+    },
+    {
+      "episode_id": "doac-2024-01-11-28303f88ad96",
+      "rss_guid": "c9be09d6-4bfc-11ee-95d4-bb204ddcc49f",
+      "published_date": "2024-01-11",
+      "guest_name": "Yuval Noah Harari",
+      "duration_seconds": 6138.0
+    },
+    {
+      "episode_id": "doac-2024-01-08-df1cd049f9ce",
+      "rss_guid": "c8f097c6-4bfc-11ee-95d4-ab926e5b6796",
+      "published_date": "2024-01-08",
+      "guest_name": "Thierry Henry (EXCLUSIVE)",
+      "duration_seconds": 6694.0
+    },
+    {
+      "episode_id": "doac-2024-01-04-d34e23dbfd97",
+      "rss_guid": "c9e4846c-4bfc-11ee-95d4-23f93a7cc270",
+      "published_date": "2024-01-04",
+      "guest_name": "The Fitness Scientist",
+      "duration_seconds": 6363.0
+    },
+    {
+      "episode_id": "doac-2024-01-01-5e790d16820d",
+      "rss_guid": "c8ce5634-4bfc-11ee-95d4-578014206a10",
+      "published_date": "2024-01-01",
+      "guest_name": "The Poo Scientist",
+      "duration_seconds": 7257.0
+    },
+    {
+      "episode_id": "doac-2023-12-28-f1afeab2895c",
+      "rss_guid": "c8a962ca-4bfc-11ee-95d4-87464d511a90",
+      "published_date": "2023-12-28",
+      "guest_name": "The Love Expert",
+      "duration_seconds": 5526.0
+    },
+    {
+      "episode_id": "doac-2023-12-26-c8c4aa89e14b",
+      "rss_guid": "c822254e-4bfc-11ee-95d4-9babaebe2606",
+      "published_date": "2023-12-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4489.0
+    },
+    {
+      "episode_id": "doac-2023-12-21-6a0ccfba3fab",
+      "rss_guid": "c887c93a-4bfc-11ee-95d4-6bf4c68670e1",
+      "published_date": "2023-12-21",
+      "guest_name": "Michael Bublé",
+      "duration_seconds": 5323.0
+    },
+    {
+      "episode_id": "doac-2023-12-18-b61c7e43d2b5",
+      "rss_guid": "c7ff89a8-4bfc-11ee-95d4-8fdc52bcd2a2",
+      "published_date": "2023-12-18",
+      "guest_name": "The No.1 Menopause Doctor",
+      "duration_seconds": 4915.0
+    },
+    {
+      "episode_id": "doac-2023-12-14-e6bfd11ac9c3",
+      "rss_guid": "c86638b0-4bfc-11ee-95d4-5b868997a6cf",
+      "published_date": "2023-12-14",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5699.0
+    },
+    {
+      "episode_id": "doac-2023-12-11-44fbd62dca0b",
+      "rss_guid": "c7dd8ed4-4bfc-11ee-95d4-f7b23755757c",
+      "published_date": "2023-12-11",
+      "guest_name": "Casey Neistat (The Untold Story)",
+      "duration_seconds": 6295.0
+    },
+    {
+      "episode_id": "doac-2023-12-07-b85fd569c126",
+      "rss_guid": "c844718a-4bfc-11ee-95d4-c307d7ffad24",
+      "published_date": "2023-12-07",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7144.0
+    },
+    {
+      "episode_id": "doac-2023-12-04-07e836cec538",
+      "rss_guid": "c7bbc6f0-4bfc-11ee-95d4-d765b22f27b3",
+      "published_date": "2023-12-04",
+      "guest_name": "Mel Robbins",
+      "duration_seconds": 5671.0
+    },
+    {
+      "episode_id": "doac-2023-11-30-93d5b26bdb4b",
+      "rss_guid": "c79a0c04-4bfc-11ee-95d4-77c3cb73496e",
+      "published_date": "2023-11-30",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5430.0
+    },
+    {
+      "episode_id": "doac-2023-11-27-be2ee9e0b78c",
+      "rss_guid": "c6f2b350-4bfc-11ee-95d4-1f99502f80b7",
+      "published_date": "2023-11-27",
+      "guest_name": "Busta Rhymes",
+      "duration_seconds": 5450.0
+    },
+    {
+      "episode_id": "doac-2023-11-23-29403b251ea1",
+      "rss_guid": "c7789b96-4bfc-11ee-95d4-4f676a68fe61",
+      "published_date": "2023-11-23",
+      "guest_name": "Doctor Jordan Peterson",
+      "duration_seconds": 5270.0
+    },
+    {
+      "episode_id": "doac-2023-11-20-c81b56189e4b",
+      "rss_guid": "c6d0cdc6-4bfc-11ee-95d4-ebc37272a0f3",
+      "published_date": "2023-11-20",
+      "guest_name": "The Coffee Expert",
+      "duration_seconds": 4853.0
+    },
+    {
+      "episode_id": "doac-2023-11-16-76518f555115",
+      "rss_guid": "c7579b8a-4bfc-11ee-95d4-2f0fd4aebe6f",
+      "published_date": "2023-11-16",
+      "guest_name": "No.1 Neuroscientist",
+      "duration_seconds": 5286.0
+    },
+    {
+      "episode_id": "doac-2023-11-13-838f1cbc3936",
+      "rss_guid": "c6afb10e-4bfc-11ee-95d4-cf9c0d3f5854",
+      "published_date": "2023-11-13",
+      "guest_name": "Former No.1 Pick-Up Artist",
+      "duration_seconds": 4130.0
+    },
+    {
+      "episode_id": "doac-2023-11-09-20a7850f0733",
+      "rss_guid": "c735a408-4bfc-11ee-95d4-df705850f976",
+      "published_date": "2023-11-09",
+      "guest_name": "The Anti-Ageing Expert",
+      "duration_seconds": 6008.0
+    },
+    {
+      "episode_id": "doac-2023-11-06-94c177b63424",
+      "rss_guid": "c68e2bd8-4bfc-11ee-95d4-7b2b3304f549",
+      "published_date": "2023-11-06",
+      "guest_name": "The Savings Expert",
+      "duration_seconds": 6822.0
+    },
+    {
+      "episode_id": "doac-2023-11-02-92a1cd2f9c9a",
+      "rss_guid": "c7146d4c-4bfc-11ee-95d4-a379dc19d9eb",
+      "published_date": "2023-11-02",
+      "guest_name": "The Exercise Expert",
+      "duration_seconds": 6185.0
+    },
+    {
+      "episode_id": "doac-2023-10-30-eff78ab1c266",
+      "rss_guid": "c5e628fc-4bfc-11ee-95d4-d33dcd81e3cf",
+      "published_date": "2023-10-30",
+      "guest_name": "The ADHD Doctor",
+      "duration_seconds": 6393.0
+    },
+    {
+      "episode_id": "doac-2023-10-26-4bbbec4ecef9",
+      "rss_guid": "c607f9be-4bfc-11ee-95d4-eb1275ec1881",
+      "published_date": "2023-10-26",
+      "guest_name": "The Love Expert",
+      "duration_seconds": 6362.0
+    },
+    {
+      "episode_id": "doac-2023-10-23-08015539b3bd",
+      "rss_guid": "c5c343b4-4bfc-11ee-95d4-ab8fa7da3958",
+      "published_date": "2023-10-23",
+      "guest_name": "The Junk Food Doctor",
+      "duration_seconds": 5745.0
+    },
+    {
+      "episode_id": "doac-2023-10-19-a27b23d5e22c",
+      "rss_guid": "c62981ec-4bfc-11ee-95d4-7ba3a41588df",
+      "published_date": "2023-10-19",
+      "guest_name": "Sadhguru (World’s No.1 Guru) PREDICTS",
+      "duration_seconds": 4450.0
+    },
+    {
+      "episode_id": "doac-2023-10-16-d4ba1be04588",
+      "rss_guid": "c5a15cb8-4bfc-11ee-95d4-5b77d151d4e0",
+      "published_date": "2023-10-16",
+      "guest_name": "Jada Pinkett Smith (EXCLUSIVE)",
+      "duration_seconds": 5845.0
+    },
+    {
+      "episode_id": "doac-2023-10-12-f1edbaeb3928",
+      "rss_guid": "c64ac21c-4bfc-11ee-95d4-6bba57985799",
+      "published_date": "2023-10-12",
+      "guest_name": "Doctor Gabor Mate",
+      "duration_seconds": 6609.0
+    },
+    {
+      "episode_id": "doac-2023-10-09-095a8bfb3a0e",
+      "rss_guid": "c57fa3b6-4bfc-11ee-95d4-e3f6c8103d5d",
+      "published_date": "2023-10-09",
+      "guest_name": "Airbnb CEO",
+      "duration_seconds": 5690.0
+    },
+    {
+      "episode_id": "doac-2023-10-05-cd47043ce310",
+      "rss_guid": "c66cb674-4bfc-11ee-95d4-9b430708c04d",
+      "published_date": "2023-10-05",
+      "guest_name": "The Food Doctor",
+      "duration_seconds": 6267.0
+    },
+    {
+      "episode_id": "doac-2023-10-02-3823de57e46b",
+      "rss_guid": "c55e1ea8-4bfc-11ee-95d4-f7abf272118d",
+      "published_date": "2023-10-02",
+      "guest_name": "The Relationships Professor",
+      "duration_seconds": 6759.0
+    },
+    {
+      "episode_id": "doac-2023-09-28-7ef8435e1056",
+      "rss_guid": "b101b744-5d1d-11ee-b2ae-3340b8af4259",
+      "published_date": "2023-09-28",
+      "guest_name": "Spotify Founder",
+      "duration_seconds": 4973.0
+    },
+    {
+      "episode_id": "doac-2023-09-25-9d65ee2b4c2d",
+      "rss_guid": "7628b926-5938-11ee-ad7d-47af69978332",
+      "published_date": "2023-09-25",
+      "guest_name": "No.1 Neuroscientist",
+      "duration_seconds": 7304.0
+    },
+    {
+      "episode_id": "doac-2023-09-21-ba5843768dda",
+      "rss_guid": "ee4d714a-57ca-11ee-a1fa-4ff4e0cf3895",
+      "published_date": "2023-09-21",
+      "guest_name": "Nick Cannon",
+      "duration_seconds": 6180.0
+    },
+    {
+      "episode_id": "doac-2023-09-18-348893f8d5d5",
+      "rss_guid": "c53c7988-4bfc-11ee-95d4-3f74b63a75c2",
+      "published_date": "2023-09-18",
+      "guest_name": "The No.1 Celebrity Therapist",
+      "duration_seconds": 4685.0
+    },
+    {
+      "episode_id": "doac-2023-09-14-6848c0d17d19",
+      "rss_guid": "8c179a0a-5248-11ee-a9c1-0fe11f573eb3",
+      "published_date": "2023-09-14",
+      "guest_name": "Ashley Walters (Top Boy)",
+      "duration_seconds": 5994.0
+    },
+    {
+      "episode_id": "doac-2023-09-11-86441b165619",
+      "rss_guid": "283cdd32-4e6b-11ee-bd14-bfed8ef9bb3b",
+      "published_date": "2023-09-11",
+      "guest_name": "Trinny Woodall",
+      "duration_seconds": 4301.0
+    },
+    {
+      "episode_id": "doac-2023-09-07-425e86b21e3f",
+      "rss_guid": "701a7478-4cb5-11ee-ab03-17bf08b3a590",
+      "published_date": "2023-09-07",
+      "guest_name": "The Breathing Expert",
+      "duration_seconds": 6945.0
+    },
+    {
+      "episode_id": "doac-2023-09-04-26a076b4e318",
+      "rss_guid": "4c7b1db0-4af3-11ee-8bd9-cb09b12cb538",
+      "published_date": "2023-09-04",
+      "guest_name": "Google DeepMind Co-founder",
+      "duration_seconds": 6227.0
+    },
+    {
+      "episode_id": "doac-2023-08-31-249d85997e1a",
+      "rss_guid": "93206e54-76cf-45f0-bb22-5caf092c3793",
+      "published_date": "2023-08-31",
+      "guest_name": "The Body Language Expert",
+      "duration_seconds": 5176.0
+    },
+    {
+      "episode_id": "doac-2023-08-28-e7a1690d0a76",
+      "rss_guid": "73d42c1b-80b1-4339-88f0-b2e7e56e1de4",
+      "published_date": "2023-08-28",
+      "guest_name": "Rainn Wilson",
+      "duration_seconds": 4832.0
+    },
+    {
+      "episode_id": "doac-2023-08-24-c5036c7a65bf",
+      "rss_guid": "caccca9e-94b4-447c-97a1-58560b99ff65",
+      "published_date": "2023-08-24",
+      "guest_name": "The Discipline Expert",
+      "duration_seconds": 4918.0
+    },
+    {
+      "episode_id": "doac-2023-08-21-b0c24118fc2f",
+      "rss_guid": "2fe99f1b-1e84-4e6a-9f90-effdf3ab628d",
+      "published_date": "2023-08-21",
+      "guest_name": "Ivan Toney",
+      "duration_seconds": 6098.0
+    },
+    {
+      "episode_id": "doac-2023-08-17-d509b8f4e125",
+      "rss_guid": "c9bdda07-2fe5-4278-99d4-d997d94ed0f6",
+      "published_date": "2023-08-17",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5522.0
+    },
+    {
+      "episode_id": "doac-2023-08-14-a118e817a2e0",
+      "rss_guid": "28ec6314-41c7-42bb-9605-c002fd6cc23a",
+      "published_date": "2023-08-14",
+      "guest_name": "Doctor Joe Dispenza",
+      "duration_seconds": 6993.0
+    },
+    {
+      "episode_id": "doac-2023-08-10-9e84c22bb906",
+      "rss_guid": "ceacb6e8-37ac-4520-8819-bb93db2c431a",
+      "published_date": "2023-08-10",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5532.0
+    },
+    {
+      "episode_id": "doac-2023-08-07-ebf9d0fb6de9",
+      "rss_guid": "9e277a21-88b5-4b32-82f1-fac4bcbc19b4",
+      "published_date": "2023-08-07",
+      "guest_name": "WARNING By Sam Harris",
+      "duration_seconds": 6481.0
+    },
+    {
+      "episode_id": "doac-2023-08-03-a499db95e4c7",
+      "rss_guid": "bcbb6ea0-922d-4c49-b562-8929802b92d7",
+      "published_date": "2023-08-03",
+      "guest_name": "The Man That’s Ageing Backwards",
+      "duration_seconds": 7239.0
+    },
+    {
+      "episode_id": "doac-2023-07-31-36218c7f4e35",
+      "rss_guid": "66ef5848-1e59-4555-a8e3-57268851dfa5",
+      "published_date": "2023-07-31",
+      "guest_name": "will.i.am Opens Up",
+      "duration_seconds": 4640.0
+    },
+    {
+      "episode_id": "doac-2023-07-27-b72df5aaf45a",
+      "rss_guid": "3d81cf72-ee99-4883-95b3-f71bf5765a19",
+      "published_date": "2023-07-27",
+      "guest_name": "Shocking TRUE Story",
+      "duration_seconds": 6198.0
+    },
+    {
+      "episode_id": "doac-2023-07-24-cbf5134c3e73",
+      "rss_guid": "b9361043-450b-4ec0-93af-200bf3c20b01",
+      "published_date": "2023-07-24",
+      "guest_name": "The LIFE-EXTENSION Doctor",
+      "duration_seconds": 7250.0
+    },
+    {
+      "episode_id": "doac-2023-07-20-4a23c6e71d29",
+      "rss_guid": "f31724a4-84d5-4720-abdc-ea2037e9370d",
+      "published_date": "2023-07-20",
+      "guest_name": "The Money Expert",
+      "duration_seconds": 5727.0
+    },
+    {
+      "episode_id": "doac-2023-07-17-7346c30a00f6",
+      "rss_guid": "35d12652-d4e5-4c61-8a02-7ff9686dfdc8",
+      "published_date": "2023-07-17",
+      "guest_name": "Rita Ora",
+      "duration_seconds": 4574.0
+    },
+    {
+      "episode_id": "doac-2023-07-13-2c7b7445a5c4",
+      "rss_guid": "f8b587b8-931b-47f0-88f1-5772d26bec6e",
+      "published_date": "2023-07-13",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6722.0
+    },
+    {
+      "episode_id": "doac-2023-07-10-e24accc1e1cd",
+      "rss_guid": "5284f227-575e-466b-9741-97e2824f134a",
+      "published_date": "2023-07-10",
+      "guest_name": "Harvard Professor",
+      "duration_seconds": 5208.0
+    },
+    {
+      "episode_id": "doac-2023-07-06-d72f0e6fe877",
+      "rss_guid": "d45d394e-6d35-45c5-bd8a-148425fcf22c",
+      "published_date": "2023-07-06",
+      "guest_name": "JACKASS Star Steve-O",
+      "duration_seconds": 5718.0
+    },
+    {
+      "episode_id": "doac-2023-07-03-0693efeaf9ef",
+      "rss_guid": "cfcfca4a-1504-4c96-8ba4-537d765b562a",
+      "published_date": "2023-07-03",
+      "guest_name": "The Psychology Master",
+      "duration_seconds": 5719.0
+    },
+    {
+      "episode_id": "doac-2023-06-29-4a4aad875a44",
+      "rss_guid": "0685d586-4240-44a5-ba6f-767c65884faa",
+      "published_date": "2023-06-29",
+      "guest_name": "Russell Brand FINALLY Opens Up",
+      "duration_seconds": 6100.0
+    },
+    {
+      "episode_id": "doac-2023-06-26-6f0f54ebbaf8",
+      "rss_guid": "bb7421dc-526d-42be-8cdf-0f624808611e",
+      "published_date": "2023-06-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5793.0
+    },
+    {
+      "episode_id": "doac-2023-06-22-53e8bfa433bf",
+      "rss_guid": "6bf2e517-1529-4648-9866-fa4f7a3ef0f6",
+      "published_date": "2023-06-22",
+      "guest_name": "The Money Expert",
+      "duration_seconds": 5728.0
+    },
+    {
+      "episode_id": "doac-2023-06-19-1722bfba0101",
+      "rss_guid": "9e9c1641-89cd-4026-a40c-ee0cb78b4a29",
+      "published_date": "2023-06-19",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4246.0
+    },
+    {
+      "episode_id": "doac-2023-06-15-56a19a530658",
+      "rss_guid": "c414025a-d5b3-4c75-9372-7cabe35b9a99",
+      "published_date": "2023-06-15",
+      "guest_name": "The Miracle Doctor",
+      "duration_seconds": 7767.0
+    },
+    {
+      "episode_id": "doac-2023-06-12-4384ae668e41",
+      "rss_guid": "fdc8486c-ced2-40f6-8d11-8089f4f58b74",
+      "published_date": "2023-06-12",
+      "guest_name": "Yung Pueblo",
+      "duration_seconds": 5380.0
+    },
+    {
+      "episode_id": "doac-2023-06-08-61d8835e84e6",
+      "rss_guid": "6ee66f65-0c7a-431b-9575-4ca7ec1a32c6",
+      "published_date": "2023-06-08",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6030.0
+    },
+    {
+      "episode_id": "doac-2023-06-05-9e57b1f91f76",
+      "rss_guid": "45e6e484-2572-4ae5-bad4-9934a2988993",
+      "published_date": "2023-06-05",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6636.0
+    },
+    {
+      "episode_id": "doac-2023-06-01-9763b4b250c4",
+      "rss_guid": "fad722cf-51d8-459d-aac7-c5eec2e3bc5d",
+      "published_date": "2023-06-01",
+      "guest_name": "EMERGENCY EPISODE",
+      "duration_seconds": 6763.0
+    },
+    {
+      "episode_id": "doac-2023-05-29-fe5c21513a08",
+      "rss_guid": "b96bba51-b0f6-4e5e-8a69-a2a988833764",
+      "published_date": "2023-05-29",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4626.0
+    },
+    {
+      "episode_id": "doac-2023-05-25-35be0c22df80",
+      "rss_guid": "ed8b4c75-4c0f-491e-98f4-b8785e5b2fbe",
+      "published_date": "2023-05-25",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4991.0
+    },
+    {
+      "episode_id": "doac-2023-05-22-dc3347230220",
+      "rss_guid": "a22a03b6-d990-4a00-8b64-deae04d1ce25",
+      "published_date": "2023-05-22",
+      "guest_name": "No.1 Habit & Procrastination Expert",
+      "duration_seconds": 5854.0
+    },
+    {
+      "episode_id": "doac-2023-05-18-51c577d4917f",
+      "rss_guid": "fec2514e-88ad-43af-ba9e-6a45e1eb7a0d",
+      "published_date": "2023-05-18",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 3741.0
+    },
+    {
+      "episode_id": "doac-2023-05-15-bea80a0d1d98",
+      "rss_guid": "b9778c38-3be2-4c36-b806-e15f3999b01d",
+      "published_date": "2023-05-15",
+      "guest_name": "The No.1 Sex Expert",
+      "duration_seconds": 5842.0
+    },
+    {
+      "episode_id": "doac-2023-05-11-0f90c00689e2",
+      "rss_guid": "56561f85-7cac-48a8-940e-2a8764051999",
+      "published_date": "2023-05-11",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5311.0
+    },
+    {
+      "episode_id": "doac-2023-05-08-9b05cf75a97d",
+      "rss_guid": "4d92ed03-5252-43d1-ba03-7581e544c7e7",
+      "published_date": "2023-05-08",
+      "guest_name": "Shopify President",
+      "duration_seconds": 6417.0
+    },
+    {
+      "episode_id": "doac-2023-05-04-4e8f6dbbc0a1",
+      "rss_guid": "c393ca6d-5bf6-4d09-94b1-ebd5096133a6",
+      "published_date": "2023-05-04",
+      "guest_name": "Macklemore",
+      "duration_seconds": 4739.0
+    },
+    {
+      "episode_id": "doac-2023-05-01-eeec73ee2633",
+      "rss_guid": "b34026e9-85c7-4131-8383-626c32c085b7",
+      "published_date": "2023-05-01",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5543.0
+    },
+    {
+      "episode_id": "doac-2023-04-27-f3f40cd62970",
+      "rss_guid": "acbc2393-9b46-4ec5-8912-ac6d031fe02a",
+      "published_date": "2023-04-27",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6856.0
+    },
+    {
+      "episode_id": "doac-2023-04-24-10927f3deecc",
+      "rss_guid": "ad057968-ed7c-4f5d-8474-e49958d5ce29",
+      "published_date": "2023-04-24",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5222.0
+    },
+    {
+      "episode_id": "doac-2023-04-20-f5b26de66b0b",
+      "rss_guid": "1497d870-63ef-4f08-a86d-a2b5eed80a91",
+      "published_date": "2023-04-20",
+      "guest_name": "No.1 Heart Surgeon",
+      "duration_seconds": 4941.0
+    },
+    {
+      "episode_id": "doac-2023-04-17-550438ab7e2f",
+      "rss_guid": "51c58120-e62d-40ff-8d0a-d100e2ac33da",
+      "published_date": "2023-04-17",
+      "guest_name": "NastyGal Founder",
+      "duration_seconds": 5580.0
+    },
+    {
+      "episode_id": "doac-2023-04-13-1c08ac333340",
+      "rss_guid": "25c6c886-1f2e-40a4-87eb-165c7dead01d",
+      "published_date": "2023-04-13",
+      "guest_name": "Josh Peck",
+      "duration_seconds": 4614.0
+    },
+    {
+      "episode_id": "doac-2023-04-10-7ecdf076a7ae",
+      "rss_guid": "b6e43ac4-a4d2-47fc-80de-5489c87c5ee7",
+      "published_date": "2023-04-10",
+      "guest_name": "Chris Williamson",
+      "duration_seconds": 7524.0
+    },
+    {
+      "episode_id": "doac-2023-04-06-ba9f5697bc1b",
+      "rss_guid": "02ef41c4-3de8-4cbb-9541-527c7bf4f4d6",
+      "published_date": "2023-04-06",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6752.0
+    },
+    {
+      "episode_id": "doac-2023-04-03-8993e1920dbd",
+      "rss_guid": "0333b102-1922-431b-9715-b7125fdc75fc",
+      "published_date": "2023-04-03",
+      "guest_name": "The Man That Makes Millionaires",
+      "duration_seconds": 6738.0
+    },
+    {
+      "episode_id": "doac-2023-03-30-1dbcdc50dd54",
+      "rss_guid": "c7f17ece-02c2-4c2c-a811-4ace6614b3a5",
+      "published_date": "2023-03-30",
+      "guest_name": "Alex Cooper",
+      "duration_seconds": 5545.0
+    },
+    {
+      "episode_id": "doac-2023-03-27-acca16686115",
+      "rss_guid": "d8f69e78-0772-4251-b878-00a661b43962",
+      "published_date": "2023-03-27",
+      "guest_name": "Tony Hawk",
+      "duration_seconds": 4984.0
+    },
+    {
+      "episode_id": "doac-2023-03-23-3f69a60c43b4",
+      "rss_guid": "a3515c67-cffe-40ca-953e-499ac138c2de",
+      "published_date": "2023-03-23",
+      "guest_name": "Robert Greene",
+      "duration_seconds": 6659.0
+    },
+    {
+      "episode_id": "doac-2023-03-20-c857b60b4f8e",
+      "rss_guid": "fac78e31-6c4f-4f18-acd4-3d9c2f16e644",
+      "published_date": "2023-03-20",
+      "guest_name": "The Food Doctor",
+      "duration_seconds": 4984.0
+    },
+    {
+      "episode_id": "doac-2023-03-16-b2877a39061b",
+      "rss_guid": "470470c5-98ae-4ca3-9e96-32bee6085f05",
+      "published_date": "2023-03-16",
+      "guest_name": "Simon Sinek",
+      "duration_seconds": 6979.0
+    },
+    {
+      "episode_id": "doac-2023-03-13-718ae85acb98",
+      "rss_guid": "25949d60-a636-4c4d-baaa-6d078053a65b",
+      "published_date": "2023-03-13",
+      "guest_name": "Cole Sprouse",
+      "duration_seconds": 4987.0
+    },
+    {
+      "episode_id": "doac-2023-03-09-bc694e6d2158",
+      "rss_guid": "84da2fb8-0e00-4116-b395-97f24a24c45a",
+      "published_date": "2023-03-09",
+      "guest_name": "Matthew Walker",
+      "duration_seconds": 7302.0
+    },
+    {
+      "episode_id": "doac-2023-03-06-6bffaf87869e",
+      "rss_guid": "2992aaf9-9cdc-418e-9380-b5f35ac30b67",
+      "published_date": "2023-03-06",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5224.0
+    },
+    {
+      "episode_id": "doac-2023-03-02-53e415b8cf82",
+      "rss_guid": "7abcab88-89a3-4973-900b-2585c6f5edb5",
+      "published_date": "2023-03-02",
+      "guest_name": "E226",
+      "duration_seconds": 3891.0
+    },
+    {
+      "episode_id": "doac-2023-02-27-d1e897230d84",
+      "rss_guid": "e6958494-c9ba-479b-88c7-06664a0afc39",
+      "published_date": "2023-02-27",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5506.0
+    },
+    {
+      "episode_id": "doac-2023-02-23-2b4d3a0fa7ea",
+      "rss_guid": "272ad739-4afb-487d-b4cc-29f1b62f12e8",
+      "published_date": "2023-02-23",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5240.0
+    },
+    {
+      "episode_id": "doac-2023-02-20-8462a81ba50b",
+      "rss_guid": "942a82b9-5ba4-45a2-8651-0bc8df866e34",
+      "published_date": "2023-02-20",
+      "guest_name": "The No.1 Health Expert",
+      "duration_seconds": 6618.0
+    },
+    {
+      "episode_id": "doac-2023-02-13-924a60020a7a",
+      "rss_guid": "0d43156a-b01c-4e1a-8404-8e56013cb182",
+      "published_date": "2023-02-13",
+      "guest_name": "Richard Hammond",
+      "duration_seconds": 4984.0
+    },
+    {
+      "episode_id": "doac-2023-02-09-d4f4088b39cf",
+      "rss_guid": "b231be2d-df01-4039-ae43-e43bdf54864b",
+      "published_date": "2023-02-09",
+      "guest_name": "Romesh Ranganathan",
+      "duration_seconds": 4929.0
+    },
+    {
+      "episode_id": "doac-2023-02-06-d5b0d98e1758",
+      "rss_guid": "7cab25d7-9337-4a35-8825-184dd61ddf27",
+      "published_date": "2023-02-06",
+      "guest_name": "The \"Happy Life\" Scientist",
+      "duration_seconds": 5645.0
+    },
+    {
+      "episode_id": "doac-2023-02-02-e3934dd82893",
+      "rss_guid": "a6e1616d-ef1a-4c11-acd0-199dea5913c2",
+      "published_date": "2023-02-02",
+      "guest_name": "The Weight Loss Scientist",
+      "duration_seconds": 6500.0
+    },
+    {
+      "episode_id": "doac-2023-01-30-ca0f935e0f51",
+      "rss_guid": "4c999bd5-c158-44b6-bbb8-b902d0c4b794",
+      "published_date": "2023-01-30",
+      "guest_name": "Jay Shetty",
+      "duration_seconds": 7393.0
+    },
+    {
+      "episode_id": "doac-2023-01-26-717c1d833e18",
+      "rss_guid": "9195047a-3b6a-4032-8d91-dd6ac2bc6418",
+      "published_date": "2023-01-26",
+      "guest_name": "Sadiq Khan",
+      "duration_seconds": 5199.0
+    },
+    {
+      "episode_id": "doac-2023-01-23-63b84d42724d",
+      "rss_guid": "3eec7dce-9129-424a-b36b-82a0bbfa0b5c",
+      "published_date": "2023-01-23",
+      "guest_name": "The Mindset Doctor",
+      "duration_seconds": 7300.0
+    },
+    {
+      "episode_id": "doac-2023-01-19-c34275176b0f",
+      "rss_guid": "1c0db447-9d9f-4247-aa13-c15875dbbab8",
+      "published_date": "2023-01-19",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4316.0
+    },
+    {
+      "episode_id": "doac-2023-01-16-111b3c4889d4",
+      "rss_guid": "7d5fb6c8-a479-449c-9715-6f7ee61d6032",
+      "published_date": "2023-01-16",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5174.0
+    },
+    {
+      "episode_id": "doac-2023-01-12-8f102e508168",
+      "rss_guid": "c57a1270-bc4a-4e1a-89bb-88717de0d60a",
+      "published_date": "2023-01-12",
+      "guest_name": "Derren Brown",
+      "duration_seconds": 5608.0
+    },
+    {
+      "episode_id": "doac-2023-01-09-651a2eeb7bbe",
+      "rss_guid": "9b73a7d2-058f-4212-9e58-38110b62d052",
+      "published_date": "2023-01-09",
+      "guest_name": "No.1 Neuroscientist",
+      "duration_seconds": 5685.0
+    },
+    {
+      "episode_id": "doac-2023-01-05-79d104ffffe9",
+      "rss_guid": "c931a5e2-9415-4352-b547-df0beaeaf332",
+      "published_date": "2023-01-05",
+      "guest_name": "Davina McCall",
+      "duration_seconds": 6699.0
+    },
+    {
+      "episode_id": "doac-2023-01-02-2739b7e599e1",
+      "rss_guid": "ff42145f-acd7-4d74-86cd-7debb9a23630",
+      "published_date": "2023-01-02",
+      "guest_name": "Doctor Tim Spector",
+      "duration_seconds": 5546.0
+    },
+    {
+      "episode_id": "doac-2022-12-26-efc57d3919fa",
+      "rss_guid": "b581b6c3-a9e0-4454-bbb3-42808e71168f",
+      "published_date": "2022-12-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4585.0
+    },
+    {
+      "episode_id": "doac-2022-12-19-2254bd8153ed",
+      "rss_guid": "bc70f900-b3ee-4a01-a43f-3a86640594a7",
+      "published_date": "2022-12-19",
+      "guest_name": "Neil deGrasse Tyson",
+      "duration_seconds": 6347.0
+    },
+    {
+      "episode_id": "doac-2022-12-15-366c2f17f442",
+      "rss_guid": "8a102ab0-9730-47fe-93b9-08a33794030f",
+      "published_date": "2022-12-15",
+      "guest_name": "Barbara Corcoran",
+      "duration_seconds": 4147.0
+    },
+    {
+      "episode_id": "doac-2022-12-12-de5bffbe147a",
+      "rss_guid": "97909bdf-e0b4-4f99-b46e-d1dcbd60ea84",
+      "published_date": "2022-12-12",
+      "guest_name": "Richard Branson",
+      "duration_seconds": 4437.0
+    },
+    {
+      "episode_id": "doac-2022-12-08-d72a4b5c46a9",
+      "rss_guid": "955e227b-2848-4b39-bc06-8056be8c7ce5",
+      "published_date": "2022-12-08",
+      "guest_name": "(EXCLUSIVE) Billy McFarland",
+      "duration_seconds": 6183.0
+    },
+    {
+      "episode_id": "doac-2022-12-05-83c037f03f15",
+      "rss_guid": "1bddfe16-9be1-4bdb-ac96-bb713b7cd08f",
+      "published_date": "2022-12-05",
+      "guest_name": "Stephen Fry",
+      "duration_seconds": 5562.0
+    },
+    {
+      "episode_id": "doac-2022-12-01-0350c410ad7a",
+      "rss_guid": "49194b4c-d402-4184-ad22-c6a29912b4a4",
+      "published_date": "2022-12-01",
+      "guest_name": "E200",
+      "duration_seconds": 4003.0
+    },
+    {
+      "episode_id": "doac-2022-11-28-bb87d45b25dd",
+      "rss_guid": "d4491cd0-9061-4b62-9edf-14c842bc67a1",
+      "published_date": "2022-11-28",
+      "guest_name": "Charlie Sloth",
+      "duration_seconds": 6000.0
+    },
+    {
+      "episode_id": "doac-2022-11-24-f60063205938",
+      "rss_guid": "aff514ba-650d-4527-b7a6-2c29460fc1f4",
+      "published_date": "2022-11-24",
+      "guest_name": "Louis Theroux",
+      "duration_seconds": 6036.0
+    },
+    {
+      "episode_id": "doac-2022-11-21-43bc7e7185e4",
+      "rss_guid": "a7a5791b-7afc-4a26-a2b3-a85f5ef73691",
+      "published_date": "2022-11-21",
+      "guest_name": "Labrinth",
+      "duration_seconds": 5265.0
+    },
+    {
+      "episode_id": "doac-2022-11-17-e3dabf992059",
+      "rss_guid": "6d2639f3-afd3-4bdc-9a73-5731e98bf64a",
+      "published_date": "2022-11-17",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6348.0
+    },
+    {
+      "episode_id": "doac-2022-11-14-365805f4a8a0",
+      "rss_guid": "6af76dfb-dd7a-4e8c-8db8-ecf868fd7080",
+      "published_date": "2022-11-14",
+      "guest_name": "Bumble Founder",
+      "duration_seconds": 5331.0
+    },
+    {
+      "episode_id": "doac-2022-11-10-02b65a2e22e2",
+      "rss_guid": "021b9083-8714-4011-b7b7-c41abe0e9432",
+      "published_date": "2022-11-10",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7770.0
+    },
+    {
+      "episode_id": "doac-2022-11-07-634c7e59e688",
+      "rss_guid": "fe4c4fef-3716-4b4c-aa23-f070dca9e1b8",
+      "published_date": "2022-11-07",
+      "guest_name": "Gabor Mate",
+      "duration_seconds": 7043.0
+    },
+    {
+      "episode_id": "doac-2022-11-03-1871672bc16f",
+      "rss_guid": "ec2ce43c-52f7-40d5-a59d-d0e107549922",
+      "published_date": "2022-11-03",
+      "guest_name": "Dame Dash",
+      "duration_seconds": 5588.0
+    },
+    {
+      "episode_id": "doac-2022-10-31-7308eee8562b",
+      "rss_guid": "1fc6c4cd-54ec-497c-9760-6a6dc4b85af7",
+      "published_date": "2022-10-31",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4823.0
+    },
+    {
+      "episode_id": "doac-2022-10-27-89980614cd87",
+      "rss_guid": "4947de4e-aab0-43ae-8768-ed87537d80c1",
+      "published_date": "2022-10-27",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5060.0
+    },
+    {
+      "episode_id": "doac-2022-10-24-8aa0b894eee8",
+      "rss_guid": "e0ce8e73-9224-466a-a867-1f51727b3bf6",
+      "published_date": "2022-10-24",
+      "guest_name": "Whoop Founder",
+      "duration_seconds": 6220.0
+    },
+    {
+      "episode_id": "doac-2022-10-20-2de53bb01156",
+      "rss_guid": "92b07347-0ebe-41d6-b6a5-309a2ec3eb66",
+      "published_date": "2022-10-20",
+      "guest_name": "Richard Osman",
+      "duration_seconds": 5562.0
+    },
+    {
+      "episode_id": "doac-2022-10-17-8b77d03f21a6",
+      "rss_guid": "b5a2f7e5-48f0-4473-a14a-9f2d563c8e87",
+      "published_date": "2022-10-17",
+      "guest_name": "World’s No.1 Matchmaker",
+      "duration_seconds": 6602.0
+    },
+    {
+      "episode_id": "doac-2022-10-13-344566cd4634",
+      "rss_guid": "06a10877-1935-451b-a216-035021b71d1a",
+      "published_date": "2022-10-13",
+      "guest_name": "Christian Horner",
+      "duration_seconds": 4272.0
+    },
+    {
+      "episode_id": "doac-2022-10-10-9c7c16c65933",
+      "rss_guid": "e8ff4487-7c41-41bd-96bd-b777ce449482",
+      "published_date": "2022-10-10",
+      "guest_name": "David Harewood",
+      "duration_seconds": 5428.0
+    },
+    {
+      "episode_id": "doac-2022-10-06-369e8d441bd9",
+      "rss_guid": "3ba7538c-bf84-4a32-9a71-cb693c0c7737",
+      "published_date": "2022-10-06",
+      "guest_name": "World Leading Life Coach",
+      "duration_seconds": 5439.0
+    },
+    {
+      "episode_id": "doac-2022-10-03-7fe367126dea",
+      "rss_guid": "fae5f5be-41fa-4852-ba81-d6c9462c12b9",
+      "published_date": "2022-10-03",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 3875.0
+    },
+    {
+      "episode_id": "doac-2022-09-29-c09f4b3d86b5",
+      "rss_guid": "7fd16410-c692-4eb7-8210-e39e34231fa0",
+      "published_date": "2022-09-29",
+      "guest_name": "Alex Scott",
+      "duration_seconds": 6019.0
+    },
+    {
+      "episode_id": "doac-2022-09-26-e4e4eaecb995",
+      "rss_guid": "5aa6d619-8ecb-4a79-b5f8-4f9c3cc934da",
+      "published_date": "2022-09-26",
+      "guest_name": "Maisie Williams",
+      "duration_seconds": 6648.0
+    },
+    {
+      "episode_id": "doac-2022-09-22-6fdfca77c60f",
+      "rss_guid": "e91e6585-93f9-4c8b-81ba-6fab285301e1",
+      "published_date": "2022-09-22",
+      "guest_name": "The Speaking Expert",
+      "duration_seconds": 6011.0
+    },
+    {
+      "episode_id": "doac-2022-09-20-03ccfb7bd376",
+      "rss_guid": "0fe125e1-cd9f-4bc1-b514-cc17ac10529c",
+      "published_date": "2022-09-20",
+      "guest_name": "Mel C",
+      "duration_seconds": 5549.0
+    },
+    {
+      "episode_id": "doac-2022-09-15-d31cf7e024c0",
+      "rss_guid": "61d03599-125b-4392-9408-bb39d807f20e",
+      "published_date": "2022-09-15",
+      "guest_name": "Lewis Capaldi",
+      "duration_seconds": 6410.0
+    },
+    {
+      "episode_id": "doac-2022-09-12-f3a30b70da8e",
+      "rss_guid": "38d773e8-33ea-493c-beab-f4321b2f008c",
+      "published_date": "2022-09-12",
+      "guest_name": "Chris Kamara",
+      "duration_seconds": 4263.0
+    },
+    {
+      "episode_id": "doac-2022-09-08-072a69dd3279",
+      "rss_guid": "740ca027-156e-4dfe-ab3e-da38b85809ed",
+      "published_date": "2022-09-08",
+      "guest_name": "Simon Sinek",
+      "duration_seconds": 6177.0
+    },
+    {
+      "episode_id": "doac-2022-09-01-052e8c3e1649",
+      "rss_guid": "412ff62f-1106-4207-8eff-5bcf4a87eaca",
+      "published_date": "2022-09-01",
+      "guest_name": "James Smith",
+      "duration_seconds": 6077.0
+    },
+    {
+      "episode_id": "doac-2022-08-29-46458c1d36bb",
+      "rss_guid": "f7152776-d066-4cef-a3b8-91eb7088c8ed",
+      "published_date": "2022-08-29",
+      "guest_name": "Pret & Itsu Founder",
+      "duration_seconds": 4660.0
+    },
+    {
+      "episode_id": "doac-2022-08-22-b4c2c421c1e9",
+      "rss_guid": "303f86db-6159-4472-ae24-4ca1739ffb34",
+      "published_date": "2022-08-22",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6093.0
+    },
+    {
+      "episode_id": "doac-2022-08-18-fb9cbc6d617a",
+      "rss_guid": "02a0b855-0db7-4e6c-bae8-1833d527998b",
+      "published_date": "2022-08-18",
+      "guest_name": "Gary Neville",
+      "duration_seconds": 5872.0
+    },
+    {
+      "episode_id": "doac-2022-08-15-8cbe3c84c9ba",
+      "rss_guid": "3b69015a-9df0-4dae-a65e-0f3a04527864",
+      "published_date": "2022-08-15",
+      "guest_name": "VP Of Meta",
+      "duration_seconds": 6649.0
+    },
+    {
+      "episode_id": "doac-2022-08-11-c436b4358ffd",
+      "rss_guid": "8d7999b3-fa38-4eb5-bfe6-f7659c7ac471",
+      "published_date": "2022-08-11",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6025.0
+    },
+    {
+      "episode_id": "doac-2022-08-08-10168f0829fd",
+      "rss_guid": "7cfe2070-1c76-43bb-ba03-d26c31a3c012",
+      "published_date": "2022-08-08",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6198.0
+    },
+    {
+      "episode_id": "doac-2022-08-04-205f9711ccb8",
+      "rss_guid": "8ac4bf91-008f-45eb-8bd8-c591210ab63a",
+      "published_date": "2022-08-04",
+      "guest_name": "James Bay",
+      "duration_seconds": 6194.0
+    },
+    {
+      "episode_id": "doac-2022-08-01-99843e87ad8f",
+      "rss_guid": "716cdc68-48d6-11ee-ae66-c3012ee3fa52",
+      "published_date": "2022-08-01",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5834.0
+    },
+    {
+      "episode_id": "doac-2022-07-28-9ace735d96bd",
+      "rss_guid": "4f6388c5-a789-4045-8759-137f1230ae7c",
+      "published_date": "2022-07-28",
+      "guest_name": "Krept",
+      "duration_seconds": 6370.0
+    },
+    {
+      "episode_id": "doac-2022-07-25-0787d5fc76b9",
+      "rss_guid": "1e02a22b-eae0-44ee-9d1f-d78342e2c5a0",
+      "published_date": "2022-07-25",
+      "guest_name": "Soho House Founder",
+      "duration_seconds": 4112.0
+    },
+    {
+      "episode_id": "doac-2022-07-21-3fe63adfc329",
+      "rss_guid": "cc4490d5-d031-4cc1-b691-28c0b8fbd292",
+      "published_date": "2022-07-21",
+      "guest_name": "Malcolm Gladwell",
+      "duration_seconds": 5880.0
+    },
+    {
+      "episode_id": "doac-2022-07-18-25620a57f762",
+      "rss_guid": "a8a8c58a-bd53-44c4-8393-7eb59ef6348f",
+      "published_date": "2022-07-18",
+      "guest_name": "Coinbase Founder",
+      "duration_seconds": 5880.0
+    },
+    {
+      "episode_id": "doac-2022-07-14-c6f1cab0469b",
+      "rss_guid": "e99df73f-a23f-4f8f-9c3c-b23f06ae7d4c",
+      "published_date": "2022-07-14",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6281.0
+    },
+    {
+      "episode_id": "doac-2022-07-11-c6d454e71b6e",
+      "rss_guid": "a3c95e8f-f712-4c23-8be3-6b3ff4140012",
+      "published_date": "2022-07-11",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4508.0
+    },
+    {
+      "episode_id": "doac-2022-07-07-e2472e4026a1",
+      "rss_guid": "8ab8875d-3c69-42fc-955a-5fd9e94c9a98",
+      "published_date": "2022-07-07",
+      "guest_name": "Michael Pollan",
+      "duration_seconds": 3938.0
+    },
+    {
+      "episode_id": "doac-2022-07-04-14055044cdab",
+      "rss_guid": "f4aeaf17-5107-4d0c-8ee1-a598cb4b0010",
+      "published_date": "2022-07-04",
+      "guest_name": "Brewdog Founder",
+      "duration_seconds": 6393.0
+    },
+    {
+      "episode_id": "doac-2022-06-30-57f32ebed442",
+      "rss_guid": "f50d6b07-56a2-481a-9d1f-e21726d6898c",
+      "published_date": "2022-06-30",
+      "guest_name": "Tony Bellew",
+      "duration_seconds": 5029.0
+    },
+    {
+      "episode_id": "doac-2022-06-27-bcb8622a156c",
+      "rss_guid": "7217d5b9-0411-4e19-a9a0-b0696501a83d",
+      "published_date": "2022-06-27",
+      "guest_name": "Bear Grylls",
+      "duration_seconds": 4319.0
+    },
+    {
+      "episode_id": "doac-2022-06-23-98ba6c0d0103",
+      "rss_guid": "8284edac-6570-439d-b56e-ce5b0391cca9",
+      "published_date": "2022-06-23",
+      "guest_name": "World Leading Therapist",
+      "duration_seconds": 4569.0
+    },
+    {
+      "episode_id": "doac-2022-06-20-ae883854163a",
+      "rss_guid": "c22e6fdf-98ee-457b-a203-90e8335fdf3d",
+      "published_date": "2022-06-20",
+      "guest_name": "How I Raised $700 Million",
+      "duration_seconds": 4482.0
+    },
+    {
+      "episode_id": "doac-2022-06-16-05e5a850796f",
+      "rss_guid": "6a41b8ab-ad3b-4bb6-8209-b8f01362afad",
+      "published_date": "2022-06-16",
+      "guest_name": "Example",
+      "duration_seconds": 4335.0
+    },
+    {
+      "episode_id": "doac-2022-06-13-6e785be31728",
+      "rss_guid": "b891dd84-cef9-4a49-ab79-bc3bbff2dc01",
+      "published_date": "2022-06-13",
+      "guest_name": "Dermalogica Founder",
+      "duration_seconds": 4993.0
+    },
+    {
+      "episode_id": "doac-2022-06-09-3e961656e33e",
+      "rss_guid": "96140a3d-fe89-4f5c-9074-ce97b54a4335",
+      "published_date": "2022-06-09",
+      "guest_name": "The Marketing Genius Behind Nike",
+      "duration_seconds": 4716.0
+    },
+    {
+      "episode_id": "doac-2022-06-06-5ab20a38d7bb",
+      "rss_guid": "a9510b9d-20a7-4e15-ba1b-95c5dcb1b105",
+      "published_date": "2022-06-06",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4616.0
+    },
+    {
+      "episode_id": "doac-2022-06-02-9c929fe1fc78",
+      "rss_guid": "1602dca2-ccc9-4c99-aba5-9ea343342396",
+      "published_date": "2022-06-02",
+      "guest_name": "Strava Founder",
+      "duration_seconds": 5046.0
+    },
+    {
+      "episode_id": "doac-2022-05-30-a5336fcbd6b2",
+      "rss_guid": "185bb403-fb68-4b39-b266-21cda1fc085e",
+      "published_date": "2022-05-30",
+      "guest_name": "FBI’s Top Hostage Negotiator",
+      "duration_seconds": 3635.0
+    },
+    {
+      "episode_id": "doac-2022-05-26-be9702c0c2e8",
+      "rss_guid": "e024c235-9ff2-4f2a-8ccb-31a65b221eb9",
+      "published_date": "2022-05-26",
+      "guest_name": "Tom Bilyeu",
+      "duration_seconds": 5220.0
+    },
+    {
+      "episode_id": "doac-2022-05-23-2b47e86dba52",
+      "rss_guid": "7f99e8ec-f137-4b31-96a7-3d0e4f713ea8",
+      "published_date": "2022-05-23",
+      "guest_name": "Simon Sinek",
+      "duration_seconds": 5615.0
+    },
+    {
+      "episode_id": "doac-2022-05-19-3fc62efbb67b",
+      "rss_guid": "c5a64a18-8dbc-4fbe-baf8-eba7bbbf4e90",
+      "published_date": "2022-05-19",
+      "guest_name": "Happiness Expert Returns",
+      "duration_seconds": 7860.0
+    },
+    {
+      "episode_id": "doac-2022-05-16-be132f32313a",
+      "rss_guid": "4c9dacb3-250c-4fd4-b9ae-028f8ee6fe14",
+      "published_date": "2022-05-16",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4925.0
+    },
+    {
+      "episode_id": "doac-2022-05-12-6c4f72f22e2e",
+      "rss_guid": "ca6797ac-9bcf-40b6-ae78-dbbd8cb789cb",
+      "published_date": "2022-05-12",
+      "guest_name": "Matthew Hussey",
+      "duration_seconds": 5687.0
+    },
+    {
+      "episode_id": "doac-2022-05-09-b4b60024843c",
+      "rss_guid": "b20b4529-78fe-42f2-b87f-486958635091",
+      "published_date": "2022-05-09",
+      "guest_name": "Classpass Founder",
+      "duration_seconds": 4187.0
+    },
+    {
+      "episode_id": "doac-2022-05-05-a9804ff72bf0",
+      "rss_guid": "765a1dfe-fd8f-4ae6-900c-d84c7e57758d",
+      "published_date": "2022-05-05",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5879.0
+    },
+    {
+      "episode_id": "doac-2022-05-02-53b01b768587",
+      "rss_guid": "a91b4ad7-7cc3-4768-8721-12e096fa6bf4",
+      "published_date": "2022-05-02",
+      "guest_name": "Jessie J",
+      "duration_seconds": 6446.0
+    },
+    {
+      "episode_id": "doac-2022-04-28-5c90e283577e",
+      "rss_guid": "61465f92-1cb3-4a86-ae4a-b2120ac34179",
+      "published_date": "2022-04-28",
+      "guest_name": "Terry Crews",
+      "duration_seconds": 5006.0
+    },
+    {
+      "episode_id": "doac-2022-04-25-ee1c71416301",
+      "rss_guid": "d99b8a6d-053e-4641-84dd-21866b9b71c0",
+      "published_date": "2022-04-25",
+      "guest_name": "Piers Morgan",
+      "duration_seconds": 4309.0
+    },
+    {
+      "episode_id": "doac-2022-04-21-a5b2cce75f84",
+      "rss_guid": "899ef731-3db9-4fc5-a680-0a5674b0d489",
+      "published_date": "2022-04-21",
+      "guest_name": "Lilly Singh",
+      "duration_seconds": 5283.0
+    },
+    {
+      "episode_id": "doac-2022-04-18-b5ba1c7b89dc",
+      "rss_guid": "5b27d0ae-11ff-482c-9fc0-2494c47d874d",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5637.0
+    },
+    {
+      "episode_id": "doac-2022-04-14-0eaf92749ec9",
+      "rss_guid": "61970849-d9f2-476a-a1fa-4680b853e937",
+      "published_date": "2022-04-14",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5499.0
+    },
+    {
+      "episode_id": "doac-2022-04-11-4192cc444cdc",
+      "rss_guid": "553909a7-2b2c-4d85-92bd-9611f745671b",
+      "published_date": "2022-04-11",
+      "guest_name": "Karren Brady",
+      "duration_seconds": 4524.0
+    },
+    {
+      "episode_id": "doac-2022-04-07-5a2503407b4d",
+      "rss_guid": "6540d993-ffdf-4692-9fe9-6e7b2bb1e90e",
+      "published_date": "2022-04-07",
+      "guest_name": "Wretch 32",
+      "duration_seconds": 4628.0
+    },
+    {
+      "episode_id": "doac-2022-04-04-ae3fed1340dd",
+      "rss_guid": "6dcf8f7a-b2fa-4632-a4bd-ad8030aa9246",
+      "published_date": "2022-04-04",
+      "guest_name": "Jonny Wilkinson",
+      "duration_seconds": 5592.0
+    },
+    {
+      "episode_id": "doac-2022-03-31-663331283cfd",
+      "rss_guid": "cace4559-629e-4718-b711-b621daf9772f",
+      "published_date": "2022-03-31",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5923.0
+    },
+    {
+      "episode_id": "doac-2022-03-28-e6fadf9e3adb",
+      "rss_guid": "b97ecafe-3d84-45d3-8fec-1aef2c098f3a",
+      "published_date": "2022-03-28",
+      "guest_name": "Dr Rangan Chatterjee",
+      "duration_seconds": 7008.0
+    },
+    {
+      "episode_id": "doac-2022-03-24-abff5de8b8af",
+      "rss_guid": "95c2c9aa-b60a-4ad8-8ef7-ab74ab819b0b",
+      "published_date": "2022-03-24",
+      "guest_name": "Diplo",
+      "duration_seconds": 3737.0
+    },
+    {
+      "episode_id": "doac-2022-03-21-95a55f7749f8",
+      "rss_guid": "d0408fd4-95d1-451f-a1f3-dcafcb369c55",
+      "published_date": "2022-03-21",
+      "guest_name": "Jaackmaate",
+      "duration_seconds": 5436.0
+    },
+    {
+      "episode_id": "doac-2022-03-17-b49dd94efb78",
+      "rss_guid": "f4e82fb7-476d-4e3e-9dd6-e30adf7493a8",
+      "published_date": "2022-03-17",
+      "guest_name": "Israel Adesanya",
+      "duration_seconds": 5164.0
+    },
+    {
+      "episode_id": "doac-2022-03-14-4ae63815ef4b",
+      "rss_guid": "tag:audioboom.com,2022-03-13:/posts/8046502",
+      "published_date": "2022-03-14",
+      "guest_name": "How To Finally Stop Procrastinating",
+      "duration_seconds": 4688.0
+    },
+    {
+      "episode_id": "doac-2022-03-10-0ab467e0a3f8",
+      "rss_guid": "tag:audioboom.com,2022-03-09:/posts/8044381",
+      "published_date": "2022-03-10",
+      "guest_name": "Phones 4u Founder",
+      "duration_seconds": 4812.0
+    },
+    {
+      "episode_id": "doac-2022-03-07-f51c33e9c0e7",
+      "rss_guid": "tag:audioboom.com,2022-03-06:/posts/8042597",
+      "published_date": "2022-03-07",
+      "guest_name": "Roman Kemp",
+      "duration_seconds": 4996.0
+    },
+    {
+      "episode_id": "doac-2022-03-03-593b5d98bbc8",
+      "rss_guid": "tag:audioboom.com,2022-03-02:/posts/8040805",
+      "published_date": "2022-03-03",
+      "guest_name": "World Leading Psychologist",
+      "duration_seconds": 5710.0
+    },
+    {
+      "episode_id": "doac-2022-02-28-8eab10c7527a",
+      "rss_guid": "tag:audioboom.com,2022-02-27:/posts/8038810",
+      "published_date": "2022-02-28",
+      "guest_name": "Matt Hancock",
+      "duration_seconds": 5999.0
+    },
+    {
+      "episode_id": "doac-2022-02-21-0828da6926db",
+      "rss_guid": "tag:audioboom.com,2022-02-20:/posts/8034662",
+      "published_date": "2022-02-21",
+      "guest_name": "James Smith",
+      "duration_seconds": 5405.0
+    },
+    {
+      "episode_id": "doac-2022-02-14-07a72b2446de",
+      "rss_guid": "tag:audioboom.com,2022-02-13:/posts/8030477",
+      "published_date": "2022-02-14",
+      "guest_name": "Jay Shetty",
+      "duration_seconds": 6422.0
+    },
+    {
+      "episode_id": "doac-2022-02-07-fe2d9800eccd",
+      "rss_guid": "tag:audioboom.com,2022-02-05:/posts/8026372",
+      "published_date": "2022-02-07",
+      "guest_name": "Rochelle Humes",
+      "duration_seconds": 5688.0
+    },
+    {
+      "episode_id": "doac-2022-01-31-61ea7663e1d6",
+      "rss_guid": "tag:audioboom.com,2022-01-30:/posts/8021664",
+      "published_date": "2022-01-31",
+      "guest_name": "Calm App Founder",
+      "duration_seconds": 5565.0
+    },
+    {
+      "episode_id": "doac-2022-01-24-893655804b29",
+      "rss_guid": "tag:audioboom.com,2022-01-21:/posts/8016854",
+      "published_date": "2022-01-24",
+      "guest_name": "Fearne Cotton",
+      "duration_seconds": 5612.0
+    },
+    {
+      "episode_id": "doac-2022-01-17-7d4ed9774e4c",
+      "rss_guid": "tag:audioboom.com,2022-01-14:/posts/8012991",
+      "published_date": "2022-01-17",
+      "guest_name": "The “Winning Expert”",
+      "duration_seconds": 5609.0
+    },
+    {
+      "episode_id": "doac-2022-01-10-d5d2ea33b66f",
+      "rss_guid": "tag:audioboom.com,2022-01-09:/posts/8009859",
+      "published_date": "2022-01-10",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5827.0
+    },
+    {
+      "episode_id": "doac-2022-01-03-c75a9dbd4baa",
+      "rss_guid": "tag:audioboom.com,2022-01-02:/posts/8006244",
+      "published_date": "2022-01-03",
+      "guest_name": "Jordan Peterson",
+      "duration_seconds": 3851.0
+    },
+    {
+      "episode_id": "doac-2021-12-27-b899e4f8df07",
+      "rss_guid": "tag:audioboom.com,2021-12-25:/posts/8003448",
+      "published_date": "2021-12-27",
+      "guest_name": "Gymshark CEO",
+      "duration_seconds": 5724.0
+    },
+    {
+      "episode_id": "doac-2021-12-20-6d728480778a",
+      "rss_guid": "tag:audioboom.com,2021-12-20:/posts/8000449",
+      "published_date": "2021-12-20",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5575.0
+    },
+    {
+      "episode_id": "doac-2021-12-13-b7ed6a1dc362",
+      "rss_guid": "tag:audioboom.com,2021-12-12:/posts/7995630",
+      "published_date": "2021-12-13",
+      "guest_name": "Molly Mae",
+      "duration_seconds": 5970.0
+    },
+    {
+      "episode_id": "doac-2021-12-06-b20415e8bc81",
+      "rss_guid": "tag:audioboom.com,2021-12-05:/posts/7991383",
+      "published_date": "2021-12-06",
+      "guest_name": "Russell Howard",
+      "duration_seconds": 6140.0
+    },
+    {
+      "episode_id": "doac-2021-11-29-2df9779db1d4",
+      "rss_guid": "tag:audioboom.com,2021-11-28:/posts/7987420",
+      "published_date": "2021-11-29",
+      "guest_name": "Mel Robbins",
+      "duration_seconds": 6990.0
+    },
+    {
+      "episode_id": "doac-2021-11-22-e615ed0d56db",
+      "rss_guid": "tag:audioboom.com,2021-11-21:/posts/7983795",
+      "published_date": "2021-11-22",
+      "guest_name": "Starling Bank",
+      "duration_seconds": 5412.0
+    },
+    {
+      "episode_id": "doac-2021-11-15-85a917e53d91",
+      "rss_guid": "tag:audioboom.com,2021-11-15:/posts/7979897",
+      "published_date": "2021-11-15",
+      "guest_name": "Jimmy Carr",
+      "duration_seconds": 5913.0
+    },
+    {
+      "episode_id": "doac-2021-11-08-3770f1d61e4b",
+      "rss_guid": "tag:audioboom.com,2021-11-07:/posts/7975331",
+      "published_date": "2021-11-08",
+      "guest_name": "Patrice Evra",
+      "duration_seconds": 5635.0
+    },
+    {
+      "episode_id": "doac-2021-10-11-3addb89ec254",
+      "rss_guid": "tag:audioboom.com,2021-10-08:/posts/7957153",
+      "published_date": "2021-10-11",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6991.0
+    },
+    {
+      "episode_id": "doac-2021-10-04-c94227babd2c",
+      "rss_guid": "tag:audioboom.com,2021-10-03:/posts/7953701",
+      "published_date": "2021-10-04",
+      "guest_name": "Ann Summers CEO",
+      "duration_seconds": 5462.0
+    },
+    {
+      "episode_id": "doac-2021-09-27-a066bd0dc13d",
+      "rss_guid": "tag:audioboom.com,2021-09-26:/posts/7948890",
+      "published_date": "2021-09-27",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4818.0
+    },
+    {
+      "episode_id": "doac-2021-09-20-bc78288a3868",
+      "rss_guid": "tag:audioboom.com,2021-09-19:/posts/7944927",
+      "published_date": "2021-09-20",
+      "guest_name": "Klarna Founder",
+      "duration_seconds": 4520.0
+    },
+    {
+      "episode_id": "doac-2021-09-13-fd1b4163ebd2",
+      "rss_guid": "tag:audioboom.com,2021-09-12:/posts/7940813",
+      "published_date": "2021-09-13",
+      "guest_name": "Moonpig Founder",
+      "duration_seconds": 3981.0
+    },
+    {
+      "episode_id": "doac-2021-09-06-a4c0f8daeb03",
+      "rss_guid": "tag:audioboom.com,2021-09-05:/posts/7936097",
+      "published_date": "2021-09-06",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4435.0
+    },
+    {
+      "episode_id": "doac-2021-08-30-69c48aec9388",
+      "rss_guid": "tag:audioboom.com,2021-08-27:/posts/7931748",
+      "published_date": "2021-08-30",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5584.0
+    },
+    {
+      "episode_id": "doac-2021-08-16-821cb624dd74",
+      "rss_guid": "tag:audioboom.com,2021-08-16:/posts/7924585",
+      "published_date": "2021-08-16",
+      "guest_name": "Productivity Expert",
+      "duration_seconds": 5587.0
+    },
+    {
+      "episode_id": "doac-2021-08-09-d0fa1070c7ad",
+      "rss_guid": "tag:audioboom.com,2021-08-08:/posts/7920442",
+      "published_date": "2021-08-09",
+      "guest_name": "NotOnTheHighStreet.com Founder",
+      "duration_seconds": 5036.0
+    },
+    {
+      "episode_id": "doac-2021-08-02-0d261862cd01",
+      "rss_guid": "tag:audioboom.com,2021-08-01:/posts/7916008",
+      "published_date": "2021-08-02",
+      "guest_name": "Patricia Bright",
+      "duration_seconds": 4239.0
+    },
+    {
+      "episode_id": "doac-2021-07-26-8ae9a1057b4d",
+      "rss_guid": "tag:audioboom.com,2021-07-25:/posts/7911198",
+      "published_date": "2021-07-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6136.0
+    },
+    {
+      "episode_id": "doac-2021-07-19-e0c243241985",
+      "rss_guid": "tag:audioboom.com,2021-07-19:/posts/7907514",
+      "published_date": "2021-07-19",
+      "guest_name": "Dr Alex George",
+      "duration_seconds": 7482.0
+    },
+    {
+      "episode_id": "doac-2021-07-12-9f5fc3921883",
+      "rss_guid": "tag:audioboom.com,2021-07-11:/posts/7902587",
+      "published_date": "2021-07-12",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5016.0
+    },
+    {
+      "episode_id": "doac-2021-07-05-d8d0ea27d50b",
+      "rss_guid": "tag:audioboom.com,2021-07-04:/posts/7898459",
+      "published_date": "2021-07-05",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5996.0
+    },
+    {
+      "episode_id": "doac-2021-06-28-27d3751af26b",
+      "rss_guid": "tag:audioboom.com,2021-06-26:/posts/7894247",
+      "published_date": "2021-06-28",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6384.0
+    },
+    {
+      "episode_id": "doac-2021-06-21-e38d8a6834c5",
+      "rss_guid": "tag:audioboom.com,2021-06-18:/posts/7889441",
+      "published_date": "2021-06-21",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4957.0
+    },
+    {
+      "episode_id": "doac-2021-06-14-fb58311cee30",
+      "rss_guid": "tag:audioboom.com,2021-06-11:/posts/7885325",
+      "published_date": "2021-06-14",
+      "guest_name": "World Leading Mindset Expert",
+      "duration_seconds": 6029.0
+    },
+    {
+      "episode_id": "doac-2021-06-07-73fc958e229c",
+      "rss_guid": "tag:audioboom.com,2021-06-06:/posts/7881469",
+      "published_date": "2021-06-07",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5764.0
+    },
+    {
+      "episode_id": "doac-2021-05-31-9f6754129c2c",
+      "rss_guid": "tag:audioboom.com,2021-05-28:/posts/7876435",
+      "published_date": "2021-05-31",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6755.0
+    },
+    {
+      "episode_id": "doac-2021-05-24-12e656765159",
+      "rss_guid": "tag:audioboom.com,2021-05-21:/posts/7871458",
+      "published_date": "2021-05-24",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5996.0
+    },
+    {
+      "episode_id": "doac-2021-05-10-7e250d90e5ed",
+      "rss_guid": "tag:audioboom.com,2021-05-09:/posts/7861682",
+      "published_date": "2021-05-10",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5585.0
+    },
+    {
+      "episode_id": "doac-2021-05-03-adfe377e946c",
+      "rss_guid": "tag:audioboom.com,2021-04-30:/posts/7856199",
+      "published_date": "2021-05-03",
+      "guest_name": "Russell Kane",
+      "duration_seconds": 6213.0
+    },
+    {
+      "episode_id": "doac-2021-04-26-1b8885f8f675",
+      "rss_guid": "tag:audioboom.com,2021-04-23:/posts/7851363",
+      "published_date": "2021-04-26",
+      "guest_name": "Jim Chapman",
+      "duration_seconds": 5326.0
+    },
+    {
+      "episode_id": "doac-2021-04-19-0fc5e71b4e75",
+      "rss_guid": "tag:audioboom.com,2021-04-17:/posts/7846599",
+      "published_date": "2021-04-19",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5347.0
+    },
+    {
+      "episode_id": "doac-2021-04-12-715eb2e7dc81",
+      "rss_guid": "tag:audioboom.com,2021-04-11:/posts/7841859",
+      "published_date": "2021-04-12",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5303.0
+    },
+    {
+      "episode_id": "doac-2021-03-29-313aaadfff44",
+      "rss_guid": "tag:audioboom.com,2021-03-28:/posts/7832373",
+      "published_date": "2021-03-29",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5782.0
+    },
+    {
+      "episode_id": "doac-2021-03-22-87d2350922f8",
+      "rss_guid": "tag:audioboom.com,2021-03-21:/posts/7827126",
+      "published_date": "2021-03-22",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5686.0
+    },
+    {
+      "episode_id": "doac-2021-03-15-2cd057bddee4",
+      "rss_guid": "tag:audioboom.com,2021-03-14:/posts/7822127",
+      "published_date": "2021-03-15",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6313.0
+    },
+    {
+      "episode_id": "doac-2021-02-22-db645d95c1fb",
+      "rss_guid": "tag:audioboom.com,2021-02-21:/posts/7805525",
+      "published_date": "2021-02-22",
+      "guest_name": "Grace Beverley",
+      "duration_seconds": 6950.0
+    },
+    {
+      "episode_id": "doac-2021-02-15-9e3c23765067",
+      "rss_guid": "tag:audioboom.com,2021-02-14:/posts/7799697",
+      "published_date": "2021-02-15",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7171.0
+    },
+    {
+      "episode_id": "doac-2021-02-08-59fcb9d7e7e4",
+      "rss_guid": "tag:audioboom.com,2021-02-07:/posts/7793642",
+      "published_date": "2021-02-08",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4875.0
+    },
+    {
+      "episode_id": "doac-2021-01-25-906494c149b6",
+      "rss_guid": "tag:audioboom.com,2021-01-25:/posts/7780976",
+      "published_date": "2021-01-25",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4334.0
+    },
+    {
+      "episode_id": "doac-2021-01-19-a276a4c47dd6",
+      "rss_guid": "tag:audioboom.com,2021-01-19:/posts/7775909",
+      "published_date": "2021-01-19",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4945.0
+    },
+    {
+      "episode_id": "doac-2021-01-12-9c33e8dcd531",
+      "rss_guid": "tag:audioboom.com,2021-01-11:/posts/7769377",
+      "published_date": "2021-01-12",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 3662.0
+    },
+    {
+      "episode_id": "doac-2020-12-21-8f2e6b504286",
+      "rss_guid": "tag:audioboom.com,2020-12-20:/posts/7755167",
+      "published_date": "2020-12-21",
+      "guest_name": "World Leading Psychologist",
+      "duration_seconds": 3830.0
+    },
+    {
+      "episode_id": "doac-2020-12-14-c9931e0dc5f9",
+      "rss_guid": "tag:audioboom.com,2020-12-13:/posts/7750126",
+      "published_date": "2020-12-14",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 4773.0
+    },
+    {
+      "episode_id": "doac-2020-12-07-1b348dd5ef82",
+      "rss_guid": "tag:audioboom.com,2020-12-06:/posts/7744769",
+      "published_date": "2020-12-07",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5442.0
+    },
+    {
+      "episode_id": "doac-2020-11-30-b07b46f9e1b6",
+      "rss_guid": "tag:audioboom.com,2020-11-29:/posts/7740027",
+      "published_date": "2020-11-30",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 3975.0
+    },
+    {
+      "episode_id": "doac-2020-11-23-bffbc983cd8c",
+      "rss_guid": "tag:audioboom.com,2020-11-22:/posts/7735623",
+      "published_date": "2020-11-23",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 6598.0
+    },
+    {
+      "episode_id": "doac-2020-11-09-308e52af7071",
+      "rss_guid": "tag:audioboom.com,2020-11-08:/posts/7725212",
+      "published_date": "2020-11-09",
+      "guest_name": "E56",
+      "duration_seconds": 5817.0
+    },
+    {
+      "episode_id": "doac-2020-10-26-67997481d5b6",
+      "rss_guid": "tag:audioboom.com,2020-10-25:/posts/7714046",
+      "published_date": "2020-10-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 7565.0
+    },
+    {
+      "episode_id": "doac-2020-02-20-6ef25231bc4f",
+      "rss_guid": "Buzzsprout-2787670",
+      "published_date": "2020-02-20",
+      "guest_name": "E48",
+      "duration_seconds": 4961.0
+    },
+    {
+      "episode_id": "doac-2020-02-03-59be8fbe6d89",
+      "rss_guid": "Buzzsprout-2624866",
+      "published_date": "2020-02-03",
+      "guest_name": "E46",
+      "duration_seconds": 3850.0
+    },
+    {
+      "episode_id": "doac-2019-11-28-862812976d95",
+      "rss_guid": "Buzzsprout-2179667",
+      "published_date": "2019-11-28",
+      "guest_name": "E43",
+      "duration_seconds": 4902.0
+    },
+    {
+      "episode_id": "doac-2019-11-14-d2b36a8c405e",
+      "rss_guid": "Buzzsprout-2061750",
+      "published_date": "2019-11-14",
+      "guest_name": "E41",
+      "duration_seconds": 3731.0
+    },
+    {
+      "episode_id": "doac-2019-10-09-5cce775db395",
+      "rss_guid": "Buzzsprout-1841728",
+      "published_date": "2019-10-09",
+      "guest_name": "E39",
+      "duration_seconds": 3624.0
+    },
+    {
+      "episode_id": "doac-2019-09-05-495e33e0be76",
+      "rss_guid": "Buzzsprout-1653916",
+      "published_date": "2019-09-05",
+      "guest_name": "E37",
+      "duration_seconds": 4342.0
+    },
+    {
+      "episode_id": "doac-2019-06-26-ae4679ae3015",
+      "rss_guid": "Buzzsprout-1329964",
+      "published_date": "2019-06-26",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5646.0
+    },
+    {
+      "episode_id": "doac-2019-04-09-ad4418985f33",
+      "rss_guid": "Buzzsprout-1032443",
+      "published_date": "2019-04-09",
+      "guest_name": "E30",
+      "duration_seconds": 4802.0
+    },
+    {
+      "episode_id": "doac-2019-02-26-4be2a9fef872",
+      "rss_guid": "Buzzsprout-971745",
+      "published_date": "2019-02-26",
+      "guest_name": "E26",
+      "duration_seconds": 3967.0
+    },
+    {
+      "episode_id": "doac-2019-01-22-c52df297d216",
+      "rss_guid": "Buzzsprout-929212",
+      "published_date": "2019-01-22",
+      "guest_name": "E22",
+      "duration_seconds": 4198.0
+    },
+    {
+      "episode_id": "doac-2018-06-11-1f847eddf997",
+      "rss_guid": "Buzzsprout-721923",
+      "published_date": "2018-06-11",
+      "guest_name": "E19",
+      "duration_seconds": 4360.0
+    },
+    {
+      "episode_id": "doac-2018-06-04-d2014f335aae",
+      "rss_guid": "Buzzsprout-715340",
+      "published_date": "2018-06-04",
+      "guest_name": "E18",
+      "duration_seconds": 3707.0
+    },
+    {
+      "episode_id": "doac-2018-02-12-0dd9cfe5eff2",
+      "rss_guid": "tag:soundcloud,2010:tracks/398262282",
+      "published_date": "2018-02-12",
+      "guest_name": "E10",
+      "duration_seconds": 4530.0
+    },
+    {
+      "episode_id": "doac-2017-11-19-2deb67d799a7",
+      "rss_guid": "tag:soundcloud,2010:tracks/358083020",
+      "published_date": "2017-11-19",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5576.0
+    }
+  ]
+}

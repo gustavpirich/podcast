@@ -231,6 +231,38 @@ protocol.
   30 JRE episodes 2019-2025 (seed 20261004, excluding the first 10) was
   transcribed and labelled (81.1 audio hours, 30/30 succeeded) before this
   change, with sentence-level assignment and the 2-4 range.
+- Two further extensions of the same random 2019-2025 JRE design were drawn
+  and completed without an entry here at the time: 50 episodes (seed
+  20261005, selected 2026-10-04, 145.2 audio hours) and 10 episodes (seed
+  20261006, selected 2026-10-05, 28.0 audio hours), each excluding all earlier
+  samples. All 100 sampled episodes are transcribed locally and GPT-labelled
+  (verified 2026-10-12 with the plan-only runs of `02_transcribe_local_batch.py`
+  and `03_label_speakers_gpt.py`).
+- On 2026-10-12 the researcher asked for more JRE episodes through the same
+  local pipeline and chose 50 more, with GPT speaker naming. Sample
+  `config/samples/jre_random_2019_2025_n50_seed20261012_extension.json`: same
+  rule (2019-2025, at least 20 minutes, stratified by year, proportional
+  allocation), seed 20261012, excluding all four earlier samples; 1,231
+  eligible episodes remained, 50 drawn (140.4 audio hours). This brings the
+  random 2019-2025 JRE sample to 150 episodes.
+- On 2026-10-14 the researcher asked for about ten more The Diary of a CEO
+  episodes through the same local pipeline, and chose 10 episodes drawn at
+  random from 2021-2025 (DOAC became weekly long-form only in 2021; earlier
+  years have 1-9 eligible episodes). New `code/01_build_doac_rss_archive.py`
+  applies a full-length interview rule to the frozen feed snapshot
+  `data/raw/rss/doac/doac_rss_20261003T092332Z.xml` (checksum matches the
+  2026-10-03 feed manifest): RSS episode type `full`, declared duration at
+  least 60 minutes, and no clip title (Moment, Most Replayed Moment,
+  Highlight, CEO Diaries, trailer and similar). This extends the 2026-09-10
+  rule ("full-length", "Most Replayed Moment" excluded) to the whole feed.
+  547 episodes are eligible (975 hours); the ten 2026-09-10 episodes are
+  reused by GUID and 537 metadata-only raw records were created
+  (`config/doac_full_rss_archive_20261003T092332Z.json`). A few eligible
+  items are multi-guest compilations or debates rather than one-guest
+  interviews; they are kept. Sample
+  `config/samples/doac_random_2021_2025_n10_seed20261014.json`: 10 of 447
+  eligible 2021-2025 episodes, stratified by year, seed 20261014, 16.3 audio
+  hours. Transcription (Parakeet + pyannote) and GPT speaker naming as for JRE.
 
 - On 2026-10-03 the researcher asked for a guest database: for every episode
   of the popular long-form comedy / health / self-improvement shows, who is

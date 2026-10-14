@@ -1,0 +1,85 @@
+{
+  "schema_version": "0.2",
+  "sample_id": "doac_random_2021_2025_n10_seed20261014",
+  "show_id": "doac",
+  "selected_at": "2026-10-14",
+  "selection_rule": "Random sample of 10 episodes published 2021-01-01 to 2025-12-31 with a declared duration of at least 60 minutes, stratified by publication year (proportional allocation, largest remainder), seed 20261014.",
+  "source": {
+    "path": "config/doac_full_rss_archive_20261003T092332Z.json",
+    "sha256": "e67626cc79435a8459b01cf422f5ebd24b89b8a437f374c4f19ed6ecae9f24b3",
+    "eligible_episodes": 447
+  },
+  "storage_strategy": "metadata_only_rss_direct_transcription",
+  "episodes": [
+    {
+      "episode_id": "doac-2021-11-08-3770f1d61e4b",
+      "rss_guid": "tag:audioboom.com,2021-11-07:/posts/7975331",
+      "published_date": "2021-11-08",
+      "guest_name": "Patrice Evra",
+      "duration_seconds": 5635.0
+    },
+    {
+      "episode_id": "doac-2022-04-18-b5ba1c7b89dc",
+      "rss_guid": "5b27d0ae-11ff-482c-9fc0-2494c47d874d",
+      "published_date": "2022-04-18",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5637.0
+    },
+    {
+      "episode_id": "doac-2022-12-05-83c037f03f15",
+      "rss_guid": "1bddfe16-9be1-4bdb-ac96-bb713b7cd08f",
+      "published_date": "2022-12-05",
+      "guest_name": "Stephen Fry",
+      "duration_seconds": 5562.0
+    },
+    {
+      "episode_id": "doac-2023-03-13-718ae85acb98",
+      "rss_guid": "25949d60-a636-4c4d-baaa-6d078053a65b",
+      "published_date": "2023-03-13",
+      "guest_name": "Cole Sprouse",
+      "duration_seconds": 4987.0
+    },
+    {
+      "episode_id": "doac-2023-12-14-e6bfd11ac9c3",
+      "rss_guid": "c86638b0-4bfc-11ee-95d4-5b868997a6cf",
+      "published_date": "2023-12-14",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5699.0
+    },
+    {
+      "episode_id": "doac-2024-08-05-d6b061246c37",
+      "rss_guid": "d22d4294-4bfc-11ee-95d4-d3466adfcd8b",
+      "published_date": "2024-08-05",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5613.0
+    },
+    {
+      "episode_id": "doac-2024-09-23-841a6604595f",
+      "rss_guid": "d31b2bee-4bfc-11ee-95d4-1b47520bd78f",
+      "published_date": "2024-09-23",
+      "guest_name": "The Anti-Woke Expert",
+      "duration_seconds": 6916.0
+    },
+    {
+      "episode_id": "doac-2024-12-23-1f3c7061ecb1",
+      "rss_guid": "d7290148-4bfc-11ee-95d4-a375d206fb4d",
+      "published_date": "2024-12-23",
+      "guest_name": "The Body Trauma Expert",
+      "duration_seconds": 7439.0
+    },
+    {
+      "episode_id": "doac-2025-05-29-0a58ff44154d",
+      "rss_guid": "eaa1b62e-3bed-11f0-80a1-43c6f265fdac",
+      "published_date": "2025-05-29",
+      "guest_name": "Guest not encoded in RSS title",
+      "duration_seconds": 5463.0
+    },
+    {
+      "episode_id": "doac-2025-08-18-6c3a7f21af8d",
+      "rss_guid": "370f1b78-73a2-11f0-bc4f-274c6ccaf026",
+      "published_date": "2025-08-18",
+      "guest_name": "ChatGPT Brain Rot Debate",
+      "duration_seconds": 5562.0
+    }
+  ]
+}

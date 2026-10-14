@@ -3,6 +3,21 @@
 The step-by-step map of the pipeline (which script, which folder, what has run)
 is [`notes/PIPELINE.md`](../notes/PIPELINE.md).
 
+## Diary of a CEO archive and local transcription
+
+`01_build_doac_rss_archive.py` reads a frozen DOAC RSS snapshot, keeps
+full-length interviews (type `full`, at least 60 minutes, no clip titles) and
+writes metadata-only raw records plus `config/doac_full_rss_archive_<snapshot>.json`.
+A sample from that manifest then runs through the same free local pipeline as JRE:
+
+```bash
+python code/01_build_doac_rss_archive.py --snapshot data/raw/rss/doac/doac_rss_20261003T092332Z.xml --yes
+python code/01_draw_random_sample.py --source config/doac_full_rss_archive_20261003T092332Z.json \
+  --start 2021-01-01 --end 2025-12-31 --n 10 --seed 20261014 --min-minutes 60
+python code/02_transcribe_local_batch.py --sample config/samples/doac_random_2021_2025_n10_seed20261014.json --yes
+python code/03_label_speakers_gpt.py --sample config/samples/doac_random_2021_2025_n10_seed20261014.json --yes
+```
+
 ## Guest dataset (popular frame, RSS only)
 
 `18_build_guest_dataset.py` lists the guests of every episode in the latest
